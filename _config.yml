@@ -1,19 +1,13 @@
 title: "The Curious Outsider"
 description: "An early stage knowledge base project."
-
-footer_content: "© 2025 Salman Khan. All rights reserved. No use, copying, modification, or distribution permitted."
-
 url: "https://thumbliner.com"
 baseurl: "thumbliner"   # keep empty since you'll serve from the root
 
-# Use the remote theme so you don't manage theme files
 remote_theme: just-the-docs/just-the-docs
 plugins:
   - jekyll-remote-theme
-  - jekyll-seo-tag
+  
+search_enabled: true
+color_scheme: "dark"   # auto = follows user’s light/dark preference
 
-# Just the Docs settings
-just_the_docs:
-  search_enabled: true
-  color_scheme: "auto"   # auto = follows user’s light/dark preference
-  nav_external_links: []
+footer_content: "© 2025 Salman Khan. All rights reserved. No use, copying, modification, or distribution permitted."

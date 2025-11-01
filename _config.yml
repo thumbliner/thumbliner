@@ -1,10 +1,9 @@
-title: "Thumbliner"
-description: "The Website"
+title: "The Curious Outsider"
+description: "An early stage knowledge base project."
 
 # You prefer the apex (no www)
 url: "https://thumbliner.com"
 baseurl: "thumbliner"   # keep empty since you'll serve from the root
-footer_content: "© 2025 Thumbliner · The Curious Outsider"  # empty hides the footer line
 
 
 # Use the remote theme so you don't manage theme files

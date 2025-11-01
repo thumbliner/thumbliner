@@ -1,0 +1,18 @@
+title: "Thumbliner"
+description: "The Website"
+
+# You prefer the apex (no www)
+url: "https://thumbliner.com"
+baseurl: ""   # keep empty since you'll serve from the root
+
+# Use the remote theme so you don't manage theme files
+remote_theme: just-the-docs/just-the-docs
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+
+# Just the Docs settings
+just_the_docs:
+  search_enabled: true
+  color_scheme: "auto"   # auto = follows user’s light/dark preference
+  nav_external_links: []

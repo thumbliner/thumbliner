@@ -17,3 +17,9 @@ Jekyll is a static site generator that converts Markdown and layouts into fast, 
 
 Just-the-Docs
 Just-the-Docs is a Jekyll documentation theme featuring sidebar navigation, built-in client-side search, and responsive, reading-first design. A modern, high customizable, responsive Jekyll theme for documentation with built-in search.
+
+Obsidian (.md note-taking platform)
+Obsidian is a local-first knowledge base that stores everything as plain Markdown (.md) files inside a folder called a vault. Notes link to each other with [[wikilinks]], show backlinks automatically, and render a graph view of connections. Core features include fast search, tags, embedded files, and robust version control compatibility (e.g., Git). Power users add community plugins for spaced repetition, citation management, kanban, and more—while keeping data portable because it’s all plain text.
+
+Website as an extension of the .md network
+The site functions as a public layer on top of the private Markdown vault: selected .md notes are organized, cleaned up, and published as web pages, preserving internal links, hierarchy, and ongoing research threads. This approach keeps a single source of truth in Markdown for personal note-taking and analysis, while the website exposes curated slices—reference pages, research hubs, and evolving essays—so the public output stays in sync with the underlying network of notes.

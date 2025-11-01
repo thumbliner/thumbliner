@@ -1,5 +1,4 @@
-thumbliner.com
-The website is a knowledge base focused on the project The Curious Outsider; pages and posts are the smallest unit of analysis.
+The Curious Outsider is the public-end of a knowledge base focused on epistemology, economics, and entrepreneurship. It serves as the living documentation of the investment practice it supports.
 
 Obsidian centers on a vault—a folder on a device storing plain-text Markdown files, with simple symbols enabling headings, lists, links, and formatting; ideas connect via wiki-style links `[[...]]`, backlinks list referring notes, tags such as `#biology` group content across folders, and a graph view maps nodes and edges to reveal clusters; local storage provides ownership and portability, fast search returns instant full-text results across the vault, organization relies on lightweight structure—folders, links, and tags—augmented by Maps of Content (MOCs) curating links into topic overviews, daily notes and templates streamline capture with reusable headings and fields, a robust plugin ecosystem allows capability expansion, and the combined system functions as a thinking environment for capturing ideas, forming connections, and refining understanding over time.
 
@@ -15,16 +14,7 @@ GitHub Pages is a static site hosting service that publishes web pages directly 
 
 Themes in GitHub Pages are ready-made design packages—usually Jekyll themes—that control your site’s layout, colors, typography, and common components so you can launch polished docs, blogs, or portfolios quickly. You pick a theme in repository settings or reference one with the remote_theme setting, then customize details with _config.yml, Sass variables, and overrides for layouts or includes. GitHub offers an official set in the pages-themes org, and thousands more come from the open-source community, covering styles from minimal docs to bold portfolio designs. Themes pair smoothly with Markdown content, work with automatic builds over HTTPS, and keep presentation separate from content, making sites easy to maintain and evolve.
 
-Gem-based themes — Jekyll themes packaged as Ruby gems and listed in a site’s _config.yml via theme: <name>; they bundle layouts, includes, assets, and Sass so you can update the look by bumping a version without copying files into your repo.
-
-GitHub Pages “Pages Themes” — the official, GitHub-maintained set of lightweight Jekyll themes (e.g., Minimal, Cayman) designed to be easy, stable, and compatible with the GitHub Pages build environment.
-
-Documentation style themes — themes optimized for product or project docs: sidebar navigation, search, versioning cues, code blocks, callouts, and content-first typography (think “docs portal” look and IA).
-
-Wiki style themes — themes that mimic a wiki’s feel: hierarchical or interlinked pages, simple typography, table-of-contents navigation, and lightweight page templates suited to knowledge bases.
-
-Just-the-Docs
-Just-the-Docs is a Jekyll documentation theme featuring sidebar navigation, built-in client-side search, and responsive, reading-first design. A modern, high customizable, responsive Jekyll theme for documentation with built-in search.
+Just-the-Docs is a clean, responsive Jekyll theme designed specifically for building technical documentation websites. It features a structured sidebar navigation, built-in search, and simple configuration through Markdown and front matter. The theme supports versioned documentation, dark mode, and customization via SCSS variables, making it easy to create organized, user-friendly docs with minimal setup. Its emphasis on clarity, usability, and ease of maintenance makes it especially well-suited for software documentation and developer-focused content.
 
 Squarespace offers website design, hosting, domains, e-commerce, SEO, and marketing tools in one platform.
 

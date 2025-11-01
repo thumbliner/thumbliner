@@ -1,10 +1,10 @@
 title: "The Curious Outsider"
 description: "An early stage knowledge base project."
 
-# You prefer the apex (no www)
+footer_content: "© 2025 Salman Khan. All rights reserved. No use, copying, modification, or distribution permitted."
+
 url: "https://thumbliner.com"
 baseurl: "thumbliner"   # keep empty since you'll serve from the root
-
 
 # Use the remote theme so you don't manage theme files
 remote_theme: just-the-docs/just-the-docs

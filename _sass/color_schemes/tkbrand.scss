@@ -88,3 +88,51 @@ $callouts-level:             quiet;
   background: $tk-cream-2;
   color: $body-text-color;
 }
+
+
+
+/* Brand scheme: TKbrand
+   Use EB Garamond for content (body + headings) and Lato for UI chrome.
+*/
+
+/* Theme variables */
+$body-font-family: "EB Garamond", serif !default;
+$mono-font-family: monospace !default;
+
+/* You can also override colors, spacings, etc. here if desired. */
+
+/* UI font (no dedicated SCSS var in theme), so define + apply here */
+:root {
+  --tk-ui-font: "Lato", sans-serif;
+}
+
+/* Apply content fonts */
+body {
+  font-family: $body-font-family;
+  font-weight: 400;
+  line-height: 1.7;
+}
+h1, h2, h3, h4, h5, h6 {
+  font-family: $body-font-family;
+  font-weight: 600;
+  letter-spacing: 0.01em;
+  line-height: 1.25;
+}
+
+/* Apply UI chrome font (nav, sidebar, search, buttons, footer, etc.) */
+.site-title, .site-nav, .side-bar, .nav-list, .breadcrumbs,
+.search, .search-input, .btn, .button, .pagination, .label, .badge,
+.table-wrapper th, .toc, .toc-entry, .site-footer {
+  font-family: var(--tk-ui-font);
+}
+
+/* Comfortable base sizing */
+html { font-size: 18px; }
+
+/* Footer: subtler color and slightly smaller text */
+.site-footer {
+  color: rgba(0, 0, 0, 0.55);
+  font-size: 0.95rem;
+}
+.site-footer a { color: rgba(0, 0, 0, 0.65); }
+.site-footer a:hover { color: rgba(0, 0, 0, 0.8); }

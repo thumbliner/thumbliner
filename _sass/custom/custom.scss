@@ -13,7 +13,7 @@
 .site-nav .nav-list .nav-list-link:hover,
 .site-nav .nav-list .nav-list-link:focus {
   color: inherit;
-  text-decoration: underline; /* subtle affordance on hover/focus */
+  text-decoration: none;
 }
 .nav-list .nav-list-link.active,
 .site-nav .nav-list .nav-list-link.active {
@@ -24,15 +24,15 @@
 /* If your sidebar footer has links, keep them neutral too */
 .side-bar .nav-footer a {
   color: inherit;
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 
-/* Align the sidebar footer with the nav text and add spacing */
+/* Make the sidebar footer line up with nav items */
 .side-bar .nav-footer {
-  padding-left: 1rem;     /* match the nav’s left padding */
-  padding-right: 1rem;    /* keep text off the edge */
-  margin-bottom: 1.25rem; /* space from bottom of sidebar */
+  /* nav-list adds the same left padding as menu items; this keeps things in sync */
+  padding-right: 1rem;     /* mirror the right gutter */
+  margin-bottom: 1.25rem;  /* lift it off the bottom */
   line-height: 1.3;
   text-align: left;
 }

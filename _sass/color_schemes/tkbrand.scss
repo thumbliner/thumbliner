@@ -1,20 +1,20 @@
 /* ==========================================================================
-   Just the Docs Color Scheme: tkbrand (Light, Warm, No Gradients)
+   Just the Docs Color Scheme: tkbrand (Light, Warm)
    --------------------------------------------------------------------------
    PURPOSE
    - Apply Thumbliner tokens to Just-the-Docs theme variables.
-   - Keep UI readable for long-form docs; let accents guide interactions.
+   - Keep UI readable for long-form docs.
    - Sidebar remains cream to visually separate navigation from content.
 
    KEY INTENT
-   - Links: Burgundy (distinct; editorial). Hover → Deep Teal.
+   - Links: Burgundy (distinct; editorial).
    - Buttons: Teal (actions are not links).
-   - Headings: Mostly Navy; reserve Deep Teal for prominent titles.
+   - Headings: Mostly Navy, Deep Teal for prominent titles.
    - Surfaces: Paper (content), Cream (sidebar), Sand Tint (code/panels).
    - Borders: Quiet Gray 4; avoid heavy separators.
    ========================================================================== */
 
-@import "./color_schemes/light"; // base on light; no gradient styles
+@import "./color_schemes/light"; // base on light
 
 /* --- Surfaces (calm, readable) --- */
 $body-background-color:   $tk-gray-0;   // main “paper” background
@@ -35,13 +35,12 @@ $muted-text-color:        $tk-gray-6;   // captions, meta, breadcrumbs
 // Default: Burgundy links (editorial feel)
 $link-color:              $tk-link;
 $link-visited-color:      $tk-link;
-$link-hover-color:        $tk-deep-teal; // calm brand hover
+$link-hover-color:        $tk-navy; // calm brand hover
 $focus-color:             $tk-teal;      // accessible focus ring
 
 /* Optional: switch to Orange links by uncommenting below. Keep buttons teal.
 $link-color:              $tk-link-orange;
 $link-visited-color:      $tk-link-orange;
-$link-hover-color:        $tk-deep-teal;
 */
 
 /* --- Borders & rules (quiet) --- */

@@ -1,20 +1,16 @@
-/* --- Header logo/title: no hover behavior --- */
+/* Header logo/title: no hover color/underline */
 .site-header a.site-title,
-.site-header a.site-logo,
 .site-header a.site-title:visited,
-.site-header a.site-logo:visited {
-  color: inherit !important;
-  text-decoration: none !important;
-}
 .site-header a.site-title:hover,
-.site-header a.site-logo:hover,
 .site-header a.site-title:focus,
+.site-header a.site-logo,
+.site-header a.site-logo:visited,
+.site-header a.site-logo:hover,
 .site-header a.site-logo:focus {
-  color: inherit !important;
-  text-decoration: none !important;
-  transition: none !important;
+  color: inherit;
+  text-decoration: none;
+  transition: none;
 }
-
 
 /* Sidebar + top nav should NOT be burgundy */
 .nav-list .nav-list-link,
@@ -39,11 +35,25 @@
   font-weight: 600;           /* rely on weight (not color) for active */
 }
 
-
-/* --- Sidebar footer: align + spacing --- */
-.side-bar .nav-footer { 
+/* Sidebar footer: indent to match nav items */
+.side-bar .nav-footer {
+  padding-right: 1rem;
   margin-bottom: 1.25rem;
+  line-height: 1.3;
+  text-align: left;
 }
-.side-bar .nav-footer .nav-list-link {
+
+/* same left gutter as the nav list on small vs. large screens */
+@media (max-width: 65.999rem) {
+  .side-bar .nav-footer { padding-left: 1rem; }
+}
+@media (min-width: 66rem) {
+  .side-bar .nav-footer { padding-left: 1.25rem; }
+}
+
+/* Footer line in sidebar: non-interactive look */
+.side-bar .nav-footer a {
+  color: inherit;
   text-decoration: none;
   cursor: default;
+}

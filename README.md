@@ -1,5 +1,3 @@
-# WELCOME
-
 The Curious Outsider is a public window into a living knowledge base. It publishes lessons drawn from ongoing research and documents the investment practice it supports.
 
 Content begins as plain Markdown to ensure portability, durability, and simple version history. Notes are developed in Obsidian—a local vault under full control—using wiki-style links, backlinks, tags, and a graph view for structure and discovery. Lightweight organization (folders, tags, Maps of Content), daily notes, templates, and selective plugins keep capture fast and navigation clear.
@@ -8,12 +6,5 @@ Only selected notes are prepared for publication while preserving internal links
 
 Published files move to a GitHub repository for versioning and automation. Jekyll builds the site using the Just-the-Docs theme, providing sidebar navigation, built-in search, and readable typography that can adjust as the structure evolves. The site is delivered through Cloudflare for performance and security, with the domain hosted by Squarespace.
 
-## Status
-This repository is published for reference and archival purposes.
-
 ## License
 **All rights reserved.** No use, copying, modification, or distribution is permitted.  
-See the [LICENSE](./LICENSE) file for details.
-
-## Site
-If the site is published, it will be available at: thumbliner.com

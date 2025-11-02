@@ -7,11 +7,10 @@ remote_theme: just-the-docs/just-the-docs
 plugins:
   - jekyll-remote-theme
   
-search_enabled: false
+search_enabled: true
 color_scheme: "light"   # auto = follows user’s light/dark preference
 
 logo: "/assets/logo.png"
 favicon_ico: "/favicon.ico"
-
 
 footer_content: "© 2025 Salman Khan. All rights reserved. No use, copying, modification, or distribution permitted."

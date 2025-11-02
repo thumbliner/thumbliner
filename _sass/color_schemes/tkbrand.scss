@@ -1,43 +1,50 @@
 /* _sass/color_schemes/tkbrand.scss
-   A visible, opinionated scheme for quick differentiation.
-   Base on dark (remove first line to base on light).
+   Inspired by your palette:
+   - Deep teal: 024E4C
+   - Teal: 059C97
+   - Navy: 102C58
+   - Mint: C8E6E3
+   - Creams: FEF7F0, FBE7D1
+   - Grays: F9F9F9 (bg), 384141 (text), 9CA1A1 (muted), C1C4C4 (borders)
+   - Hyperlink accent: 4E0204 (burgundy)
 */
-@import "./color_schemes/dark";
-
-/* --- Brand accents --- */
-$link-color:        #43e6a8;   /* mint green links */
-$focus-color:       #43e6a8;   /* focus ring */
-$btn-primary-color: #43e6a8;   /* primary button background */
-$btn-primary-text-color: #0b0f14;
+@import "./color_schemes/light"; // base on light
 
 /* --- Surfaces --- */
-$body-background-color:   #0b0f14; /* page background (near-black) */
-$sidebar-color:           #0e1621; /* sidebar background (slate) */
-$code-background-color:   #0f1b28; /* fenced/inline code bg */
-$table-background-color:  #0f1b28;
+$body-background-color:   #F9F9F9; // overall page
+$sidebar-color:           #FEF7F0; // left nav background
+$code-background-color:   #FBE7D1; // fenced/inline code bg
+$table-background-color:  #FEF7F0; // table fill aligns with sidebar
 
-/* --- Text --- */
-$body-text-color:         #d9e2ec; /* main text */
-$body-heading-color:      #e6f1ff; /* headings a touch brighter */
-$muted-text-color:        #8fa2b6;
+/* --- Text colors --- */
+$body-text-color:         #384141; // Gray 9
+$body-heading-color:      #102C58; // Navy headings
+$muted-text-color:        #9CA1A1; // Gray 6
 
-/* --- Borders & rules --- */
-$border-color:            #1b2a3a;
+/* --- Links / focus --- */
+$link-color:              #4E0204; // Hyperlink (burgundy)
+$link-visited-color:      #4E0204;
+$link-hover-color:        #024E4C; // Deep teal on hover
+$focus-color:             #059C97; // Teal focus ring
+
+/* --- Borders / dividers --- */
+$border-color:            #C1C4C4; // Gray 4
+
+/* --- Buttons --- */
+$btn-primary-color:       #059C97; // Teal button bg
+$btn-primary-text-color:  #ffffff;
+$btn-primary-border-color:#059C97;
+
+$btn-outline-color:       #024E4C; // Deep teal outline
+$btn-outline-text-color:  #024E4C;
 
 /* --- Search --- */
-$search-background-color: #0f1b28;
-$search-result-preview-color: #9db3c7;
+$search-background-color: #F9F9F9;
+$search-result-preview-color: #72685E; // Contrast series accent
 
-/* --- Callouts (kept subtle against dark) --- */
-$feedback-color:          #ffe08a; /* used by some components */
-$callouts-level:          loud;    /* stronger saturation on dark */
+/* --- Callouts --- */
+$feedback-color:          #CEDC00; // Accent 5 for notices
+$callouts-level:          quiet;
 
-/* Optional: tweak selection highlight */
-::selection {
-  background: rgba(67, 230, 168, 0.25);
-}
-
-/* Optional: small visual love for buttons & labels */
-.btn.btn-blue    { background: #43e6a8; color: #0b0f14; border-color: #43e6a8; }
-.btn.btn-outline { border-color: #43e6a8; }
-.label.label-green { background: rgba(67,230,168,.15); color: #43e6a8; }
+/* Optional: small polish */
+::selection { background: rgba(5,156,151,0.2); }

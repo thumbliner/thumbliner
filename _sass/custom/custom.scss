@@ -61,29 +61,49 @@
   cursor: default;
 }
 
-/* Fonts */
-:root {
-  --jtd-body-font-family: "EB Garamond", serif;
-  --jtd-heading-font-family: "Lato", sans-serif;
-  --jtd-mono-font-family: monospace; /* generic only */
+/* Content uses EB Garamond; UI uses Lato (incl. Light 300) */
+:root{
+  --jtd-body-font-family: "EB Garamond", serif;          /* articles & headings */
+  --jtd-ui-font-family: "Lato", sans-serif;              /* nav, sidebar, buttons, footer */
+  --jtd-mono-font-family: monospace;
 }
 
-/* Apply families */
+/* Reading size/leading */
+html { font-size: 18px; }
 body {
   font-family: var(--jtd-body-font-family);
   font-weight: 400;
-  line-height: 1.6;
+  line-height: 1.7;
 }
 
-h1, h2, h3, h4, h5, h6,
-.site-title, .site-nav, .side-bar, .nav-list, .breadcrumbs {
-  font-family: var(--jtd-heading-font-family);
-  font-weight: 700;   /* uses Lato 700 */
+/* Headings (content) */
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--jtd-body-font-family);
+  font-weight: 600;          /* uses EB Garamond 600 */
   letter-spacing: 0.01em;
+  line-height: 1.25;
 }
 
-/* Optional: lighter small UI text */
-.small, .label, .caption { font-weight: 300; }
+/* UI chrome in Lato */
+.site-title, .site-nav, .side-bar, .nav-list, .breadcrumbs,
+.search, .search-input, .btn, .button, .pagination, .label, .badge,
+.table-wrapper th, .toc, .toc-entry {
+  font-family: var(--jtd-ui-font-family);
+  font-weight: 400;
+}
+
+/* Footer: subtle + Light */
+.site-footer {
+  font-family: var(--jtd-ui-font-family);
+  font-weight: 300;          /* Lato Light */
+  color: rgba(0,0,0,.55);
+  font-size: .95rem;
+}
+.site-footer a { color: rgba(0,0,0,.65); }
+.site-footer a:hover { color: rgba(0,0,0,.8); }
+
+/* Buttons a bit sturdier */
+.btn, .button { font-weight: 700; }
 
 /* Code */
 code, pre, kbd, samp { font-family: var(--jtd-mono-font-family); }

@@ -6,21 +6,34 @@ has_children: true
 layout: default
 ---
 
-## What is going on?
-You were probably sent a link to a specific page here. Most likely because you asked a question that didn’t fit in a quick answer. The usual one is, “So, what do you do?”
+## What is this site and who is the author?
+You likely landed on a specific page because you asked a question that doesn’t fit a quick answer—often, “So, what do you do?”
 
-In the moment, I might have reached for a generic, context-fitting label—student, analyst, researcher, allocator, economist. Those are labels. Each is approximately right in a limited sense. The proper answer required more. It requires you to see something as it is, and decide for yourself what the label should be. To see that something, you need to stand at a certain place (intellectually). I can guide you to the vantage point, and to do so, I have to say a lot of words in a certain order.
+In the moment I might reach for a convenient label—student, analyst, researcher, allocator, economist. Each is partly true but insufficient. A better answer is for you to see what I do from the right vantage point and choose the label yourself. My job is to guide you to that overlook.
 
-Given that those thoughts are easy to follow, you arrive at a place where you need to be, to see the answer for yourself and judge what you see. I don't want to tell you that there are elephants in the jungle, rather to take you to a place from where you can see the beast, their behavior, their habitat, and then judge all you like.
+From there, you can judge what you see. I won’t say “there are elephants in the jungle”; I’ll take you to where you can watch them—their behavior and habitat—and decide.
 
-Now of course, there are a lot of pages on this website, because I have documented the route to various vantage points, dealing with a variety of subject matter, for a variety of audience. Some might be interesting for you, others not so much. But they are all interconnected because they are all vantage points of the same jungle. The more one sees, the more context they get, which better informs the specific thing about which they had inquired.
+This site maps routes to different overlooks across varied topics and audiences. The pages connect because they survey the same terrain from different angles. The more you see, the better your original question is informed.
 
-If you were given a specific page, it’s because you had a live question. Instead of a canned reply, I’m handing you a route. Take it, get to the overlook, check what the world looks like from there, and compare that with what I’ve written. If our views differ, good—we can compare notes and adjust the map.
+If your inquiry was of a more general nature like "Should I buy bitcoin?", I much prefer not giving a yes or no answer, and rather start with something we hold to be self evidently true, and track its logical conlusions all the way to the final vantage point from where one can see the answer for themselves. As I take you there, I am secretly hoping that you see the same thing I did, so my own judgment is validated through social proof. But whether you see the same thing or not, let me know either way. If our views differ, great—let’s compare notes and update the map.
 
-I don’t claim authority. I write things down when, to me, they seem obvious from where I’m standing. Your job is to check whether reality looks that way when you stand in or near the same spot. The work is the looking, not the labeling.
+I don’t claim authority. I write when something seems obvious from where I’m standing. Your task is to check whether it looks that way. We are both looking at reality, and hopefully, we see the same thing.
 
-This is practice before proclamation. I learn by placing capital, watching what happens, comparing claims with outcomes, and updating. The writing is a record of those routes. It isn’t a manifesto and it isn’t a garden of finished thoughts. It’s a set of ways to look.
+I learn by allocating capital, watching outcomes, comparing claims with results, and updating. The writing records those routes. It’s not a manifesto; it’s a set of ways to look.
 
-Taken together, the pages are my longer answer to “What do you do?” I build and share ways of looking so that claims about markets can be tested against reality—by me, and by you.
+Together, the pages are my longer answer to “What do you do?” I build and share ways of looking so that we can jointly test claims about reality.
 
-If you need the general labels (I don’t prefer them): I’m an applied researcher in epistemology and economics, studying how entrepreneurs create and transmit knowledge in markets. I read, observe, ask whether the claims are consistent with reality, and then put two and two together to see where it leads. I call this interactive education through a capital-allocation practice.
+If you need a label (I don’t prefer them): I’m an applied researcher in epistemology and economics studying how entrepreneurs create and transmit knowledge in markets—reading, observing, testing claims against reality, and learning through a capital-allocation practice.
+
+--
+
+
+Let me start with reality and my place in it. I’m a curious outside observer. I watch, I listen, and I collect claims—some I inherit from others, some I assemble from things I hold to be true. From those pieces I build ways of looking at the world: vantage points that make complicated questions easier to see, not just answer.
+
+I’m going to assume you’re doing something similar, and that you’ve asked about something I’ve already spent time with. Rather than hand you a verdict, I’d like to walk us to a lookout where the thing you’re asking about comes into view. We’ll stand there together and look. If you see what I see, great; if you don’t, that’s even better—we can compare what each of us is noticing and update the map. This is a joint effort.
+
+I’m fallible, and I expect to be corrected. If my judgment is off, tell me where and how. Show me the premise I missed, the data I misread, the incentive I ignored. I’ll try to do the same for you. All I am passionate about is finding out what is true and real. There is no other agenda.
+
+I see that search as the shared project of all minds. Life is an ongoing, interactive class about how reality works. We don’t just think our way to knowledge; we act. Action is where the mind meets the world, and both are changed by the contact. So I treat life as a practice of building knowledge under risk. To plug myself into reality, I allocate capital based on views I believe are well-grounded. Sometimes it works, sometimes it doesn’t. In both cases I’m hypersensitive to feedback, because that’s the point: compare the claim to the consequence and learn.
+
+If you need a label for what this is: it’s applied research in epistemology with a focus on economics, entrepreneurship, sociology, and adjacent fields—treating markets as a knowledge system and engaging with them through a capital-allocation practice.

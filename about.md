@@ -11,3 +11,5 @@ Salman Khan is an applied researcher in epistemology and economics, studying how
 
 ## Site
 This site collects long-form thoughts on specific subjects. People often ask, “What does you do?” or seek advice that can’t be answered in a quick message. To make that easier for everyone, the author publishes extended essays here so readers can explore them at their convenience. When useful, pieces include context about the author and links to related topics. The entire body of work is one project in applied epistemology that shows up in the world as a capital-allocation practice.
+
+The author makes no claim of being right about anything. The only guarantee he offers is that, at the time of writing, the claims seem fundamentally self-evident to him. It is the reader’s responsibility to judge whether they are so.The author may—and often does—revise his views without updating this website.

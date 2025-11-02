@@ -1,18 +1,20 @@
-/* Header logo/title: no color change on hover */
+/* --- Header logo/title: no hover behavior --- */
 .site-header a.site-title,
-.site-header a.site-title:visited,
 .site-header a.site-logo,
+.site-header a.site-title:visited,
 .site-header a.site-logo:visited {
-  color: inherit;
+  color: inherit !important;
+  text-decoration: none !important;
+}
+.site-header a.site-title:hover,
+.site-header a.site-logo:hover,
+.site-header a.site-title:focus,
+.site-header a.site-logo:focus {
+  color: inherit !important;
+  text-decoration: none !important;
+  transition: none !important;
 }
 
-.site-header a.site-title:hover,
-.site-header a.site-title:focus,
-.site-header a.site-logo:hover,
-.site-header a.site-logo:focus {
-  color: inherit;
-  text-decoration: none;
-}
 
 /* Sidebar + top nav should NOT be burgundy */
 .nav-list .nav-list-link,
@@ -37,18 +39,11 @@
   font-weight: 600;           /* rely on weight (not color) for active */
 }
 
-/* If your sidebar footer has links, keep them neutral too */
-.side-bar .nav-footer a {
-  color: inherit;
-  text-decoration: none;
+
+/* --- Sidebar footer: align + spacing --- */
+.side-bar .nav-footer { 
+  margin-bottom: 1.25rem;
 }
-
-
-/* Sidebar footer: align exactly with nav links and keep it non-interactive */
 .side-bar .nav-footer .nav-list-link {
   text-decoration: none;
   cursor: default;
-}
-.side-bar .nav-footer { 
-  margin-bottom: 1.25rem;  /* lift it off the bottom */
-}

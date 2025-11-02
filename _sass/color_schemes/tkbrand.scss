@@ -95,9 +95,9 @@ $callouts-level:             quiet;
    Use EB Garamond for content (body + headings) and Lato for UI chrome.
 */
 
-/* Theme variables */
-$body-font-family: "EB Garamond", serif !default;
-$mono-font-family: monospace !default;
+/* Typography (override the theme’s default body font) */
+$body-font-family: "EB Garamond", serif;   // ← no !default
+$mono-font-family: monospace;              // ← no !default
 
 /* You can also override colors, spacings, etc. here if desired. */
 

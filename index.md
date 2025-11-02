@@ -3,4 +3,4 @@ title: Home
 nav_order: 1
 ---
 
-This is a window into a living knowledge base. Here are lessons drawn from ongoing research and a documentation of the practice it supports.
+Public-facing documentation and a living knowledge base curated from an ongoing research practice; use search to find topics and browse the sidebar to follow interlinked notes.

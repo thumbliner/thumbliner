@@ -1,15 +1,18 @@
-/* Comfortable spacing for the custom header */
-.header-custom {
-  padding: 0.75rem 0 1rem;     /* top / bottom padding */
-  margin-bottom: 1rem;         /* space below header block */
-  border-bottom: 1px solid var(--border-color);
-  line-height: 1.35;
+/* Breathing room and better readability in the sidebar footer */
+.side-bar .nav-footer {
+  border-top: 1px solid var(--border-color);
+  padding-top: 0.75rem;
+  margin-top: 1rem;
+  line-height: 1.4;
 }
 
-/* Slightly more room on wider screens */
-@media (min-width: 46.25rem) { /* md breakpoint ~740px */
-  .header-custom {
-    padding: 1rem 0 1.25rem;
-    margin-bottom: 1.25rem;
-  }
+/* Make links stack with a bit of space */
+.side-bar .nav-footer a {
+  display: inline-block;
+  margin: 0.125rem 0;
+}
+
+/* Tighten the meta line slightly */
+.side-bar .nav-footer .fs-2 {
+  opacity: .85;
 }

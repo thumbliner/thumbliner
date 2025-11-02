@@ -100,7 +100,3 @@ $mono-font-family: monospace;
 .site-title, .site-nav, .side-bar, .nav-list, .breadcrumbs,
 .search, .search-input, .btn, .button, .pagination, .label, .badge,
 .table-wrapper th, .toc, .toc-entry, .site-footer { font-family: var(--tk-ui-font); }
-
-/* global size bump for Garamond’s x-height */
-html { font-size: 21px !important; }
-@media (min-width: 1100px) { html { font-size: 22px !important; } }

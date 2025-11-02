@@ -32,11 +32,3 @@ Lists are common in notes:
 
 ###### H6 — Smallest Heading
 Inline elements: **strong**, *emphasis*, `code`, ~~strikethrough~~, and <u>underline</u>.
-
-
-
-# Focus on writing good documentation
-{: .fs-9 }
-
-Just the Docs gives your documentation a jumpstart with a responsive Jekyll theme that is easily customizable and hosted on GitHub Pages.
-{: .fs-6 .fw-300 }

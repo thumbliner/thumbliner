@@ -1,7 +1,7 @@
 title: "The Curious Outsider"
 description: "An early stage knowledge base project."
 url: "https://thumbliner.com"
-baseurl: ""   # keep empty since you'll serve from the root
+baseurl: "thumbliner"   # keep empty since you'll serve from the root
 
 remote_theme: just-the-docs/just-the-docs
 plugins:
@@ -9,3 +9,6 @@ plugins:
   
 search_enabled: true
 color_scheme: "light"   # auto = follows user’s light/dark preference
+
+logo: "/assets/logo.png"
+favicon_ico: "/favicon.ico"

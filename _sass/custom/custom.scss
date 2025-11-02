@@ -67,3 +67,17 @@ html { font-size: 17px; }
   text-decoration: none;
   cursor: default;
 }
+
+
+
+/* Hairline separators like Just the Docs (fixed 1px) */
+
+/* Sidebar/content vertical rule */
+.side-bar { border-right: 1px solid var(--jtd-border-color, #e5e5e5) !important; }
+
+/* Header/footer rules (if your theme shows them) */
+.site-header, .main-header { border-bottom: 1px solid var(--jtd-border-color, #e5e5e5) !important; }
+.site-footer { border-top: 1px solid var(--jtd-border-color, #e5e5e5) !important; }
+
+/* Any horizontal rules inside content */
+.main-content hr { border: 0; height: 1px; background: var(--jtd-border-color, #e5e5e5); }

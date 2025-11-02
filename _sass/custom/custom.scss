@@ -1,18 +1,30 @@
-/* Breathing room and better readability in the sidebar footer */
-.side-bar .nav-footer {
+/* Compact, left-aligned sidebar footer that visually matches the nav list */
+.side-bar .nav-footer.nav-footer--flush {
   border-top: 1px solid var(--border-color);
-  padding-top: 0.75rem;
-  margin-top: 1rem;
-  line-height: 1.4;
+  padding-top: 0.5rem;
+  margin-top: 0.5rem;
+  text-align: left;
+  line-height: 1.35;
 }
 
-/* Make links stack with a bit of space */
-.side-bar .nav-footer a {
-  display: inline-block;
-  margin: 0.125rem 0;
+.side-bar .nav-footer--flush .nav-footer__version {
+  margin-bottom: 0.25rem; /* small gap above links */
 }
 
-/* Tighten the meta line slightly */
-.side-bar .nav-footer .fs-2 {
-  opacity: .85;
+.side-bar .nav-footer--flush .nav-footer__link {
+  display: block;          /* stack like nav items */
+  margin: 0.1rem 0;        /* subtle vertical rhythm */
+  text-decoration: none;
+}
+
+.side-bar .nav-footer--flush .nav-footer__link:hover {
+  text-decoration: underline; /* mirror nav hover affordance */
+}
+
+/* Slightly more breathing room on wider screens */
+@media (min-width: 46.25rem) { /* md breakpoint (~740px) */
+  .side-bar .nav-footer.nav-footer--flush {
+    padding-top: 0.75rem;
+    margin-top: 0.75rem;
+  }
 }

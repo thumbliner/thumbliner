@@ -9,6 +9,3 @@ plugins:
   
 search_enabled: true
 color_scheme: "light"   # auto = follows user’s light/dark preference
-
-logo: "/assets/logo.png"
-favicon_ico: "/favicon.ico"

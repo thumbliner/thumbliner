@@ -2,7 +2,6 @@
 layout: default
 title: License
 nav_order: 99
-nav_exclude: true
 ---
 
 # License

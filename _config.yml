@@ -12,5 +12,3 @@ color_scheme: "light"   # auto = follows user’s light/dark preference
 
 logo: "/assets/logo.png"
 favicon_ico: "/favicon.ico"
-
-footer_content: "© 2025 Salman Khan. All rights reserved. No use, copying, modification, or distribution permitted."

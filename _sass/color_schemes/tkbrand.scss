@@ -1,50 +1,83 @@
-/* _sass/color_schemes/tkbrand.scss
-   Inspired by your palette:
-   - Deep teal: 024E4C
-   - Teal: 059C97
-   - Navy: 102C58
-   - Mint: C8E6E3
-   - Creams: FEF7F0, FBE7D1
-   - Grays: F9F9F9 (bg), 384141 (text), 9CA1A1 (muted), C1C4C4 (borders)
-   - Hyperlink accent: 4E0204 (burgundy)
+/* ==========================================================================
+   Just the Docs Color Scheme: tkbrand (Light, Warm, No Gradients)
+   --------------------------------------------------------------------------
+   PURPOSE
+   - Apply Thumbliner tokens to Just-the-Docs theme variables.
+   - Keep UI readable for long-form docs; let accents guide interactions.
+   - Sidebar remains cream to visually separate navigation from content.
+
+   KEY INTENT
+   - Links: Burgundy (distinct; editorial). Hover → Deep Teal.
+   - Buttons: Teal (actions are not links).
+   - Headings: Mostly Navy; reserve Deep Teal for prominent titles.
+   - Surfaces: Paper (content), Cream (sidebar), Sand Tint (code/panels).
+   - Borders: Quiet Gray 4; avoid heavy separators.
+   ========================================================================== */
+
+@import "./color_schemes/light"; // base on light; no gradient styles
+
+/* --- Surfaces (calm, readable) --- */
+$body-background-color:   $tk-gray-0;   // main “paper” background
+$sidebar-color:           $tk-cream;    // keep cream sidebar
+$code-background-color:   $tk-cream-2;  // code blocks / subtle panels
+$table-background-color:  $tk-cream;    // align table fill with sidebar
+
+/* --- Typography --- */
+$body-text-color:         $tk-gray-9;   // default body text
+$body-heading-color:      $tk-navy;     // general headings (h2–h6)
+$muted-text-color:        $tk-gray-6;   // captions, meta, breadcrumbs
+
+/* Reserve Deep Teal for BIG titles only (usage guidance, not enforced): */
+// h1, hero, or key section titles may be styled via custom CSS:
+// .page-title { color: $tk-deep-teal; }
+
+/* --- Links (distinct from buttons) --- */
+// Default: Burgundy links (editorial feel)
+$link-color:              $tk-link;
+$link-visited-color:      $tk-link;
+$link-hover-color:        $tk-deep-teal; // calm brand hover
+$focus-color:             $tk-teal;      // accessible focus ring
+
+/* Optional: switch to Orange links by uncommenting below. Keep buttons teal.
+$link-color:              $tk-link-orange;
+$link-visited-color:      $tk-link-orange;
+$link-hover-color:        $tk-deep-teal;
 */
-@import "./color_schemes/light"; // base on light
 
-/* --- Surfaces --- */
-$body-background-color:   #F9F9F9; // overall page
-$sidebar-color:           #FEF7F0; // left nav background
-$code-background-color:   #FBE7D1; // fenced/inline code bg
-$table-background-color:  #FEF7F0; // table fill aligns with sidebar
+/* --- Borders & rules (quiet) --- */
+$border-color:            $tk-gray-4;
 
-/* --- Text colors --- */
-$body-text-color:         #384141; // Gray 9
-$body-heading-color:      #102C58; // Navy headings
-$muted-text-color:        #9CA1A1; // Gray 6
+/* --- Buttons (actions ≠ links) --- */
+$btn-primary-color:         $tk-teal;     // primary CTA
+$btn-primary-text-color:    #ffffff;
+$btn-primary-border-color:  $tk-teal;
 
-/* --- Links / focus --- */
-$link-color:              #4E0204; // Hyperlink (burgundy)
-$link-visited-color:      #4E0204;
-$link-hover-color:        #024E4C; // Deep teal on hover
-$focus-color:             #059C97; // Teal focus ring
-
-/* --- Borders / dividers --- */
-$border-color:            #C1C4C4; // Gray 4
-
-/* --- Buttons --- */
-$btn-primary-color:       #059C97; // Teal button bg
-$btn-primary-text-color:  #ffffff;
-$btn-primary-border-color:#059C97;
-
-$btn-outline-color:       #024E4C; // Deep teal outline
-$btn-outline-text-color:  #024E4C;
+$btn-outline-color:         $tk-deep-teal; // secondary CTA
+$btn-outline-text-color:    $tk-deep-teal;
 
 /* --- Search --- */
-$search-background-color: #F9F9F9;
-$search-result-preview-color: #72685E; // Contrast series accent
+$search-background-color:    $tk-gray-0;
+$search-result-preview-color: $tk-warm-600;
 
-/* --- Callouts --- */
-$feedback-color:          #CEDC00; // Accent 5 for notices
-$callouts-level:          quiet;
+/* --- Callouts (subtle; not shouting) --- */
+$feedback-color:             $tk-accent-lime; // “notice” style
+$callouts-level:             quiet;
 
-/* Optional: small polish */
-::selection { background: rgba(5,156,151,0.2); }
+/* --- Utilities encoded with intent ------------------------------------- */
+/* Use for neutral information boxes; not an alert. */
+.special-box {
+  background: $tk-box;           // muted surface
+  border: 1px solid $tk-gray-4;  // quiet separator
+  padding: 0.75rem 1rem;
+  border-radius: 4px;            // small radii, no gradients
+}
+
+/* Sidebar nav affordances: calm, branded states */
+.side-bar .nav-list .nav-list-item > .nav-list-link.active {
+  color: $tk-deep-teal;
+}
+.side-bar .nav-list .nav-list-item > .nav-list-link:hover {
+  color: $tk-teal;
+}
+
+/* Selection — gentl*

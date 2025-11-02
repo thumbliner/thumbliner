@@ -13,4 +13,4 @@ color_scheme: "light"   # auto = follows user’s light/dark preference
 logo: "/assets/images/logo.png"
 favicon_ico: "/favicon.ico"
 
-color_scheme: mybrand
+color_scheme: tkbrand

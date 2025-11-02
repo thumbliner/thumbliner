@@ -1,0 +1,61 @@
+/* ==========================================================================
+   Thumbliner Design Tokens (Philosophy-Embedded)
+   --------------------------------------------------------------------------
+   PURPOSE
+   - Define brand and neutral colors as durable tokens.
+   - Keep naming clear: what the color *is* and what it’s *for*.
+   - DO NOT map these to Just-the-Docs theme variables here.
+   - Avoid gradients. Prefer calm, readable surfaces with high-contrast text.
+
+   USAGE PRINCIPLES
+   - Surfaces: light, warm, low-chroma backgrounds; borders are quiet.
+   - Text: neutral darks for body; hue shift (navy/deep teal) for hierarchy.
+   - Links: one distinct accent (burgundy by default) + teal on hover.
+   - Buttons: action color ≠ link color (use teal) to separate “read vs do”.
+   - Sidebar: cream to anchor navigation visually without heavy contrast.
+   - Alerts: semantic (lime/orange/pink) and not brand-link colors.
+   - Data viz: sequence/diverging palettes separate from UI chrome.
+   ========================================================================== */
+
+/* --- Core brand & accents (identity) --- */
+$tk-deep-teal:  #024E4C; // Use minimally for prominent titles/headings
+$tk-teal:       #059C97; // Primary action color (buttons, focus)
+$tk-blue:       #1D6076; // Secondary brand hue (charts/links hover alt)
+$tk-mint:       #C8E6E3; // Soft accent surface (rare panels)
+$tk-navy:       #102C58; // Heading hue (hierarchy, not links)
+$tk-mint-300:   #7DA6A3; // Darker mint (subtle accents, badges)
+
+/* --- Contrast accent for links --- */
+$tk-link:       #4E0204; // DEFAULT LINK COLOR: editorial, high-contrast
+$tk-link-orange:#D1462F; // OPTIONAL LINK ALT: punchier, use sparingly
+
+/* --- Neutrals for UI surfaces & text --- */
+$tk-gray-0:     #F9F9F9; // Page “paper” background (default surface)
+$tk-cream:      #FEF7F0; // Sidebar / secondary surfaces (keep calm)
+$tk-cream-2:    #FBE7D1; // Subtle panels (code blocks, callouts)
+$tk-box:        #DFE1E1; // Special text boxes (muted, not alert)
+$tk-gray-4:     #C1C4C4; // Quiet separators/borders
+$tk-gray-6:     #9CA1A1; // Muted/caption text, breadcrumbs
+$tk-gray-9:     #384141; // Primary body text (WCAG-friendly on light)
+
+/* --- Supportive warm neutrals (avoid for links/actions) --- */
+$tk-warm-600:   #72685E; // Emphasis in neutral contexts (subheads/meta)
+$tk-warm-300:   #C4BBB3; // Soft borders/fills (rare)
+$tk-warm-200:   #E0D9D1; // Very light fills (rare)
+
+/* --- Semantics (alerts/status) — NOT for links --- */
+$tk-accent-lime:    #CEDC00; // Notice/highlight (limited use)
+$tk-critical:       #D1462F; // Destructive/danger actions
+$tk-soft-critical:  #FDC3C5; // Gentle error/attention background
+
+/* --- Data Visualization (kept separate from UI accents) --- */
+$tk-seq: (
+  #102C58, #00476A, #1D6076, #007E8C, #059C97
+); // sequential (cool, increasing intensity)
+
+$tk-div: (
+  #72685E, #8C8379, #A89E95, #C4BBB3, #E0D9D1, #FEF7F0, #F9F9F9,
+  #C8E6E3, #A2C6C2, #7DA6A3, #588885, #336A68, #024E4C
+); // diverging (warm→neutral→teal);
+
+/* End tokens. Map to theme variables in color_schemes/tkbrand.scss */

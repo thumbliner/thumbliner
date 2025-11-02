@@ -1,15 +1,8 @@
-/* Sidebar footer tweaks */
+/* Align the sidebar footer with the nav text and add spacing */
 .side-bar .nav-footer {
-  text-align: left;       /* left-align with nav */
-  padding-left: 1rem;     /* align to nav text indent */
-  padding-right: 1rem;    /* keep it tidy on the right */
-  margin-bottom: 1.25rem; /* space from bottom */
+  padding-left: 1rem;     /* match the nav’s left padding */
+  padding-right: 1rem;    /* keep text off the edge */
+  margin-bottom: 1.25rem; /* space from bottom of sidebar */
   line-height: 1.3;
-}
-
-/* (Optional) slightly larger on wide screens to match nav rhythm */
-@media (min-width: 66rem) {
-  .side-bar .nav-footer {
-    padding-left: 1.25rem;
-  }
+  text-align: left;
 }

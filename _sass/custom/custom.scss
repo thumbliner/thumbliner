@@ -1,7 +1,16 @@
 /* global size bump for Garamond’s x-height */
-html { font-size: 18px !important; }
-@media (min-width: 1100px) { html { font-size: 19px !important; } }
+html { font-size: 17px !important; }
+@media (min-width: 1100px) { html { font-size: 18px !important; } }
 
+/* Lock content measure so it doesn't grow with root font size */
+.main-content { max-width: 72ch; }   /* tweak: 68–76ch to taste */
+
+/* Keep long code/links from forcing extra width */
+.main-content pre { white-space: pre-wrap; word-break: break-word; }
+.main-content table { display: block; overflow-x: auto; }
+
+/* Make the footer a tad smaller */
+.site-footer { font-size: 0.9rem; }
 
 
 /* Header (top-left) logo/title: no visual change and no hand cursor */

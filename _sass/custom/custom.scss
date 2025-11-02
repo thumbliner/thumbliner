@@ -28,11 +28,10 @@
 }
 
 
-/* Make the sidebar footer line up with nav items */
+/* Align + space the sidebar footer */
 .side-bar .nav-footer {
-  /* nav-list adds the same left padding as menu items; this keeps things in sync */
-  padding-right: 1rem;     /* mirror the right gutter */
-  margin-bottom: 1.25rem;  /* lift it off the bottom */
+  padding-right: 1rem;     /* mirror right gutter */
+  margin-bottom: 1.25rem;  /* lift off bottom */
   line-height: 1.3;
   text-align: left;
 }

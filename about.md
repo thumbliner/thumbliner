@@ -1,8 +1,8 @@
 ---
-layout: page
 title: About
 permalink: /about/
 nav_order: 2
+layout: default
 ---
 
 **Salman Khan** — researcher.  

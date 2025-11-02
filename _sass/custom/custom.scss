@@ -60,3 +60,30 @@
   text-decoration: none;
   cursor: default;
 }
+
+/* Fonts */
+:root {
+  --jtd-body-font-family: "EB Garamond", serif;
+  --jtd-heading-font-family: "Lato", sans-serif;
+  --jtd-mono-font-family: monospace; /* generic only */
+}
+
+/* Apply families */
+body {
+  font-family: var(--jtd-body-font-family);
+  font-weight: 400;
+  line-height: 1.6;
+}
+
+h1, h2, h3, h4, h5, h6,
+.site-title, .site-nav, .side-bar, .nav-list, .breadcrumbs {
+  font-family: var(--jtd-heading-font-family);
+  font-weight: 700;   /* uses Lato 700 */
+  letter-spacing: 0.01em;
+}
+
+/* Optional: lighter small UI text */
+.small, .label, .caption { font-weight: 300; }
+
+/* Code */
+code, pre, kbd, samp { font-family: var(--jtd-mono-font-family); }

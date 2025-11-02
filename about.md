@@ -7,7 +7,7 @@ layout: default
 ---
 
 ## Author
-Salman Khan is an applied researcher in economics and epistemology, focused on how entrepreneurs create and transmit knowledge in markets. He runs a capital-allocation practice built on a concept-indexed pipeline of atomic notes; select outputs are shared under the Thumbliner persona. These pages are mainly for his future self—so he records why he made decisions and what he learned. Others are welcome to read along.
+Salman Khan is an applied researcher in economics and epistemology, studying how entrepreneurs create and transmit knowledge in markets. He leads a capital-allocation practice.
 
-## Website
-The site runs on Jekyll with the Just the Docs theme, served via Cloudflare and versioned on GitHub. Content begins as evergreen notes in Obsidian, with citations managed in Mendeley, then compiles into a public knowledge base; as links among notes grow, the front end regenerates to surface new connections. Tableau provides occasional data views. The author prefers this setup for its simplicity and modular design, and because it keeps the work close to current web tools and development practice.
+## Site
+This site collects long-form thoughts on specific subjects. People often ask, “What does Salman do?” or seek advice that can’t be answered in a quick message. To make that easier for everyone, Salman publishes extended essays here so readers can explore them at their convenience. When useful, pieces include context about the author and links to related topics. From Salman’s perspective, the entire body of work is one project in applied epistemology that shows up in the world as a capital-allocation practice.

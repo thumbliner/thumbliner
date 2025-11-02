@@ -14,6 +14,8 @@ Body text should be comfortable for long-form reading. To test paragraphs, here�
 ### H3 — Subsection
 This paragraph tests slightly denser content. Consider how EB Garamond handles numerals (1234567890), punctuation (— “quotes” ‘single’ …), and abbreviations (e.g., i.e., etc.).
 
+Just the Docs is a theme for generating static websites with Jekyll. You can write source files for your web pages using Markdown, the Liquid templating language, and HTML.1 Jekyll builds your site by converting all files that have front matter to HTML. Your Jekyll configuration file determines which theme to use, and sets general parameters for your site, such as the URL of its home page.
+
 #### H4 — Sub-subsection
 Lists are common in notes:
 

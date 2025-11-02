@@ -80,6 +80,12 @@ $callouts-level:             quiet;
   color: $tk-teal;
 }
 
--/* Selection — gentl*
-+/* Selection — gentle highlight */
-
+/* Selection — gentle highlight */
+::selection {
+  background: $tk-cream-2;
+  color: $body-text-color;
+}
+::-moz-selection {
+  background: $tk-cream-2;
+  color: $body-text-color;
+}

@@ -8,7 +8,7 @@ plugins:
   - jekyll-remote-theme
   
 search_enabled: true
-color_scheme: dark   # auto = follows user’s light/dark preference
+color_scheme: light   # auto = follows user’s light/dark preference
 
 logo: "/assets/images/logo.png"
 favicon_ico: "/favicon.ico"

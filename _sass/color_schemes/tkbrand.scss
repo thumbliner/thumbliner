@@ -91,69 +91,16 @@ $callouts-level:             quiet;
 
 
 
-/* Brand scheme: TKbrand
-   Use EB Garamond for content (body + headings) and Lato for UI chrome.
-*/
+/* fonts (variables only) */
+$body-font-family: "EB Garamond", serif;
+$mono-font-family: monospace;
 
-/* Typography (override the theme’s default body font) */
-$body-font-family: "EB Garamond", serif;   // ← no !default
-$mono-font-family: monospace;              // ← no !default
-
-/* You can also override colors, spacings, etc. here if desired. */
-
-/* UI font (no dedicated SCSS var in theme), so define + apply here */
-:root {
-  --tk-ui-font: "Lato", sans-serif;
-}
-
-/* Apply content fonts */
-body {
-  font-family: $body-font-family;
-  font-weight: 400;
-  line-height: 1.7;
-}
-h1, h2, h3, h4, h5, h6 {
-  font-family: $body-font-family;
-  font-weight: 600;
-  letter-spacing: 0.01em;
-  line-height: 1.25;
-}
-
-/* Apply UI chrome font (nav, sidebar, search, buttons, footer, etc.) */
+/* UI font (Lato) */
+:root { --tk-ui-font: "Lato", sans-serif; }
 .site-title, .site-nav, .side-bar, .nav-list, .breadcrumbs,
 .search, .search-input, .btn, .button, .pagination, .label, .badge,
-.table-wrapper th, .toc, .toc-entry, .site-footer {
-  font-family: var(--tk-ui-font);
-}
+.table-wrapper th, .toc, .toc-entry, .site-footer { font-family: var(--tk-ui-font); }
 
-/* Comfortable base sizing */
+/* global size bump for Garamond’s x-height */
 html { font-size: 18px; }
-
-/* Footer: subtler color and slightly smaller text */
-.site-footer {
-  color: rgba(0, 0, 0, 0.55);
-  font-size: 0.95rem;
-}
-.site-footer a { color: rgba(0, 0, 0, 0.65); }
-.site-footer a:hover { color: rgba(0, 0, 0, 0.8); }
-
-/* --- Global type bump --------------------------------------------------- */
-/* Base size + comfortable leading */
-html { font-size: 21px !important; }      /* was 19px */
-body { line-height: 1.78 !important; }    /* gentle increase */
-
-/* Headings (all EB Garamond in your scheme) */
-h1 { font-size: 2.7rem; line-height: 1.22 !important; }
-h2 { font-size: 2.2rem; line-height: 1.25 !important; }
-h3 { font-size: 1.8rem; line-height: 1.28 !important; }
-h4 { font-size: 1.5rem; line-height: 1.32 !important; }
-h5 { font-size: 1.25rem; line-height: 1.35 !important; }
-h6 { font-size: 1.10rem; line-height: 1.4 !important;  }
-
-p { margin: 1rem 0 !important; }      /* keep paragraph rhythm */
-
-/* UI chrome (Lato): nudge up so it doesn't look tiny next to body text */
-.site-title, .site-nav, .side-bar, .nav-list, .breadcrumbs,
-.search, .btn, .button, .pagination, .label, .badge, .toc, .toc-entry {
-  font-size: 1.02rem;
-}
+@media (min-width: 1100px) { html { font-size: 19px; } }

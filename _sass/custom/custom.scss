@@ -1,3 +1,9 @@
+/* global size bump for Garamond’s x-height */
+html { font-size: 21px !important; }
+@media (min-width: 1100px) { html { font-size: 22px !important; } }
+
+
+
 /* Header (top-left) logo/title: no visual change and no hand cursor */
 .side-bar .site-header a,
 .side-bar .site-header a:link,
@@ -13,7 +19,6 @@
   transition: none !important;
   cursor: default !important; /* kill the hand cursor */
 }
-
 
 /* Sidebar + top nav should NOT be burgundy */
 .nav-list .nav-list-link,

@@ -1,3 +1,43 @@
-/* _sass/color_schemes/mybrand.scss */
-@import "./color_schemes/dark"; /* optional; remove to base on light */
-$link-color: $blue-000;
+/* _sass/color_schemes/tkbrand.scss
+   A visible, opinionated scheme for quick differentiation.
+   Base on dark (remove first line to base on light).
+*/
+@import "./color_schemes/dark";
+
+/* --- Brand accents --- */
+$link-color:        #43e6a8;   /* mint green links */
+$focus-color:       #43e6a8;   /* focus ring */
+$btn-primary-color: #43e6a8;   /* primary button background */
+$btn-primary-text-color: #0b0f14;
+
+/* --- Surfaces --- */
+$body-background-color:   #0b0f14; /* page background (near-black) */
+$sidebar-color:           #0e1621; /* sidebar background (slate) */
+$code-background-color:   #0f1b28; /* fenced/inline code bg */
+$table-background-color:  #0f1b28;
+
+/* --- Text --- */
+$body-text-color:         #d9e2ec; /* main text */
+$body-heading-color:      #e6f1ff; /* headings a touch brighter */
+$muted-text-color:        #8fa2b6;
+
+/* --- Borders & rules --- */
+$border-color:            #1b2a3a;
+
+/* --- Search --- */
+$search-background-color: #0f1b28;
+$search-result-preview-color: #9db3c7;
+
+/* --- Callouts (kept subtle against dark) --- */
+$feedback-color:          #ffe08a; /* used by some components */
+$callouts-level:          loud;    /* stronger saturation on dark */
+
+/* Optional: tweak selection highlight */
+::selection {
+  background: rgba(67, 230, 168, 0.25);
+}
+
+/* Optional: small visual love for buttons & labels */
+.btn.btn-blue    { background: #43e6a8; color: #0b0f14; border-color: #43e6a8; }
+.btn.btn-outline { border-color: #43e6a8; }
+.label.label-green { background: rgba(67,230,168,.15); color: #43e6a8; }

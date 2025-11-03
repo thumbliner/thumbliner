@@ -91,52 +91,39 @@ html { font-size: 17px; }
 
 
 /* ===== Urdu / Nastaliq support ===== */
-
-:root {
-  --urdu-font-size: 1.12rem;
-  --urdu-leading: 2.35;
+:root{
+  --urdu-font-size:1.12rem;
+  --urdu-leading:2.35;
+  --tk-urdu-font:"Noto Nastaliq Urdu","Noto Naskh Arabic","Segoe UI Historic",serif;
 }
 
-/* Block-level Urdu container */
-.urdu,
-[lang="ur"] {
-  direction: rtl;
-  font-family: var(--tk-urdu-font);
-  font-size: var(--urdu-font-size);
-  line-height: var(--urdu-leading);
-  letter-spacing: 0;
-  font-variant-ligatures: contextual common-ligatures;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-
-  /* match English body color */
-  color: var(--body-text-color, inherit);
+.urdu,[lang="ur"]{
+  direction:rtl;
+  font-family:var(--tk-urdu-font);
+  font-size:var(--urdu-font-size);
+  line-height:var(--urdu-leading);
+  letter-spacing:0;
+  -webkit-font-smoothing:antialiased;
+  -moz-osx-font-smoothing:grayscale;
+  color:var(--body-text-color,inherit);
 }
 
-/* Verses: justify all lines except the last visual line */
-.urdu .verses {
-  text-align: justify;
-  text-align-last: right;
-  -moz-text-align-last: right;
-  text-justify: inter-word;
-  margin: 0;
-  color: inherit;                  /* same as body text */
+.urdu .verses{
+  text-align:justify;
+  text-align-last:right;       /* last visual line right-aligned */
+  -moz-text-align-last:right;  /* Firefox */
+  margin:0;
+  color:inherit;
 }
 
-.urdu,
-[lang="ur"] {
-  line-height: 2.35;  /* or 2.4 if you want more space */
+.urdu .poet{
+  display:block;
+  margin-top:.5rem;
+  font-size:.95rem;
+  font-weight:400;
+  text-align:right;
+  direction:rtl;
+  font-family:var(--tk-urdu-font);
+  line-height:2;
+  color:inherit;
 }
-
-/* Poet credit: same color as body text, no dimming */
-.urdu .poet {
-  display: block;
-  margin-top: 0.5rem;
-  font-size: 0.95rem;
-  font-weight: 400;
-  text-align: right;
-  direction: rtl;
-  font-family: var(--tk-urdu-font);
-  line-height: 2;
-  color:
-

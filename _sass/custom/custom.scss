@@ -90,19 +90,17 @@ html { font-size: 17px; }
 .main-content hr { border: 0; height: 1px; background: var(--jtd-border-color, #e5e5e5); }
 
 
-/* ===================== Urdu / Nastaliq ===================== */
-/* Place in: _sass/custom/urdu.scss  and import it after brand.scss */
+/* ===== Urdu / Nastaliq (shrink-wrap + pairwise justification) ===== */
 
-/* 1) Font family variable (SCSS) + CSS var for runtime use */
 $urdu-font-family: "Noto Nastaliq Urdu", "Noto Naskh Arabic", "Segoe UI Historic", serif;
 
 :root {
   --tk-urdu-font: #{$urdu-font-family};
-  --urdu-font-size: 1.12rem;  /* tune to taste */
-  --urdu-leading: 2.35;       /* generous leading for Nastaliq */
+  --urdu-font-size: 1.12rem;
+  --urdu-leading: 2.35;
 }
 
-/* 2) Base Urdu container */
+/* Base */
 .urdu,
 [lang="ur"] {
   direction: rtl;
@@ -115,35 +113,42 @@ $urdu-font-family: "Noto Nastaliq Urdu", "Noto Naskh Arabic", "Segoe UI Historic
   -moz-osx-font-smoothing: grayscale;
 }
 
-/* Keep the whole verses block visually anchored to the right */
 .urdu { text-align: right; }
 
-/* 3) Verses: shrink-wrap to the longest line (not full column) */
+/* Verses block: shrink to longest line, not full column */
 .urdu .verses {
-  display: inline-block;
-  width: max-content;   /* width equals longest misra */
-  max-width: 100%;      /* prevent overflow on small screens */
+  /* inline-level so it honors the parent right alignment */
+  display: inline-block !important;
+
+  /* shrink-to-content fallbacks (pick what the browser supports) */
+  width: -moz-fit-content !important; /* Firefox old */
+  width: fit-content !important;      /* modern */
+  width: max-content !important;      /* WebKit/Safari */
+  max-width: 100%;
   margin: 0;
+
+  /* guard against any global div rules */
+  box-sizing: content-box;
 }
 
-/* 4) Each misra (line): justify within that shrink-wrapped width */
+/* Each line (misra): justify within that shrink-wrapped width */
 .urdu .misra {
   display: block;
-  text-align: justify;          /* justify the line */
-  text-align-last: right;       /* if it wraps internally, end aligns right */
+  text-align: justify;
+  text-align-last: right;    /* if a single line wraps internally */
   -moz-text-align-last: right;
   line-height: var(--urdu-leading);
   white-space: normal;
 }
 
-/* Justification shim: convinces browsers to fully justify short lines */
+/* Shim to force justification even when the line wouldn’t justify */
 .urdu .misra::after {
   content: "";
   display: inline-block;
   width: 100%;
 }
 
-/* Single-line block: if there's only one misra, keep it right-aligned */
+/* Single-line block: keep right-aligned, no shim */
 .urdu .misra:only-child {
   text-align: right;
 }
@@ -151,7 +156,7 @@ $urdu-font-family: "Noto Nastaliq Urdu", "Noto Naskh Arabic", "Segoe UI Historic
   display: none;
 }
 
-/* 5) Poet credit: shares the shrink-wrapped width, stays right-aligned */
+/* Poet: shares the same shrink-wrapped width, stays right-aligned */
 .urdu .poet {
   display: block;
   text-align: right;

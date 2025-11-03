@@ -100,3 +100,9 @@ $mono-font-family: monospace;
 .site-title, .site-nav, .side-bar, .nav-list, .breadcrumbs,
 .search, .search-input, .btn, .button, .pagination, .label, .badge,
 .table-wrapper th, .toc, .toc-entry, .site-footer { font-family: var(--tk-ui-font); }
+
+/* Urdu font (variables only) */
+$urdu-font-family: "Noto Nastaliq Urdu", "Noto Naskh Arabic", "Segoe UI Historic", serif;
+
+/* Expose as a CSS var for easy use in CSS-only contexts */
+:root { --tk-urdu-font: #{$urdu-font-family}; }

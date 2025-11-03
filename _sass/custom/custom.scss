@@ -90,95 +90,51 @@ html { font-size: 17px; }
 .main-content hr { border: 0; height: 1px; background: var(--jtd-border-color, #e5e5e5); }
 
 
-/* ===== Urdu / Nastaliq (tight spacing) ===== */
+/* ===== Urdu / Nastaliq — simple, no-justification ===== */
 
 $urdu-font-family: "Noto Nastaliq Urdu", "Noto Naskh Arabic", "Segoe UI Historic", serif;
 
 :root {
   --tk-urdu-font: #{$urdu-font-family};
   --urdu-font-size: 1.12rem;
-  --urdu-leading: 1.95;          /* ↓ was 2.0 — tighter overall */
-  --urdu-poet-leading: 1.9;       /* poet line a touch tighter too */
+  --urdu-leading: 1.9; /* tighter overall; tweak 1.85–2.0 to taste */
 }
 
-/* Base */
+/* Base container */
 .urdu,
 [lang="ur"] {
   direction: rtl;
+  text-align: right;
   font-family: var(--tk-urdu-font);
   font-size: var(--urdu-font-size);
   line-height: var(--urdu-leading);
-  letter-spacing: 0;
   color: var(--body-text-color, inherit);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
-.urdu { text-align: right; }
-
-/* Verses block: shrink to longest line, not full column */
-.urdu .verses {
-  display: inline-block !important;     /* respect right anchoring */
-  width: -moz-fit-content !important;   /* Firefox (older) */
-  width: fit-content !important;        /* modern */
-  width: max-content !important;        /* WebKit/Safari */
-  max-width: 100%;
-  margin: 0;
-  box-sizing: content-box;
-}
-
-/* Each line (misra): justify within shrink-wrapped width */
-.urdu .misra {
-  display: block;
-  text-align: justify;
-  text-align-last: right;               /* if a line wraps internally */
-  -moz-text-align-last: right;
-  line-height: var(--urdu-leading);     /* inherits tight leading */
-  white-space: normal;
-  margin: 0;                            /* no extra gaps */
-}
-
-/* Shim: forces justification without adding vertical space */
-.urdu .misra::after {
-  content: "";
-  display: inline-block;
-  width: 100%;
-  height: 0;
-  line-height: 0;
-  font-size: 0;
-  vertical-align: top;
-}
-
-/* Single-line block: keep right-aligned, no shim */
-.urdu .misra:only-child { text-align: right; }
-.urdu .misra:only-child::after { display: none; }
-
-/* Poet: shares width, tight leading */
-.urdu .poet {
-  display: block;
-  text-align: right;
-  margin-top: 0.35rem;                  /* slightly smaller gap */
-  line-height: var(--urdu-poet-leading);
-  font-size: 0.95rem;
-  font-weight: 400;
-  font-family: var(--tk-urdu-font);
-  color: inherit;
-}
-
-/* Neutralize theme spacing inside Urdu blocks */
+/* Neutralize theme margins inside the block so spacing is only line-height */
 .urdu,
 .urdu * {
-  margin: 0 !important;                 /* kill top/bottom gaps from global rhythm */
+  margin: 0 !important;
 }
 
-/* Keep a small, explicit gap only before the poet credit */
+/* Verses: plain stack, no width hacks */
+.urdu .verses {
+  margin: 0 !important;
+}
+
+/* Each line (misra): own line, right-aligned */
+.urdu .misra {
+  display: block;
+  line-height: var(--urdu-leading);
+}
+
+/* Poet credit: small, modest gap above */
 .urdu .poet {
+  display: block;
   margin-top: 0.35rem !important;
-}
-
-/* (Optional) If anything still forces gaps via gap/row-gap */
-.urdu, .urdu .verses {
-  gap: 0 !important;
-  row-gap: 0 !important;
+  font-size: 0.95rem;
+  line-height: 1.9;
 }
 

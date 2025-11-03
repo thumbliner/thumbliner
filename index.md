@@ -13,9 +13,9 @@ Under the burder of uncertainty, we collect partial knowledge, refine it into pr
 If you share the disposition, join the investigation. Keep watch, trade vantage points, and report what stands out—clear and simple.
 
 <div class="urdu" lang="ur" dir="rtl">
-ہے آدمی بجائے خود اک محشرِ خیال<br/>
-ہم انجمن سمجھتے ہیں خلوت ہی کیوں نہ ہو
-  
-<span class="poet">— مرزا غالب</span>
+  <p class="verses">
+    ہے آدمی بجائے خود اک محشرِ خیال<br/>
+    ہم انجمن سمجھتے ہیں خلوت ہی کیوں نہ ہو
+  </p>
+  <span class="poet">— مرزا غالب</span>
 </div>
-

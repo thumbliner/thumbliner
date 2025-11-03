@@ -14,8 +14,8 @@ We articulate routes to vantage points from where we spot truth stand out—clea
 
 <div class="urdu" lang="ur" dir="rtl">
   <p class="verses">
-    ہے آدمی بجائے خود اک محشرِ خیال<br/>
-    ہم انجمن سمجھتے ہیں خلوت ہی کیوں نہ ہو
+    <span class="misra">ہے آدمی بجائے خود اک محشرِ خیال</span>
+    <span class="misra">ہم انجمن سمجھتے ہیں خلوت ہی کیوں نہ ہو</span>
   </p>
   <span class="poet">— مرزا غالب</span>
 </div>

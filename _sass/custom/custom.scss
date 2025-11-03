@@ -90,14 +90,15 @@ html { font-size: 17px; }
 .main-content hr { border: 0; height: 1px; background: var(--jtd-border-color, #e5e5e5); }
 
 
-/* ===== Urdu / Nastaliq ===== */
+/* ===== Urdu / Nastaliq (tight spacing) ===== */
 
 $urdu-font-family: "Noto Nastaliq Urdu", "Noto Naskh Arabic", "Segoe UI Historic", serif;
 
 :root {
   --tk-urdu-font: #{$urdu-font-family};
   --urdu-font-size: 1.12rem;
-  --urdu-leading: 2.0;
+  --urdu-leading: 1.95;          /* ↓ was 2.0 — tighter overall */
+  --urdu-poet-leading: 1.9;       /* poet line a touch tighter too */
 }
 
 /* Base */
@@ -117,64 +118,51 @@ $urdu-font-family: "Noto Nastaliq Urdu", "Noto Naskh Arabic", "Segoe UI Historic
 
 /* Verses block: shrink to longest line, not full column */
 .urdu .verses {
-  /* inline-level so it honors the parent right alignment */
-  display: inline-block !important;
-
-  /* shrink-to-content fallbacks (pick what the browser supports) */
-  width: -moz-fit-content !important; /* Firefox old */
-  width: fit-content !important;      /* modern */
-  width: max-content !important;      /* WebKit/Safari */
+  display: inline-block !important;     /* respect right anchoring */
+  width: -moz-fit-content !important;   /* Firefox (older) */
+  width: fit-content !important;        /* modern */
+  width: max-content !important;        /* WebKit/Safari */
   max-width: 100%;
   margin: 0;
-
-  /* guard against any global div rules */
   box-sizing: content-box;
 }
 
-/* Each line (misra): justify within that shrink-wrapped width */
+/* Each line (misra): justify within shrink-wrapped width */
 .urdu .misra {
   display: block;
   text-align: justify;
-  text-align-last: right;    /* if a single line wraps internally */
+  text-align-last: right;               /* if a line wraps internally */
   -moz-text-align-last: right;
-  line-height: var(--urdu-leading);
+  line-height: var(--urdu-leading);     /* inherits tight leading */
   white-space: normal;
+  margin: 0;                            /* no extra gaps */
 }
 
-/* Shim to force justification even when the line wouldn’t justify */
+/* Shim: forces justification without adding vertical space */
 .urdu .misra::after {
   content: "";
   display: inline-block;
   width: 100%;
+  height: 0;
+  line-height: 0;
+  font-size: 0;
+  vertical-align: top;
 }
 
 /* Single-line block: keep right-aligned, no shim */
-.urdu .misra:only-child {
-  text-align: right;
-}
-.urdu .misra:only-child::after {
-  display: none;
-}
+.urdu .misra:only-child { text-align: right; }
+.urdu .misra:only-child::after { display: none; }
 
-/* Prevent the justification shim from adding vertical space */
-.urdu .misra::after {
-  content: "";
-  display: inline-block;
-  width: 100%;
-  height: 0;          /* kill height */
-  line-height: 0;     /* kill line box */
-  font-size: 0;       /* belt-and-suspenders */
-}
-
-/* Poet: shares the same shrink-wrapped width, stays right-aligned */
+/* Poet: shares width, tight leading */
 .urdu .poet {
   display: block;
   text-align: right;
-  margin-top: 0.5rem;
-  line-height: 2;
+  margin-top: 0.35rem;                  /* slightly smaller gap */
+  line-height: var(--urdu-poet-leading);
   font-size: 0.95rem;
   font-weight: 400;
   font-family: var(--tk-urdu-font);
   color: inherit;
 }
+
 

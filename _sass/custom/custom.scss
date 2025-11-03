@@ -117,3 +117,17 @@ html { font-size: 17px; }
   line-height: 2;        /* subtitles often need a bit less leading than blocks */
   font-weight: 400;      /* look crisper than 300 in Nastaliq */
 }
+
+/* Poet credit under Urdu blocks */
+.urdu .poet {
+  display: block;
+  margin-top: 0.35rem;
+  font-size: 0.95rem;
+  opacity: 0.8;               /* subtle, but readable */
+  font-weight: 400;           /* Nastaliq looks cleaner at 400 */
+  font-family: var(--tk-urdu-font);
+  direction: rtl;             /* keep RTL context explicit */
+  text-align: right;
+  line-height: 2;             /* a touch tighter than the verse */
+}
+

@@ -92,16 +92,25 @@ html { font-size: 17px; }
 
 /* ===== Urdu / Nastaliq support ===== */
 
-/* Block-level Urdu (best for poems/paragraphs) */
+:root {
+  /* tweak these two to taste site-wide */
+  --urdu-font-size: 1.12rem;
+  --urdu-leading: 2.35; /* was ~2.1; Nastaliq benefits from more */
+}
+
+/* Block-level Urdu (poems/paragraphs) */
 .urdu,
 [lang="ur"] {
   direction: rtl;
   text-align: right;
   font-family: var(--tk-urdu-font);
-  font-size: 1.1rem;     /* tune as needed */
-  line-height: 2.1;      /* Nastaliq needs generous leading */
-  letter-spacing: 0;     /* keep ligatures tidy */
+  font-size: var(--urdu-font-size);
+  line-height: var(--urdu-leading);
+  letter-spacing: 0;
   font-variant-ligatures: contextual common-ligatures;
+  /* smoother Nastaliq rendering */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 /* Inline Urdu inside LTR paragraphs */
@@ -112,22 +121,21 @@ html { font-size: 17px; }
   font-variant-ligatures: contextual common-ligatures;
 }
 
-/* Optional: subtitle variant in Urdu */
+/* Optional: subtitle in Urdu */
 .subtitle.urdu {
-  line-height: 2;        /* subtitles often need a bit less leading than blocks */
-  font-weight: 400;      /* look crisper than 300 in Nastaliq */
+  line-height: 2.15;
+  font-weight: 400;
 }
 
-/* Poet credit under Urdu blocks */
+/* Poet credit */
 .urdu .poet {
   display: block;
-  margin-top: 0.35rem;
+  margin-top: 0.5rem;   /* a bit more gap under the verse */
   font-size: 0.95rem;
-  opacity: 0.8;               /* subtle, but readable */
-  font-weight: 400;           /* Nastaliq looks cleaner at 400 */
+  opacity: 0.85;
+  font-weight: 400;
   font-family: var(--tk-urdu-font);
-  direction: rtl;             /* keep RTL context explicit */
+  direction: rtl;
   text-align: right;
-  line-height: 2;             /* a touch tighter than the verse */
+  line-height: 2;
 }
-

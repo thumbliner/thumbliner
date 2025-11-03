@@ -90,14 +90,14 @@ html { font-size: 17px; }
 .main-content hr { border: 0; height: 1px; background: var(--jtd-border-color, #e5e5e5); }
 
 
-/* ===== Urdu / Nastaliq (shrink-wrap + pairwise justification) ===== */
+/* ===== Urdu / Nastaliq ===== */
 
 $urdu-font-family: "Noto Nastaliq Urdu", "Noto Naskh Arabic", "Segoe UI Historic", serif;
 
 :root {
   --tk-urdu-font: #{$urdu-font-family};
   --urdu-font-size: 1.12rem;
-  --urdu-leading: 2.35;
+  --urdu-leading: 2.0;
 }
 
 /* Base */
@@ -154,6 +154,16 @@ $urdu-font-family: "Noto Nastaliq Urdu", "Noto Naskh Arabic", "Segoe UI Historic
 }
 .urdu .misra:only-child::after {
   display: none;
+}
+
+/* Prevent the justification shim from adding vertical space */
+.urdu .misra::after {
+  content: "";
+  display: inline-block;
+  width: 100%;
+  height: 0;          /* kill height */
+  line-height: 0;     /* kill line box */
+  font-size: 0;       /* belt-and-suspenders */
 }
 
 /* Poet: shares the same shrink-wrapped width, stays right-aligned */

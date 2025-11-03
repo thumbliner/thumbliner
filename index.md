@@ -13,9 +13,10 @@ Under the burder of uncertainty, we collect partial knowledge, refine it into pr
 We articulate routes to vantage points from where we spot truth stand out—clear and simple.
 
 <div class="urdu" lang="ur" dir="rtl">
-  <p class="verses">
-    <span class="misra">ہے آدمی بجائے خود اک محشرِ خیال</span>
-    <span class="misra">ہم انجمن سمجھتے ہیں خلوت ہی کیوں نہ ہو</span>
-  </p>
-  <span class="poet">— مرزا غالب</span>
+  <div class="verses">
+    <div class="misra">ہے آدمی بجائے خود اک محشرِ خیال</div>
+    <div class="misra">ہم انجمن سمجھتے ہیں خلوت ہی کیوں نہ ہو</div>
+  </div>
+  <div class="poet">— مرزا غالب</div>
 </div>
+

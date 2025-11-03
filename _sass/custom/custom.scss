@@ -128,30 +128,28 @@ html { font-size: 17px; }
   color:inherit;
 }
 
-/* Each line (misra) fully justifies; last line stays right-aligned */
-.urdu .verses { margin: 0; }
-
-/* Make each line its own block so justification can work */
+/* Each misra fills the full measure and justifies */
 .urdu .misra{
   display:block;
   text-align:justify;
-  text-align-last:right;     /* wraps end right-aligned */
+  text-align-last:right;    /* if a misra wraps internally, its final wrap aligns right */
   -moz-text-align-last:right;
   line-height:var(--urdu-leading);
-  white-space:normal;        /* ensure normal wrapping */
+  white-space:normal;
 }
 
-/* The “shim” forces justification on lines that would otherwise not justify */
+/* Shim to force justification even when the line wouldn’t otherwise justify */
 .urdu .misra::after{
   content:"";
   display:inline-block;
   width:100%;
 }
 
-/* Do NOT force justification on the last line */
-.urdu .misra:last-child{
+/* SINGLE-LINE case: if there's only one misra in the block, keep it right-aligned */
+.urdu .misra:only-child{
   text-align:right;
 }
-.urdu .misra:last-child::after{
+.urdu .misra:only-child::after{
   display:none;
 }
+

@@ -115,12 +115,17 @@ html { font-size: 17px; }
 
 /* Verses: justify all lines except the last visual line */
 .urdu .verses {
-  text-align: justify;            /* justify all lines... */
-  text-align-last: right;         /* ...but last line right-aligned */
-  -moz-text-align-last: right;    /* Firefox */
+  text-align: justify;
+  text-align-last: right;
+  -moz-text-align-last: right;
   text-justify: inter-word;
   margin: 0;
   color: inherit;                  /* same as body text */
+}
+
+.urdu,
+[lang="ur"] {
+  line-height: 2.35;  /* or 2.4 if you want more space */
 }
 
 /* Poet credit: same color as body text, no dimming */

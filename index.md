@@ -19,4 +19,3 @@ We articulate routes to vantage points from where we spot truth stand out—clea
   </div>
   <div class="poet">— مرزا غالب</div>
 </div>
-

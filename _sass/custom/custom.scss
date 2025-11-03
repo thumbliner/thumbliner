@@ -165,4 +165,20 @@ $urdu-font-family: "Noto Nastaliq Urdu", "Noto Naskh Arabic", "Segoe UI Historic
   color: inherit;
 }
 
+/* Neutralize theme spacing inside Urdu blocks */
+.urdu,
+.urdu * {
+  margin: 0 !important;                 /* kill top/bottom gaps from global rhythm */
+}
+
+/* Keep a small, explicit gap only before the poet credit */
+.urdu .poet {
+  margin-top: 0.35rem !important;
+}
+
+/* (Optional) If anything still forces gaps via gap/row-gap */
+.urdu, .urdu .verses {
+  gap: 0 !important;
+  row-gap: 0 !important;
+}
 

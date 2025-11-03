@@ -4,6 +4,8 @@ nav_order: 1
 ---
 
 # Practice documenting practice
+Solving chicken and egg problems
+{: .subtitle }
 
 Reality captivates curious outsiders loyal only to the truth. By doing, the mind meets what is, and within human action lives interactive education.
 

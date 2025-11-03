@@ -15,4 +15,6 @@ If you share the disposition, join the investigation. Keep watch, trade vantage 
 <div class="urdu" lang="ur" dir="rtl">
 ہے آدمی بجائے خود اک محشرِ خیال<br/>
 ہم انجمن سمجھتے ہیں خلوت ہی کیوں نہ ہو
+<span class="poet">— مرزا غالب</span>
 </div>
+

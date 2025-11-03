@@ -88,3 +88,32 @@ html { font-size: 17px; }
 
 /* Any horizontal rules inside content */
 .main-content hr { border: 0; height: 1px; background: var(--jtd-border-color, #e5e5e5); }
+
+
+/* ===== Urdu / Nastaliq support ===== */
+
+/* Block-level Urdu (best for poems/paragraphs) */
+.urdu,
+[lang="ur"] {
+  direction: rtl;
+  text-align: right;
+  font-family: var(--tk-urdu-font);
+  font-size: 1.1rem;     /* tune as needed */
+  line-height: 2.1;      /* Nastaliq needs generous leading */
+  letter-spacing: 0;     /* keep ligatures tidy */
+  font-variant-ligatures: contextual common-ligatures;
+}
+
+/* Inline Urdu inside LTR paragraphs */
+.urdu-inline {
+  direction: rtl;
+  unicode-bidi: isolate-override;
+  font-family: var(--tk-urdu-font);
+  font-variant-ligatures: contextual common-ligatures;
+}
+
+/* Optional: subtitle variant in Urdu */
+.subtitle.urdu {
+  line-height: 2;        /* subtitles often need a bit less leading than blocks */
+  font-weight: 400;      /* look crisper than 300 in Nastaliq */
+}

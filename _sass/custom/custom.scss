@@ -93,49 +93,45 @@ html { font-size: 17px; }
 /* ===== Urdu / Nastaliq support ===== */
 
 :root {
-  /* tweak these two to taste site-wide */
   --urdu-font-size: 1.12rem;
-  --urdu-leading: 2.35; /* was ~2.1; Nastaliq benefits from more */
+  --urdu-leading: 2.35;
 }
 
-/* Block-level Urdu (poems/paragraphs) */
+/* Block-level Urdu container */
 .urdu,
 [lang="ur"] {
   direction: rtl;
-  text-align: right;
   font-family: var(--tk-urdu-font);
   font-size: var(--urdu-font-size);
   line-height: var(--urdu-leading);
   letter-spacing: 0;
   font-variant-ligatures: contextual common-ligatures;
-  /* smoother Nastaliq rendering */
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+
+  /* match English body color */
+  color: var(--body-text-color, inherit);
 }
 
-/* Inline Urdu inside LTR paragraphs */
-.urdu-inline {
-  direction: rtl;
-  unicode-bidi: isolate-override;
-  font-family: var(--tk-urdu-font);
-  font-variant-ligatures: contextual common-ligatures;
+/* Verses: justify all lines except the last visual line */
+.urdu .verses {
+  text-align: justify;            /* justify all lines... */
+  text-align-last: right;         /* ...but last line right-aligned */
+  -moz-text-align-last: right;    /* Firefox */
+  text-justify: inter-word;
+  margin: 0;
+  color: inherit;                  /* same as body text */
 }
 
-/* Optional: subtitle in Urdu */
-.subtitle.urdu {
-  line-height: 2.15;
-  font-weight: 400;
-}
-
-/* Poet credit */
+/* Poet credit: same color as body text, no dimming */
 .urdu .poet {
   display: block;
-  margin-top: 0.5rem;   /* a bit more gap under the verse */
+  margin-top: 0.5rem;
   font-size: 0.95rem;
-  opacity: 0.85;
   font-weight: 400;
-  font-family: var(--tk-urdu-font);
-  direction: rtl;
   text-align: right;
+  direction: rtl;
+  font-family: var(--tk-urdu-font);
   line-height: 2;
-}
+  color:
+

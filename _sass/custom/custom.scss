@@ -97,7 +97,7 @@ $urdu-font-family: "Noto Nastaliq Urdu", "Noto Naskh Arabic", "Segoe UI Historic
 :root {
   --tk-urdu-font: #{$urdu-font-family};
   --urdu-font-size: 1.12rem;
-  --urdu-leading: 2.2; /* tighter overall; tweak 1.85–2.0 to taste */
+  --urdu-leading: 2.4 !important; /* tighter overall; tweak 1.85–2.0 to taste */
 }
 
 /* Base container */

@@ -5,4 +5,4 @@ nav_order: 1
 
 # Learning with the pen
 
-I will write this later.
+If thou understandest these things, explain it unto me.

@@ -26,40 +26,40 @@ _Reads 10-Ks for fun; vacations in Sarnia._
 ## Work
 
 **Program Advisory Council — Member**, York University _(2024–2025)_  
-Advised the executive program in Digital Marketing Analytics.
+Advised on curriculum and program direction for the executive certificate in Digital Marketing Analytics.
 
 **Director, Analytics**, Klick Health _(2022–2024)_  
-Led analytics across multiple pharma brands.
+Led analytics for multiple pharmaceutical brands; established standards for measurement and reporting.
 
 **Director, Analytics**, Postmedia Network _(2021–2022)_  
-Integrated audience + revenue data; rebuilt team, processes, and tooling for content analytics, campaign tracking, journey mapping, subscription attribution, and exec KPIs.
+Unified audience and revenue data; rebuilt the analytics function—team, processes, and tooling—for content performance, campaign tracking, journey mapping, amd subscription attribution.
 
 **Director, Analytics**, Dentsu _(2021)_  
-Coordinated analytics across brands; ran goal-to-tracking workshops; guided CDP builds, enabled predictive use cases, and automated reporting.
+Orchestrated cross-brand analytics; ran goal-to-tracking workshops; guided CDP implementations, enabled predictive use cases, and automated reporting.
 
 **Manager, Analytics**, Pet Valu _(2019–2020)_  
-Unified pricing, eCommerce, and loyalty data for closed-loop decisions; lead analyst on the COVID-19 ops/supply-chain task force.
+Integrated pricing, eCommerce, and loyalty data to enable closed-loop decisioning; served as lead analyst on the COVID-19 operations and supply-chain task force.
 
 **Director, Marketing**, Saudi Research & Marketing Group _(2016–2017)_  
-Built an in-house, full-service agency in Jeddah for sister companies and select clients; stood up team and operating model across creative, media, and analytics.
+Established an in-house, full-service agency under SPPC for group companies and select clients; built the team and operating model across creative, media, and analytics.
 
 **Trainer, Digital Marketing**, EduPristine (MENA) _(2015–2017)_  
-Delivered executive courses across Saudi Arabia and neighboring countries.
+Delivered executive education programs across Saudi Arabia and neighboring countries.
 
 **Consultant**, Taurus Advertising Agency _(2014–2016)_  
-Built the digital department from scratch—people, process, tools; shipped web/app projects, programmatic & automation work, and strategy workshops.
+Launched the digital practice; delivered web and app projects, programmatic and marketing automation initiatives, and strategy workshops.
 
 **Manager, Marketing**, Al Harithy Company _(2013–2014)_  
-Developed traditional + digital assets for major events (incl. SABIC exhibition).
+Developed traditional and digital assets for major events, including the SABIC exhibition.
 
 **Coordinator, Business**, MAI Establishment _(2010–2013)_  
-Ran operations and accounts for an HP-authorized office-supplies distributor.
+Managed operations and accounts for an HP-authorized office-supplies distributor.
 
 **Intern, Sales**, Business Standard _(2009)_  
-Worked in circulation and sales; learned how hard it is to make anyone read.
+Realized how hard it is to make anyone read.
 
 **Founder**, Bourne Aviation _(2006–2009)_  
-Built a hobby “virtual airline” community; launched a path into web dev and community management.
+Built and managed a hobby “virtual airline” community; developed early capabilities in web development, product operations, and community management.
 
 ---
 

@@ -9,7 +9,7 @@ permalink: /about/
 
 _Reads 10-Ks for fun; vacations in Sarnia._
 
-**TL;DR** — A business-obsessed generalist from an Afghani trading lineage that settled in Hyderabad ~200 years ago, raised in Jeddah. He’s worked across industries and companies of many sizes, going between analytics, finance, investor relations, marketing, and whatever else was needed, while studying and teaching. Since finishing formal school, he’s gone deeper into economics, capital allocation, and management science.
+**TL;DR** — A business-obsessed generalist from an Afghani trading lineage that settled in Hyderabad ~200 years ago, raised in Jeddah. He’s worked across industries and companies of many sizes, going between analytics, finance, investor relations, marketing, and whatever else was needed, while studying and teaching. He is now engaged in applied epistemology.
 
 ---
 

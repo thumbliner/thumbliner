@@ -7,7 +7,7 @@ permalink: /about/
 
 # Salman Khan
 
-_Operator-minded generalist across marketing, analytics, and finance; reads 10-Ks for fun; vacations in Sarnia._
+_Reads 10-Ks for fun; vacations in Sarnia._
 
 **TL;DR** — Business-obsessed generalist who reads, writes, does the math, and keeps going until it ships. Family of Afghan traders settled in Hyderabad ~200 years ago; grew up in Jeddah. Career across company sizes and stages, switching between analytics, marketing, finance, investor relations, and whatever else was needed. Post-school, went deeper into economics, capital allocation, and management science. Do you really want to know more?
 

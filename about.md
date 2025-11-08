@@ -63,8 +63,3 @@ TLDR: Salman is a business-obsessed generalist who can read, write, do basic mat
 - [LinkedIn](https://linkedin.com/in/thumbliner)
 - [GitHub](https://github.com/thumbliner)
 - [Google Scholar](https://scholar.google.ca/citations?user=GzRshSoAAAAJ&hl=en)
-
-    </div>
-  </article>
-
-</div>

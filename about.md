@@ -58,7 +58,7 @@ Ran operations and accounts for an HP-authorized office-supplies distributor.
 Worked in circulation and sales; learned how hard it is to make anyone read.
 
 **Founder**, Bourne Aviation _(2006–2009)_  
-Built a hobby “virtual airline” community; launched a path into web dev and community management; sunset to focus on university.
+Built a hobby “virtual airline” community; launched a path into web dev and community management.
 
 ---
 
@@ -67,3 +67,4 @@ Built a hobby “virtual airline” community; launched a path into web dev and 
 - [GitHub](https://github.com/thumbliner)  
 - [Google Scholar](https://scholar.google.ca/citations?user=GzRshSoAAAAJ&hl=en)
 - [LinkedIn](https://linkedin.com/in/thumbliner)  
+- [Tableau](https://linkedin.com/in/thumbliner)  

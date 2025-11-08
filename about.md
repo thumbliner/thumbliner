@@ -17,7 +17,7 @@ _Reads 10-Ks for fun; vacations in Sarnia._
 
 **Advanced Studies in Management** — University of Geneva, Switzerland _(2018–2019)_  
 **Doctorate in Business Administration (DBA)** — Toulouse Business School, France _(2014–2018)_  
-**Master of Business Administration (MBA)** — Online, United States _(2012–2014)_  
+**Master of Business Administration (MBA)** — Walden University, United States _(2012–2014)_  
 **Bachelor of Business Administration (BBA)** — Amity University, India _(2009–2012)_
 
 ---

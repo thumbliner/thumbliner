@@ -47,7 +47,7 @@ Led the design and setting up of a Digital Think Tank within a large holding com
 **Trainer, Digital Marketing**, EduPristine (MENA) (2015 – 2017)
 Delivered courses for professionals and students with a focus on practical skills and clear explanations.
 
-**Manager, Marketing**, Taurus Agency (2014 – 2016)
+**Consultant**, Taurus Agency (2014 – 2016)
 Built the Digital department from scratch to help transform this creative studio into a full-service advertising agency. Formed the team and processes to undertake website/app development, programmatic advertising, marketing automation, product launches, and social campaigns. Conducted workshops to advise clients on market analysis, positioning, and branding. Worked with clients from industries: Cosmetics, FMCG, Healthcare, Home Builder, Hospitality, NGO, Real Estate, and Transportation.
 
 **Manager, Marketing**, Al Harithy Company (2013 – 2014)

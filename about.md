@@ -9,7 +9,7 @@ permalink: /about/
 
 _Reads 10-Ks for fun; vacations in Sarnia._
 
-**TL;DR** — A descendant of Afghani traders who settled in Hyderabad ~200 years ago. He has worked across industries and company sizes, moving between analytics, finance, investor relations, marketing, operations, and whatever else was needed, while studying and teaching. He is current focus is applied epistemology.
+**TL;DR** — A descendant of those Afghani traders who settled in Hyderabad ~200 years ago. He practices across industries and company sizes, moving between analytics, finance, marketing, operations, and whatever else is needed, while studying and teaching.
 
 ---
 
@@ -24,6 +24,9 @@ _Reads 10-Ks for fun; vacations in Sarnia._
 ---
 
 ## Work
+
+**Entrepreneur**, _(Present)_  
+Capital allocation; applied-research and advisory services.
 
 **Program Advisory Council — Member**, York University _(2024–2025)_  
 Advised on curriculum and program direction for the executive certificate in Digital Marketing Analytics.

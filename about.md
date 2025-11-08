@@ -6,7 +6,7 @@ permalink: /about/
 published: false
 ---
 
-# FIRST LAST
+# SALMAN KHAN
 Toronto, Ontario · linkedin.com/in/thumbliner · github.com/thumbliner
 
 ## Executive Profile
@@ -47,40 +47,8 @@ Supported efforts to bring audience and revenue data into a single view. Focused
 **Manager, Marketing**, Taurus Agency & ACE Creative (2013 – 2016)
 
 ## Technical Skills
-- **Tools:** Tableau, Alteryx, Power BI  
-- **Web:** Google Analytics, Adobe Analytics  
-- **CRM & AdTech:** Salesforce, Marketo
+Tableau · Alteryx · Power BI · Google Analytics · Adobe Analytics · Salesforce · Marketo
 
-<hr>
-
-<!-- Structured data for search engines -->
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Person",
-  "name": "Salman Khan",
-  "url": "{{ site.url }}{{ page.url }}",
-  "sameAs": [
-    "https://www.linkedin.com/in/thumbliner",
-    "https://github.com/thumbliner"
-  ],
-  "knowsAbout": [
-    "analytics",
-    "communication",
-    "finance",
-    "marketing",
-  ],
-  "alumniOf": [
-    { "@type": "CollegeOrUniversity", "name": "Toulouse Business School" },
-    { "@type": "CollegeOrUniversity", "name": "University of Geneva" }
-  ],
-  "affiliation": [
-    { "@type": "Organization", "name": "York University" },
-  ],
-  "skills": [
-    "Tableau", "Alteryx", "Power BI",
-    "Google Analytics", "Adobe Analytics",
-    "Salesforce", "Marketo"
-  ]
-}
-</script>
+## Publications
+“Chief Reputation Officer (CRO): Envisioning the Role” — *Corporate Reputation Review*  
+“The Corporate Reputation Reporting Framework (CRRF)” — *Corporate Reputation Review*

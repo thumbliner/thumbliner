@@ -3,8 +3,8 @@ title: Home
 nav_order: 1
 ---
 
-# Practice documenting practice
-_Solving chicken and egg problems_
+# Learning by the pen
+_Learning what I know not_
 
 Reality captivates curious outsiders loyal only to the truth. By doing, the mind meets what is, and within human action lives interactive education.
 

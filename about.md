@@ -9,7 +9,7 @@ permalink: /about/
 
 _Reads 10-Ks for fun; vacations in Sarnia._
 
-**TL;DR** — A business-obsessed generalist from an Afghani trading lineage that settled in Hyderabad ~200 years ago, raised in Jeddah. He’s worked across industries and companies of many sizes, going between analytics, finance, investor relations, marketing, and whatever else was needed, while studying and teaching. He is now engaged in applied epistemology.
+**TL;DR** — A descendant of Afghani traders who settled in Hyderabad ~200 years ago. He has worked across industries and company sizes, moving between analytics, finance, investor relations, marketing, operations, and whatever else was needed, while studying and teaching. He is current focus is applied epistemology.
 
 ---
 
@@ -19,6 +19,7 @@ _Reads 10-Ks for fun; vacations in Sarnia._
 **Doctorate in Business Administration (DBA)** — Toulouse Business School, France _(2014–2018)_  
 **Master of Business Administration (MBA)** — Walden University, United States _(2012–2014)_  
 **Bachelor of Business Administration (BBA)** — Amity University, India _(2009–2012)_
+**International Indian School Jeddah** — Saudi Arabia _(1995–2009)_
 
 ---
 

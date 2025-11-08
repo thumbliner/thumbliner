@@ -52,7 +52,7 @@ Built the digital department from scratch—people, process, tools; shipped web/
 **Manager, Marketing**, Al Harithy Company _(2013–2014)_  
 Developed traditional + digital assets for major events (incl. SABIC exhibition).
 
-**Coordinator, Business**, MAI Trading Establishment _(2010–2013)_  
+**Coordinator, Business**, MAI Establishment _(2010–2013)_  
 Ran operations and accounts for an HP-authorized office-supplies distributor.
 
 **Intern, Sales**, Business Standard _(2009)_  

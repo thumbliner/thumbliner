@@ -3,7 +3,7 @@ layout: default
 title: About
 nav_order: 2
 permalink: /about/
-published:false
+published: false
 ---
 
 # FIRST LAST

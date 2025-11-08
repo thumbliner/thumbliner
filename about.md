@@ -25,7 +25,7 @@ _Reads 10-Ks for fun; vacations in Sarnia._
 
 ## Work
 
-**Entrepreneur**, _(Present)_  
+**Entrepreneur** _(Present)_  
 Capital allocation; applied-research and advisory services.
 
 **Program Advisory Council — Member**, York University _(2024–2025)_  
@@ -72,3 +72,7 @@ Built and managed a hobby “virtual airline” community; developed early capab
 - [Google Scholar](https://scholar.google.ca/citations?user=GzRshSoAAAAJ&hl=en)
 - [LinkedIn](https://linkedin.com/in/thumbliner)  
 - [Tableau](https://linkedin.com/in/thumbliner)  
+
+---
+
+A [reading]('/reading/') list reveals more than a resume.

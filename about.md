@@ -9,17 +9,7 @@ permalink: /about/
 
 _Reads 10-Ks for fun; vacations in Sarnia._
 
-**TL;DR** — Business-obsessed generalist who reads, writes, does the math, and keeps going until it ships. Family of Afghan traders settled in Hyderabad ~200 years ago; grew up in Jeddah. Career across company sizes and stages, switching between analytics, marketing, finance, investor relations, and whatever else was needed. Post-school, went deeper into economics, capital allocation, and management science. Do you really want to know more?
-
----
-
-## At a glance
-
-- **Focus:** analytics leadership, decision systems, and pragmatic ops  
-- **Strengths:** sense-making, KPI design, closed-loop measurement, stakeholder alignment  
-- **Toolbox:** experimentation, attribution, forecasting, pricing & promo analytics, exec reporting  
-- **Sectors:** pharma, media, retail, events, education, aviation (community)  
-- **Teaching:** ran executive workshops and taught digital marketing across MENA
+**TL;DR** — A business-obsessed generalist from an Afghani trading lineage that settled in Hyderabad ~200 years ago, raised in Jeddah. He’s worked across industries and companies of many sizes, going between analytics, finance, investor relations, marketing, and whatever else was needed, while studying and teaching. Since finishing formal school, he’s gone deeper into economics, capital allocation, and management science.
 
 ---
 

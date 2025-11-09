@@ -13,8 +13,8 @@ There is something here to offend everyone.
 
 
 | Title | Author | Year | 
-|---|---|---:|
-| Quran |  | 610–632 |
+|---|---|---|
+| Quran |  | 632 |
 | The Muqaddimah: An Introduction to History | Ibn Khaldun | 1377 |
 | Dīvān-e-Ghalib | Mirza Ghalib | 1841 |
 | Principles of Economics | Carl Menger | 1871 |

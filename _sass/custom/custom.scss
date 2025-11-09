@@ -195,3 +195,12 @@ table .link, table .comments { white-space: nowrap; }
     white-space: nowrap;
   }
 }
+
+/* Ensure table headers use body font (not UI font) */
+.page-content thead th,
+.post-content thead th,
+article thead th {
+  font-family: "EB Garamond", serif; /* or simply `inherit` if you prefer */
+  font-weight: 600;
+  letter-spacing: 0.01em;
+}

@@ -20,7 +20,7 @@ Recommended for literary quality, despite points of disagreement.
 | Dīvān-e-Ghalib (Collection) | Mirza Ghalib | 1841 |
 | Principles of Economics | Carl Menger | 1871 |
 | Man's Search for Meaning | Viktor E. Frankl | 1946 |
-| Man, Economy, and State with Power and Market | Murray Rothbard | 1962 |
+| For a New Liberty | Murray Rothbard | 1985 |
 | Nuskha-hā-e-Wafā (Recipes of Loyalty) | Faiz Ahmed Faiz | 1985 |
 | The Blind Watchmaker | Richard Dawkins | 1986 |
 | Universals: An Opinionated Introduction | D. M. Armstrong | 1989 |

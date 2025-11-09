@@ -7,8 +7,6 @@ permalink: /about/
 
 # Salman Khan
 
-_Reads 10-Ks for fun; vacations in Sarnia._
-
 **TL;DR** — A descendant of Afghani traders who settled in Hyderabad ~200 years ago. He practices across industries and company sizes, moving between analytics, finance, marketing, operations, and whatever else is needed, while studying and teaching. His [reading list](/reading/) is more revealing than his resume.
 
 ---

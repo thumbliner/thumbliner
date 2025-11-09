@@ -9,7 +9,6 @@ parent: About
 
 
 Recommended for literary quality, despite points of disagreement.
-There is something here to offend everyone.
 
 
 | Title | Author | Year | 
@@ -31,3 +30,6 @@ There is something here to offend everyone.
 | Good Charts | Scott Berinato | 2016 |
 | It Doesn't Have to Be Crazy at Work | Jason Fried | 2018 |
 | Avoiding Data Pitfalls | Ben Jones | 2019 |
+
+
+There is something to offend everyone.

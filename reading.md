@@ -13,7 +13,7 @@ Recommended for literary quality, despite points of disagreement.
 
 | Title | Author | Year | 
 |---|---|---|
-| Quran |  | 632 |
+| The Quran |  | 632 |
 | The Muqaddimah: An Introduction to History | Ibn Khaldun | 1377 |
 | Dīvān-e-Ghalib | Mirza Ghalib | 1841 |
 | Principles of Economics | Carl Menger | 1871 |

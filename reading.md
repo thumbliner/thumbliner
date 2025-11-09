@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Reading List"
-permalink: /reading/
+permalink: /about/reading/
 parent: About
 ---
 

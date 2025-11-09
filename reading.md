@@ -2,9 +2,11 @@
 layout: default
 title: "Thumbliner — Reading"
 permalink: /reading/
+parent: About
 ---
 
 # Reading
+Recommended for literary quality, despite points of disagreement.
 There is something on this page to offend everyone.
 
 | Title | Author | Year | Link | Comments |
@@ -26,3 +28,5 @@ There is something on this page to offend everyone.
 | Good Charts: The HBR Guide to Making Smarter, More Persuasive Data Visualizations | Scott Berinato | 2016 | <https://www.goodreads.com/book/show/27038049-good-charts> |  |
 | It Doesn't Have to Be Crazy at Work | Jason Fried | 2018 | <https://www.goodreads.com/book/show/38900866-it-doesn-t-have-to-be-crazy-at-work> |  |
 | Avoiding Data Pitfalls: How to Steer Clear of Common Blunders When Working with Data and Presenting Analysis and Visualizations | Ben Jones | 2019 | <https://www.goodreads.com/book/show/31020428-avoiding-data-pitfalls> |  |
+
+Staying current means reading widely and skipping moderation in favor of the sharpest voices from every camp.

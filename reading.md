@@ -10,7 +10,7 @@ Recommended for literary quality, despite points of disagreement.
 There is something on this page to offend everyone.
 
 | Title | Author | Year | 
-|---|---|---:|---|---|
+|---|---|---:|
 | Quran |  | 610–632 |  |
 | The Muqaddimah: An Introduction to History | Ibn Khaldun | 1377 |
 | Dīvān-e-Ghalib | Mirza Ghalib | various 19th-c. eds. |

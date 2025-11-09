@@ -14,12 +14,8 @@ Recommended for literary quality, despite points of disagreement.
 | Title | Author | Year | 
 |---|---|---|
 | The Quran |  | 632 |
-| al-Munqidh min al-Ḍalāl (Deliverance from Error) | Al-Ghazālī | 1109 |
-| Muqaddimah (Introduction to History) | Ibn Khaldun | 1377 |
-| Critique of Pure Reason | Immanuel Kant | 1787 |
 | Dīvān-e-Ghalib (Collection) | Mirza Ghalib | 1841 |
 | Principles of Economics | Carl Menger | 1871 |
-| Man's Search for Meaning | Viktor E. Frankl | 1946 |
 | For a New Liberty | Murray Rothbard | 1985 |
 | Nuskha-hā-e-Wafā (Recipes of Loyalty) | Faiz Ahmed Faiz | 1985 |
 | The Blind Watchmaker | Richard Dawkins | 1986 |

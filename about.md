@@ -72,5 +72,3 @@ Built and managed a hobby “virtual airline” community; developed early capab
 - [Google Scholar](https://scholar.google.ca/citations?user=GzRshSoAAAAJ&hl=en)
 - [LinkedIn](https://linkedin.com/in/thumbliner)  
 - [Tableau](https://linkedin.com/in/thumbliner)  
-
----

@@ -138,3 +138,56 @@ $urdu-font-family: "Noto Nastaliq Urdu", "Noto Naskh Arabic", "Segoe UI Historic
   line-height: 1.9;
 }
 
+
+
+/* --- Tables: readable + mobile-friendly --- */
+.page-content table,
+.post-content table,
+article table {
+  width: 100%;
+  border-collapse: collapse;
+  font-variant-numeric: tabular-nums;
+}
+
+.page-content th, .page-content td,
+.post-content th, .post-content td,
+article th, article td {
+  padding: 0.55rem 0.7rem;
+  border-bottom: 1px solid #e5e7eb;
+  vertical-align: top;
+  line-height: 1.4;
+}
+
+.page-content thead th,
+.post-content thead th,
+article thead th {
+  text-align: left;
+  font-weight: 600;
+  background: #fff;
+}
+
+.page-content tbody tr:nth-child(odd),
+.post-content tbody tr:nth-child(odd),
+article tbody tr:nth-child(odd) {
+  background: rgba(0,0,0,0.03);
+}
+
+/* Long URLs won’t blow out the layout */
+.page-content td a,
+.post-content td a,
+article td a {
+  word-break: break-word;
+  overflow-wrap: anywhere;
+}
+
+/* Mobile: allow horizontal pan if needed */
+@media (max-width: 720px) {
+  .page-content table,
+  .post-content table,
+  article table {
+    display: block;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    white-space: nowrap;
+  }
+}

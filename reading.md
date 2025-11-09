@@ -17,9 +17,7 @@ Recommended for literary quality, despite points of disagreement.
 | The Muqaddimah: An Introduction to History | Ibn Khaldun | 1377 |
 | Critique of Pure Reason | Immanuel Kant | 1787 |
 | Dīvān-e-Ghalib | Mirza Ghalib | 1841 |
-| The Painter of Modern Life | Charles Baudelaire | 1863 |
 | Principles of Economics | Carl Menger | 1871 |
-| Thinking as a Science | Henry Hazlitt | 1916 |
 | Man's Search for Meaning | Viktor E. Frankl | 1946 |
 | Philosophical Investigations | Ludwig Wittgenstein | 1953 |
 | Man, Economy, and State with Power and Market | Murray Rothbard | 1962 |

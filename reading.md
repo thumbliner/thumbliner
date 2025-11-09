@@ -5,10 +5,12 @@ permalink: /reading/
 parent: About
 ---
 
-# Reading
+# Reading List
 
 Recommended for literary quality, despite points of disagreement.
+
 There is something here to offend everyone.
+
 
 | Title | Author | Year | 
 |---|---|---:|

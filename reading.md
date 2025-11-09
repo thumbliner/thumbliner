@@ -17,6 +17,7 @@ Recommended for literary quality, despite points of disagreement.
 | The Muqaddimah: An Introduction to History | Ibn Khaldun | 1377 |
 | Critique of Pure Reason | Immanuel Kant | 1787 |
 | Dīvān-e-Ghalib | Mirza Ghalib | 1841 |
+| The Painter of Modern Life | Charles Baudelaire | 1863 |
 | Principles of Economics | Carl Menger | 1871 |
 | Thinking as a Science | Henry Hazlitt | 1916 |
 | Man's Search for Meaning | Viktor E. Frankl | 1946 |
@@ -24,12 +25,16 @@ Recommended for literary quality, despite points of disagreement.
 | Man, Economy, and State with Power and Market | Murray Rothbard | 1962 |
 | Nuskha-hā-e-Wafā | Faiz Ahmed Faiz | 1985 |
 | The Blind Watchmaker | Richard Dawkins | 1986 |
+| Universals: An Opinionated Introduction | D. M. Armstrong | 1989 |
+| Descartes’ Error | Damasio | 1994 |
 | Economic Science and the Austrian Method | Hans-Hermann Hoppe | 1995 |
+| Simple Heuristics That Make Us Smart | Gigerenzer, Todd & the ABC Group | 1999 |
 | Perfectly Reasonable Deviations from the Beaten Track | Richard Feynman | 2005 |
 | Mises: The Last Knight of Liberalism | Jörg Guido Hülsmann | 2007 |
 | Clear and Simple as the Truth | Francis-Noël Thomas; Mark Turner | 2011 |
 | Berkshire Beyond Buffett | Lawrence A. Cunningham | 2014 |
 | Good Charts | Scott Berinato | 2016 |
 | Avoiding Data Pitfalls | Ben Jones | 2019 |
+
 
 There is something to offend everyone.

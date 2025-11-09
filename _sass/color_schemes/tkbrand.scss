@@ -88,7 +88,7 @@ $mono-font-family: monospace;
 :root { --tk-ui-font: "Lato", sans-serif; }
 .site-title, .site-nav, .side-bar, .nav-list, .breadcrumbs,
 .search, .search-input, .btn, .button, .pagination, .label, .badge,
-.table-wrapper th, .toc, .toc-entry, .site-footer { font-family: var(--tk-ui-font); }
+.toc, .toc-entry, .site-footer { font-family: var(--tk-ui-font); }
 
 /* Urdu font (variables only) */
 $urdu-font-family: "Noto Nastaliq Urdu", "Noto Naskh Arabic", "Segoe UI Historic", serif;

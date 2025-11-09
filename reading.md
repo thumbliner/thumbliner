@@ -7,13 +7,13 @@ parent: About
 
 # Reading
 Recommended for literary quality, despite points of disagreement.
-There is something on this page to offend everyone.
+There is something here to offend everyone.
 
 | Title | Author | Year | 
 |---|---|---:|
 | Quran |  | 610–632 |
 | The Muqaddimah: An Introduction to History | Ibn Khaldun | 1377 |
-| Dīvān-e-Ghalib | Mirza Ghalib | various 19th-c. eds. |
+| Dīvān-e-Ghalib | Mirza Ghalib | 1841 |
 | Principles of Economics | Carl Menger | 1871 |
 | Man's Search for Meaning | Viktor E. Frankl | 1946 |
 | For a New Liberty: The Libertarian Manifesto | Murray Rothbard | 1973 |
@@ -28,5 +28,3 @@ There is something on this page to offend everyone.
 | Good Charts: The HBR Guide to Making Smarter, More Persuasive Data Visualizations | Scott Berinato | 2016 |
 | It Doesn't Have to Be Crazy at Work | Jason Fried | 2018 |
 | Avoiding Data Pitfalls: How to Steer Clear of Common Blunders When Working with Data and Presenting Analysis and Visualizations | Ben Jones | 2019 |
-
-Staying current means reading widely and skipping moderation in favor of the sharpest voices from every camp.

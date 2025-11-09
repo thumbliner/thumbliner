@@ -7,8 +7,8 @@ parent: About
 
 # Reading List
 
-Recommended for literary quality, despite points of disagreement.
 
+Recommended for literary quality, despite points of disagreement.
 There is something here to offend everyone.
 
 
@@ -19,15 +19,15 @@ There is something here to offend everyone.
 | Dīvān-e-Ghalib | Mirza Ghalib | 1841 |
 | Principles of Economics | Carl Menger | 1871 |
 | Man's Search for Meaning | Viktor E. Frankl | 1946 |
-| For a New Liberty: The Libertarian Manifesto | Murray Rothbard | 1973 |
+| For a New Liberty | Murray Rothbard | 1973 |
 | Nuskha-hā-e-Wafā | Faiz Ahmed Faiz | 1985 |
 | Economic Science and the Austrian Method | Hans-Hermann Hoppe | 1995 |
-| Cognitive Science: An Introduction to the Study of Mind | Jay Daniels Friedenberg | 2006 |
+| Cognitive Science | Jay Daniels Friedenberg | 2006 |
 | Mises: The Last Knight of Liberalism | Jörg Guido Hülsmann | 2007 |
-| In Search of the Obvious: The Antidote for Today's Marketing Mess | Jack Trout | 2008 |
+| In Search of the Obvious | Jack Trout | 2008 |
 | The Great Depression: A Diary | Benjamin Roth | 2009 |
 | Clear and Simple as the Truth | Francis-Noël Thomas; Mark Turner | 2011 |
-| Berkshire Beyond Buffett: The Enduring Value of Values | Lawrence A. Cunningham | 2014 |
-| Good Charts: The HBR Guide to Making Smarter, More Persuasive Data Visualizations | Scott Berinato | 2016 |
+| Berkshire Beyond Buffett | Lawrence A. Cunningham | 2014 |
+| Good Charts | Scott Berinato | 2016 |
 | It Doesn't Have to Be Crazy at Work | Jason Fried | 2018 |
-| Avoiding Data Pitfalls: How to Steer Clear of Common Blunders When Working with Data and Presenting Analysis and Visualizations | Ben Jones | 2019 |
+| Avoiding Data Pitfalls | Ben Jones | 2019 |

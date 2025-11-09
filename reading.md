@@ -1,11 +1,12 @@
 ---
 layout: default
-title: "Thumbliner — Reading"
+title: "Reading List"
 permalink: /reading/
 parent: About
 ---
 
 # Reading
+
 Recommended for literary quality, despite points of disagreement.
 There is something here to offend everyone.
 

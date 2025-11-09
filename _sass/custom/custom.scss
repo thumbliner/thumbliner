@@ -52,14 +52,8 @@ html { font-size: 17px; }
   line-height: 1.3;
   text-align: left;
 }
-
-/* same left gutter as the nav list on small vs. large screens */
-@media (max-width: 65.999rem) {
-  .side-bar .nav-footer { padding-left: 1rem; }
-}
-@media (min-width: 66rem) {
-  .side-bar .nav-footer { padding-left: 1.25rem; }
-}
+@media (max-width: 65.999rem) { .side-bar .nav-footer { padding-left: 1rem; } }
+@media (min-width: 66rem) { .side-bar .nav-footer { padding-left: 1.25rem; } }
 
 /* Footer line in sidebar: non-interactive look */
 .side-bar .nav-footer a {
@@ -68,12 +62,11 @@ html { font-size: 17px; }
   cursor: default;
 }
 
-
 .subtitle {
   margin-top: -0.25rem;
   font-size: 1.05rem;
   font-weight: 300;
-  color: #6b7280; /* a calm gray */
+  color: #6b7280; /* NOTE: if you want this color tokenized, move to brand.css */
 }
 
 
@@ -140,47 +133,58 @@ $urdu-font-family: "Noto Nastaliq Urdu", "Noto Naskh Arabic", "Segoe UI Historic
 
 
 
-/* --- Tables: readable + mobile-friendly --- */
+/* --- TABLES: structure & behavior (colors pulled from brand.css vars) --- */
 .page-content table,
 .post-content table,
 article table {
   width: 100%;
   border-collapse: collapse;
   font-variant-numeric: tabular-nums;
+  background: var(--tk-table-bg);              /* color from brand.css */
 }
 
+/* cells */
 .page-content th, .page-content td,
 .post-content th, .post-content td,
 article th, article td {
   padding: 0.55rem 0.7rem;
-  border-bottom: 1px solid #e5e7eb;
+  border-bottom: 1px solid var(--tk-table-border);  /* color from brand.css */
   vertical-align: top;
-  line-height: 1.4;
+  line-height: 1.45;
 }
 
+/* header row */
 .page-content thead th,
 .post-content thead th,
 article thead th {
   text-align: left;
   font-weight: 600;
-  background: #fff;
+  background: var(--tk-table-header-bg);       /* color from brand.css */
+  position: sticky;
+  top: 0;
 }
 
+/* zebra striping */
 .page-content tbody tr:nth-child(odd),
 .post-content tbody tr:nth-child(odd),
 article tbody tr:nth-child(odd) {
-  background: rgba(0,0,0,0.03);
+  background: var(--tk-table-row-alt);         /* color from brand.css */
 }
 
-/* Long URLs won’t blow out the layout */
+/* links inside tables: layout safeguards only */
 .page-content td a,
 .post-content td a,
 article td a {
   word-break: break-word;
   overflow-wrap: anywhere;
+  text-underline-offset: 2px;
 }
 
-/* Mobile: allow horizontal pan if needed */
+/* optional per-table ergonomics (no colors) */
+table .year { text-align: right; white-space: nowrap; width: 6ch; }
+table .link, table .comments { white-space: nowrap; }
+
+/* Mobile: horizontal pan if needed */
 @media (max-width: 720px) {
   .page-content table,
   .post-content table,

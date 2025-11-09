@@ -27,6 +27,7 @@ Recommended for literary quality, despite points of disagreement.
 | Mises: The Last Knight of Liberalism | Jörg Guido Hülsmann | 2007 |
 | A History of the Dvaita School of Vedānta and Its Literature | B. N. K. Sharma | 2008 |
 | Clear and Simple as the Truth | Francis-Noël Thomas; Mark Turner | 2011 |
+| Edelweiss Journal | Tony Deden | 2011 |
 | Berkshire Beyond Buffett | Lawrence A. Cunningham | 2014 |
 | Good Charts | Scott Berinato | 2016 |
 | Avoiding Data Pitfalls | Ben Jones | 2019 |

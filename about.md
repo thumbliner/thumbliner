@@ -9,7 +9,7 @@ permalink: /about/
 
 _Reads 10-Ks for fun; vacations in Sarnia._
 
-**TL;DR** — A descendant of those Afghani traders who settled in Hyderabad ~200 years ago. He practices across industries and company sizes, moving between analytics, finance, marketing, operations, and whatever else is needed, while studying and teaching.
+**TL;DR** — A descendant of those Afghani traders who settled in Hyderabad ~200 years ago. He practices across industries and company sizes, moving between analytics, finance, marketing, operations, and whatever else is needed, while studying and teaching. The [reading]('/reading/') list reveals more than the resume.
 
 ---
 
@@ -74,5 +74,3 @@ Built and managed a hobby “virtual airline” community; developed early capab
 - [Tableau](https://linkedin.com/in/thumbliner)  
 
 ---
-
-A [reading]('/reading/') list reveals more than a resume.

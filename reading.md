@@ -15,7 +15,6 @@ Recommended despite points of disagreement.
 | Dīvān-e-Ghalib (Collection) | Mirza Ghalib | 1841 |
 | Principles of Economics | Carl Menger | 1871 |
 | Nuskha-hā-e-Wafā (Recipes of Fidelity) | Faiz Ahmed Faiz | 1985 |
-| Simple Heuristics That Make Us Smart | Gigerenzer, Todd & the ABC Group | 1999 |
 | Perfectly Reasonable Deviations from the Beaten Track | Richard Feynman | 2005 |
 | Mises: The Last Knight of Liberalism | Jörg Guido Hülsmann | 2007 |
 | A History of the Dvaita School of Vedānta and Its Literature | B. N. K. Sharma | 2008 |
@@ -27,4 +26,4 @@ Recommended despite points of disagreement.
 | To Hell and Back: An Autobiography | Niki Lauda | 2021 |
 | How Charts Work: Understand and Explain Data with Confidence | Alan Smith | 2022 |
 
-All are suitable for the curious general reader.
+Suitable for the curious general reader.

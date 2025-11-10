@@ -8,7 +8,7 @@ parent: About
 # Reading List
 
 
-Recommended for literary quality, despite points of disagreement.
+Recommended despite points of disagreement.
 
 
 | Title | Author | Year | 
@@ -18,8 +18,6 @@ Recommended for literary quality, despite points of disagreement.
 | Principles of Economics | Carl Menger | 1871 |
 | For a New Liberty | Murray Rothbard | 1985 |
 | Nuskha-hā-e-Wafā (Recipes of Loyalty) | Faiz Ahmed Faiz | 1985 |
-| Universals: An Opinionated Introduction | D. M. Armstrong | 1989 |
-| Descartes’ Error | Damasio | 1994 |
 | Economic Science and the Austrian Method | Hans-Hermann Hoppe | 1995 |
 | Simple Heuristics That Make Us Smart | Gigerenzer, Todd & the ABC Group | 1999 |
 | Information Visualization: Perception for Design | Colin Ware | 2004 |

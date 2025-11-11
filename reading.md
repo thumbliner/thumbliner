@@ -23,6 +23,5 @@ Recommended despite points of disagreement.
 | Berkshire Beyond Buffett: The Enduring Value of Values | Lawrence A. Cunningham | 2014 |
 | Pep Confidential: The Inside Story of Pep Guardiola's First Season at Bayern Munich | Martí Perarnau | 2014 |
 | To Hell and Back: An Autobiography | Niki Lauda | 2021 |
-| How Charts Work: Understand and Explain Data with Confidence | Alan Smith | 2022 |
 
 Suitable for the curious general reader.

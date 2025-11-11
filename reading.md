@@ -22,7 +22,7 @@ Recommended despite points of disagreement.
 | Clear and Simple as the Truth | Francis-Noël Thomas; Mark Turner | 2011 |
 | Edelweiss Journal | Tony Deden | 2011 |
 | Berkshire Beyond Buffett | Lawrence A. Cunningham | 2014 |
-| Pep Guardiola: Another Way of Winning | Guillem Balagué | 2019 |
+| Pep Confidential: The Inside Story of Pep Guardiola's First Season at Bayern Munich | Martí Perarnau | 2014 |
 | To Hell and Back: An Autobiography | Niki Lauda | 2021 |
 | How Charts Work: Understand and Explain Data with Confidence | Alan Smith | 2022 |
 

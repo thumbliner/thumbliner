@@ -12,8 +12,7 @@ Recommended despite points of disagreement.
 | Title | Author | Year | 
 |---|---|---|
 | The Quran |  | 632 |
-| Dīvān-e-Ghalib (Collection) | Mirza Ghalib | 1841 |
-| Principles of Economics | Carl Menger | 1871 |
+| Dīvān-e-Ghalib | Mirza Ghalib | 1841 |
 | Nuskha-hā-e-Wafā (Recipes of Fidelity) | Faiz Ahmed Faiz | 1985 |
 | Perfectly Reasonable Deviations from the Beaten Track | Richard Feynman | 2005 |
 | Mises: The Last Knight of Liberalism | Jörg Guido Hülsmann | 2007 |
@@ -21,7 +20,7 @@ Recommended despite points of disagreement.
 | The Greatest Show on Earth: The Evidence for Evolution | Richard Dawkins | 2009 |
 | Clear and Simple as the Truth | Francis-Noël Thomas; Mark Turner | 2011 |
 | Edelweiss Journal | Tony Deden | 2011 |
-| Berkshire Beyond Buffett | Lawrence A. Cunningham | 2014 |
+| Berkshire Beyond Buffett: The Enduring Value of Values | Lawrence A. Cunningham | 2014 |
 | Pep Confidential: The Inside Story of Pep Guardiola's First Season at Bayern Munich | Martí Perarnau | 2014 |
 | To Hell and Back: An Autobiography | Niki Lauda | 2021 |
 | How Charts Work: Understand and Explain Data with Confidence | Alan Smith | 2022 |

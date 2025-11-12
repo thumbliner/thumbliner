@@ -7,7 +7,7 @@ permalink: /about/
 
 # Salman Khan
 
-**TL;DR** — A descendant of Afghani traders who settled in Hyderabad ~200 years ago. He practices across industries and company sizes, moving between analytics, finance, marketing, operations, and whatever else is needed, while studying and teaching.
+Born in 92; grew up at the doorstep of Mecca. A descendant of Afghani traders who settled in Hyderabad ~200 years ago.
 
 ---
 

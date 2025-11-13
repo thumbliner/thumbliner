@@ -7,7 +7,7 @@ permalink: /about/
 
 # Salman Khan
 
-Born in 92; grew up at the doorstep of Mecca. A descendant of Afghani traders who settled in Hyderabad ~200 years ago.
+Born in 92; descendant of Afghani traders who settled in Hyderabad ~200 years ago.
 
 ---
 

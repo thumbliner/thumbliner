@@ -1,13 +1,12 @@
 ---
 layout: default
-title: "Reading List"
-permalink: /reading/
+title: "Shelfie"
+permalink: /shelfie/
 parent: About
 ---
 
-# Reading List
-
-All these are suitable for a curious generalist.
+# Shelfie
+_Poor Salman's Capital_
 
 <br><br>
 
@@ -26,4 +25,3 @@ All these are suitable for a curious generalist.
 | Pep Confidential: The Inside Story of Pep Guardiola's First Season at Bayern Munich | Martí Perarnau | 2014 |
 | To Hell and Back: An Autobiography | Niki Lauda | 2021 |
 
-<br><br>

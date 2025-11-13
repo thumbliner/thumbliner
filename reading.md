@@ -16,13 +16,10 @@ All these are suitable for a curious generalist.
 | Nuskha-hā-e-Wafā (Recipes of Fidelity) | Faiz Ahmed Faiz | 1985 |
 | Perfectly Reasonable Deviations from the Beaten Track | Richard Feynman | 2005 |
 | Mises: The Last Knight of Liberalism | Jörg Guido Hülsmann | 2007 |
-| A History of the Dvaita School of Vedānta and Its Literature | B. N. K. Sharma | 2008 |
+| A History of the Dvaita School of Vedānta and its Literature | B. N. K. Sharma | 2008 |
 | The Greatest Show on Earth: The Evidence for Evolution | Richard Dawkins | 2009 |
 | Clear and Simple as the Truth | Francis-Noël Thomas; Mark Turner | 2011 |
-| Edelweiss Journal | Tony Deden | 2011 |
+| Edelweiss Journal | Tony Deden; Michael Weeks | 2011 |
 | Berkshire Beyond Buffett: The Enduring Value of Values | Lawrence A. Cunningham | 2014 |
 | Pep Confidential: The Inside Story of Pep Guardiola's First Season at Bayern Munich | Martí Perarnau | 2014 |
 | To Hell and Back: An Autobiography | Niki Lauda | 2021 |
-
-“Truth does not contradict truth.”
-— Ibn Rushd

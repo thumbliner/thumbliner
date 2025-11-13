@@ -9,6 +9,8 @@ parent: About
 
 All these are suitable for a curious generalist.
 
+<br><br>
+
 | Title | Author | Year | 
 |:---|:---|:---|
 | The Quran |  | 632 |
@@ -23,3 +25,5 @@ All these are suitable for a curious generalist.
 | Berkshire Beyond Buffett: The Enduring Value of Values | Lawrence A. Cunningham | 2014 |
 | Pep Confidential: The Inside Story of Pep Guardiola's First Season at Bayern Munich | Martí Perarnau | 2014 |
 | To Hell and Back: An Autobiography | Niki Lauda | 2021 |
+
+<br><br>

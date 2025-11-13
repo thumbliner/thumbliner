@@ -7,10 +7,10 @@ parent: About
 
 # Reading List
 
-Recommended despite points of disagreement.
+All these are suitable for a curious generalist.
 
 | Title | Author | Year | 
-|---|---|---|
+|:---|:---|:---|
 | The Quran |  | 632 |
 | Dīvān-e-Ghalib | Mirza Ghalib | 1841 |
 | Nuskha-hā-e-Wafā (Recipes of Fidelity) | Faiz Ahmed Faiz | 1985 |
@@ -24,4 +24,5 @@ Recommended despite points of disagreement.
 | Pep Confidential: The Inside Story of Pep Guardiola's First Season at Bayern Munich | Martí Perarnau | 2014 |
 | To Hell and Back: An Autobiography | Niki Lauda | 2021 |
 
-Suitable for the curious general reader.
+“Truth does not contradict truth.”
+- Ibn Rushd

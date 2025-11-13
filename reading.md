@@ -25,4 +25,4 @@ All these are suitable for a curious generalist.
 | To Hell and Back: An Autobiography | Niki Lauda | 2021 |
 
 “Truth does not contradict truth.”
-- Ibn Rushd
+— Ibn Rushd

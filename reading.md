@@ -8,7 +8,6 @@ parent: About
 # Shelfie
 _Poor Salman's Capital_
 
-<br><br>
 
 | Title | Author | Year | 
 |:---|:---|:---|

@@ -23,3 +23,14 @@ _Poor Salman's Capital_
 | Berkshire Beyond Buffett: The Enduring Value of Values | Lawrence A. Cunningham | 2014 |
 | Pep Confidential: The Inside Story of Pep Guardiola's First Season at Bayern Munich | Martí Perarnau | 2014 |
 | To Hell and Back: An Autobiography | Niki Lauda | 2021 |
+
+
+<div class="urdu" lang="ur" dir="rtl">
+  <div class="verses">
+    <div class="misra">جنگ کے اور بھی تو میدان ہیں</div>
+    <div class="misra">صرف میدانِ کِشت و خوں ہی نہیں</div>
+    <div class="misra">حاصلِ زندگی خرد بھی ہے</div>
+    <div class="misra">حاصلِ زندگی جنوں ہی نہیں</div>
+    <div class="poet">— ساحر لدھیانوی</div>
+  </div>
+</div>

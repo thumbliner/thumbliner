@@ -28,7 +28,7 @@ _Poor Salman's Capital_
 <div class="urdu" lang="ur" dir="rtl">
   <div class="verses">
     <div class="misra">جنگ کے اور بھی تو میدان ہیں</div>
-    <div class="misra">صرف میدانِ کِشت و خوں ہی نہیں</div>
+    <div class="misra">صرف میدانِ کشت و خوں ہی نہیں</div>
     <div class="misra">حاصلِ زندگی خرد بھی ہے</div>
     <div class="misra">حاصلِ زندگی جنوں ہی نہیں</div>
     <div class="poet">— ساحر لدھیانوی</div>

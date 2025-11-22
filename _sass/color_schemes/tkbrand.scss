@@ -96,6 +96,12 @@ $urdu-font-family: "Noto Nastaliq Urdu", "Noto Naskh Arabic", "Segoe UI Historic
 /* Expose as a CSS var for easy use in CSS-only contexts */
 :root { --tk-urdu-font: #{$urdu-font-family}; }
 
+/* Hindi font (Mukta, variables only) */
+$hindi-font-family: "Mukta", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+
+/* Expose as a CSS var for easy use in CSS-only contexts */
+:root { --tk-hindi-font: #{$hindi-font-family}; }
+
 
 /* Sidebar nav affordances */
 .side-bar .nav-list .nav-list-item > .nav-list-link.active { color: $tk-deep-teal; }

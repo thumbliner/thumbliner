@@ -83,13 +83,13 @@ html { font-size: 17px; }
 .main-content hr { border: 0; height: 1px; background: var(--jtd-border-color, #e5e5e5); }
 
 
-/* ===== Urdu / Nastaliq — simple, no-justification ===== */
+/* ===== Urdu / Nastaliq ===== */
 
 $urdu-font-family: "Noto Nastaliq Urdu", "Noto Naskh Arabic", "Segoe UI Historic", serif;
 
 :root {
   --tk-urdu-font: #{$urdu-font-family};
-  --urdu-leading: 2.2 !important; /* tighter overall; tweak 1.85–2.0 to taste */
+  --urdu-leading: 2.2; /* tighter overall; tweak 1.85–2.0 to taste */
 }
 
 /* Base container */
@@ -118,16 +118,64 @@ $urdu-font-family: "Noto Nastaliq Urdu", "Noto Naskh Arabic", "Segoe UI Historic
 /* Each line (misra): own line, right-aligned */
 .urdu .misra {
   display: block;
-  font-size: 0.80rem !important;
-  line-height: 2.2 !important;
+  font-size: 0.80rem;
+  line-height: 2.2;
 }
 
 /* Poet credit: small, modest gap above */
 .urdu .poet {
   display: block;
   margin-top: 0.35rem;
-  font-size: 0.60rem !important;
-  line-height: 2.4 !important;
+  font-size: 0.60rem;
+  line-height: 2.4;
+}
+
+
+/* ===== Hindi / Devanagari — Mukta ===== */
+
+$hindi-font-family: "Mukta", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+
+:root {
+  --tk-hindi-font: #{$hindi-font-family};
+  --hindi-leading: 2.2; /* tweak ~1.7–2.0 to taste */
+}
+
+/* Base container */
+.hindi,
+[lang="hi"] {
+  direction: ltr;
+  text-align: left;
+  font-family: var(--tk-hindi-font);
+  line-height: var(--hindi-leading);
+  color: $tk-gray-6; // soft tone
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Neutralize theme margins inside the block so spacing is only line-height */
+.hindi,
+.hindi * {
+  margin: 0;
+}
+
+/* Verses / lines container */
+.hindi .verses {
+  margin: 0;
+}
+
+/* Each line (pankti): own line, left-aligned */
+.hindi .line {
+  display: block;
+  font-size: 0.80rem;
+  line-height: 1.9;
+}
+
+/* Poet credit: small, modest gap above */
+.hindi .poet {
+  display: block;
+  margin-top: 0.35rem;
+  font-size: 0.60rem;
+  line-height: 2.1;
 }
 
 

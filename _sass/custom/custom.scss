@@ -147,7 +147,7 @@ $hindi-font-family: "Mukta", system-ui, -apple-system, BlinkMacSystemFont, "Sego
   text-align: left;
   font-family: var(--tk-hindi-font);
   line-height: var(--hindi-leading);
-  color: $tk-gray-6; // soft tone
+  color: #72685E !important; // accent 7
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }

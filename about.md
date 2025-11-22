@@ -23,8 +23,8 @@ Born in 92; descendant of traders who settled in Hyderabad ~200 years ago. Grew 
 
 ## Work
 
-**Head of Investment Strategy** _(Present)_  
-Applied-research and advisory services.
+**Head of Research** _(Present)_  
+Applied-epistemology and advisory services.
 
 **Program Advisory Council — Member**, York University _(2024–2025)_  
 Advised on curriculum and program direction for the executive certificate in Digital Marketing Analytics.

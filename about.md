@@ -23,7 +23,7 @@ Born in 92; descendant of traders who settled in Hyderabad ~200 years ago. Grew 
 
 ## Work
 
-**Research Lead**, Private Practice _(Present)_  
+**Research Director**, Private Practice _(Present)_  
 Applied-epistemology and advisory services.
 
 **Program Advisory Council**, York University _(2024–2025)_  

@@ -136,7 +136,7 @@ $urdu-font-family: "Noto Nastaliq Urdu", "Noto Naskh Arabic", "Segoe UI Historic
 $hindi-font-family: "Mukta", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
 
 :root {
-  --tk-hindi-font: #{$hindi-font-family} !important;
+  --tk-hindi-font: #{$hindi-font-family};
   --hindi-leading: 2.2; /* tweak ~1.7–2.0 to taste */
 }
 
@@ -147,7 +147,7 @@ $hindi-font-family: "Mukta", system-ui, -apple-system, BlinkMacSystemFont, "Sego
   text-align: left;
   font-family: var(--tk-hindi-font);
   line-height: var(--hindi-leading);
-  color: $tk-gray-6 !important; // soft tone
+  color: $tk-gray-6; // soft tone
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -166,14 +166,14 @@ $hindi-font-family: "Mukta", system-ui, -apple-system, BlinkMacSystemFont, "Sego
 /* Each line (pankti): own line, left-aligned */
 .hindi .line {
   display: block;
-  font-size: 0.80rem !important;
+  font-size: 1.00rem !important;
 }
 
 /* Poet credit: small, modest gap above */
 .hindi .poet {
   display: block;
   margin-top: 0.35rem;
-  font-size: 0.60rem !important;
+  font-size: 0.80rem !important;
 }
 
 

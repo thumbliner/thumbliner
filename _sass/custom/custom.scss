@@ -127,7 +127,7 @@ $urdu-font-family: "Noto Nastaliq Urdu", "Noto Naskh Arabic", "Segoe UI Historic
   display: block;
   margin-top: 0.35rem;
   font-size: 0.80rem !important;
-  line-height: 2.6 !important;
+  line-height: 2.4 !important;
 }
 
 
@@ -137,7 +137,7 @@ $hindi-font-family: "Mukta", system-ui, -apple-system, BlinkMacSystemFont, "Sego
 
 :root {
   --tk-hindi-font: #{$hindi-font-family};
-  --hindi-leading: 2.2; /* tweak ~1.7–2.0 to taste */
+  --hindi-leading: 2.0 !important; /* tweak ~1.7–2.0 to taste */
 }
 
 /* Base container */

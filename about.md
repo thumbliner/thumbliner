@@ -23,10 +23,10 @@ Born in 92; descendant of traders who settled in Hyderabad ~200 years ago. Grew 
 
 ## Work
 
-**Head of Research** _(Present)_  
+**Research Lead**, Private Practice _(Present)_  
 Applied-epistemology and advisory services.
 
-**Program Advisory Council — Member**, York University _(2024–2025)_  
+**Program Advisory Council**, York University _(2024–2025)_  
 Advised on curriculum and program direction for the executive certificate in Digital Marketing Analytics.
 
 **Director, Analytics**, Klick Health _(2022–2024)_  

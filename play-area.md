@@ -35,5 +35,3 @@ snakes, size, greed, traps, age
 
 >> “A game is a series of interesting choices.”
 >> — Sid Meier
-
-</div>

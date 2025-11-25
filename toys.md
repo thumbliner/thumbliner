@@ -33,11 +33,8 @@ scouting, tactics, training, incentives, cashflows
 ✈️ **Microsoft Flight Simulator by Asobo Studio**<br>
 instruments, checklists, weather
 
-🎲 **Orlog (Board Game) by PureArts**<br>
-gods, dice, fate
-
 🐍 **Slither.io by Lowtech Studios**<br>
-size, speed, age
+size, speed, luck, age
 
 <br>
 

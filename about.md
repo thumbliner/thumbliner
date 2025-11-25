@@ -37,7 +37,8 @@ Jeddah, Saudi Arabia
 
 ## Outside
 
-- [GitHub](https://github.com/thumbliner)  
-- [Google Scholar](https://scholar.google.ca/citations?user=GzRshSoAAAAJ&hl=en)
-- [LinkedIn](https://linkedin.com/in/thumbliner)  
-- [Tableau](https://public.tableau.com/app/profile/thumbliner/vizzes)  
+- <a href="https://github.com/thumbliner" target="_blank" rel="noopener noreferrer">GitHub</a>  
+- <a href="https://scholar.google.ca/citations?user=GzRshSoAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Google Scholar</a>  
+- <a href="https://linkedin.com/in/thumbliner" target="_blank" rel="noopener noreferrer">LinkedIn</a>  
+- <a href="https://public.tableau.com/app/profile/thumbliner/vizzes" target="_blank" rel="noopener noreferrer">Tableau</a>  
+

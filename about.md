@@ -19,7 +19,7 @@ University of Geneva, Switzerland
 
 **Doctorate in Business**  
 *2014–18*  
-Toulouse Business School, France
+Audencia Business School | Toulouse Business School, France
 
 **Master of Business**  
 *2012–14*  

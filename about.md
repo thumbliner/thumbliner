@@ -21,49 +21,6 @@ Born in 92; descendant of traders who settled in Hyderabad ~200 years ago. Grew 
 
 ---
 
-## Work
-
-**Research Director**, Private Practice _(Present)_  
-Applied-epistemology and advisory services.
-
-**Program Advisory Council**, York University _(2024–2025)_  
-Advised on curriculum and program direction for the executive certificate in Digital Marketing Analytics.
-
-**Director, Analytics**, Klick Health _(2022–2024)_  
-Led analytics for multiple pharmaceutical brands; established standards for measurement and reporting.
-
-**Director, Analytics**, Postmedia Network _(2021–2022)_  
-Unified audience and revenue data; rebuilt the analytics function—team, processes, and tooling—for content performance, campaign tracking, journey mapping, amd subscription attribution.
-
-**Director, Analytics**, Dentsu _(2021)_  
-Orchestrated cross-brand analytics; ran goal-to-tracking workshops; guided CDP implementations, enabled predictive use cases, and automated reporting.
-
-**Manager, Analytics**, Pet Valu _(2019–2020)_  
-Integrated pricing, eCommerce, and loyalty data to enable closed-loop decisioning; served as lead analyst on the COVID-19 operations and supply-chain task force.
-
-**Director, Marketing**, Saudi Research & Marketing Group _(2016–2017)_  
-Established an in-house, full-service agency under SPPC for group companies and select clients; built the team and operating model across creative, media, and analytics.
-
-**Trainer, Digital Marketing**, EduPristine (MENA) _(2015–2017)_  
-Delivered executive education programs across Saudi Arabia and neighboring countries.
-
-**Consultant**, Taurus Advertising Agency _(2014–2016)_  
-Launched the digital practice; delivered web and app projects, programmatic and marketing automation initiatives, and strategy workshops.
-
-**Manager, Marketing**, Al Harithy Company _(2013–2014)_  
-Developed traditional and digital assets for major events, including the SABIC exhibition.
-
-**Coordinator, Business**, MAI Establishment _(2010–2013)_  
-Managed operations and accounts for an HP-authorized office-supplies distributor.
-
-**Intern, Sales**, Business Standard _(2009)_  
-Realized how hard it is to make anyone read.
-
-**Founder**, Bourne Aviation _(2006–2009)_  
-Built and managed a hobby “virtual airline” community; developed early capabilities in web development, product operations, and community management.
-
----
-
 ## Outside
 
 - [GitHub](https://github.com/thumbliner)  

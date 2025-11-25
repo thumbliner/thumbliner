@@ -21,10 +21,10 @@ cities, culture, diplomacy, technology, regimes
 🏛️ **Democracy by Positech Games**<br>
 voter, donor, policy, tax, media
 
-🌌 EVE Online by CCP Games<br>
+🌌 **EVE Online by CCP Games**<br>
 alliances, trust, markets, reputation, independence
 
-🏭 Factorio by Wube Software<br>
+🏭 **Factorio by Wube Software**<br>
 automation, optimization, leverage, fragility, convertibility
 
 ⚽ **Football Manager by Sports Interactive**<br>

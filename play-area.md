@@ -12,28 +12,34 @@ _Axioms & Monte Carlos_
 <br>
 
 
-🏙️ **Cities: Skylines II**··
-traffic, housing, water, pollution, parks
+🏙️ **Cities Skylines by Colossal Order**<br>
+traffic, housing, water, parks, pollution
 
-🌍 **Civilization**··
-culture, diplomacy, technology, resources, regimes
+🌍 **Civilization by Firaxis**<br>
+cities, culture, diplomacy, technology, regimes
 
-🏛️ **Democracy 4**<br>
+🏛️ **Democracy by Positech Games**<br>
 voter, donor, policy, tax, media
 
-⚽ **Football Manager**··
+🌌 EVE Online by CCP Games<br>
+alliances, trust, markets, reputation, independence
+
+🏭 Factorio by Wube Software<br>
+automation, optimization, fragility, convertibility, iteration
+
+⚽ **Football Manager by Sports Interactive**<br>
 target, tactic, training, talent, incentive
 
-✈️ **Microsoft Flight Simulator**··
+✈️ **Microsoft Flight Simulator by Asobo Studio**<br>
 checklist, instrument, procedure, weather, turbulence
 
-🎲 **Orlog (Assassin’s Creed Valhalla)**··
+🎲 **Orlog (Board Game) by PureArts**<br>
 gods, dice, gambles, luck, ruin
 
-🐍 **Slither.io**··
+🐍 **Slither.io by Lowtech Studios**<br>
 snakes, size, greed, traps, age
 
 <br>
 
-> “A game is a series of interesting choices.”··
+> “A game is a series of interesting choices.”<br>
 > — Sid Meier

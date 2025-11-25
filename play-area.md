@@ -12,36 +12,28 @@ _Axioms & Monte Carlos_
 <br>
 
 
-🏙️ **Cities: Skylines II**
-
+🏙️ **Cities: Skylines II**··
 traffic, housing, water, pollution, parks
 
-🌍 **Civilization**
-
+🌍 **Civilization**··
 culture, diplomacy, technology, resources, regimes
 
-🏛️ **Democracy 4**
-
+🏛️ **Democracy 4**<br>
 voter, donor, policy, tax, media
 
-⚽ **Football Manager**
-
+⚽ **Football Manager**··
 target, tactic, training, talent, incentive
 
-✈️ **Microsoft Flight Simulator**
-
+✈️ **Microsoft Flight Simulator**··
 checklist, instrument, procedure, weather, turbulence
 
-🎲 **Orlog (Assassin’s Creed Valhalla)**
-
+🎲 **Orlog (Assassin’s Creed Valhalla)**··
 gods, dice, gambles, luck, ruin
 
-🐍 **Slither.io**
-
+🐍 **Slither.io**··
 snakes, size, greed, traps, age
 
 <br>
 
-> “A game is a series of interesting choices.”
-> 
+> “A game is a series of interesting choices.”··
 > — Sid Meier

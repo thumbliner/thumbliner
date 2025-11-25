@@ -12,78 +12,78 @@ _Division of labor_
 <br>
 
 
-## Research Director, Private Practice  
+**Research Director, Private Practice**  
 *Present*  
 Applied-epistemology and advisory services.
 
 ---
 
-## Program Advisory Council, York University  
-*2024–2025*  
-Advised on curriculum and program direction for the executive certificate in Digital Marketing Analytics.
+**Program Advisory Council, York University**  
+*2024–25*  
+Advised on curriculum and direction for the Executive Certificate in Digital Marketing Analytics.
 
 ---
 
-## Director, Analytics, Klick Health  
-*2022–2024*  
-Led analytics for multiple pharmaceutical brands; established standards for measurement and reporting.
+**Director, Analytics, Klick Health**  
+*2022–24*  
+Led analytics for global pharma brands; set standards for measurement and reporting.
 
 ---
 
-## Director, Analytics, Postmedia Network  
-*2021–2022*  
-Unified audience and revenue data; rebuilt the analytics function—team, processes, and tooling—for content performance, campaign tracking, journey mapping, and subscription attribution.
+**Director, Analytics, Postmedia Network**  
+*2021–22*  
+Unified audience and revenue data; rebuilt the content analytics team, stack, and practice (journey mapping and attribution).
 
 ---
 
-## Director, Analytics, Dentsu  
+**Director, Analytics, Dentsu**  
 *2021*  
-Orchestrated cross-brand analytics; ran goal-to-tracking workshops; guided CDP implementations, enabled predictive use cases, and automated reporting.
+Coordinated cross-brand analytics, from measurement design to CDP automation and activation.
 
 ---
 
-## Manager, Analytics, Pet Valu  
-*2019–2020*  
-Integrated pricing, eCommerce, and loyalty data to enable closed-loop decisioning; served as lead analyst on the COVID-19 operations and supply-chain task force.
+**Manager, Analytics, Pet Valu**  
+*2019–20*  
+Connected pricing, eCommerce, and loyalty data; lead analyst on the COVID-19 ops task force.
 
 ---
 
-## Director, Marketing, Saudi Research & Marketing Group  
-*2016–2017*  
-Established an in-house, full-service agency under SPPC for group companies and select clients; built the team and operating model across creative, media, and analytics.
+**Director, Marketing, Saudi Research & Marketing Group**  
+*2016–17*  
+Built an in-house full-service agency—team, model, and capabilities across creative, media, and analytics.
 
 ---
 
-## Trainer, Digital Marketing, EduPristine (MENA)  
-*2015–2017*  
-Delivered executive education programs across Saudi Arabia and neighboring countries.
+**Trainer, Digital Marketing, EduPristine**  
+*2015–17*  
+Delivered executive programs in digital strategy and analytics across the GCC.
 
 ---
 
-## Consultant, Taurus Advertising Agency  
-*2014–2016*  
-Launched the digital practice; delivered web and app projects, programmatic and marketing automation initiatives, and strategy workshops.
+**Consultant, Taurus Advertising Agency**  
+*2014–16*  
+Launched the digital practice; led web, app, media, and automation initiatives.
 
 ---
 
-## Manager, Marketing, Al Harithy Company  
-*2013–2014*  
-Developed traditional and digital assets for major events, including the SABIC exhibition.
+**Manager, Marketing, Al Harithy Company**  
+*2013–14*  
+Developed campaigns and assets for major events, including the SABIC exhibition.
 
 ---
 
-## Coordinator, Business, MAI Trading Establishment  
-*2010–2013*  
-Managed operations and accounts for an HP-authorized office-supplies distributor.
+**Coordinator, Business, MAI Trading Establishment**  
+*2010–13*  
+Managed operations and key accounts for an HP-authorized office-supplies distributor.
 
 ---
 
-## Intern, Sales, Business Standard  
+**Intern, Sales, Business Standard**  
 *2009*  
-Realized how hard it is to make anyone read.
+Learned how hard it is to sell reading material.
 
 ---
 
-## Founder, Bourne Aviation  
-*2006–2009*  
-A hobby “virtual airline” community; developed early capabilities in web development, product development, and operations.
+**Founder, Bourne Aviation**  
+*2006–09*  
+Created a “virtual airline” community; early work in web, product, and operations.

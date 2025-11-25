@@ -15,23 +15,23 @@ Born in 92; descendant of traders who settled in Hyderabad ~200 years ago. Grew 
 
 **Advanced Studies in Aviation**  
 *2018–19*  
-University of Geneva, Switzerland
+University of Geneva · Switzerland
 
 **Doctorate in Business**  
 *2014–18*  
-Audencia Business School | Toulouse Business School, France
+Audencia Business School & Toulouse Business School · France
 
 **Master of Business**  
 *2012–14*  
-Walden University, United States
+Walden University · United States
 
 **Bachelor of Business**  
 *2009–12*  
-Amity University, India
+Amity University · India
 
-**Indian School**  
+**International Indian School**  
 *1995–2009*  
-Jeddah, Saudi Arabia
+Jeddah · Saudi Arabia
 
 ---
 

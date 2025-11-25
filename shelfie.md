@@ -28,12 +28,12 @@ _Poor Salman's Capital_
 
 <br>
 
-<div class="hindi" lang="hi" dir="ltr">
-  <div class="verses">
-    <div class="line">जंग के और भी तो मैदान हैं</div>
-    <div class="line">सिर्फ़ मैदान-ए क़श्त-ओ-ख़ूँ ही नहीं</div>
-    <div class="line">हासिल-ए ज़िंदगी ख़िरद भी है</div>
-    <div class="line">हासिल-ए ज़िंदगी जुनूँ ही नहीं</div>
-    <div class="poet">— साहिर लुधियानवी</div>
-  </div>
-</div>
+> <div class="hindi" lang="hi" dir="ltr">
+>   <div class="verses">
+>     <div class="line">जंग के और भी तो मैदान हैं</div>
+>     <div class="line">सिर्फ़ मैदान-ए क़श्त-ओ-ख़ूँ ही नहीं</div>
+>     <div class="line">हासिल-ए ज़िंदगी ख़िरद भी है</div>
+>     <div class="line">हासिल-ए ज़िंदगी जुनूँ ही नहीं</div>
+>     <div class="poet">— साहिर लुधियानवी</div>
+>   </div>
+> </div>

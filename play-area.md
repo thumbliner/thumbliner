@@ -31,9 +31,9 @@ gods, dice, gambles, luck, ruin
 🐍 **Slither.io**
 snakes, size, greed, traps, age
 
+<br>
 
-
-> “A game is a series of interesting choices.”
-> — Sid Meier
+>> “A game is a series of interesting choices.”
+>> — Sid Meier
 
 </div>

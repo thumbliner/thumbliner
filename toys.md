@@ -28,16 +28,16 @@ alliance, trust, power, market, independence
 automation, optimization, leverage, fragility, convertibility
 
 ⚽ **Football Manager by Sports Interactive**<br>
-scouting, tactics, incentives, envy, cashflows
+scouting, tactics, training, incentives, cashflows
 
 ✈️ **Microsoft Flight Simulator by Asobo Studio**<br>
-instruments, procedures, checklists, turbulence, weather
+instruments, checklists, weather
 
 🎲 **Orlog (Board Game) by PureArts**<br>
-gods, dice, gambles, fate, ruin
+gods, dice, fate
 
 🐍 **Slither.io by Lowtech Studios**<br>
-size, speed, greed, traps, age
+size, speed, age
 
 <br>
 

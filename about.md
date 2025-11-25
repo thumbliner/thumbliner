@@ -8,7 +8,7 @@ permalink: /about/
 # Salman Khan
 
 Born in 92; descendant of traders who settled in Hyderabad ~200 years ago.  
-Lives in Toronto; identifies as the curious outsider.
+Identifies as the curious outsider; lives in Toronto.
 
 ## Education
 

@@ -7,9 +7,8 @@ permalink: /about/
 
 # Salman Khan
 
-Born in 92; descendant of traders who settled in Hyderabad ~200 years ago. Grew up next to Red Sea; lives in Toronto.
-
-<br>
+Born in 92; descendant of traders who settled in Hyderabad ~200 years ago.
+Grew up next to Red Sea; lives in Toronto.
 
 ## Education
 

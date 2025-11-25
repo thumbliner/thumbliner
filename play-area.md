@@ -3,7 +3,7 @@ layout: default
 title: "Play Area"
 permalink: /play-area/
 parent: About
-order: 2
+nav_order: 2
 ---
 
 # Play Area

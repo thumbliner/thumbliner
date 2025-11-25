@@ -30,11 +30,11 @@ Amity University<br>
 
 **School**  
 *1995–2009  ·  Saudi Arabia*  
-International Indian School
+International Indian School Jeddah
 
 ---
 
-## Outside
+### Outside
 
 - <a href="https://github.com/thumbliner" target="_blank" rel="noopener noreferrer">GitHub</a>  
 - <a href="https://scholar.google.ca/citations?user=GzRshSoAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Google Scholar</a>  

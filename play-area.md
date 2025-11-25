@@ -25,7 +25,7 @@ voter, donor, policy, tax, media
 alliances, trust, markets, reputation, independence
 
 🏭 Factorio by Wube Software<br>
-automation, optimization, fragility, convertibility, iteration
+automation, optimization, leverage, fragility, convertibility
 
 ⚽ **Football Manager by Sports Interactive**<br>
 target, tactic, training, talent, incentive

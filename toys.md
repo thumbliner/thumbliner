@@ -1,12 +1,12 @@
 ---
 layout: default
-title: "Play Area"
-permalink: /play-area/
+title: "Toys"
+permalink: /toys/
 parent: About
 nav_order: 2
 ---
 
-# Play Area
+# Toys
 _Axioms & Monte Carlos_
 
 <br>

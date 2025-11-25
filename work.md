@@ -32,7 +32,7 @@ Led analytics for global pharma brands; set standards for measurement and report
 
 **Director, Analytics, Postmedia Network**  
 *2021–22*  
-Unified audience and revenue data; rebuilt the content analytics team, stack, and practice (journey mapping and attribution).
+Rebuilt the content analytics team, stack, and practice (reader journey mapping and attribution).
 
 ---
 

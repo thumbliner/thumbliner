@@ -12,78 +12,78 @@ _Division of labor_
 <br>
 
 
-**Research Director, Private Practice**  
-*Present*  
+**Research Director**  
+*Present · Private Practice*  
 Applied-epistemology and advisory services.
 
 ---
 
-**Program Advisory Council, York University**  
-*2024–25*  
+**Program Advisory Council**  
+*2024–25 · York University*  
 Advised on curriculum and direction for the Executive Certificate in Digital Marketing Analytics.
 
 ---
 
-**Director, Analytics, Klick Health**  
-*2022–24*  
+**Analytics Director**  
+*2022–24 · Klick Health*  
 Led analytics for global pharma brands; set standards for measurement and reporting.
 
 ---
 
-**Director, Analytics, Postmedia Network**  
-*2021–22*  
-Rebuilt the content analytics team, stack, and practice (reader journey mapping and attribution).
+**Content Analytics Director**  
+*2021–22 · Postmedia Network*  
+Rebuilt the analytics team, stack, and practice (reader journey mapping and attribution).
 
 ---
 
-**Director, Analytics, Dentsu**  
-*2021*  
+**Media Analytics Director**  
+*2021 · Dentsu*  
 Coordinated cross-brand analytics, from measurement design to CDP automation and activation.
 
 ---
 
-**Manager, Analytics, Pet Valu**  
-*2019–20*  
+**Retail Analytics Manager**  
+*2019–20 · Pet Valu*  
 Connected pricing, eCommerce, and loyalty data; lead analyst on the COVID-19 ops task force.
 
 ---
 
-**Director, Marketing, Saudi Research & Marketing Group**  
-*2016–17*  
+**Marketing Director**  
+*2016–17 · Saudi Research & Marketing Group*  
 Built an in-house full-service agency—team, model, and capabilities across creative, media, and analytics.
 
 ---
 
-**Trainer, Digital Marketing, EduPristine**  
-*2015–17*  
-Delivered executive programs in digital strategy and analytics across the GCC.
+**Executive Trainer**  
+*2015–17 · EduPristine*  
+Delivered programs in digital strategy and analytics across the GCC.
 
 ---
 
-**Consultant, Taurus Advertising Agency**  
-*2014–16*  
+**Digital Consultant**  
+*2014–16 · Taurus Advertising Agency*  
 Launched the digital practice; led web, app, media, and automation initiatives.
 
 ---
 
-**Manager, Marketing, Al Harithy Company**  
-*2013–14*  
+**Marketing Manager**  
+*2013–14 · Al Harithy Company*  
 Developed campaigns and assets for major events, including the SABIC exhibition.
 
 ---
 
-**Coordinator, Business, MAI Trading Establishment**  
-*2010–13*  
+**Business Coordinator**  
+*2010–13 · MAI Trading Establishment*  
 Managed operations and key accounts for an HP-authorized office-supplies distributor.
 
 ---
 
-**Intern, Sales, Business Standard**  
-*2009*  
+**Sales Intern**  
+*2009 · Business Standard*  
 Learned how hard it is to sell reading material.
 
 ---
 
-**Founder, Bourne Aviation**  
-*2006–09*  
+**Founder and Manager**  
+*2006–09 · Bourne Aviation*  
 Created a “virtual airline” community; early work in web, product, and operations.

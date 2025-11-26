@@ -8,7 +8,7 @@ permalink: /argument/
 # Argument
 _Property of the Half-Rational Prince_
 
-An argument is a structured set of propositions in which premises are offered to support a conclusion.
+An argument is a structured set of propositions to support a conclusion.
 
 <div class="urdu" lang="ur" dir="rtl">
   <div class="verses">

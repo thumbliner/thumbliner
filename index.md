@@ -4,8 +4,7 @@ nav_order: 1
 ---
 
 # The Practice
-
-Requires a long attention span.
+_Requires a long attention span_  
 
 
 <div class="urdu" lang="ur" dir="rtl">

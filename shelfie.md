@@ -7,9 +7,7 @@ nav_order: 1
 ---
 
 # Shelfie
-_Poor Salman's Capital_
-
-<br>
+_Poor Salman's Capital_  
 
 | Title | Author | Year | 
 |:---|:---|:---|
@@ -26,8 +24,6 @@ _Poor Salman's Capital_
 | Berkshire Beyond Buffett: The Enduring Value of Values | Lawrence A. Cunningham | 2014 |
 | Pep Confidential: The Inside Story of Pep Guardiola's First Season at Bayern Munich | Martí Perarnau | 2014 |
 | To Hell and Back: An Autobiography | Niki Lauda | 2021 |
-
-<br>
 
 > <div class="hindi" lang="hi" dir="ltr">
 >   <div class="verses">

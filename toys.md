@@ -31,10 +31,10 @@ automation, optimization, leverage, fragility, convertibility
 scouting, tactics, training, incentives, cashflows
 
 ✈️ **Microsoft Flight Simulator by Asobo Studio**<br>
-instruments, checklists, weather
+instruments, checklists, communication, airmanship, weather
 
 🐍 **Slither.io by Lowtech Studios**<br>
-size, speed, luck, age
+size, speed, luck, envy, age
 
 <br>
 

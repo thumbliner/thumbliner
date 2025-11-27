@@ -7,10 +7,7 @@ nav_order: 2
 ---
 
 # Toys
-_Axioms & Monte Carlos_
-
-<br>
-
+_Axioms & Monte Carlos_  
 
 🏙️ **Cities Skylines by Colossal Order**<br>
 traffic, zoning, water, parks, pollution
@@ -34,9 +31,7 @@ scouting, tactics, training, incentives, cashflows
 instruments, checklists, communication, airmanship, weather
 
 🐍 **Slither.io by Lowtech Studios**<br>
-size, speed, luck, envy, age
-
-<br>
+size, speed, luck, envy, age  
 
 > “A game is a series of interesting choices.”<br>
 > — Sid Meier

@@ -3,7 +3,7 @@ layout: default
 title: "Work"
 permalink: /work/
 parent: About
-nav_order: 3
+nav_order: 4
 ---
 
 # Work

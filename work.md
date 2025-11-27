@@ -7,10 +7,7 @@ nav_order: 3
 ---
 
 # Work
-_Division of labor_
-
-<br>
-
+_Division of labor_  
 
 **Research Director**  
 *Present  ·  Private Practice*  

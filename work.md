@@ -2,7 +2,7 @@
 layout: default
 title: "Work"
 permalink: /work/
-parent: About
+parent: Bio
 nav_order: 4
 ---
 

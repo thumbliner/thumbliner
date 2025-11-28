@@ -4,7 +4,7 @@ nav_order: 1
 ---
 
 # The Practice
-_A story requires a long attention span_  
+_The story demands a long attention span_  
 
 
 <div class="urdu" lang="ur" dir="rtl">

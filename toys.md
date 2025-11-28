@@ -2,7 +2,7 @@
 layout: default
 title: "Toys"
 permalink: /toys/
-parent: About
+parent: Bio
 nav_order: 3
 ---
 

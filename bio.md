@@ -1,8 +1,8 @@
 ---
 layout: default
-title: About
+title: Bio
 nav_order: 99
-permalink: /about/
+permalink: /bio/
 ---
 
 # Salman Khan

@@ -1,13 +1,13 @@
 ---
 layout: default
-title: "Art Curation"
-permalink: /art-curation/
+title: "Art"
+permalink: /art/
 parent: Bio
 nav_order: 1
 ---
 
-# Art Curation
-_Films & Music_
+# Art
+_Films & Music (A Curation)_
 
 ## Films
 
@@ -177,14 +177,14 @@ _Films & Music_
         src="https://embed.music.apple.com/album/rockstar-original-motion-picture-soundtrack/1123241840">
 </iframe>
   
-**Devdas - An Adaptation (with selected dialogues)** — Ismail Darbar & Birju Maharaj (2002)  
+**Devdas** — Ismail Darbar & Birju Maharaj (2002)  
 <iframe allow="autoplay *; encrypted-media *; fullscreen *;
         clipboard-write"
         frameborder="0"
         height="450"
         style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;"
         sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"
-        src="https://embed.music.apple.com/album/devdas-an-adaptation-of-sarat-chandra/1442966025">
+        src="https://embed.music.apple.com/album/celebrating-21-years-of-devdas/1695071153">
 </iframe>
 
 <br>

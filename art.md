@@ -10,7 +10,7 @@ nav_order: 1
 _Film & Music (A Curation)_
 
 ## **Beauty and the Beast** by Alan Menken & Howard Ashman
-Favorite: Prologue
+Favorite: 1. Prologue
 <br />
 <iframe allow="autoplay *; encrypted-media *; fullscreen *;
         clipboard-write"

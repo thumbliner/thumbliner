@@ -126,7 +126,7 @@ _Films & Music_
         src="https://embed.music.apple.com/album/beauty-and-the-beast-soundtrack-from-the-motion-picture/1440618890">
 </iframe>
   
-**THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY** — Taylor Swift (2024)  
+**The Tortured Poets Department: The Anthology** — Taylor Swift (2024)  
 <iframe allow="autoplay *; encrypted-media *; fullscreen *;
         clipboard-write"
         frameborder="0"
@@ -167,7 +167,7 @@ _Films & Music_
         src="https://embed.music.apple.com/album/trance-with-khusrow/1764092294">
 </iframe>
   
-**Rockstar (OST)** — A. R. Rahman (2011)  
+**Rockstar** — A. R. Rahman (2011)  
 <iframe allow="autoplay *; encrypted-media *; fullscreen *;
         clipboard-write"
         frameborder="0"
@@ -177,14 +177,14 @@ _Films & Music_
         src="https://embed.music.apple.com/album/rockstar-original-motion-picture-soundtrack/1123241840">
 </iframe>
   
-**Devdas (OST)** — Ismail Darbar & Birju Maharaj (2002)  
+**Devdas - An Adaptation (with selected dialogues)** — Ismail Darbar & Birju Maharaj (2002)  
 <iframe allow="autoplay *; encrypted-media *; fullscreen *;
         clipboard-write"
         frameborder="0"
         height="450"
         style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;"
         sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"
-        src="https://embed.music.apple.com/album/devdas-original-motion-picture-soundtrack/1442398451">
+        src="https://embed.music.apple.com/album/devdas-an-adaptation-of-sarat-chandra/1442966025">
 </iframe>
 
 <br>

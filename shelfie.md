@@ -12,7 +12,6 @@ _Poor Salman's Capital_
 | Title | Author | Year | 
 |:---|:---|:---|
 | The Quran |  | 632 |
-| Dīvān-e-Ghalib | Mirza Ghalib | 1841 |
 | The Hobbit | J.R.R. Tolkien | 1937 |
 | Nuskha-hā-e-Wafā (Recipes of Fidelity) | Faiz Ahmed Faiz | 1985 |
 | Perfectly Reasonable Deviations from the Beaten Track | Richard Feynman | 2005 |

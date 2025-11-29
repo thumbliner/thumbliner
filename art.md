@@ -9,8 +9,7 @@ nav_order: 1
 # Art
 _Films & Music (A Curation)_
 
-## **Attenborough’s Ant Mountain**
-### Joe Loncraine & Martin Dohrn  
+## **Attenborough’s Ant Mountain** by Joe Loncraine & Martin Dohrn  
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">
   <iframe
     src="https://www.youtube-nocookie.com/embed/hhyy1hE-QWc?rel=0"
@@ -25,8 +24,7 @@ _Films & Music (A Curation)_
 
 ---
 
-## **Beauty and the Beast**
-### Alan Menken & Howard Ashman
+## **Beauty and the Beast** by Alan Menken & Howard Ashman
 Favorite: 
 <iframe allow="autoplay *; encrypted-media *; fullscreen *;
         clipboard-write"
@@ -39,8 +37,7 @@ Favorite:
 
 ---
 
-## **Titanic**
-### James Cameroon  
+## **Titanic** by James Cameroon  
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">
   <iframe
     src="https://www.imdb.com/videoembed/vi1740686617"
@@ -55,8 +52,7 @@ Favorite:
 
 ---
 
-## **The Prestige**
-### Christopher Nolan  
+## **The Prestige** by Christopher Nolan  
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">
   <iframe
     src="https://www.imdb.com/videoembed/vi2885334553"
@@ -71,8 +67,7 @@ Favorite:
 
 ---
 
-## **Ratatouille**
-### Brad Bird  
+## **Ratatouille** by Brad Bird  
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">
   <iframe
     src="https://www.imdb.com/videoembed/vi906147865"
@@ -87,8 +82,7 @@ Favorite:
 
 ---
 
-## **Mustt Mustt**
-### Nusrat Fateh Ali Khan
+## **Mustt Mustt** by Nusrat Fateh Ali Khan
 Favorite: 
 <iframe allow="autoplay *; encrypted-media *; fullscreen *;
         clipboard-write"
@@ -101,8 +95,7 @@ Favorite:
 
 ---
 
-## **Tanger, Vol 1 (Live)**
-### Luis Delgado
+## **Tanger, Vol 1 (Live)** by Luis Delgado
 Favorite: 6. La Aurora Nocturna (Live)
 <iframe allow="autoplay *; encrypted-media *; fullscreen *;
         clipboard-write"
@@ -115,8 +108,7 @@ Favorite: 6. La Aurora Nocturna (Live)
 
 ---
 
-## **Tchaikovsky: The Nutcracker**
-### Berlin Philharmonic & Sir Simon Rattle
+## **Tchaikovsky: The Nutcracker** by Berlin Philharmonic & Sir Simon Rattle
 Favorite: 
 <iframe allow="autoplay *; encrypted-media *; fullscreen *;
         clipboard-write"
@@ -129,8 +121,7 @@ Favorite:
 
 ---
   
-## **Tudor Queens**
-### Diana Damrau
+## **Tudor Queens** by Diana Damrau
 Favorite: 
 <iframe allow="autoplay *; encrypted-media *; fullscreen *;
         clipboard-write"
@@ -143,8 +134,7 @@ Favorite:
 
 ---
   
-## **Game of Thrones: Season 8**
-### Ramin Djawadi
+## **Game of Thrones: Season 8** by Ramin Djawadi
 Favorite: 
 <iframe allow="autoplay *; encrypted-media *; fullscreen *;
         clipboard-write"
@@ -157,8 +147,7 @@ Favorite:
 
 ---
   
-## **Voyage**
-### Garth Stevenson
+## **Voyage** by Garth Stevenson
 Favorite: 
 <iframe allow="autoplay *; encrypted-media *; fullscreen *;
         clipboard-write"
@@ -171,8 +160,7 @@ Favorite:
 
 ---
 
-## **Trance with Khusrow**
-### Kavita Seth & Kanishk Seth
+## **Trance with Khusrow** by Kavita Seth & Kanishk Seth
 Favorite: 3. Man Qunto Maula
 <iframe allow="autoplay *; encrypted-media *; fullscreen *;
         clipboard-write"
@@ -185,8 +173,7 @@ Favorite: 3. Man Qunto Maula
 
 ---
 
-## **Rockstar**
-### A. R. Rahman
+## **Rockstar** by A. R. Rahman
 Favorite: 
 <iframe allow="autoplay *; encrypted-media *; fullscreen *;
         clipboard-write"
@@ -199,8 +186,7 @@ Favorite:
 
 ---
 
-## **Devdas**
-### Ismail Darbar & Birju Maharaj
+## **Devdas** by Ismail Darbar & Birju Maharaj
 Favorite: 
 <iframe allow="autoplay *; encrypted-media *; fullscreen *;
         clipboard-write"
@@ -213,8 +199,7 @@ Favorite:
 
 ---
   
-## **The Tortured Poets Department: The Anthology**
-### Taylor Swift
+## **The Tortured Poets Department: The Anthology** by Taylor Swift
 Favorite: 
 <iframe allow="autoplay *; encrypted-media *; fullscreen *;
         clipboard-write"
@@ -227,8 +212,7 @@ Favorite:
 
 ---
 
-## **The Message**
-### Moustapha Akkad  
+## **The Message** by Moustapha Akkad  
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">
   <iframe
     src="https://www.imdb.com/videoembed/vi4035691289"

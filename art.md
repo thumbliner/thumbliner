@@ -9,7 +9,8 @@ nav_order: 1
 # Art
 _Films & Music (A Curation)_
 
-## **Attenborough’s Ant Mountain** — Joe Loncraine, Martin Dohrn (2017)  
+## **Attenborough’s Ant Mountain**
+## Joe Loncraine & Martin Dohrn  
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">
   <iframe
     src="https://www.youtube-nocookie.com/embed/hhyy1hE-QWc?rel=0"
@@ -24,7 +25,8 @@ _Films & Music (A Curation)_
 
 ---
 
-## **Titanic** — James Cameroon (1997)  
+## **Titanic**
+### James Cameroon  
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">
   <iframe
     src="https://www.imdb.com/videoembed/vi1740686617"
@@ -39,7 +41,8 @@ _Films & Music (A Curation)_
 
 ---
 
-## **The Prestige** — Christopher Nolan (2006)  
+## **The Prestige**
+#### Christopher Nolan  
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">
   <iframe
     src="https://www.imdb.com/videoembed/vi2885334553"
@@ -54,7 +57,8 @@ _Films & Music (A Curation)_
 
 ---
 
-## **Ratatouille** — Brad Bird (2007)  
+## **Ratatouille**
+## Brad Bird  
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">
   <iframe
     src="https://www.imdb.com/videoembed/vi906147865"
@@ -69,7 +73,8 @@ _Films & Music (A Curation)_
 
 ---
 
-## **Mustt Mustt** — Nusrat Fateh Ali Khan (1990)
+## **Mustt Mustt**
+## Nusrat Fateh Ali Khan
 <iframe allow="autoplay *; encrypted-media *; fullscreen *;
         clipboard-write"
         frameborder="0"
@@ -81,7 +86,8 @@ _Films & Music (A Curation)_
 
 ---
 
-## **Tanger, Vol 1 (Live)** — Luis Delgado (1997)  
+## **Tanger, Vol 1 (Live)**
+## Luis Delgado  
 <iframe allow="autoplay *; encrypted-media *; fullscreen *;
         clipboard-write"
         frameborder="0"
@@ -93,7 +99,8 @@ _Films & Music (A Curation)_
 
 ---
 
-## **Tchaikovsky: The Nutcracker** — Berlin Philharmonic & Sir Simon Rattle (2010)  
+## **Tchaikovsky: The Nutcracker**
+## Berlin Philharmonic & Sir Simon Rattle  
 <iframe allow="autoplay *; encrypted-media *; fullscreen *;
         clipboard-write"
         frameborder="0"
@@ -105,7 +112,8 @@ _Films & Music (A Curation)_
 
 ---
   
-## **Tudor Queens** — Diana Damrau (2020)  
+## **Tudor Queens**
+## Diana Damrau  
 <iframe allow="autoplay *; encrypted-media *; fullscreen *;
         clipboard-write"
         frameborder="0"
@@ -117,7 +125,8 @@ _Films & Music (A Curation)_
 
 ---
 
-## **Beauty and the Beast** — Alan Menken & Howard Ashman (1991)  
+## **Beauty and the Beast**
+## Alan Menken & Howard Ashman  
 <iframe allow="autoplay *; encrypted-media *; fullscreen *;
         clipboard-write"
         frameborder="0"
@@ -129,7 +138,8 @@ _Films & Music (A Curation)_
 
 ---
   
-## **Game of Thrones: Season 8** — Ramin Djawadi (2019)  
+## **Game of Thrones: Season 8**
+## Ramin Djawadi  
 <iframe allow="autoplay *; encrypted-media *; fullscreen *;
         clipboard-write"
         frameborder="0"
@@ -141,7 +151,8 @@ _Films & Music (A Curation)_
 
 ---
   
-## **Voyage** — Garth Stevenson (2016)  
+## **Voyage**
+## Garth Stevenson  
 <iframe allow="autoplay *; encrypted-media *; fullscreen *;
         clipboard-write"
         frameborder="0"
@@ -153,7 +164,9 @@ _Films & Music (A Curation)_
 
 ---
 
-## **Trance with Khusrow** — Kavita Seth & Kanishk Seth (2014)  
+## **Trance with Khusrow**
+## Kavita Seth & Kanishk Seth  
+Favorite: 3. Man Qunto Maula
 <iframe allow="autoplay *; encrypted-media *; fullscreen *;
         clipboard-write"
         frameborder="0"
@@ -165,7 +178,8 @@ _Films & Music (A Curation)_
 
 ---
 
-## **Rockstar** — A. R. Rahman (2011)  
+## **Rockstar**
+## A. R. Rahman  
 <iframe allow="autoplay *; encrypted-media *; fullscreen *;
         clipboard-write"
         frameborder="0"
@@ -177,7 +191,8 @@ _Films & Music (A Curation)_
 
 ---
 
-## **Devdas** — Ismail Darbar & Birju Maharaj (2002)  
+## **Devdas**
+## Ismail Darbar & Birju Maharaj  
 <iframe allow="autoplay *; encrypted-media *; fullscreen *;
         clipboard-write"
         frameborder="0"
@@ -189,7 +204,8 @@ _Films & Music (A Curation)_
 
 ---
   
-## **The Tortured Poets Department: The Anthology** — Taylor Swift (2024)  
+## **The Tortured Poets Department: The Anthology**
+## Taylor Swift  
 <iframe allow="autoplay *; encrypted-media *; fullscreen *;
         clipboard-write"
         frameborder="0"
@@ -201,7 +217,8 @@ _Films & Music (A Curation)_
 
 ---
 
-## **The Message** — Moustapha Akkad (1976)  
+## **The Message**
+## Moustapha Akkad  
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">
   <iframe
     src="https://www.imdb.com/videoembed/vi4035691289"

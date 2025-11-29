@@ -24,7 +24,6 @@ Favorite: 1. Prologue
 ---
 
 ## **Attenborough’s Ant Mountain** by Joe Loncraine & Martin Dohrn  
-<p>
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">
   <iframe
     src="https://www.youtube-nocookie.com/embed/hhyy1hE-QWc?rel=0"
@@ -35,7 +34,6 @@ Favorite: 1. Prologue
     loading="lazy"
     referrerpolicy="strict-origin-when-cross-origin">
   </iframe>
-</p>
 
 ---
 

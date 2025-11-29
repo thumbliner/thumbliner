@@ -9,9 +9,7 @@ nav_order: 1
 # Art
 _Films & Music (A Curation)_
 
-## Films
-
-**Attenborough’s Ant Mountain** — Joe Loncraine, Martin Dohrn (2017)  
+## **Attenborough’s Ant Mountain** — Joe Loncraine, Martin Dohrn (2017)  
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">
   <iframe
     src="https://www.youtube-nocookie.com/embed/hhyy1hE-QWc?rel=0"
@@ -24,7 +22,9 @@ _Films & Music (A Curation)_
   </iframe>
 </div>
 
-**Titanic** — James Cameroon (1997)  
+---
+
+### **Titanic** — James Cameroon (1997)  
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">
   <iframe
     src="https://www.imdb.com/videoembed/vi1740686617"
@@ -37,7 +37,9 @@ _Films & Music (A Curation)_
   </iframe>
 </div>
 
-**The Prestige** — Christopher Nolan (2006)  
+---
+
+#### **The Prestige** — Christopher Nolan (2006)  
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">
   <iframe
     src="https://www.imdb.com/videoembed/vi2885334553"
@@ -50,7 +52,9 @@ _Films & Music (A Curation)_
   </iframe>
 </div>
 
-**Ratatouille** — Brad Bird (2007)  
+---
+
+##### **Ratatouille** — Brad Bird (2007)  
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">
   <iframe
     src="https://www.imdb.com/videoembed/vi906147865"
@@ -62,6 +66,8 @@ _Films & Music (A Curation)_
     scrolling="no">
   </iframe>
 </div>
+
+---
 
 **The Message** — Moustapha Akkad (1976)  
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">
@@ -76,6 +82,8 @@ _Films & Music (A Curation)_
   </iframe>
 </div>
 
+---
+
 **Mustt Mustt** — Nusrat Fateh Ali Khan (1990)
 <iframe allow="autoplay *; encrypted-media *; fullscreen *;
         clipboard-write"
@@ -85,6 +93,8 @@ _Films & Music (A Curation)_
         sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"
         src="https://embed.music.apple.com/album/mustt-mustt-real-world-gold/1653379088">
 </iframe>
+
+---
 
 **Tanger, Vol 1 (Live)** — Luis Delgado (1997)  
 <iframe allow="autoplay *; encrypted-media *; fullscreen *;
@@ -96,6 +106,8 @@ _Films & Music (A Curation)_
         src="https://embed.music.apple.com/album/tanger-vol-1-live/595774036">
 </iframe>
 
+---
+
 **Tchaikovsky: The Nutcracker** — Berlin Philharmonic & Sir Simon Rattle (2010)  
 <iframe allow="autoplay *; encrypted-media *; fullscreen *;
         clipboard-write"
@@ -105,6 +117,8 @@ _Films & Music (A Curation)_
         sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"
         src="https://embed.music.apple.com/album/tchaikovsky-the-nutcracker/752033492">
 </iframe>
+
+---
   
 **Tudor Queens** — Diana Damrau (2020)  
 <iframe allow="autoplay *; encrypted-media *; fullscreen *;
@@ -116,6 +130,8 @@ _Films & Music (A Curation)_
         src="https://embed.music.apple.com/album/tudor-queens/1519897706">
 </iframe>
 
+---
+
 **Beauty and the Beast** — Alan Menken & Howard Ashman (1991)  
 <iframe allow="autoplay *; encrypted-media *; fullscreen *;
         clipboard-write"
@@ -125,6 +141,8 @@ _Films & Music (A Curation)_
         sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"
         src="https://embed.music.apple.com/album/beauty-and-the-beast-soundtrack-from-the-motion-picture/1440618890">
 </iframe>
+
+---
   
 **The Tortured Poets Department: The Anthology** — Taylor Swift (2024)  
 <iframe allow="autoplay *; encrypted-media *; fullscreen *;
@@ -135,6 +153,8 @@ _Films & Music (A Curation)_
         sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"
         src="https://embed.music.apple.com/album/the-tortured-poets-department-the-anthology/1742057774">
 </iframe>
+
+---
   
 **Game of Thrones: Season 8** — Ramin Djawadi (2019)  
 <iframe allow="autoplay *; encrypted-media *; fullscreen *;
@@ -145,6 +165,8 @@ _Films & Music (A Curation)_
         sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"
         src="https://embed.music.apple.com/album/game-of-thrones-season-8-music-from-the-hbo-series/1464078803">
 </iframe>
+
+---
   
 **Voyage** — Garth Stevenson (2016)  
 <iframe allow="autoplay *; encrypted-media *; fullscreen *;
@@ -155,7 +177,8 @@ _Films & Music (A Curation)_
         sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"
         src="https://embed.music.apple.com/album/voyage/1174272876">
 </iframe>
-        
+
+---
 
 **Trance with Khusrow** — Kavita Seth & Kanishk Seth (2014)  
 <iframe allow="autoplay *; encrypted-media *; fullscreen *;
@@ -166,7 +189,10 @@ _Films & Music (A Curation)_
         sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"
         src="https://embed.music.apple.com/album/trance-with-khusrow/1764092294">
 </iframe>
-  
+
+---
+
+
 **Rockstar** — A. R. Rahman (2011)  
 <iframe allow="autoplay *; encrypted-media *; fullscreen *;
         clipboard-write"
@@ -176,7 +202,9 @@ _Films & Music (A Curation)_
         sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"
         src="https://embed.music.apple.com/album/rockstar-original-motion-picture-soundtrack/1123241840">
 </iframe>
-  
+
+---
+
 **Devdas** — Ismail Darbar & Birju Maharaj (2002)  
 <iframe allow="autoplay *; encrypted-media *; fullscreen *;
         clipboard-write"
@@ -187,7 +215,7 @@ _Films & Music (A Curation)_
         src="https://embed.music.apple.com/album/celebrating-21-years-of-devdas/1695071153">
 </iframe>
 
-<br>
+---
 
 <div class="urdu" lang="ur" dir="rtl">
   <div class="verses">

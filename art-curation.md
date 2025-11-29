@@ -1,13 +1,13 @@
 ---
 layout: default
-title: "Reel & Record"
-permalink: /reel-record/
+title: "Art Curation"
+permalink: /art-curation/
 parent: Bio
 nav_order: 1
 ---
 
-# Reel & Record
-_Thank you for coming. Let me entertain you_
+# Art Curation
+_Films & Music_
 
 ## Films
 
@@ -186,3 +186,13 @@ _Thank you for coming. Let me entertain you_
         sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"
         src="https://embed.music.apple.com/album/devdas-original-motion-picture-soundtrack/1442398451">
 </iframe>
+
+<br>
+
+<div class="urdu" lang="ur" dir="rtl">
+  <div class="verses">
+    <div class="misra">ہیں اور بھی دنیا میں سخن ور بہت اچھے</div>
+    <div class="misra">کہتے ہیں کہ غالبؔ کا ہے انداز بیاں اور</div>
+    <div class="poet">— مرزا غالب</div>
+  </div>
+</div>

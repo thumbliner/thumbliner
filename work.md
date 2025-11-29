@@ -60,3 +60,10 @@ Learned how hard it is to sell reading material.
 **Founder and Manager**  
 *2006–09  ·  Bourne Aviation*  
 Created a “virtual airline” community; early work in web, product, and operations.
+
+
+##### Meet Outside
+
+- <a href="https://linkedin.com/in/thumbliner" target="_blank" rel="noopener noreferrer">LinkedIn</a>  
+- <a href="https://public.tableau.com/app/profile/thumbliner/vizzes" target="_blank" rel="noopener noreferrer">Tableau Public</a>  
+

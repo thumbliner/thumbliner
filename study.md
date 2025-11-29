@@ -3,7 +3,7 @@ layout: default
 title: "Study"
 permalink: /study/
 parent: Bio
-nav_order: 2
+nav_order: 3
 ---
 
 # Study

@@ -10,7 +10,68 @@ nav_order: 1
 
 ## Films (Use headphones)
 
-**Shrek** — Andrew Adamson & Vicky Jenson (2001)
+
+**The Prestige** — Christopher Nolan (2006)  
+<div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">
+  <iframe
+    src="https://www.imdb.com/videoembed/vi2885334553"
+    title="The Prestige"
+    style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;"
+    allowfullscreen
+    loading="lazy"
+    referrerpolicy="strict-origin-when-cross-origin"
+    scrolling="no">
+  </iframe>
+</div>
+**Ratatouille** — Brad Bird (2007)  
+<div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">
+  <iframe
+    src="https://www.imdb.com/videoembed/vi906147865"
+    title="Ratatouille"
+    style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;"
+    allowfullscreen
+    loading="lazy"
+    referrerpolicy="strict-origin-when-cross-origin"
+    scrolling="no">
+  </iframe>
+</div>
+**Titanic** — James Cameroon (1997)  
+<div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">
+  <iframe
+    src="https://www.imdb.com/videoembed/vi1740686617"
+    title="Titanic"
+    style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;"
+    allowfullscreen
+    loading="lazy"
+    referrerpolicy="strict-origin-when-cross-origin"
+    scrolling="no">
+  </iframe>
+</div>
+**Attenborough’s Ant Mountain** — Joe Loncraine, Martin Dohrn (2017)  
+<div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">
+  <iframe
+    src="https://www.youtube-nocookie.com/embed/hhyy1hE-QWc?rel=0"
+    title="Attenborough’s Ant Mountain"
+    style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;"
+    allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen
+    loading="lazy"
+    referrerpolicy="strict-origin-when-cross-origin">
+  </iframe>
+</div>
+**The Message** — Moustapha Akkad (1976)  
+<div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">
+  <iframe
+    src="https://www.imdb.com/videoembed/vi4035691289"
+    title="The Message"
+    style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;"
+    allowfullscreen
+    loading="lazy"
+    referrerpolicy="strict-origin-when-cross-origin"
+    scrolling="no">
+  </iframe>
+</div>
+**Shrek** — Andrew Adamson & Vicky Jenson (2001)  
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">
   <iframe
     src="https://www.imdb.com/videoembed/vi4085711129"
@@ -25,16 +86,6 @@ nav_order: 1
 
 <br>
 
-<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.25%;">
-    <iframe 
-        src="https://www.imdb.com/videoembed/vi4085711129" 
-        style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" 
-        allowfullscreen 
-        scrolling="no">
-    </iframe>
-</div>
-
-
 ## Music (Turn screen off)
 
 **Mustt Mustt** — Nusrat Fateh Ali Khan (1990)
@@ -44,5 +95,96 @@ nav_order: 1
         height="450"
         style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;"
         sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"
-        src="https://embed.music.apple.com/in/album/mustt-mustt-real-world-gold/1653379088">
+        src="https://embed.music.apple.com/album/mustt-mustt-real-world-gold/1653379088">
 </iframe>
+
+**Tanger, Vol 1 (Live)** — Luis Delgado (1997)  
+<iframe allow="autoplay *; encrypted-media *; fullscreen *;
+        clipboard-write"
+        frameborder="0"
+        height="450"
+        style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;"
+        sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"
+        src="https://embed.music.apple.com/album/tanger-vol-1-live/595774036">
+
+**Tchaikovsky: The Nutcracker** — Berlin Philharmonic & Sir Simon Rattle (2010)  
+<iframe allow="autoplay *; encrypted-media *; fullscreen *;
+        clipboard-write"
+        frameborder="0"
+        height="450"
+        style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;"
+        sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"
+        src="https://embed.music.apple.com/album/tchaikovsky-the-nutcracker/752033492">
+  
+**Tudor Queens** — Diana Damrau (2020)  
+<iframe allow="autoplay *; encrypted-media *; fullscreen *;
+        clipboard-write"
+        frameborder="0"
+        height="450"
+        style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;"
+        sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"
+        src="https://embed.music.apple.com/album/tudor-queens/1519897706">
+
+**Beauty and the Beast** — Alan Menken & Howard Ashman (1991)  
+<iframe allow="autoplay *; encrypted-media *; fullscreen *;
+        clipboard-write"
+        frameborder="0"
+        height="450"
+        style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;"
+        sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"
+        src="https://embed.music.apple.com/album/beauty-and-the-beast-soundtrack-from-the-motion-picture/1440618890">
+  
+**THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY** — Taylor Swift (2024)  
+<iframe allow="autoplay *; encrypted-media *; fullscreen *;
+        clipboard-write"
+        frameborder="0"
+        height="450"
+        style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;"
+        sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"
+        src="https://embed.music.apple.com/album/the-tortured-poets-department-the-anthology/1742057774">
+  
+**Game of Thrones: Season 8** — Ramin Djawadi (2019)  
+<iframe allow="autoplay *; encrypted-media *; fullscreen *;
+        clipboard-write"
+        frameborder="0"
+        height="450"
+        style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;"
+        sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"
+        src="https://embed.music.apple.com/album/game-of-thrones-season-8-music-from-the-hbo-series/1464078803">
+  
+**Voyage** — Garth Stevenson (2016)  
+<iframe allow="autoplay *; encrypted-media *; fullscreen *;
+        clipboard-write"
+        frameborder="0"
+        height="450"
+        style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;"
+        sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"
+        src="https://embed.music.apple.com/album/voyage/1174272876">
+        
+
+**Trance with Khusrow** — Kavita Seth & Kanishk Seth (2014)  
+<iframe allow="autoplay *; encrypted-media *; fullscreen *;
+        clipboard-write"
+        frameborder="0"
+        height="450"
+        style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;"
+        sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"
+        src="https://embed.music.apple.com/album/trance-with-khusrow/1764092294">
+  
+**Rockstar (OST)** — A. R. Rahman (2011)  
+<iframe allow="autoplay *; encrypted-media *; fullscreen *;
+        clipboard-write"
+        frameborder="0"
+        height="450"
+        style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;"
+        sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"
+        src="https://embed.music.apple.com/album/rockstar-original-motion-picture-soundtrack/1123241840">
+  
+**Devdas (OST)** — Ismail Darbar & Birju Maharaj (2002)  
+<iframe allow="autoplay *; encrypted-media *; fullscreen *;
+        clipboard-write"
+        frameborder="0"
+        height="450"
+        style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;"
+        sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"
+        src="https://embed.music.apple.com/album/devdas-original-motion-picture-soundtrack/1442398451">

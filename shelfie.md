@@ -3,7 +3,7 @@ layout: default
 title: "Shelfie"
 permalink: /shelfie/
 parent: Bio
-nav_order: 1
+nav_order: 2
 ---
 
 # Shelfie

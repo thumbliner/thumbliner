@@ -24,6 +24,7 @@ Favorite: 1. Prologue
 ---
 
 ## **Attenborough’s Ant Mountain** by Joe Loncraine & Martin Dohrn  
+<p>
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">
   <iframe
     src="https://www.youtube-nocookie.com/embed/hhyy1hE-QWc?rel=0"
@@ -35,10 +36,12 @@ Favorite: 1. Prologue
     referrerpolicy="strict-origin-when-cross-origin">
   </iframe>
 </div>
+</p>
 
 ---
 
 ## **Titanic** by James Cameroon  
+<p>
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">
   <iframe
     src="https://www.imdb.com/videoembed/vi1740686617"
@@ -50,10 +53,12 @@ Favorite: 1. Prologue
     scrolling="no">
   </iframe>
 </div>
+</p>
 
 ---
 
 ## **The Prestige** by Christopher Nolan  
+<p>
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">
   <iframe
     src="https://www.imdb.com/videoembed/vi2885334553"
@@ -65,10 +70,12 @@ Favorite: 1. Prologue
     scrolling="no">
   </iframe>
 </div>
+</p>
 
 ---
 
 ## **Ratatouille** by Brad Bird  
+<p>
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">
   <iframe
     src="https://www.imdb.com/videoembed/vi906147865"
@@ -80,6 +87,7 @@ Favorite: 1. Prologue
     scrolling="no">
   </iframe>
 </div>
+</p>
 
 ---
 
@@ -135,6 +143,7 @@ Favorite:
         sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"
         src="https://embed.music.apple.com/album/tudor-queens/1519897706">
 </iframe>
+
 
 ---
   
@@ -223,6 +232,7 @@ Favorite:
 ---
 
 ## **The Message** by Moustapha Akkad  
+<p>
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">
   <iframe
     src="https://www.imdb.com/videoembed/vi4035691289"
@@ -234,6 +244,7 @@ Favorite:
     scrolling="no">
   </iframe>
 </div>
+</p>
 
 ---
 

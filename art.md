@@ -40,7 +40,6 @@ Favorite: 1. Prologue
 ---
 
 ## **Titanic** by James Cameroon  
-<p>
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">
   <iframe
     src="https://www.imdb.com/videoembed/vi1740686617"
@@ -52,12 +51,10 @@ Favorite: 1. Prologue
     scrolling="no">
   </iframe>
 </div>
-</p>
 
 ---
 
 ## **The Prestige** by Christopher Nolan  
-<p>
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">
   <iframe
     src="https://www.imdb.com/videoembed/vi2885334553"
@@ -69,12 +66,10 @@ Favorite: 1. Prologue
     scrolling="no">
   </iframe>
 </div>
-</p>
 
 ---
 
 ## **Ratatouille** by Brad Bird  
-<p>
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">
   <iframe
     src="https://www.imdb.com/videoembed/vi906147865"
@@ -86,7 +81,6 @@ Favorite: 1. Prologue
     scrolling="no">
   </iframe>
 </div>
-</p>
 
 ---
 
@@ -230,7 +224,6 @@ Favorite:
 ---
 
 ## **The Message** by Moustapha Akkad  
-<p>
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">
   <iframe
     src="https://www.imdb.com/videoembed/vi4035691289"
@@ -242,7 +235,6 @@ Favorite:
     scrolling="no">
   </iframe>
 </div>
-</p>
 
 ---
 

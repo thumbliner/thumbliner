@@ -7,7 +7,20 @@ nav_order: 1
 ---
 
 # Art
-_Films & Music (A Curation)_
+_Film & Music (A Curation)_
+
+## **Beauty and the Beast** by Alan Menken & Howard Ashman
+Favorite: 
+<iframe allow="autoplay *; encrypted-media *; fullscreen *;
+        clipboard-write"
+        frameborder="0"
+        height="450"
+        style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;"
+        sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"
+        src="https://embed.music.apple.com/album/beauty-and-the-beast-soundtrack-from-the-motion-picture/1440618890">
+</iframe>
+
+---
 
 ## **Attenborough’s Ant Mountain** by Joe Loncraine & Martin Dohrn  
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">
@@ -21,19 +34,6 @@ _Films & Music (A Curation)_
     referrerpolicy="strict-origin-when-cross-origin">
   </iframe>
 </div>
-
----
-
-## **Beauty and the Beast** by Alan Menken & Howard Ashman
-Favorite: 
-<iframe allow="autoplay *; encrypted-media *; fullscreen *;
-        clipboard-write"
-        frameborder="0"
-        height="450"
-        style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;"
-        sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"
-        src="https://embed.music.apple.com/album/beauty-and-the-beast-soundtrack-from-the-motion-picture/1440618890">
-</iframe>
 
 ---
 

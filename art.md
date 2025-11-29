@@ -10,7 +10,7 @@ nav_order: 1
 _Film & Music (A Curation)_
 
 ## **Beauty and the Beast** by Alan Menken & Howard Ashman
-Favorite: 
+Favorite: Prologue
 <br />
 <iframe allow="autoplay *; encrypted-media *; fullscreen *;
         clipboard-write"
@@ -24,7 +24,7 @@ Favorite:
 ---
 
 ## **Attenborough’s Ant Mountain** by Joe Loncraine & Martin Dohrn  
-<br />
+<p>
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">
   <iframe
     src="https://www.youtube-nocookie.com/embed/hhyy1hE-QWc?rel=0"
@@ -35,7 +35,7 @@ Favorite:
     loading="lazy"
     referrerpolicy="strict-origin-when-cross-origin">
   </iframe>
-</div>
+</p>
 
 ---
 
@@ -57,6 +57,7 @@ Favorite:
 ---
 
 ## **The Prestige** by Christopher Nolan  
+<p>
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">
   <iframe
     src="https://www.imdb.com/videoembed/vi2885334553"
@@ -68,10 +69,12 @@ Favorite:
     scrolling="no">
   </iframe>
 </div>
+</p>
 
 ---
 
 ## **Ratatouille** by Brad Bird  
+<p>
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">
   <iframe
     src="https://www.imdb.com/videoembed/vi906147865"
@@ -83,12 +86,13 @@ Favorite:
     scrolling="no">
   </iframe>
 </div>
+</p>
 
 ---
 
 ## **Mustt Mustt** by Nusrat Fateh Ali Khan
 Favorite: 
-<p>
+<br />
 <iframe allow="autoplay *; encrypted-media *; fullscreen *;
         clipboard-write"
         frameborder="0"
@@ -97,12 +101,12 @@ Favorite:
         sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"
         src="https://embed.music.apple.com/album/mustt-mustt-real-world-gold/1653379088">
 </iframe>
-</p>
 
 ---
 
 ## **Tanger, Vol 1 (Live)** by Luis Delgado
 Favorite: 6. La Aurora Nocturna (Live)
+<br />
 <iframe allow="autoplay *; encrypted-media *; fullscreen *;
         clipboard-write"
         frameborder="0"
@@ -116,6 +120,7 @@ Favorite: 6. La Aurora Nocturna (Live)
 
 ## **Tchaikovsky: The Nutcracker** by Berlin Philharmonic & Sir Simon Rattle
 Favorite: 
+<br />
 <iframe allow="autoplay *; encrypted-media *; fullscreen *;
         clipboard-write"
         frameborder="0"
@@ -142,6 +147,7 @@ Favorite:
   
 ## **Game of Thrones: Season 8** by Ramin Djawadi
 Favorite: 
+<br />
 <iframe allow="autoplay *; encrypted-media *; fullscreen *;
         clipboard-write"
         frameborder="0"
@@ -155,6 +161,7 @@ Favorite:
   
 ## **Voyage** by Garth Stevenson
 Favorite: 
+<br />
 <iframe allow="autoplay *; encrypted-media *; fullscreen *;
         clipboard-write"
         frameborder="0"
@@ -168,6 +175,7 @@ Favorite:
 
 ## **Trance with Khusrow** by Kavita Seth & Kanishk Seth
 Favorite: 3. Man Qunto Maula
+<br />
 <iframe allow="autoplay *; encrypted-media *; fullscreen *;
         clipboard-write"
         frameborder="0"
@@ -181,6 +189,7 @@ Favorite: 3. Man Qunto Maula
 
 ## **Rockstar** by A. R. Rahman
 Favorite: 
+<br />
 <iframe allow="autoplay *; encrypted-media *; fullscreen *;
         clipboard-write"
         frameborder="0"
@@ -194,6 +203,7 @@ Favorite:
 
 ## **Devdas** by Ismail Darbar & Birju Maharaj
 Favorite: 
+<br />
 <iframe allow="autoplay *; encrypted-media *; fullscreen *;
         clipboard-write"
         frameborder="0"
@@ -207,6 +217,7 @@ Favorite:
   
 ## **The Tortured Poets Department: The Anthology** by Taylor Swift
 Favorite: 
+<br />
 <iframe allow="autoplay *; encrypted-media *; fullscreen *;
         clipboard-write"
         frameborder="0"
@@ -219,6 +230,7 @@ Favorite:
 ---
 
 ## **The Message** by Moustapha Akkad  
+<p>
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">
   <iframe
     src="https://www.imdb.com/videoembed/vi4035691289"
@@ -230,6 +242,7 @@ Favorite:
     scrolling="no">
   </iframe>
 </div>
+</p>
 
 ---
 

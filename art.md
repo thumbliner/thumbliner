@@ -10,7 +10,7 @@ nav_order: 1
 _Films & Music (A Curation)_
 
 ## **Attenborough’s Ant Mountain**
-## Joe Loncraine & Martin Dohrn  
+### Joe Loncraine & Martin Dohrn  
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">
   <iframe
     src="https://www.youtube-nocookie.com/embed/hhyy1hE-QWc?rel=0"
@@ -22,6 +22,20 @@ _Films & Music (A Curation)_
     referrerpolicy="strict-origin-when-cross-origin">
   </iframe>
 </div>
+
+---
+
+## **Beauty and the Beast**
+### Alan Menken & Howard Ashman
+Favorite: 
+<iframe allow="autoplay *; encrypted-media *; fullscreen *;
+        clipboard-write"
+        frameborder="0"
+        height="450"
+        style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;"
+        sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"
+        src="https://embed.music.apple.com/album/beauty-and-the-beast-soundtrack-from-the-motion-picture/1440618890">
+</iframe>
 
 ---
 
@@ -42,7 +56,7 @@ _Films & Music (A Curation)_
 ---
 
 ## **The Prestige**
-#### Christopher Nolan  
+### Christopher Nolan  
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">
   <iframe
     src="https://www.imdb.com/videoembed/vi2885334553"
@@ -58,7 +72,7 @@ _Films & Music (A Curation)_
 ---
 
 ## **Ratatouille**
-## Brad Bird  
+### Brad Bird  
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">
   <iframe
     src="https://www.imdb.com/videoembed/vi906147865"
@@ -74,7 +88,8 @@ _Films & Music (A Curation)_
 ---
 
 ## **Mustt Mustt**
-## Nusrat Fateh Ali Khan
+### Nusrat Fateh Ali Khan
+Favorite: 
 <iframe allow="autoplay *; encrypted-media *; fullscreen *;
         clipboard-write"
         frameborder="0"
@@ -87,7 +102,8 @@ _Films & Music (A Curation)_
 ---
 
 ## **Tanger, Vol 1 (Live)**
-## Luis Delgado  
+### Luis Delgado
+Favorite: 6. La Aurora Nocturna (Live)
 <iframe allow="autoplay *; encrypted-media *; fullscreen *;
         clipboard-write"
         frameborder="0"
@@ -100,7 +116,8 @@ _Films & Music (A Curation)_
 ---
 
 ## **Tchaikovsky: The Nutcracker**
-## Berlin Philharmonic & Sir Simon Rattle  
+### Berlin Philharmonic & Sir Simon Rattle
+Favorite: 
 <iframe allow="autoplay *; encrypted-media *; fullscreen *;
         clipboard-write"
         frameborder="0"
@@ -113,7 +130,8 @@ _Films & Music (A Curation)_
 ---
   
 ## **Tudor Queens**
-## Diana Damrau  
+### Diana Damrau
+Favorite: 
 <iframe allow="autoplay *; encrypted-media *; fullscreen *;
         clipboard-write"
         frameborder="0"
@@ -124,22 +142,10 @@ _Films & Music (A Curation)_
 </iframe>
 
 ---
-
-## **Beauty and the Beast**
-## Alan Menken & Howard Ashman  
-<iframe allow="autoplay *; encrypted-media *; fullscreen *;
-        clipboard-write"
-        frameborder="0"
-        height="450"
-        style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;"
-        sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"
-        src="https://embed.music.apple.com/album/beauty-and-the-beast-soundtrack-from-the-motion-picture/1440618890">
-</iframe>
-
----
   
 ## **Game of Thrones: Season 8**
-## Ramin Djawadi  
+### Ramin Djawadi
+Favorite: 
 <iframe allow="autoplay *; encrypted-media *; fullscreen *;
         clipboard-write"
         frameborder="0"
@@ -152,7 +158,8 @@ _Films & Music (A Curation)_
 ---
   
 ## **Voyage**
-## Garth Stevenson  
+### Garth Stevenson
+Favorite: 
 <iframe allow="autoplay *; encrypted-media *; fullscreen *;
         clipboard-write"
         frameborder="0"
@@ -165,7 +172,7 @@ _Films & Music (A Curation)_
 ---
 
 ## **Trance with Khusrow**
-## Kavita Seth & Kanishk Seth  
+### Kavita Seth & Kanishk Seth
 Favorite: 3. Man Qunto Maula
 <iframe allow="autoplay *; encrypted-media *; fullscreen *;
         clipboard-write"
@@ -179,7 +186,8 @@ Favorite: 3. Man Qunto Maula
 ---
 
 ## **Rockstar**
-## A. R. Rahman  
+### A. R. Rahman
+Favorite: 
 <iframe allow="autoplay *; encrypted-media *; fullscreen *;
         clipboard-write"
         frameborder="0"
@@ -192,7 +200,8 @@ Favorite: 3. Man Qunto Maula
 ---
 
 ## **Devdas**
-## Ismail Darbar & Birju Maharaj  
+### Ismail Darbar & Birju Maharaj
+Favorite: 
 <iframe allow="autoplay *; encrypted-media *; fullscreen *;
         clipboard-write"
         frameborder="0"
@@ -205,7 +214,8 @@ Favorite: 3. Man Qunto Maula
 ---
   
 ## **The Tortured Poets Department: The Anthology**
-## Taylor Swift  
+### Taylor Swift
+Favorite: 
 <iframe allow="autoplay *; encrypted-media *; fullscreen *;
         clipboard-write"
         frameborder="0"
@@ -218,7 +228,7 @@ Favorite: 3. Man Qunto Maula
 ---
 
 ## **The Message**
-## Moustapha Akkad  
+### Moustapha Akkad  
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">
   <iframe
     src="https://www.imdb.com/videoembed/vi4035691289"

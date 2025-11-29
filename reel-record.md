@@ -10,6 +10,21 @@ nav_order: 1
 
 ## Films (Use headphones)
 
+**Shrek** — Andrew Adamson & Vicky Jenson (2001)
+<div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">
+  <iframe
+    src="https://www.imdb.com/videoembed/vi4085711129"
+    title="Shrek (2001)"
+    style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;"
+    allowfullscreen
+    loading="lazy"
+    referrerpolicy="strict-origin-when-cross-origin"
+    scrolling="no">
+  </iframe>
+</div>
+
+<br>
+
 <div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.25%;">
     <iframe 
         src="https://www.imdb.com/videoembed/vi4085711129" 
@@ -19,20 +34,10 @@ nav_order: 1
     </iframe>
 </div>
 
-<br>
-<iframe src="https://www.imdb.com/video/imdb/vi4085711129/imdb/embed?autoplay=false&width=640" 
-        width="640" 
-        height="360" 
-        allowfullscreen="true" 
-        mozallowfullscreen="true" 
-        webkitallowfullscreen="true" 
-        frameborder="no" 
-        scrolling="no">
-</iframe>
-
 
 ## Music (Turn screen off)
 
+**Mustt Mustt** — Nusrat Fateh Ali Khan (1990)
 <iframe allow="autoplay *; encrypted-media *; fullscreen *;
         clipboard-write"
         frameborder="0"

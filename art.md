@@ -11,6 +11,7 @@ _Film & Music (A Curation)_
 
 ## **Beauty and the Beast** by Alan Menken & Howard Ashman
 Favorite: 
+<br />
 <iframe allow="autoplay *; encrypted-media *; fullscreen *;
         clipboard-write"
         frameborder="0"
@@ -23,6 +24,7 @@ Favorite:
 ---
 
 ## **Attenborough’s Ant Mountain** by Joe Loncraine & Martin Dohrn  
+<br />
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">
   <iframe
     src="https://www.youtube-nocookie.com/embed/hhyy1hE-QWc?rel=0"
@@ -38,6 +40,7 @@ Favorite:
 ---
 
 ## **Titanic** by James Cameroon  
+<p>
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">
   <iframe
     src="https://www.imdb.com/videoembed/vi1740686617"
@@ -49,6 +52,7 @@ Favorite:
     scrolling="no">
   </iframe>
 </div>
+</p>
 
 ---
 
@@ -84,6 +88,7 @@ Favorite:
 
 ## **Mustt Mustt** by Nusrat Fateh Ali Khan
 Favorite: 
+<p>
 <iframe allow="autoplay *; encrypted-media *; fullscreen *;
         clipboard-write"
         frameborder="0"
@@ -92,6 +97,7 @@ Favorite:
         sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"
         src="https://embed.music.apple.com/album/mustt-mustt-real-world-gold/1653379088">
 </iframe>
+</p>
 
 ---
 

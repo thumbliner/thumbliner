@@ -27,4 +27,7 @@ Amity University<br>
 
 **School**  
 *1995–2009  ·  Saudi Arabia*  
-International Indian School Jeddah
+International Indian School Jeddah  
+
+##### Meet Outside
+- <a href="https://scholar.google.ca/citations?user=GzRshSoAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Google Scholar</a>  

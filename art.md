@@ -70,6 +70,20 @@ Favorite: 4. Bairi Piya
 </iframe>
 
 ---
+
+## **Rockstar** by A. R. Rahman
+Favorite: 13. Saadda Haq
+<br />
+<iframe allow="autoplay *; encrypted-media *; fullscreen *;
+        clipboard-write"
+        frameborder="0"
+        height="450"
+        style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;"
+        sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"
+        src="https://embed.music.apple.com/album/rockstar-original-motion-picture-soundtrack/1123241840">
+</iframe>
+
+---
   
 ## **Voyage** by Garth Stevenson
 Favorite: 12. Tuva
@@ -99,6 +113,23 @@ Favorite: 4. The Game
 
 ---
 
+## **Titanic** by James Cameroon  
+<p>
+<div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">
+  <iframe
+    src="https://www.imdb.com/videoembed/vi1740686617"
+    title="Titanic"
+    style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;"
+    allowfullscreen
+    loading="lazy"
+    referrerpolicy="strict-origin-when-cross-origin"
+    scrolling="no">
+  </iframe>
+</div>
+</p>
+
+---
+
 ## **Trance with Khusrow** by Kavita Seth & Kanishk Seth
 Favorite: 3. Man Qunto Maula
 <br />
@@ -110,21 +141,6 @@ Favorite: 3. Man Qunto Maula
         sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"
         src="https://embed.music.apple.com/album/trance-with-khusrow/1764092294">
 </iframe>
-
----
-
-## **Rockstar** by A. R. Rahman
-Favorite: 13. Saadda Haq
-<br />
-<iframe allow="autoplay *; encrypted-media *; fullscreen *;
-        clipboard-write"
-        frameborder="0"
-        height="450"
-        style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;"
-        sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"
-        src="https://embed.music.apple.com/album/rockstar-original-motion-picture-soundtrack/1123241840">
-</iframe>
-
 
 ---
 
@@ -145,20 +161,6 @@ Favorite: 13. Saadda Haq
 
 ---
 
-## **Titanic** by James Cameroon  
-<p>
-<div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">
-  <iframe
-    src="https://www.imdb.com/videoembed/vi1740686617"
-    title="Titanic"
-    style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;"
-    allowfullscreen
-    loading="lazy"
-    referrerpolicy="strict-origin-when-cross-origin"
-    scrolling="no">
-  </iframe>
-</div>
-</p>
 
 ---
 

@@ -147,6 +147,20 @@ Favorite: 4. The Game
 
 ---
 
+## **Tanger, Vol 1 (Live)** by Luis Delgado
+Favorite: 6. La Aurora Nocturna (Live)
+<br />
+<iframe allow="autoplay *; encrypted-media *; fullscreen *;
+        clipboard-write"
+        frameborder="0"
+        height="450"
+        style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;"
+        sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"
+        src="https://embed.music.apple.com/album/tanger-vol-1-live/595774036">
+</iframe>
+
+---
+
 ## **Trance with Khusrow** by Kavita Seth & Kanishk Seth
 Favorite: 3. Man Qunto Maula
 <br />
@@ -175,20 +189,6 @@ Favorite: 3. Man Qunto Maula
   </iframe>
 </div>
 </p>
-
----
-
-## **Tanger, Vol 1 (Live)** by Luis Delgado
-Favorite: 6. La Aurora Nocturna (Live)
-<br />
-<iframe allow="autoplay *; encrypted-media *; fullscreen *;
-        clipboard-write"
-        frameborder="0"
-        height="450"
-        style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;"
-        sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"
-        src="https://embed.music.apple.com/album/tanger-vol-1-live/595774036">
-</iframe>
 
 ---
 

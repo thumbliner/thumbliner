@@ -58,7 +58,7 @@ Favorite: 1. Prologue
 ---
 
 ## **Devdas** by Ismail Darbar & Birju Maharaj
-Favorite: Bairi Piya
+Favorite: 4. Bairi Piya
 <br />
 <iframe allow="autoplay *; encrypted-media *; fullscreen *;
         clipboard-write"

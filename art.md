@@ -12,8 +12,7 @@ _Film & Music (A Curation)_
 ## **Beauty and the Beast** by Alan Menken & Howard Ashman
 Favorite: 1. Prologue
 <br />
-<iframe allow="autoplay *; encrypted-media *; fullscreen *;
-        clipboard-write"
+<iframe allow="encrypted-media *; fullscreen *; clipboard-write"
         frameborder="0"
         height="450"
         style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;"
@@ -60,8 +59,7 @@ Favorite: 1. Prologue
 ## **Devdas** by Ismail Darbar & Birju Maharaj
 Favorite: 4. Bairi Piya
 <br />
-<iframe allow="autoplay *; encrypted-media *; fullscreen *;
-        clipboard-write"
+<iframe allow="encrypted-media *; fullscreen *; clipboard-write"
         frameborder="0"
         height="450"
         style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;"
@@ -74,8 +72,7 @@ Favorite: 4. Bairi Piya
 ## **The Tortured Poets Department: The Anthology** by Taylor Swift
 Favorite: 13. I Can Do It With a Broken Heart
 <br />
-<iframe allow="autoplay *; encrypted-media *; fullscreen *;
-        clipboard-write"
+<iframe allow="encrypted-media *; fullscreen *; clipboard-write"
         frameborder="0"
         height="450"
         style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;"
@@ -88,8 +85,7 @@ Favorite: 13. I Can Do It With a Broken Heart
 ## **Rockstar** by A. R. Rahman
 Favorite: 10. The Dichotomy of Fame
 <br />
-<iframe allow="autoplay *; encrypted-media *; fullscreen *;
-        clipboard-write"
+<iframe allow="encrypted-media *; fullscreen *; clipboard-write"
         frameborder="0"
         height="450"
         style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;"
@@ -102,8 +98,7 @@ Favorite: 10. The Dichotomy of Fame
 ## **Voyage** by Garth Stevenson
 Favorite: 12. Tuva
 <br />
-<iframe allow="autoplay *; encrypted-media *; fullscreen *;
-        clipboard-write"
+<iframe allow="encrypted-media *; fullscreen *; clipboard-write"
         frameborder="0"
         height="450"
         style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;"
@@ -116,8 +111,7 @@ Favorite: 12. Tuva
 ## **Mustt Mustt** by Nusrat Fateh Ali Khan
 Favorite: 4. The Game
 <br />
-<iframe allow="autoplay *; encrypted-media *; fullscreen *;
-        clipboard-write"
+<iframe allow="encrypted-media *; fullscreen *; clipboard-write"
         frameborder="0"
         height="450"
         style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;"
@@ -147,8 +141,7 @@ Favorite: 4. The Game
 ## **Tanger, Vol 1 (Live)** by Luis Delgado
 Favorite: 6. La Aurora Nocturna
 <br />
-<iframe allow="autoplay *; encrypted-media *; fullscreen *;
-        clipboard-write"
+<iframe allow="encrypted-media *; fullscreen *; clipboard-write"
         frameborder="0"
         height="450"
         style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;"
@@ -161,8 +154,7 @@ Favorite: 6. La Aurora Nocturna
 ## **Tchaikovsky: The Nutcracker** by Berlin Philharmonic & Sir Simon Rattle
 Favorite: 
 <br />
-<iframe allow="autoplay *; encrypted-media *; fullscreen *;
-        clipboard-write"
+<iframe allow="encrypted-media *; fullscreen *; clipboard-write"
         frameborder="0"
         height="450"
         style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;"
@@ -174,8 +166,7 @@ Favorite:
 
 ## **Tudor Queens** by Antonio Pappano, Diana Damrau & Orchestra dell'Accademia Nazionale di Santa Cecilia
 Favorite: 16. Vivi, Ingrate
-<iframe allow="autoplay *; encrypted-media *; fullscreen *;
-        clipboard-write"
+<iframe allow="encrypted-media *; fullscreen *; clipboard-write"
         frameborder="0"
         height="450"
         style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;"
@@ -188,8 +179,7 @@ Favorite: 16. Vivi, Ingrate
 ## **Game of Thrones: Season 8** by Ramin Djawadi
 Favorite: 27. The Iron Throne
 <br />
-<iframe allow="autoplay *; encrypted-media *; fullscreen *;
-        clipboard-write"
+<iframe allow="encrypted-media *; fullscreen *; clipboard-write"
         frameborder="0"
         height="450"
         style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;"
@@ -219,8 +209,7 @@ Favorite: 27. The Iron Throne
 ## **Trance with Khusrow** by Kavita Seth & Kanishk Seth
 Favorite: 3. Man Qunto Maula
 <br />
-<iframe allow="autoplay *; encrypted-media *; fullscreen *;
-        clipboard-write"
+<iframe allow="encrypted-media *; fullscreen *; clipboard-write"
         frameborder="0"
         height="450"
         style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;"

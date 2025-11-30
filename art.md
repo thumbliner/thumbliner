@@ -161,20 +161,6 @@ Favorite: 6. La Aurora Nocturna (Live)
 
 ---
 
-## **Trance with Khusrow** by Kavita Seth & Kanishk Seth
-Favorite: 3. Man Qunto Maula
-<br />
-<iframe allow="autoplay *; encrypted-media *; fullscreen *;
-        clipboard-write"
-        frameborder="0"
-        height="450"
-        style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;"
-        sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"
-        src="https://embed.music.apple.com/album/trance-with-khusrow/1764092294">
-</iframe>
-
----
-
 ## **Tchaikovsky: The Nutcracker** by Berlin Philharmonic & Sir Simon Rattle
 Favorite: 
 <br />
@@ -185,6 +171,20 @@ Favorite:
         style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;"
         sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"
         src="https://embed.music.apple.com/album/tchaikovsky-the-nutcracker/752033492">
+</iframe>
+
+---
+
+## **The Tortured Poets Department: The Anthology** by Taylor Swift
+Favorite: 
+<br />
+<iframe allow="autoplay *; encrypted-media *; fullscreen *;
+        clipboard-write"
+        frameborder="0"
+        height="450"
+        style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;"
+        sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"
+        src="https://embed.music.apple.com/album/the-tortured-poets-department-the-anthology/1742057774">
 </iframe>
 
 ---
@@ -215,9 +215,9 @@ Favorite: 27. The Iron Throne
 </iframe>
 
 ---
-  
-## **The Tortured Poets Department: The Anthology** by Taylor Swift
-Favorite: 
+
+## **Trance with Khusrow** by Kavita Seth & Kanishk Seth
+Favorite: 3. Man Qunto Maula
 <br />
 <iframe allow="autoplay *; encrypted-media *; fullscreen *;
         clipboard-write"
@@ -225,7 +225,7 @@ Favorite:
         height="450"
         style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;"
         sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"
-        src="https://embed.music.apple.com/album/the-tortured-poets-department-the-anthology/1742057774">
+        src="https://embed.music.apple.com/album/trance-with-khusrow/1764092294">
 </iframe>
 
 ---
@@ -269,6 +269,6 @@ Reciter: Raheel Farooq | English Translation in Subtitles
   <div class="verses">
     <div class="misra">ہیں اور بھی دنیا میں سخن ور بہت اچھے</div>
     <div class="misra">کہتے ہیں کہ غالبؔ کا ہے انداز بیاں اور</div>
-    <div class="poet">— مرزا غالب</div>
+    <div class="poet">— مرزا غالبؔ</div>
   </div>
 </div>

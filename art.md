@@ -57,6 +57,20 @@ Favorite: 1. Prologue
 
 ---
 
+## **Devdas** by Ismail Darbar & Birju Maharaj
+Favorite: 
+<br />
+<iframe allow="autoplay *; encrypted-media *; fullscreen *;
+        clipboard-write"
+        frameborder="0"
+        height="450"
+        style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;"
+        sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"
+        src="https://embed.music.apple.com/album/celebrating-21-years-of-devdas/1695071153">
+</iframe>
+
+---
+
 ## **Rockstar** by A. R. Rahman
 Favorite: 13. Saadda Haq
 <br />
@@ -103,8 +117,6 @@ Favorite: 13. Saadda Haq
   </iframe>
 </div>
 </p>
-
-
 
 ---
 
@@ -219,20 +231,6 @@ Favorite: 3. Man Qunto Maula
         style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;"
         sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"
         src="https://embed.music.apple.com/album/trance-with-khusrow/1764092294">
-</iframe>
-
----
-
-## **Devdas** by Ismail Darbar & Birju Maharaj
-Favorite: 
-<br />
-<iframe allow="autoplay *; encrypted-media *; fullscreen *;
-        clipboard-write"
-        frameborder="0"
-        height="450"
-        style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;"
-        sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"
-        src="https://embed.music.apple.com/album/celebrating-21-years-of-devdas/1695071153">
 </iframe>
 
 ---

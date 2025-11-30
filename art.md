@@ -176,7 +176,7 @@ Favorite:
 ---
 
 ## **Tudor Queens** by Antonio Pappano, Diana Damrau & Orchestra dell'Accademia Nazionale di Santa Cecilia
-Favorite: 16. Vivi, ingrate
+Favorite: 16. Vivi, Ingrate
 <iframe allow="autoplay *; encrypted-media *; fullscreen *;
         clipboard-write"
         frameborder="0"

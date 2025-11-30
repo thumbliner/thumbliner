@@ -175,23 +175,6 @@ Favorite: 3. Man Qunto Maula
 
 ---
 
-## **Attenborough’s Ant Mountain** by Joe Loncraine & Martin Dohrn  
-<p>
-<div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">
-  <iframe
-    src="https://www.youtube-nocookie.com/embed/hhyy1hE-QWc?rel=0"
-    title="Attenborough’s Ant Mountain"
-    style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;"
-    allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    allowfullscreen
-    loading="lazy"
-    referrerpolicy="strict-origin-when-cross-origin">
-  </iframe>
-</div>
-</p>
-
----
-
 ## **Tchaikovsky: The Nutcracker** by Berlin Philharmonic & Sir Simon Rattle
 Favorite: 
 <br />
@@ -216,7 +199,6 @@ Favorite:
         sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"
         src="https://embed.music.apple.com/album/tudor-queens/1519897706">
 </iframe>
-
 
 ---
   
@@ -245,6 +227,41 @@ Favorite:
         sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"
         src="https://embed.music.apple.com/album/the-tortured-poets-department-the-anthology/1742057774">
 </iframe>
+
+---
+
+## **Attenborough’s Ant Mountain** by Joe Loncraine & Martin Dohrn  
+<p>
+<div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">
+  <iframe
+    src="https://www.youtube-nocookie.com/embed/hhyy1hE-QWc?rel=0"
+    title="Attenborough’s Ant Mountain"
+    style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;"
+    allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen
+    loading="lazy"
+    referrerpolicy="strict-origin-when-cross-origin">
+  </iframe>
+</div>
+</p>
+
+---
+
+## **O Noble Humans** by Sahir Ludhianvi
+Reciter: Raheel Farooq | English Translation in Subtitles
+<p>
+<div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">
+  <iframe
+    src="https://www.youtube-nocookie.com/embed/hhyy1hE-QWc?rel=0"
+    title="O Noble Humans"
+    style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;"
+    allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen
+    loading="lazy"
+    referrerpolicy="strict-origin-when-cross-origin">
+  </iframe>
+</div>
+</p>
 
 ---
 

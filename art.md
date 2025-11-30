@@ -148,7 +148,7 @@ Favorite: 4. The Game
 ---
 
 ## **Tanger, Vol 1 (Live)** by Luis Delgado
-Favorite: 6. La Aurora Nocturna (Live)
+Favorite: 6. La Aurora Nocturna
 <br />
 <iframe allow="autoplay *; encrypted-media *; fullscreen *;
         clipboard-write"
@@ -175,20 +175,6 @@ Favorite:
 
 ---
 
-## **The Tortured Poets Department: The Anthology** by Taylor Swift
-Favorite: 
-<br />
-<iframe allow="autoplay *; encrypted-media *; fullscreen *;
-        clipboard-write"
-        frameborder="0"
-        height="450"
-        style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;"
-        sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"
-        src="https://embed.music.apple.com/album/the-tortured-poets-department-the-anthology/1742057774">
-</iframe>
-
----
-  
 ## **Tudor Queens** by Diana Damrau
 Favorite: 
 <iframe allow="autoplay *; encrypted-media *; fullscreen *;
@@ -262,6 +248,20 @@ Reciter: Raheel Farooq | English Translation in Subtitles
   </iframe>
 </div>
 </p>
+
+---
+
+## **The Tortured Poets Department: The Anthology** by Taylor Swift
+Favorite: 27. Cassandra
+<br />
+<iframe allow="autoplay *; encrypted-media *; fullscreen *;
+        clipboard-write"
+        frameborder="0"
+        height="450"
+        style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;"
+        sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"
+        src="https://embed.music.apple.com/album/the-tortured-poets-department-the-anthology/1742057774">
+</iframe>
 
 ---
 

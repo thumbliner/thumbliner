@@ -208,7 +208,7 @@ Favorite:
 ---
   
 ## **Game of Thrones: Season 8** by Ramin Djawadi
-Favorite: 
+Favorite: 27. The Iron Throne
 <br />
 <iframe allow="autoplay *; encrypted-media *; fullscreen *;
         clipboard-write"

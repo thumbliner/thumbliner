@@ -7,7 +7,7 @@ nav_order: 1
 ---
 
 # Art
-_Film & Music (A Curation)_
+_Are you watching closely?_
 
 ## **Beauty and the Beast** by Alan Menken & Howard Ashman
 Favorite: 1. Prologue

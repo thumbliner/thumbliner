@@ -99,6 +99,20 @@ Favorite: 4. The Game
 
 ---
 
+## **Trance with Khusrow** by Kavita Seth & Kanishk Seth
+Favorite: 3. Man Qunto Maula
+<br />
+<iframe allow="autoplay *; encrypted-media *; fullscreen *;
+        clipboard-write"
+        frameborder="0"
+        height="450"
+        style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;"
+        sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"
+        src="https://embed.music.apple.com/album/trance-with-khusrow/1764092294">
+</iframe>
+
+---
+
 ## **Rockstar** by A. R. Rahman
 Favorite: 13. Saadda Haq
 <br />
@@ -217,20 +231,6 @@ Favorite: 27. The Iron Throne
         style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;"
         sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"
         src="https://embed.music.apple.com/album/game-of-thrones-season-8-music-from-the-hbo-series/1464078803">
-</iframe>
-
----
-
-## **Trance with Khusrow** by Kavita Seth & Kanishk Seth
-Favorite: 3. Man Qunto Maula
-<br />
-<iframe allow="autoplay *; encrypted-media *; fullscreen *;
-        clipboard-write"
-        frameborder="0"
-        height="450"
-        style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;"
-        sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"
-        src="https://embed.music.apple.com/album/trance-with-khusrow/1764092294">
 </iframe>
 
 ---

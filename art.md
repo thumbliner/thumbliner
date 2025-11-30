@@ -175,7 +175,7 @@ Favorite:
 
 ---
 
-## **Tudor Queens** by Diana Damrau
+## **Tudor Queens** by Antonio Pappano, Diana Damrau & Orchestra dell'Accademia Nazionale di Santa Cecilia
 Favorite: 
 <iframe allow="autoplay *; encrypted-media *; fullscreen *;
         clipboard-write"

@@ -159,7 +159,7 @@ Favorite: 9. In the Pine Forest
 
 ---
 
-## **Titanic** by James Cameroon  
+## **Titanic** by James Cameron  
 <p>
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">
   <iframe

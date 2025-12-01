@@ -27,6 +27,19 @@ traffic, zoning, water, parks, pollution
 
 ## **Civilization** by Firaxis<br>
 cities, resources, technology, monuments, empires
+<p>
+<div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">
+  <iframe
+    src="https://www.youtube.com/embed/5KdE0p2joJw?si=p173_c3iQ6kIfxZP"
+    title="Civilization VI"
+    style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;"
+    allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen
+    loading="lazy"
+    referrerpolicy="strict-origin-when-cross-origin">
+  </iframe>
+</div>
+</p>
 
 ## **Democracy** by Positech Games<br>
 voter, donor, policy, tax, media

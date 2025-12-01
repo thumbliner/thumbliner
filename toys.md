@@ -25,6 +25,8 @@ traffic, zoning, water, parks, pollution
 </div>
 </p>
 
+---
+
 ## **Civilization** by Firaxis<br>
 cities, resources, technology, monuments, empires
 <p>
@@ -41,8 +43,12 @@ cities, resources, technology, monuments, empires
 </div>
 </p>
 
+---
+
 ## **Democracy** by Positech Games<br>
 voter, donor, policy, tax, media
+
+---
 
 ## **EVE Online** by CCP Games<br>
 alliance, trust, power, market, independence
@@ -60,6 +66,8 @@ alliance, trust, power, market, independence
 </div>
 </p>
 
+---
+
 ## **Factorio** by Wube Software<br>
 automation, optimization, leverage, fragility, convertibility
 <p>
@@ -75,6 +83,8 @@ automation, optimization, leverage, fragility, convertibility
   </iframe>
 </div>
 </p>
+
+---
 
 ## **Football Manager** by Sports Interactive<br>
 scouting, tactics, training, incentives, cashflows
@@ -92,6 +102,8 @@ scouting, tactics, training, incentives, cashflows
 </div>
 </p>
 
+---
+
 ## **Microsoft Flight Simulator** by Asobo Studio<br>
 instruments, checklists, communication, airmanship, weather
 <p>
@@ -108,6 +120,8 @@ instruments, checklists, communication, airmanship, weather
 </div>
 </p>
 
+---
+
 ## **Slither.io** by Lowtech Studios<br>
 size, speed, luck, envy, age
 <p>
@@ -123,6 +137,8 @@ size, speed, luck, envy, age
   </iframe>
 </div>
 </p>
+
+---
 
 > “A game is a series of interesting choices.”<br>
 > — Sid Meier

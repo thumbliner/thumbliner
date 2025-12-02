@@ -138,7 +138,7 @@ instruments, checklists, communication, airmanship, weather
 ---
 
 ## **Slither.io** by Lowtech Studios<br>
-size, speed, luck, envy, age
+size, speed, luck, ethic, age
 <p>
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">
   <iframe

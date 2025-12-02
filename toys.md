@@ -10,7 +10,7 @@ nav_order: 4
 _Axioms & Monte Carlos_  
 
 ## **Cities Skylines** by Colossal Order<br>
-traffic, zoning, water, parks, pollution
+traffic, jobs, housing, water, pollution
 <p>
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">
   <iframe

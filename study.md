@@ -9,6 +9,8 @@ nav_order: 3
 # Study
 _Formal-ish Education_  
 
+---
+
 ### Advanced Studies in Aviation  
 *2018–19  ·  Switzerland*  
 University of Geneva

@@ -137,7 +137,7 @@ Favorite: 4. The Game
 ---
 
 ## **Fiamma del belcanto** by Diana Damrau
-Favorite: 18. La Traviata: "Sempre Libera" (Violetta, Alfredo)
+Favorite: 18. La Traviata: "Sempre Libera"
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
         frameborder="0"
         height="450"

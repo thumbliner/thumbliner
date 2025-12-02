@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Core
 nav_order: 1
 ---
 

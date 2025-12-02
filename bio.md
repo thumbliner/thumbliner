@@ -5,8 +5,8 @@ nav_order: 99
 permalink: /bio/
 ---
 
-# Salman Khan
+# Salman
 
-Born in 92; descendant of traders who settled in Hyderabad ~200 years ago.  
-Identifies as the curious outsider; lives in Toronto.  
-Thumbliner is his digital handle.
+A curious outsider based in Toronto. Thumbliner is his digital handle.</br>
+
+If you have ideas to share, cast [at] thumbliner [dot] com

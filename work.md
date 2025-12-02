@@ -39,9 +39,9 @@ Connected pricing, eCommerce, and loyalty data; lead analyst on the COVID-19 ops
 *2016–17  ·  Saudi Research & Marketing Group*  
 Built an in-house full-service agency—team, model, and capabilities across creative, media, and analytics.
 
-### Executive Trainer  
+### Teacher  
 *2015–17  ·  EduPristine*  
-Delivered programs in digital strategy and analytics across the GCC.
+Delivered corporate programs in branding and marketing strategy; across the GCC.
 
 ### Digital Consultant  
 *2014–16  ·  Taurus Advertising Agency*  

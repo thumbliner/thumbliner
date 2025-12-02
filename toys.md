@@ -28,7 +28,7 @@ traffic, jobs, housing, water, pollution
 ---
 
 ## **Civilization** by Firaxis<br>
-cities, resources, technology, monuments, empires
+resources, production, technology, empires, conflicts
 <p>
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">
   <iframe

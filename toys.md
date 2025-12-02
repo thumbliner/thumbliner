@@ -100,7 +100,7 @@ scouting, tactics, training, incentives, cashflows
 ---
 
 ## **Geo-Political Simulator** by Positech Games<br>
-voter, donor, policy, tax, media
+voters, interests, policies, taxes, media
 <p>
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">
   <iframe

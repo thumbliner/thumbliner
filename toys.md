@@ -45,11 +45,6 @@ cities, resources, technology, monuments, empires
 
 ---
 
-## **Democracy** by Positech Games<br>
-voter, donor, policy, tax, media
-
----
-
 ## **EVE Online** by CCP Games<br>
 alliance, trust, power, market, independence
 <p>
@@ -93,6 +88,24 @@ scouting, tactics, training, incentives, cashflows
   <iframe
     src="https://www.youtube.com/embed/J0Mhw11bTYA?si=J6RjEgWnPPfQ6f_n"
     title="Football Manager"
+    style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;"
+    allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen
+    loading="lazy"
+    referrerpolicy="strict-origin-when-cross-origin">
+  </iframe>
+</div>
+</p>
+
+---
+
+## **Geo-Political Simulator** by Positech Games<br>
+voter, donor, policy, tax, media
+<p>
+<div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">
+  <iframe
+    src="https://www.youtube.com/embed/BzS1ONXLpH4?si=EKtZ8IlDIMf9OJeb"
+    title="Geo-Political Simulator"
     style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;"
     allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
     allowfullscreen

@@ -9,6 +9,8 @@ nav_order: 5
 # Work
 _Division of labor_  
 
+---
+
 ### Research Director  
 *Present  ·  Private Practice*  
 Applied-epistemology and advisory services.

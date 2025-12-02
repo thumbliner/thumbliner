@@ -101,7 +101,7 @@ scouting, tactics, training, incentives, cashflows
 
 ---
 
-## **Geo-Political Simulator** by Positech Games<br>
+## **Geo-Political Simulator** by Eversim<br>
 voters, interests, policies, taxes, media
 <p>
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">

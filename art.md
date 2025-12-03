@@ -22,6 +22,34 @@ Favorite: 1. Prologue
         src="https://embed.music.apple.com/album/beauty-and-the-beast-soundtrack-from-the-motion-picture/1440618890">
 </iframe>
 
+<iframe
+  style="border-radius:12px"
+  src="https://open.spotify.com/embed/album/0MscTwhV1H74ZzR7uCC2A2"
+  width="100%"
+  height="352"
+  frameborder="0"
+  allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+  loading="lazy">
+</iframe>
+
+<iframe
+  width="100%"
+  height="315"
+  src="https://www.youtube.com/embed/videoseries?list=PLng7iBKG7wzLVqVL0RFlRuKmxQyjFf419"
+  title="Beauty and the Beast (1991) Soundtrack – Playlist"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  allowfullscreen
+  loading="lazy">
+</iframe>
+
+<iframe
+  src="https://embed.tidal.com/albums/34187021"
+  style="width:100%; height:275px; border:0;"
+  allow="encrypted-media *; fullscreen *; web-share *"
+  loading="lazy">
+</iframe>
+
 ---
 
 ## **The Prestige** by Christopher Nolan  

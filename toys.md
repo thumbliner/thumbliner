@@ -139,3 +139,8 @@ instruments, checklists, communication, airmanship, weather
 
 > “A game is a series of interesting choices.”<br>
 > — Sid Meier
+
+---
+
+- <a href="https://public.tableau.com/app/profile/thumbliner/vizzes" target="_blank" rel="noopener noreferrer">Tableau Public</a>  
+

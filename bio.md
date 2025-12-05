@@ -9,4 +9,4 @@ permalink: /bio/
 
 A curious outsider based in Toronto. Thumbliner is his digital handle.<br>
 
-If you have ideas to share, cast [at] thumbliner [dot] com
+He asks a lot of questions. If you the answers, cast [at] thumbliner [dot] com

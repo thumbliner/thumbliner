@@ -11,7 +11,7 @@ _Formal-ish Education_
 
 ---
 
-### Advanced Studies in Aviation  
+### Advanced Studies in Aviation Management  
 *2018–19  ·  Switzerland*  
 University of Geneva
 

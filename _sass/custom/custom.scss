@@ -89,7 +89,7 @@ $urdu-font-family: "Noto Nastaliq Urdu", "Noto Naskh Arabic", "Segoe UI Historic
 
 :root {
   --tk-urdu-font: #{$urdu-font-family};
-  --urdu-leading: 2.4 !important; /* tighter overall; tweak 1.85–2.0 to taste */
+  --urdu-leading: 2.4; /* tighter overall; tweak 1.85–2.0 to taste */
 }
 
 /* Base container */
@@ -118,16 +118,16 @@ $urdu-font-family: "Noto Nastaliq Urdu", "Noto Naskh Arabic", "Segoe UI Historic
 /* Each line (misra): own line, right-aligned */
 .urdu .misra {
   display: block;
-  font-size: 1.00rem !important;
-  line-height: 2.4 !important;
+  font-size: 1.00rem;
+  line-height: 2.5 !important;
 }
 
 /* Poet credit: small, modest gap above */
 .urdu .poet {
   display: block;
   margin-top: 0.35rem;
-  font-size: 0.80rem !important;
-  line-height: 2.4 !important;
+  font-size: 0.80rem;
+  line-height: 2.4;
 }
 
 

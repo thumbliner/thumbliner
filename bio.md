@@ -14,10 +14,8 @@ He asks a lot of questions. If you the answers, cast [at] thumbliner [dot] com
 
 <div class="urdu" lang="ur" dir="rtl">
   <div class="verses">
-    <div class="misra">سرِ کوئے نا شناسایاں</div>
-    <div class="misra">ہمیں دن سے رات کرنا</div>
-    <div class="misra">کبھی اِس سے بات کرنا</div>
-    <div class="misra">کبھی اُس سے بات کرنا</div>
+    <div class="misra">سرِ کوئے نا شنایاں ہمیں دن سے رات کرنا</div>
+    <div class="misra">کبھی اِس سے بات کرنا کبھی اُس سے بات کرنا</div>
     <div class="poet">— فیض احمد فیض</div>
   </div>
 </div>

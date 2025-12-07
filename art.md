@@ -110,6 +110,16 @@ Favorite: 12. Tuva
 
 ---
 
+<div class="urdu" lang="ur" dir="rtl">
+  <div class="verses">
+    <div class="misra">کوئی قابل ہو تو ہم شانِ کئی دیتے ہیں</div>
+    <div class="misra">ڈھُونڈنے والوں کو دنیا بھی نئی دیتے ہیں</div>
+    <div class="poet">— علامہ اقبال</div>
+  </div>
+</div>
+
+---
+
 ## **Trance with Khusrow** by Kavita Seth & Kanishk Seth
 Favorite: 3. Man Qunto Maula
 <br />
@@ -193,6 +203,19 @@ Favorite: 27. The Iron Throne
 
 ## **Tanger, Vol 1 (Live)** by Luis Delgado
 Favorite: 6. La Aurora Nocturna
+<br />
+<iframe allow="encrypted-media *; fullscreen *; clipboard-write"
+        frameborder="0"
+        height="450"
+        style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;"
+        sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"
+        src="https://embed.music.apple.com/album/tanger-vol-1-live/595774036">
+</iframe>
+
+---
+
+## **Tanu Weds Manu** by Krsna Solo
+Favorite: 7. Rangrez
 <br />
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
         frameborder="0"

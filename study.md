@@ -43,13 +43,3 @@ International Indian School Jeddah
 
 ##### Publications
 - <a href="https://scholar.google.ca/citations?user=GzRshSoAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Google Scholar</a>  
-
----
-
-<div class="urdu" lang="ur" dir="rtl">
-  <div class="verses">
-    <div class="misra">شاعری تازہ زمانوں کی ہے معمار فرازؔ</div>
-    <div class="misra">یہ بھی اک سلسلۂ کن فیکوں ہے یوں ہے</div>
-    <div class="poet">— احمد فراز</div>
-  </div>
-</div>

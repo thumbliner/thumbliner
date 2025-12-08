@@ -110,16 +110,6 @@ Favorite: 12. Tuva
 
 ---
 
-<div class="urdu" lang="ur" dir="rtl">
-  <div class="verses">
-    <div class="misra">کوئی قابل ہو تو ہم شانِ کئی دیتے ہیں</div>
-    <div class="misra">ڈھُونڈنے والوں کو دنیا بھی نئی دیتے ہیں</div>
-    <div class="poet">— علامہ اقبال</div>
-  </div>
-</div>
-
----
-
 ## **Trance with Khusrow** by Kavita Seth & Kanishk Seth
 Favorite: 3. Man Qunto Maula
 <br />

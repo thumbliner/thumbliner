@@ -2,8 +2,6 @@
 layout: default
 title: "Glossary"
 permalink: /glossary/
-parent: Argument
-nav_order: 2
 nav_exclude: true
 ---
 

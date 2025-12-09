@@ -21,7 +21,7 @@ Argumentation is a form of action aimed at justification: the offering of reason
 
 ### Bibliography
 
-[^kant1787]: Kant, I. (1787) Critik der reinen Vernunft. 2nd edn (Zweyte hin und wieder verbesserte Auflage). Riga: Johann Friedrich Hartknoch.
+[^kant1787]: Kant, I. (1787) Critique of Pure Reason. Riga: Johann Friedrich Hartknoch.
 
 [^mises1962]: Mises, L. von (1962) The Ultimate Foundation of Economic Science: An Essay on Method. Princeton, NJ: D. Van Nostrand.
 

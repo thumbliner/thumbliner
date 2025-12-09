@@ -1,15 +1,13 @@
 ---
 layout: default
-title: "Epistemic Foundations"
-permalink: /epistemic-foundations/
+title: "Epistemic Foundation"
+permalink: /epistemic-foundation/
 parent: Argument
 nav_order: 1
 ---
 
-# Epistemic Foundations 
+# Epistemic Foundation 
 _Conditions of Possibility_
-
----
 
 Empirical knowledge depends on rules that organize what is given in experience. Sensory deliverances become empirical results when they are ordered in time, located in space, expressed in quantity through counting and measurement, and connected in causal relations that distinguish conditions from outcomes. This organization yields stable objects and events fit for checking, comparison, and lawlike explanation. Empirical inquiry supplies the measurements; prior forms and concepts supply the structure that makes measurements count as results.[^kant1998]
 

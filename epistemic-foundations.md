@@ -11,18 +11,16 @@ _Conditions of Possibility_
 
 ---
 
-An experiment produces sensory data: readings, sights, sounds. Sensory data become empirical results only when ordered in time, placed in space, quantified by counting, and connected as conditions and outcomes under causal relations. These rules provide the framework within which sensory inputs become concrete objects and events suitable for comparison and lawlike explanation. Knowledge therefore rests on a priori forms and a priori concepts that precede experiment and structure what can count as empirical result.[^kant1787]
+Empirical knowledge depends on rules that organize what is given in experience. Sensory deliverances become empirical results when they are ordered in time, located in space, expressed in quantity through counting and measurement, and connected in causal relations that distinguish conditions from outcomes. This organization yields stable objects and events fit for checking, comparison, and lawlike explanation. Empirical inquiry supplies the measurements; prior forms and concepts supply the structure that makes measurements count as results.[^kant1787]
 
-Action is purposeful conduct: the selection of means for the attainment of an end. Action is intelligible only through universal categories internal to its concept: ends and means; preference and choice among alternatives; scarcity of means and time; opportunity cost; causal judgment about means-end efficacy; temporal order (deliberation, execution, outcome) and time preference; and uncertainty with the attendant possibilities of error, learning, and revision. Knowledge of these categories follows from analysis of the concept of action independent of experiment, while experiments contribute particular measurements organized by rules already fixed by this structure.[^mises1962]
+Action is purposeful conduct: the selection of means for attaining an end. The concept of action carries universal features: ends and means; alternatives; preference and choice; limited time and resources; tradeoffs that accompany every choice; judgments about means-end efficacy; temporal order from deliberation to execution to outcome; time preference; and uncertainty, with the attendant possibilities of error, learning, and revision. These features follow from what it is to act and provide the framework within which particular observations about behavior become intelligible. Theory articulates this structure; empirical work adds case-specific measurements within it.[^mises1962]
 
-Argumentation is a form of action aimed at justification: the offering of reasons for resolution of a contested claim. Resolution requires shared standards of assessment; shared assessment requires shared meanings (definition, stable reference, disciplined use of terms) and inferential form (consistency, explicit steps, preservation of meaning across steps). Because justification is offered for evaluation in a forum, argumentation requires public assessability (transparent premises, methods, and intermediate inferences) and answerability to challenge (responsiveness to objections and rule-governed revision). Epistemology can therefore be framed around argumentation as a kind of action: universal rules of knowledge building follow from the conditions that make justification possible, and empirical results enter as content structured by those rules.[^hoppe1995]
+Argumentation is action aimed at justification: the offering of reasons for settling a contested claim. Justification proceeds through shared meaning (clear definitions, stable reference, disciplined use of terms) and shared reasoning form (consistent steps that preserve meaning across steps). Argumentation also proceeds through public assessability (transparent premises, methods, and intermediate steps) and answerability to challenge (responsiveness to objections through rule-governed refinement). These conditions generate general rules for building and assessing knowledge, with empirical findings entering as content assessed and integrated under those rules.[^hoppe1995]
 
 ---
 
-### Bibliography
+[^kant1998]: Kant, Immanuel. 1998. Critique of Pure Reason. Edited by Paul Guyer and Allen W. Wood. Cambridge University Press.
 
-[^kant1787]: Kant, I. (1787) Critique of Pure Reason. Riga: Johann Friedrich Hartknoch.
+[^mises1962]: Mises, Ludwig. 1962. The Ultimate Foundation of Economic Science.
 
-[^mises1962]: Mises, L. von (1962) The Ultimate Foundation of Economic Science: An Essay on Method. Princeton, NJ: D. Van Nostrand.
-
-[^hoppe1995]: Hoppe, H.-H. (1995) Economic Science and the Austrian Method. Auburn, AL: Ludwig von Mises Institute.
+[^hoppe1995]: Hoppe, Hans-Hermann. 1995. Economic Science and the Austrian Method. Auburn, Alabama: Ludwig von Mises Institute.

@@ -41,5 +41,5 @@ International Indian School Jeddah
 
 ---
 
-##### Publications
+### Publications
 - <a href="https://scholar.google.ca/citations?user=GzRshSoAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Google Scholar</a>  

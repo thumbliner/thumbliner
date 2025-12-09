@@ -2,9 +2,7 @@
 layout: default
 title: "Epistemic Foundations"
 permalink: /epistemic-foundations/
-parent: Argument
 nav_exclude: true
-nav_order: 1
 ---
 
 # Epistemic Foundations 

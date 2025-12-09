@@ -19,8 +19,8 @@ Argumentation is action aimed at justification: the offering of reasons for sett
 
 ---
 
-[^kant1998]: Kant, Immanuel. 1998. Critique of Pure Reason. Edited by Paul Guyer and Allen W. Wood. Cambridge University Press.
+[^kant1998]: Kant, Immanuel. 1998. Critique of Pure Reason. Edited by Paul Guyer and Allen W. Wood. Cambridge: Cambridge University Press.
 
-[^mises1962]: Mises, Ludwig. 1962. The Ultimate Foundation of Economic Science.
+[^mises1962]: Mises, Ludwig. 1962. The Ultimate Foundation of Economic Science: An Essay on Method. Princeton, New Jersey: D. Van Nostrand Company, Inc.
 
 [^hoppe1995]: Hoppe, Hans-Hermann. 1995. Economic Science and the Austrian Method. Auburn, Alabama: Ludwig von Mises Institute.

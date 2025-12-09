@@ -59,7 +59,7 @@ Managed operations and key accounts for an HP-authorized office-supplies distrib
 *2009  ·  Business Standard*  
 Learned how hard it is to sell reading material.
 
-### Founder and Manager  
+### Game Developer  
 *2006–09  ·  Bourne Aviation*  
 Created a “virtual airline” community; early work in web, product, and operations.
 

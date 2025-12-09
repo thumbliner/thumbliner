@@ -3,10 +3,13 @@ layout: default
 title: "Epistemic Foundations"
 permalink: /epistemic-foundations/
 parent: Argument
+nav_exclude: true
 nav_order: 1
 ---
 
 # Epistemic Foundations 
+
+---
 
 An experiment produces sensory data: readings, sights, sounds. Sensory data become empirical results only when ordered in time, placed in space, quantified by counting, and connected as conditions and outcomes under causal relations. These rules provide the framework within which sensory inputs become concrete objects and events suitable for comparison and lawlike explanation. Knowledge therefore rests on a priori forms and a priori concepts that precede experiment and structure what can count as empirical result.
 

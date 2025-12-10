@@ -28,3 +28,13 @@ Humans argue. In argument, arguers take an action of seeking justification by of
 [^2]: Mises, Ludwig. 1962. The Ultimate Foundation of Economic Science: An Essay on Method. Princeton, New Jersey: D. Van Nostrand Company, Inc.
 
 [^3]: Hoppe, Hans-Hermann. 1995. Economic Science and the Austrian Method. Auburn, Alabama: Ludwig von Mises Institute.
+
+---
+
+<div class="urdu" lang="ur" dir="rtl">
+  <div class="verses">
+    <div class="misra">ہر ایک بات پہ کہتے ہو تم کہ تو کیا ہے</div>
+    <div class="misra">تم ہی کہو کہ یہ اندازِ گفتگو کیا ہے</div>
+    <div class="poet">— مرزا غالبؔ</div>
+  </div>
+</div>

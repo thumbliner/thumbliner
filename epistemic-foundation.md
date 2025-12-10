@@ -9,7 +9,7 @@ nav_order: 1
 # Epistemic Foundation 
 _Conditions of Possibility_
 
-Knowledge arises from rules that organize experience. Sensation becomes experience only when the mind arranges it in time and space, states it in quantitative terms (bigger, smaller, faster, slower), and assigns causal relations. Once experience is organized this way, there appear objects and events that submit to lawlike explanations. Empirical inquiry uses this prior structure to test and refine what is known about the world.[^1]
+Knowledge arises from rules that organize experience. Sensation becomes experience when the mind arranges it in time and space, states it in quantitative terms (bigger, smaller, faster, slower), and assigns causal relations. Once experience is organized this way, there appear objects and events that submit to lawlike explanations. Empirical inquiry uses this prior structure to test and refine what is known about the world.[^1]
 
 Action is purposeful conduct: the selection of means for attaining an end. The concept of action carries universal features: ends and means; alternatives; preference and choice; limited time and resources; tradeoffs that accompany every choice; judgments about means-end efficacy; temporal order from deliberation to execution to outcome; time preference; and uncertainty, with the attendant possibilities of error, learning, and revision. These features follow from what it is to act and provide the framework within which particular observations about behavior become intelligible. Theory articulates this structure; empirical work adds case-specific measurements within it.[^2]
 

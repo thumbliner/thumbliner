@@ -12,7 +12,7 @@ _Film & Music (A Curation)_
 ---
 
 ## **Beauty and the Beast** by Alan Menken & Howard Ashman
-Favorite: 6. Be Our Guest
+Editor's Pick: 6. Be Our Guest
 <br />
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
         frameborder="0"
@@ -59,7 +59,7 @@ Favorite: 6. Be Our Guest
 ---
 
 ## **Devdas** by Ismail Darbar & Birju Maharaj
-Favorite: 5. Kaahe Chhed
+Editor's Pick: 5. Kaahe Chhed
 <br />
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
         frameborder="0"
@@ -72,7 +72,7 @@ Favorite: 5. Kaahe Chhed
 ---
 
 ## **The Tortured Poets Department: The Anthology** by Taylor Swift
-Favorite: 13. I Can Do It With a Broken Heart
+Editor's Pick: 13. I Can Do It With a Broken Heart
 <br />
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
         frameborder="0"
@@ -85,7 +85,7 @@ Favorite: 13. I Can Do It With a Broken Heart
 ---
 
 ## **Rockstar** by A. R. Rahman
-Favorite: 10. The Dichotomy of Fame
+Editor's Pick: 10. The Dichotomy of Fame
 <br />
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
         frameborder="0"
@@ -98,7 +98,7 @@ Favorite: 10. The Dichotomy of Fame
 ---
 
 ## **Flying** by Garth Stevenson
-Favorite: 9. Hourglass
+Editor's Pick: 9. Hourglass
 <br />
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
         frameborder="0"
@@ -111,7 +111,7 @@ Favorite: 9. Hourglass
 ---
 
 ## **Trance with Khusrow** by Kavita Seth & Kanishk Seth
-Favorite: 2. Chashm-e-Maste
+Editor's Pick: 2. Chashm-e-Maste
 <br />
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
         frameborder="0"
@@ -124,7 +124,7 @@ Favorite: 2. Chashm-e-Maste
 ---
 
 ## **Mustt Mustt** by Nusrat Fateh Ali Khan
-Favorite: 4. The Game
+Editor's Pick: 4. The Game
 <br />
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
         frameborder="0"
@@ -137,7 +137,7 @@ Favorite: 4. The Game
 ---
 
 ## **Fiamma del belcanto** by Diana Damrau
-Favorite: 18. La Traviata: "Sempre Libera"
+Editor's Pick: 18. La Traviata: "Sempre Libera"
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
         frameborder="0"
         height="450"
@@ -149,7 +149,7 @@ Favorite: 18. La Traviata: "Sempre Libera"
 ---
   
 ## **Tchaikovsky: The Nutcracker** by Berlin Philharmonic & Sir Simon Rattle
-Favorite: 9. In the Pine Forest
+Editor's Pick: 9. In the Pine Forest
 <br />
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
         frameborder="0"
@@ -184,7 +184,7 @@ Favorite: 9. In the Pine Forest
 ---
 
 ## **Tanger, Vol 1 (Live)** by Luis Delgado
-Favorite: 6. La Aurora Nocturna
+Editor's Pick: 6. La Aurora Nocturna
 <br />
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
         frameborder="0"

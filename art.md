@@ -97,8 +97,8 @@ Favorite: 10. The Dichotomy of Fame
 
 ---
 
-## **Voyage** by Garth Stevenson
-Favorite: 12. Tuva
+## **Flying** by Garth Stevenson
+Favorite: 9. Hourglass
 <br />
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
         frameborder="0"

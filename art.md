@@ -172,15 +172,14 @@ Favorite: 9. In the Pine Forest
 
 ---
 
-## **Game of Thrones: Season 8** by Ramin Djawadi
-Favorite: 27. The Iron Throne
+## The Last of the Starks by Ramin Djawadi
 <br />
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
-        frameborder="0"
-        height="450"
-        style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;"
-        sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"
-        src="https://embed.music.apple.com/album/game-of-thrones-season-8-music-from-the-hbo-series/1464078803">
+        frameborder="0" 
+        height="175" 
+        style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" 
+        sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" 
+        src="https://embed.music.apple.com/song/the-last-of-the-starks/1464079250">
 </iframe>
 
 ---

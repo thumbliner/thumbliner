@@ -12,7 +12,7 @@ _Film & Music (A Curation)_
 ---
 
 ## **Beauty and the Beast** by Alan Menken & Howard Ashman
-Favorite: 1. Prologue
+Favorite: 6. Be Our Guest
 <br />
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
         frameborder="0"
@@ -111,7 +111,7 @@ Favorite: 9. Hourglass
 ---
 
 ## **Trance with Khusrow** by Kavita Seth & Kanishk Seth
-Favorite: 3. Man Qunto Maula
+Favorite: 2. Chashm-e-Maste
 <br />
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
         frameborder="0"

@@ -28,10 +28,10 @@ _Poor Salman's Capital_
 
 > <div class="hindi" lang="hi" dir="ltr">
 >   <div class="verses">
->     <div class="line">आओ इस तीराबख़्त दुनिया में</div>
->     <div class="line">फ़िक्र की रौशनी को आम करेंीं</div>
->     <div class="line">अमन को जिनसे तक़वियत पहुँचे</div>
->     <div class="line">ऐसी जंगों का एहतिमाम करेंीं</div>
+>     <div class="line">जंग के और भी तो मैदान हैं</div>
+>     <div class="line">सिर्फ़ मैदान-ए क़श्त-ओ-ख़ूँ ही नहीं</div>
+>     <div class="line">हासिल-ए ज़िंदगी ख़िरद भी है</div>
+>     <div class="line">हासिल-ए ज़िंदगी जुनूँ ही नहींीं</div>
 >     <div class="poet">— साहिर लुधियानवी</div>
 >   </div>
 > </div>

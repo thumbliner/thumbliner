@@ -173,7 +173,6 @@ Favorite: 9. In the Pine Forest
 ---
 
 ## The Last of the Starks by Ramin Djawadi
-<br />
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
         frameborder="0" 
         height="175" 

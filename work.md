@@ -23,19 +23,19 @@ Advised on curriculum and direction for the Executive Certificate in Digital Mar
 *2022–24  ·  Klick Health*  
 Led analytics for global pharma brands; set standards for measurement and reporting.
 
-### Content Analytics Director  
+### Content Analytics  
 *2021–22  ·  Postmedia Network*  
 Rebuilt the analytics team, stack, and practice (reader journey mapping and attribution).
 
-### Media Analytics Director  
+### Media Analytics  
 *2021  ·  Dentsu*  
 Coordinated cross-brand analytics, from measurement design to CDP automation and activation.
 
-### Retail Analytics Manager  
+### Retail Analytics 
 *2019–20  ·  Pet Valu*  
 Connected pricing, eCommerce, and loyalty data; lead analyst on the COVID-19 ops task force.
 
-### Marketing Director  
+### Agency Director  
 *2016–17  ·  Saudi Research & Marketing Group*  
 Built an in-house full-service agency—team, model, and capabilities across creative, media, and analytics.
 

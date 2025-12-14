@@ -10,7 +10,7 @@ nav_order: 1
 _Conditions of Possibility_
 
 ###  Structure of an Argument
-To argue is to say, “I think this is true, and here is why.” Your reasons answer “why,” and your conclusion states what those reasons support. The structure makes it easy to follow by using clear definitions, saying what you mean to cover (scope), starting from common ground, and stating your assumptions. The link from reasons to conclusion can be deductive, inductive, or abductive, letting others judge the conclusion as certain, probable, or unknowable.
+To argue is to say, “I think this is true, and here is why.” Your reasons answer “why,” and your conclusion states what those reasons support. The structure makes it easy to follow by using clear definitions, saying what you mean to cover (scope), starting from common ground, and stating your assumptions. The link from reasons to conclusion can be deductive, inductive, or abductive, letting others judge.
 
 ### Mind is the Basis of Knowledge
 Mind is the Basis of Knowledge

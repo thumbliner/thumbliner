@@ -13,7 +13,6 @@ _Conditions of Possibility_
 To argue is to say, “I think this is true, and here is why.” Your reasons answer “why,” and your conclusion states what those reasons support. The structure makes it easy to follow by using clear definitions, saying what you mean to cover (scope), starting from common ground, and stating your assumptions. The link from reasons to conclusion can be deductive, inductive, or abductive, letting others judge.
 
 ### Mind is the Basis of Knowledge
-Mind is the Basis of Knowledge
 We learn about the world by paying attention. We get sensations—seeing a ball, hearing a dog, feeling cold—and our mind organizes them in time (“first… then…”) and space (“here… there…”). That organization lets us identify stable objects and track events that involve them. We also use structure to find regularities, like counting and simple causal expectations (“I drop it, it falls”). We engage in inquiry when we ask questions and try things out; what we settle on becomes empirical knowledge.[^1]
 
 ### The Action Axiom

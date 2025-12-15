@@ -13,7 +13,7 @@ _Division of labor_
 
 ### Research Director  
 *Present  ·  Private Practice*  
-Applied-epistemology and advisory services.
+Applied epistemology and advisory services.
 
 ### Program Advisory Council  
 *2024–25  ·  York University*  

@@ -16,6 +16,6 @@ He asks a lot of questions. If you have the answers, cast [at] thumbliner [dot] 
   <div class="verses">
     <div class="misra">سرِ کوئے نا شنایاں ہمیں دن سے رات کرنا</div>
     <div class="misra">کبھی اِس سے بات کرنا کبھی اُس سے بات کرنا</div>
-    <div class="poet">— فیض احمد فیض</div>
+    <div class="poet">— فیض احمد فیضؔ</div>
   </div>
 </div>

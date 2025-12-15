@@ -7,7 +7,7 @@ nav_order: 2
 ---
 
 # Loop 
-_Analogy and Metaphor_
+_The General in Particulars_
 
 ---
 ## X Axis

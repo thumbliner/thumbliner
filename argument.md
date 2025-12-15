@@ -14,6 +14,6 @@ An argument is a structured set of propositions to support a conclusion.
   <div class="verses">
     <div class="misra">اس فن میں کوئی بے تہہ کیا ہو مرا معارض</div>
     <div class="misra">اول تو میں سند ہوں پھر یہ مری زباں ہے</div>
-    <div class="poet">— مير تقی میر</div>
+    <div class="poet">— مير تقی میرؔ</div>
   </div>
 </div>

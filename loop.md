@@ -4,7 +4,6 @@ title: "Loop"
 permalink: /loop/
 parent: Argument
 nav_order: 2
-math: mathjax
 ---
 
 # Loop 

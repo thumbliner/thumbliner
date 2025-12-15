@@ -27,6 +27,9 @@ Cognition can be modeled as a closed-loop controller. Sensory streams are conver
 ### Math
 At time $t$, each agent $i$ receives a local observation $o^i_t$ (including relevant price signals $p_t$) and infers an internal interpretation $s^i_t = \phi_{\theta_i}(o^i_{\le t}, p_{\le t})$. The agent selects an action via a policy $a^i_t = \pi_{\psi_i}(s^i_t)$ (subject to constraints). After executing $a^i_t$, it receives new observations $o^i_{t+1}$ (including updated prices $p_{t+1}$) and infers $s^i_{t+1} = \phi_{\theta_i}(o^i_{\le t+1}, p_{\le t+1})$. It computes discrepancy/feedback signals, e.g., an interpretive/model error $e^i_t = s^i_{t+1} - f_{\theta_i}(s^i_t, a^i_t)$ and profit/loss $\pi^i_{t+1} = \mathrm{rev}^i_{t+1} - \mathrm{cost}^i_{t+1}$ (optionally $\delta^i_t = \pi^i_{t+1} - \mathbb{E}t[\pi^i{t+1}]$), and uses these signals to update parameters $(\theta_i,\psi_i)$.
 
+At time \(t\), each agent \(i\) receives a local observation \(o^i_t\) (including relevant price signals \(p_t\)) and infers an internal interpretation \(s^i_t = \phi_{\theta_i}(o^i_{\le t}, p_{\le t})\). The agent selects an action via a policy \(a^i_t = \pi_{\psi_i}(s^i_t)\) (subject to constraints). After executing \(a^i_t\), it receives new observations \(o^i_{t+1}\) (including updated prices \(p_{t+1}\)) and infers \(s^i_{t+1} = \phi_{\theta_i}(o^i_{\le t+1}, p_{\le t+1})\). It computes discrepancy/feedback signals, e.g., an interpretive/model error \(e^i_t = s^i_{t+1} - f_{\theta_i}(s^i_t, a^i_t)\) and profit/loss \(\pi^i_{t+1} = \mathrm{rev}^i_{t+1} - \mathrm{cost}^i_{t+1}\) (optionally \(\delta^i_t = \pi^i_{t+1} - \mathbb{E}_t[\pi^i_{t+1}]\)), and uses these signals to update parameters \((\theta_i,\psi_i)\).
+
+
 At time $t$, each agent $i$ receives a local observation $o_t^i$ (including relevant price signals $p_t$) and infers an internal interpretation
 $$
 s_t^i = \phi_{\theta_i}\!\left(o_{\le t}^i,\; p_{\le t}\right).

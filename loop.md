@@ -33,7 +33,7 @@ Solves/explains; makes mistakes; adjusts model/approach. The teaching is felt as
 ---
 ## Y Axis
 
-### Intuitive
+### Plain
 You notice what’s happening, choose what to do next, act, see what happens, and learn.
 
 ### Practical

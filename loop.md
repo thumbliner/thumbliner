@@ -52,7 +52,7 @@ At time $$t$$, each agent $$i$$ receives a local observation $$o_t^i$$ (includin
 ## Z Axis
 
 ### Applied Epistemology
-It’s practical thinking: build a model of the world, use it to predict outcomes, and look for “weird gaps” where things don’t add up (asymmetries). Since scarcity is real, you commit your limited resources on the best bets, while leaving a margin for error. After you act, you treat outcomes as feedback on your method, and update arguments accordingly. Education becomes interactive once your judgment bears the burden of uncertainty.
+It’s practical thinking: you build a model of the world, use it to predict, and hunt for asymmetries where conventional wisdom and the facts don’t line up. You bet scarce valuables with a margin for error. Treat outcomes as feedback on your method, with enough humility to admit errors and update arguments. That feedback loop improves the system by punishing prediction errors and rewarding effective actions, making you harder to fool—including by your own narratives. Education becomes interactive once your judgment bears the burden of uncertainty.
 
 
 ---

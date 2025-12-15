@@ -26,10 +26,7 @@ Cognition can be modeled as a closed-loop controller. Sensory streams are conver
 
 ### Math
 At time 
-$$
-t
-$$
-, each agent 
+$$t$$, each agent 
 $$
 i
 $$
@@ -39,9 +36,7 @@ o_t^i
 $$
 (including relevant price signals 
 $$
-p_t
-$$
-) and infers an internal interpretation
+p_t$$) and infers an internal interpretation
 $$
 s_t^i = \phi_{\theta_i}\!\left(o_{\le t}^i,\; p_{\le t}\right).
 $$

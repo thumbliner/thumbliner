@@ -13,7 +13,7 @@ _Analogy and Metaphor_
 ## X Axis
 
 ### Plain
-You notice what’s happening, choose what to do next, act, see what happens, and adjust your habits.
+You notice what’s happening, choose what to do next, act, see what happens, and learn.
 
 ### Practical
 Absorb information, form a workable understanding, select an action based on expected results, then compare the outcome to goals to update expectations and refine habits.

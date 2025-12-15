@@ -52,7 +52,7 @@ At time $$t$$, each agent $$i$$ receives a local observation $$o_t^i$$ (includin
 ## Z Axis
 
 ### Applied Epistemology
-It’s practical thinking: you build a model of the world, use it to predict, and hunt for asymmetries where conventional wisdom and the facts don’t line up. You bet scarce valuables with a margin for error. Treat outcomes as feedback on your method, with enough humility to admit errors and update arguments. That feedback loop improves the system by punishing prediction errors and rewarding effective actions, making you harder to fool—including by your own narratives. Education becomes interactive once your judgment bears the burden of uncertainty.
+It’s practical thinking: you build a model of the world, use it to predict, and hunt for asymmetries where conventional wisdom and the facts don’t line up; you bet scarce valuables with a margin for error; treat outcomes as feedback on your method, with enough humility to admit errors and update arguments; that feedback loop improves the cognition by punishing prediction errors and rewarding effective actions, making you harder to fool—including by your own narratives; education becomes interactive once your judgment bears the burden of uncertainty.
 
 
 ---

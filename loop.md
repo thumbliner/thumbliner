@@ -13,7 +13,7 @@ _Analogy and Metaphor_
 ## X Axis
 
 ### Baby
-Cries when hungry; gets fed; adjusts toward crying sooner. The loop is immediate.
+Cries when hungry; gets fed; adjusts toward crying sooner next time.
 
 ### Shopper
 Purchases; learns quality after delivery; adjusts buying rules. The feedback is delayed.

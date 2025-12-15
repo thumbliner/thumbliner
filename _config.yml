@@ -14,3 +14,5 @@ logo: "/assets/images/logo.png"
 favicon_ico: "/favicon.ico"
 
 color_scheme: tkbrand
+
+math: mathjax

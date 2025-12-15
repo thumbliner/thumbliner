@@ -25,58 +25,7 @@ An agent senses the environment to form a state estimate. It then predicts conse
 Cognition is closed-loop information processing: an agent samples partial evidence and receives compact signals that summarize constraints and affordances; from these it infers latent state and constructs causal representations of its environment. It then uses an internal dynamic model to generate probabilistic expectations, and applies judgment to select control actions that are feasible and norm-compliant under binding limits such as capability, budget, and risk policy. Because action perturbs the evidentiary stream, perception, belief, prediction, and control are coupled in feedback. After acting, the agent re-observes, computes prediction error as the divergence between expected and realized outcomes, and attributes that error across perception, world-model, and value/utility components. It then updates its model and policy to improve performance under scarcity and uncertainty.
 
 ### Math
-At time 
-$$t$$, each agent 
-$$
-i
-$$
-receives a local observation 
-$$
-o_t^i
-$$
-(including relevant price signals 
-$$
-p_t$$) and infers an internal interpretation
-$$
-s_t^i = \phi_{\theta_i}\!\left(o_{\le t}^i,\; p_{\le t}\right).
-$$
-The agent selects an action via a policy
-$$
-a_t^i = \pi_{\psi_i}\!\left(s_t^i\right)
-$$
-(subject to constraints). After executing 
-$$
-a_t^i
-$$
-, it receives new observations 
-$$
-o_{t+1}^i
-$$
-(including updated prices 
-$$
-p_{t+1}
-$$
-) and infers
-$$
-s_{t+1}^i = \phi_{\theta_i}\!\left(o_{\le t+1}^i,\; p_{\le t+1}\right).
-$$
-It computes discrepancy/feedback signals, e.g., an interpretive/model error
-$$
-e_t^i = s_{t+1}^i - f_{\theta_i}\!\left(s_t^i,\; a_t^i\right)
-$$
-and profit/loss
-$$
-\pi_{t+1}^i = \mathrm{rev}_{t+1}^i - \mathrm{cost}_{t+1}^i
-$$
-(optionally
-$$
-\delta_t^i = \pi_{t+1}^i - \mathbb{E}_t\!\left[\pi_{t+1}^i\right]
-$$
-), and uses these signals to update parameters 
-$$
-(\theta_i,\psi_i)
-$$.
-
+At time $$t$$, each agent $$i$$ receives a local observation $$o_t^i$$ (including relevant price signals $$p_t$$) and infers an internal interpretation $$s_t^i = \phi_{\theta_i}\!\left(o_{\le t}^i,\; p_{\le t}\right).$$ The agent selects an action via a policy $$a_t^i = \pi_{\psi_i}\!\left(s_t^i\right)$$ (subject to constraints). After executing $$a_t^i$$, it receives new observations $$o_{t+1}^i$$ (including updated prices $$p_{t+1}$$) and infers $$s_{t+1}^i = \phi_{\theta_i}\!\left(o_{\le t+1}^i,\; p_{\le t+1}\right).$$ It computes discrepancy/feedback signals, e.g., an interpretive/model error $$e_t^i = s_{t+1}^i - f_{\theta_i}\!\left(s_t^i,\; a_t^i\right)$$ and profit/loss $$\pi_{t+1}^i = \mathrm{rev}_{t+1}^i - \mathrm{cost}_{t+1}^i$$ (optionally $$\delta_t^i = \pi_{t+1}^i - \mathbb{E}_t\!\left[\pi_{t+1}^i\right]$$), and uses these signals to update parameters $$(\theta_i,\psi_i)$$.
 
 ---
 ## Y Axis

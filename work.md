@@ -7,7 +7,7 @@ nav_order: 5
 ---
 
 # Work
-_Division of labor_  
+_Division of Labor_  
 
 ---
 

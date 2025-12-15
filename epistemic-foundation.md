@@ -27,7 +27,7 @@ When you choose argument as an action, you deal with disagreement by seeking com
   <div class="verses">
     <div class="misra">ناز ہے طاقتِ گفتار پر انسانوں کو</div>
     <div class="misra">بات کرنے کا سلیقہ نہیں نادانوں کو</div>
-    <div class="poet">— علامہ اقبال</div>
+    <div class="poet">— علامہ اقبالؔ</div>
   </div>
 </div>
 

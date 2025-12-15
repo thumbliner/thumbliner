@@ -9,6 +9,8 @@ nav_order: 1
 # Epistemic Foundation 
 _Conditions of Possibility_
 
+---
+
 ###  Structure of an Argument
 To argue is to say, “I think this is true, and here is why.” Your reasons answer “why,” and your conclusion states what those reasons support. The structure makes it easy to follow by starting from common ground, using clear definitions, saying what you mean to cover (scope), and stating your assumptions. The link from reasons to conclusion can be deductive, inductive, or abductive, letting others judge.
 

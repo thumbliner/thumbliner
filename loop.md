@@ -13,28 +13,28 @@ _The General in Particulars_
 ## X Axis
 
 ### Baby
-Cries. Gets fed. Next time, cries sooner—and louder.
+Cries; gets fed; next time, cries sooner—and louder.
 
 ### Driver
-Steers and brakes. Feels the car lurch or glide. Adjusts until it’s smooth.
-If your braking is inconsistent, you can’t tell what caused what—you add noise to your own feedback.
+Steers and brakes, senses the lurch or the glide, and keeps adjusting until it’s smooth.
+When your braking is inconsistent, cause and effect blur—you add noise to your own feedback.
 
 ### Shopper
-Buys something. Waits. Tries it at home. Updates what to buy next time.
-Because the result arrives late, you learn slowly—and lean on shortcuts like “trust this brand.”
+Buys something; waits; tries it at home; updates what to buy next time.
+When the feedback arrives late, you learn slowly—and lean on shortcuts like “trust this brand.”
 
 ### Politician
-Chooses a message. Delivers it. Reads the room and the polls. Tweaks the next one.
-The public is the sensor: their reactions are the signal.
+Chooses a message; delivers it; reads the room and the polls; tweaks the next one.
+The public is the sensor; their reactions are the signal.
 
 ### Entrepreneur
-Makes a bet about what people will buy. Spends time and capital to test it.
-Sales, complaints, and cash in the bank reveal how wrong the bet was—then the plan gets revised.
-Over time, what earns real margin gets more resources; what doesn’t gets redesigned or stopped.
+Makes a bet on what people will buy; spends time and capital to test it.
+Sales, complaints, and cash in the bank show how right or wrong the bet was—then the plan is revised.
+Over time, what earns real cash gets more attention; what doesn’t is abandoned.
 
 ### Student
-Attempts a problem. Gets something wrong. Updates the mental model.
-Teaching lands as feedback—often in the sting of error.
+Forms a model; attempts a problem; gets it wrong; updates the model.
+Learning happens when error stings.
 
 ---
 ## Y Axis

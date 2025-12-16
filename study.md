@@ -42,4 +42,4 @@ International Indian School Jeddah
 ---
 
 ### Publications
-- <a href="https://scholar.google.ca/citations?user=GzRshSoAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Google Scholar</a>  
+- <a href="https://orcid.org/0000-0003-4798-0467" target="_blank" rel="noopener noreferrer">ORCID</a>  

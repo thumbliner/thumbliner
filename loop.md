@@ -28,7 +28,7 @@ Chooses a message. Delivers it. Reads the room and the polls. Tweaks the next on
 The public is the sensor: their reactions are the signal.
 
 ### Entrepreneur
-Makes a bet about what people will buy. Spends time and money to test it.
+Makes a bet about what people will buy. Spends time and capital to test it.
 Sales, complaints, and cash in the bank reveal how wrong the bet was—then the plan gets revised.
 Over time, what earns real margin gets more resources; what doesn’t gets redesigned or stopped.
 

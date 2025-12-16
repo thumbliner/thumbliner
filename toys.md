@@ -48,7 +48,7 @@ resources, production, empires, conflicts, technology
 ---
 
 ## **EVE Online** by CCP Games<br>
-alliance, trust, power, ethic, people
+alliance, trust, power, ethic, human nature
 <p>
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">
   <iframe

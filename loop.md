@@ -16,16 +16,16 @@ _The General in Particulars_
 Cries, gets fed. Next time, cries sooner—and louder.
 
 ### Driver
-Steers and brakes, senses the lurch or the glide, and keeps adjusting until it’s smooth. When your braking is inconsistent, cause and effect blur—you add noise to your own feedback.
+Steers and brakes, feels the jerk or the smooth glide, keeps adjusting until it's right. Inconsistent braking muddies cause and effect—you add noise to the feedback.
 
 ### Shopper
-Buys something; waits; tries it at home; updates what to buy next time. When the feedback arrives late, you learn slowly—and lean on shortcuts like “trust this brand.”
+Buys something, waits, tries it at home, then updates what to buy next time. When feedback arrives late, learning slows—so you lean on shortcuts like "trust this brand."
 
 ### Politician
-Chooses a message, delivers it, watches the room and the polls, then adjusts the next one. The public is the sensor. Their reaction is the signal.
+Chooses a message, delivers it, watches the room and the polls, then adjusts. The public is the sensor. Their reaction is the signal.
 
 ### Entrepreneur
-Makes a bet on what people will buy, then spends time and capital to test it. Sales, complaints, and cash in the bank reveal how right or wrong the bet was. Over time, what earns cash gets more attention. What doesn’t gets dropped.
+Makes a bet on what people will buy, then spends time and capital to produce it. Profit and loss reveal how sound or unsound the judgment was. Over time, what customers like gets more attention, and the rest gets dropped.
 
 ### Student
 Builds a model, tries a problem, gets it wrong, updates the model. Learning happens when the error stings.

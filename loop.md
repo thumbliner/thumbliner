@@ -52,7 +52,7 @@ At time $$t$$, each agent $$i$$ receives a local observation $$o_t^i$$ (includin
 ## Z Axis
 
 ### Applied Epistemology
-It’s practical thinking: you build a model of the world, use it to predict, and look for asymmetries where conventional wisdom diverges from the facts. When you’re confident, you place a bet with scarce valuables, then treat the outcome as feedback on your method—staying humble enough to name the error, revise the argument, and adjust the model. Over time, that loop punishes mistakes and rewards what works, making you harder to fool (including by your own narratives). Education becomes interactive the moment your judgment has to bear the burden of uncertainty.
+It’s practice of making beliefs pay rent: you build a model of how the world works, make predictions, and notice when other people argue for a different read. If you’re confident, take action that puts something valuable on the line, let the outcome grade your method, and take the lesson. Learning turns interactive the moment your judgment has to carry uncertainty, fr.
 
 ---
 

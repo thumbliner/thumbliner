@@ -13,55 +13,55 @@ _Division of Labor_
 
 ### Research Director  
 *Present  ·  Private Practice*  
-Applied epistemology and advisory services.
+Applied epistemology and advisory.
 
 ### Program Advisory Council  
 *2024–25  ·  York University*  
-Advised on curriculum and direction for the Executive Certificate in Digital Marketing Analytics.
+Advised Schulich Executive Education on curriculum and design.
 
 ### Analytics Director  
 *2022–24  ·  Klick Health*  
-Led analytics for global pharma brands; set standards for measurement and reporting.
+Led AI-driven analytics and experimentation for global pharmaceutical brands.
 
 ### Content Analytics  
 *2021–22  ·  Postmedia Network*  
-Rebuilt the analytics team, stack, and practice (reader journey mapping and attribution).
+Rebuilt the analytics team and stack; led journey mapping and attribution.
 
 ### Media Analytics  
 *2021  ·  Dentsu*  
-Coordinated cross-brand analytics, from measurement design to CDP automation and activation.
+Built ML-enabled measurement and activation using CDP automation across multiple brands.
 
 ### Retail Analytics 
 *2019–20  ·  Pet Valu*  
-Connected pricing, eCommerce, and loyalty data; lead analyst on the COVID-19 ops task force.
+Unified pricing, eCommerce, and loyalty data; supported COVID-19 ops.
 
 ### Agency Director  
 *2016–17  ·  Saudi Research & Marketing Group*  
-Built an in-house full-service agency—team, model, and capabilities across creative, media, and analytics.
+Built an in-house agency across creative, media, and analytics.
 
 ### Teacher  
 *2015–17  ·  EduPristine*  
-Delivered corporate programs in branding and marketing strategy; across the GCC.
+Taught branding and marketing strategy across the GCC.
 
 ### Digital Consultant  
 *2014–16  ·  Taurus Advertising Agency*  
-Launched the digital practice; led web, app, media, and automation initiatives.
+Launched the digital practice; led web, app, media, and automation.
 
 ### Marketing Manager  
 *2013–14  ·  Al Harithy Company*  
-Developed campaigns and assets for major events, including the SABIC exhibition.
+Delivered campaigns and event assets, including SABIC.
 
 ### Business Coordinator  
 *2010–13  ·  MAI Trading Establishment*  
-Managed operations and key accounts for an HP-authorized office-supplies distributor.
+Ran operations and key accounts for an HP-authorized distributor.
 
-### Sales Intern  
+### Intern  
 *2009  ·  Business Standard*  
-Learned how hard it is to sell reading material.
+Supported sales and subscriptions.
 
 ### Game Developer  
 *2006–09  ·  Bourne Aviation*  
-Created a “virtual airline” community; early work in web, product, and operations.
+Built a virtual airline community; web, product, and ops.
 
 ---
 

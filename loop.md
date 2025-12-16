@@ -15,6 +15,9 @@ _The General in Particulars_
 ### Baby
 Cries when hungry; gets fed; adjusts toward crying sooner next time.
 
+### Driver
+Maneuvers; feels the car's response; adjusts timing and force. But deciding to brake is not the same as braking smoothly. Execution unevenness blurs the feedback.
+
 ### Shopper
 Purchases; learns quality after delivery; adjusts buying rules. The feedback is delayed.
 
@@ -23,9 +26,6 @@ Tries message; sees polls; adjusts stance. Success depends on anticipating other
 
 ### Entrepreneur
 Produces; sees profit/loss; adjusts what to scale/stop. Feedback reveals value creation vs. resource misallocation.
-
-### Driver
-Maneuvers; feels the car's response; adjusts timing and force. But deciding to brake is not the same as braking smoothly. Execution unevenness blurs the feedback.
 
 ### Student
 Solves/explains; makes mistakes; adjusts model/approach. The teaching is felt as the sting of error.

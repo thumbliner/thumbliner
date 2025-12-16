@@ -13,22 +13,28 @@ _The General in Particulars_
 ## X Axis
 
 ### Baby
-Cries when hungry; gets fed; adjusts toward crying sooner next time.
+Cries. Gets fed. Next time, cries sooner—and louder.
 
 ### Driver
-Maneuvers; feels the car's response; adjusts timing and force. But deciding to brake is not the same as braking smoothly. Execution unevenness blurs the feedback.
+Steers and brakes. Feels the car lurch or glide. Adjusts until it’s smooth.
+If your braking is inconsistent, you can’t tell what caused what—you add noise to your own feedback.
 
 ### Shopper
-Purchases; learns quality after delivery; adjusts buying rules. The feedback is delayed.
+Buys something. Waits. Tries it at home. Updates what to buy next time.
+Because the result arrives late, you learn slowly—and lean on shortcuts like “trust this brand.”
 
 ### Politician
-Tries message; sees polls; adjusts stance. Success depends on anticipating others' changing valuations.
+Chooses a message. Delivers it. Reads the room and the polls. Tweaks the next one.
+The public is the sensor: their reactions are the signal.
 
 ### Entrepreneur
-Produces; sees profit/loss; adjusts what to scale/stop. Feedback reveals value creation vs. resource misallocation.
+Makes a bet about what people will buy. Spends time and money to test it.
+Sales, complaints, and cash in the bank reveal how wrong the bet was—then the plan gets revised.
+Over time, what earns real margin gets more resources; what doesn’t gets redesigned or stopped.
 
 ### Student
-Solves/explains; makes mistakes; adjusts model/approach. The teaching is felt as the sting of error.
+Attempts a problem. Gets something wrong. Updates the mental model.
+Teaching lands as feedback—often in the sting of error.
 
 ---
 ## Y Axis

@@ -109,7 +109,7 @@ _A Curation (On Loop)_
 >   <div class="verses">
 >     <div class="line">राह पर उन को लगा लाए तो हैं बातों में</div>
 >     <div class="line">और खुल जाएँगे दो-चार मुलाक़ातों में</div>
->     <div class="poet">— दाग़ देहलवीी</div>
+>     <div class="poet">— दाग़ देहलवी</div>
 >   </div>
 > </div>
 
@@ -155,7 +155,7 @@ _A Curation (On Loop)_
 >   <div class="verses">
 >     <div class="line">तुम्हीं इंसाफ़ से ऐ हज़रत नासेह कह दो</div>
 >     <div class="line">लुत्फ़ उन बातों में आता है कि इन बातों में</div>
->     <div class="poet">— दाग़ देहलवीी</div>
+>     <div class="poet">— दाग़ देहलवी</div>
 >   </div>
 > </div>
 
@@ -221,7 +221,7 @@ _A Curation (On Loop)_
 >   <div class="verses">
 >     <div class="line">और सुनते अभी रिंदों से जनाब-ए-वाइज़</div>
 >     <div class="line">चल दिए आप तो दो-चार ही सलावातों में</div>
->     <div class="poet">— दाग़ देहलवीी</div>
+>     <div class="poet">— दाग़ देहलवी</div>
 >   </div>
 > </div>
 

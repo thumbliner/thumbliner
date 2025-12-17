@@ -12,7 +12,7 @@ _A Curation (On Loop)_
 ---
 
 ## **Beauty and the Beast** by Alan Menken & Howard Ashman
-You Pick: 2. Belle | 6. Be Our Guest
+You Pick: 2. Belle or 6. Be Our Guest
 <br />
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
         frameborder="0"
@@ -59,7 +59,7 @@ You Pick: 2. Belle | 6. Be Our Guest
 ---
 
 ## **Devdas** by Ismail Darbar & Birju Maharaj
-You Pick: 4. Bairi Piya | 5. Kaahe Chhed
+You Pick: 4. Bairi Piya or 5. Kaahe Chhed
 <br />
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
         frameborder="0"
@@ -111,7 +111,7 @@ Editor's Pick: 9. Hourglass
 ---
 
 ## **Trance with Khusrow** by Kavita Seth & Kanishk Seth
-You Pick: 2. Chashm-e-Maste | 3. Man Qunto Maula
+You Pick: 2. Chashm-e-Maste or 3. Man Qunto Maula
 <br />
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
         frameborder="0"
@@ -137,7 +137,7 @@ Editor's Pick: 4. The Game
 ---
 
 ## **Fiamma del belcanto** by Diana Damrau
-You Pick: 17. "Follie ! Follie !" | 18. "Sempre Libera"
+You Pick: 17. "Follie ! Follie !" or 18. "Sempre Libera"
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
         frameborder="0"
         height="450"

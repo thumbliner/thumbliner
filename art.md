@@ -153,8 +153,8 @@ _A Curation (On Loop)_
 
 > <div class="hindi" lang="hi" dir="ltr">
 >   <div class="verses">
->     <div class="line">तुम्हीं इंसाफ़ से ऐ हज़रत नासेह कह दो</div>
->     <div class="line">लुत्फ़ उन बातों में आता है कि इन बातों में</div>
+>     <div class="line">यह भी तुम जानते हो चंद मुलाक़ातों में</div>
+>     <div class="line">आज़माया है तुम्हें हमने कई बातों में</div>
 >     <div class="poet">— दाग़ देहलवी</div>
 >   </div>
 > </div>
@@ -192,6 +192,16 @@ _A Curation (On Loop)_
         sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" 
         src="https://embed.music.apple.com/song/the-last-of-the-starks/1464079250">
 </iframe>
+
+---
+
+> <div class="hindi" lang="hi" dir="ltr">
+>   <div class="verses">
+>     <div class="line">तुम्हीं इंसाफ़ से ऐ हज़रत नासेह कह दो</div>
+>     <div class="line">लुत्फ़ उन बातों में आता है कि इन बातों में</div>
+>     <div class="poet">— दाग़ देहलवी</div>
+>   </div>
+> </div>
 
 ---
 

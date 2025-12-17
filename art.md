@@ -219,7 +219,7 @@ _A Curation (On Loop)_
 
 > <div class="hindi" lang="hi" dir="ltr">
 >   <div class="verses">
->     <div class="line">और सुनते अभी रिंदों से जनाब-ए-वाइज़ो</div>
+>     <div class="line">और सुनते अभी रिंदों से जनाब-ए-वाइज़</div>
 >     <div class="line">चल दिए आप तो दो-चार ही सलावातों में</div>
 >     <div class="poet">— दाग़ देहलवीी</div>
 >   </div>

@@ -35,7 +35,7 @@ When you choose argument as an action, you deal with disagreement by seeking com
 
 ---
 
-[^1]: Kant, Immanuel. 1998. Critique of Pure Reason. Edited by Paul Guyer and Allen W. Wood. Cambridge: Cambridge University Press.
+[^1]: Kant, Immanuel. 1787. Critique of Pure Reason.
 
 [^2]: Mises, Ludwig. 1962. The Ultimate Foundation of Economic Science: An Essay on Method. Princeton, New Jersey: D. Van Nostrand Company, Inc.
 

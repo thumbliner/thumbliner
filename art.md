@@ -217,16 +217,6 @@ _A Curation (On Loop)_
 
 ---
 
-> <div class="hindi" lang="hi" dir="ltr">
->   <div class="verses">
->     <div class="line">और सुनते अभी रिंदों से जनाब-ए-वाइज़</div>
->     <div class="line">चल दिए आप तो दो-चार ही सलावातों में</div>
->     <div class="poet">— दाग़ देहलवीी</div>
->   </div>
-> </div>
-
----
-
 ## **Rangrez** by Krsna Solo
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
         frameborder="0" 
@@ -235,6 +225,16 @@ _A Curation (On Loop)_
         sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" 
         src="https://embed.music.apple.com/song/rangrez/1122150712">
 </iframe>
+
+---
+
+> <div class="hindi" lang="hi" dir="ltr">
+>   <div class="verses">
+>     <div class="line">और सुनते अभी रिंदों से जनाब-ए-वाइज़</div>
+>     <div class="line">चल दिए आप तो दो-चार ही सलावातों में</div>
+>     <div class="poet">— दाग़ देहलवीी</div>
+>   </div>
+> </div>
 
 ---
 

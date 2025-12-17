@@ -7,7 +7,7 @@ nav_order: 1
 ---
 
 # Art
-_Film & Music (A Curation)_
+_A Curation (On Loop)_
 
 ---
 

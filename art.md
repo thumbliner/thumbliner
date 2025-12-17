@@ -13,7 +13,6 @@ _A Curation (On Loop)_
 
 ## **Beauty and the Beast** by Alan Menken & Howard Ashman  
 ### You Pick: 2. Belle or 6. Be Our Guest  
-<br />
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
         frameborder="0"
         height="450"
@@ -60,7 +59,6 @@ _A Curation (On Loop)_
 
 ## **Devdas** by Ismail Darbar & Birju Maharaj
 ### You Pick: 4. Bairi Piya or 5. Kaahe Chhed
-<br />
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
         frameborder="0"
         height="450"
@@ -73,7 +71,6 @@ _A Curation (On Loop)_
 
 ## **The Tortured Poets Department: The Anthology** by Taylor Swift
 #### Editor's Pick: 13. I Can Do It With a Broken Heart
-<br />
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
         frameborder="0"
         height="450"
@@ -87,7 +84,6 @@ _A Curation (On Loop)_
 
 ## **Rockstar** by A. R. Rahman
 #### Editor's Pick: 10. The Dichotomy of Fame
-<br />
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
         frameborder="0"
         height="450"
@@ -121,7 +117,6 @@ _A Curation (On Loop)_
 
 ## **Trance with Khusrow** by Kavita Seth & Kanishk Seth
 ### You Pick: 2. Chashm-e-Maste or 3. Man Qunto Maula
-<br />
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
         frameborder="0"
         height="450"
@@ -134,7 +129,6 @@ _A Curation (On Loop)_
 
 ## **Mustt Mustt** by Nusrat Fateh Ali Khan
 #### Editor's Pick: 4. The Game
-<br />
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
         frameborder="0"
         height="450"
@@ -169,7 +163,6 @@ _A Curation (On Loop)_
   
 ## **Tchaikovsky: The Nutcracker** by Berlin Philharmonic & Sir Simon Rattle
 #### Editor's Pick: 9. In the Pine Forest
-<br />
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
         frameborder="0"
         height="450"

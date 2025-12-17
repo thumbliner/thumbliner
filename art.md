@@ -162,7 +162,7 @@ You Pick: 17. "Follie ! Follie !" or 18. "Sempre Libera"
 > <div class="hindi" lang="hi" dir="ltr">
 >   <div class="verses">
 >     <div class="line">तुम्हीं इंसाफ़ से ऐ हज़रत नासेह कह दो</div>
->     <div class="line">लुत्फ़ उन बातों में आता है कि इन बातों मेीं</div>
+>     <div class="line">लुत्फ़ उन बातों में आता है कि उन बातों मेीं</div>
 >     <div class="poet">— दाग़ देहलवीी</div>
 >   </div>
 > </div>

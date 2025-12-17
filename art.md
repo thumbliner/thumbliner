@@ -82,7 +82,7 @@ _A Curation (On Loop)_
 
 ---
 
-## **Rockstar** by A. R. Rahman
+## **Rockstar** by A.R. Rahman
 #### Editor's Pick: 10. The Dichotomy of Fame
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
         frameborder="0"

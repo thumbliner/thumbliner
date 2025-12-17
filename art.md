@@ -158,6 +158,16 @@ You Pick: 17. "Follie ! Follie !" or 18. "Sempre Libera"
 </iframe>
 
 ---
+
+> <div class="hindi" lang="hi" dir="ltr">
+>   <div class="verses">
+>     <div class="line">तुम्हीं इंसाफ़ से ऐ हज़रत नासेह कह दो</div>
+>     <div class="line">लुत्फ़ उन बातों में आता है कि इन बातों मेीं</div>
+>     <div class="poet">— दाग़ देहलवीी</div>
+>   </div>
+> </div>
+
+---
   
 ## **Tchaikovsky: The Nutcracker** by Berlin Philharmonic & Sir Simon Rattle
 Editor's Pick: 9. In the Pine Forest
@@ -213,6 +223,16 @@ Editor's Pick: 9. In the Pine Forest
         sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" 
         src="https://embed.music.apple.com/song/la-aurora-nocturna-live/595774390">
 </iframe>
+
+---
+
+> <div class="hindi" lang="hi" dir="ltr">
+>   <div class="verses">
+>     <div class="line">और सुनते अभी रिंदों से जनाब-ए-वाइज़ो</div>
+>     <div class="line">चल दिए आप तो दो-चार ही सलावातों में</div>
+>     <div class="poet">— दाग़ देहलवीी</div>
+>   </div>
+> </div>
 
 ---
 

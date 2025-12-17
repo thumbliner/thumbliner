@@ -52,7 +52,7 @@ At time $$t$$, each agent $$i$$ receives a local observation $$o_t^i$$ (includin
 ## Z Axis
 
 ### Applied Epistemology
-It’s making beliefs pay rent: build a model of the world, make predictions, and stay alert for moments when life offers a mispriced bet against your view. When you’re confident, stake something valuable and let the outcome grade your method. Learning becomes a game the moment your judgment has to carry the burden of uncertainty, fr.
+It’s making beliefs pay rent: build a model of the world, make predictions, and stay alert for moments when life offers a mispriced bet against your view. If you’re confident, stake something valuable and let the outcome grade your method. Learning turns into a game the moment your judgment has to carry the burden of uncertainty, fr.
 
 ---
 

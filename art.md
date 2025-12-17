@@ -12,7 +12,11 @@ _A Curation (On Loop)_
 ---
 
 ## **Beauty and the Beast** by Alan Menken & Howard Ashman
-You Pick: 2. Belle or 6. Be Our Guest
+**You Pick:** 2. Belle or 6. Be Our Guest
+**You Pick: 2. Belle or 6. Be Our Guest**
+### You Pick: 2. Belle or 6. Be Our Guest
+#### You Pick: 2. Belle or 6. Be Our Guest
+##### You Pick: 2. Belle or 6. Be Our Guest
 <br />
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
         frameborder="0"

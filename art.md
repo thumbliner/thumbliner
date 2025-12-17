@@ -195,7 +195,7 @@ _A Curation (On Loop)_
 
 ---
 
-## **Raga Maru Bigag** by Shruti Sadolikar
+## **Raga Maru Bihag** by Shruti Sadolikar
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
         frameborder="0" 
         height="175" 

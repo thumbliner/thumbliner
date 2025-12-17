@@ -49,7 +49,7 @@ Launched the digital practice; led web, app, media, and automation.
 
 ### Marketing Manager  
 *2013–14  ·  Al Harithy Company*  
-Delivered campaigns and event assets, including SABIC.
+Delivered campaigns and event assets, including SABIC Exhibition.
 
 ### Business Coordinator  
 *2010–13  ·  MAI Trading Establishment*  

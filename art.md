@@ -218,6 +218,17 @@ Editor's Pick: 9. In the Pine Forest
 
 ---
 
+## **The Bare Necessities (Reprise)** by Sebastion Cabot & Phil Harris
+<iframe allow="encrypted-media *; fullscreen *; clipboard-write"
+        frameborder="0" 
+        height="175" 
+        style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" 
+        sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" 
+        src="https://embed.music.apple.com/song/the-bare-necessities-reprise/1467938374">
+</iframe>
+
+---
+
 ## **Ratatouille** by Brad Bird  
 <p>
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">

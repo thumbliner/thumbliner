@@ -43,3 +43,13 @@ International Indian School Jeddah
 
 ### Publications
 - <a href="https://orcid.org/0000-0003-4798-0467" target="_blank" rel="noopener noreferrer">ORCID</a>  
+
+---
+
+<div class="urdu" lang="ur" dir="rtl">
+  <div class="verses">
+    <div class="misra">مکتب عشق کا دستور نرالا دیکھا</div>
+    <div class="misra">اُس کو چھُٹی نہ مِلی جس نے سبق یاد کیا</div>
+    <div class="poet">— میر طاہرؔ</div>
+  </div>
+</div>

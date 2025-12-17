@@ -107,8 +107,8 @@ _A Curation (On Loop)_
 
 > <div class="hindi" lang="hi" dir="ltr">
 >   <div class="verses">
->     <div class="line">राह से उनको लगा लाए तो हैं बातों में</div>
->     <div class="line">और खुल जाएँगे दो-चार मुलाक़ातों मेीं</div>
+>     <div class="line">राह पर उन को लगा लाए तो हैं बातों में</div>
+>     <div class="line">और खुल जाएँगे दो-चार मुलाक़ातों में</div>
 >     <div class="poet">— दाग़ देहलवीी</div>
 >   </div>
 > </div>
@@ -154,7 +154,7 @@ _A Curation (On Loop)_
 > <div class="hindi" lang="hi" dir="ltr">
 >   <div class="verses">
 >     <div class="line">तुम्हीं इंसाफ़ से ऐ हज़रत नासेह कह दो</div>
->     <div class="line">लुत्फ़ उन बातों में आता है कि उन बातों मेीं</div>
+>     <div class="line">लुत्फ़ इन बातों में आता है कि उन बातों में</div>
 >     <div class="poet">— दाग़ देहलवीी</div>
 >   </div>
 > </div>

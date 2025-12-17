@@ -217,16 +217,6 @@ _A Curation (On Loop)_
 
 ---
 
-> <div class="hindi" lang="hi" dir="ltr">
->   <div class="verses">
->     <div class="line">और सुनते अभी रिंदों से जनाब-ए-वाइज़</div>
->     <div class="line">चल दिए आप तो दो-चार ही सलावातों में</div>
->     <div class="poet">— दाग़ देहलवी</div>
->   </div>
-> </div>
-
----
-
 ## **Tanu Weds Manu** by Krsna Solo
 ### You Pick: 4. Rangrez or 7. Rangrez
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
@@ -236,6 +226,16 @@ _A Curation (On Loop)_
         sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"
         src="https://embed.music.apple.com/album/tanu-weds-manu-original-motion-picture-soundtrack/1122150562">
 </iframe>
+
+---
+
+> <div class="hindi" lang="hi" dir="ltr">
+>   <div class="verses">
+>     <div class="line">और सुनते अभी रिंदों से जनाब-ए-वाइज़</div>
+>     <div class="line">चल दिए आप तो दो-चार ही सलावातों में</div>
+>     <div class="poet">— दाग़ देहलवी</div>
+>   </div>
+> </div>
 
 ---
 

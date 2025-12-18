@@ -79,6 +79,16 @@ _A Curation (On Loop)_
         src="https://embed.music.apple.com/album/the-tortured-poets-department-the-anthology/1742057774">
 </iframe>
 
+---
+
+> <div class="hindi" lang="hi" dir="ltr">
+>   <div class="verses">
+>     <div class="line">राह पर उन को लगा लाए तो हैं बातों में</div>
+>     <div class="line">और खुल जाएँगे दो-चार मुलाक़ातों में</div>
+>     <div class="poet">— दाग़ देहलवी</div>
+>   </div>
+> </div>
+
 
 ---
 
@@ -105,16 +115,6 @@ _A Curation (On Loop)_
 
 ---
 
-> <div class="hindi" lang="hi" dir="ltr">
->   <div class="verses">
->     <div class="line">राह पर उन को लगा लाए तो हैं बातों में</div>
->     <div class="line">और खुल जाएँगे दो-चार मुलाक़ातों में</div>
->     <div class="poet">— दाग़ देहलवी</div>
->   </div>
-> </div>
-
----
-
 ## **Trance with Khusrow** by Kavita Seth & Kanishk Seth
 ### You Pick: 2. Chashm-e-Maste or 3. Man Qunto Maula
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
@@ -124,6 +124,16 @@ _A Curation (On Loop)_
         sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"
         src="https://embed.music.apple.com/album/trance-with-khusrow/1764092294">
 </iframe>
+
+---
+
+> <div class="hindi" lang="hi" dir="ltr">
+>   <div class="verses">
+>     <div class="line">यह भी तुम जानते हो चंद मुलाक़ातों में</div>
+>     <div class="line">आज़माया है तुम्हें हमने कई बातों में</div>
+>     <div class="poet">— दाग़ देहलवी</div>
+>   </div>
+> </div>
 
 ---
 
@@ -153,8 +163,8 @@ _A Curation (On Loop)_
 
 > <div class="hindi" lang="hi" dir="ltr">
 >   <div class="verses">
->     <div class="line">यह भी तुम जानते हो चंद मुलाक़ातों में</div>
->     <div class="line">आज़माया है तुम्हें हमने कई बातों में</div>
+>     <div class="line">और सुनते अभी रिंदों से जनाब-ए-वाइज़</div>
+>     <div class="line">चल दिए आप तो दो-चार ही सलावातों में</div>
 >     <div class="poet">— दाग़ देहलवी</div>
 >   </div>
 > </div>
@@ -236,16 +246,6 @@ _A Curation (On Loop)_
         sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"
         src="https://embed.music.apple.com/album/tanu-weds-manu-original-motion-picture-soundtrack/1122150562">
 </iframe>
-
----
-
-> <div class="hindi" lang="hi" dir="ltr">
->   <div class="verses">
->     <div class="line">और सुनते अभी रिंदों से जनाब-ए-वाइज़</div>
->     <div class="line">चल दिए आप तो दो-चार ही सलावातों में</div>
->     <div class="poet">— दाग़ देहलवी</div>
->   </div>
-> </div>
 
 ---
 

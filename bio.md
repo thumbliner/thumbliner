@@ -11,9 +11,9 @@ A curious outsider based in Toronto. Thumbliner is his digital handle.<br>
 
 Want his attention?
 
-Choose your picks, frame an argument, say now Shibboleth,
+Choose your picks, frame an argument, say now Shibboleth, and 
 
-and cast [at] thumbliner [dot] com
+cast [at] thumbliner [dot] com
 
 
 <div class="urdu" lang="ur" dir="rtl">

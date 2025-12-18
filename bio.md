@@ -9,7 +9,7 @@ permalink: /bio/
 
 A curious outsider based in Toronto. Thumbliner is his digital handle.<br>
 
-If you want his full attention, make your picks, write an explanation, and cast [at] thumbliner [dot] com
+Want his full attention? Make your picks, explain why, and cast [at] thumbliner [dot] com
 
 
 <div class="urdu" lang="ur" dir="rtl">

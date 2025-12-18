@@ -25,7 +25,7 @@ Buys something, waits, tries it at home, then updates what to buy next time. Whe
 Chooses a message, delivers it, watches the room and the polls, then adjusts. The public is the sensor. Their reaction is the signal.
 
 ### Entrepreneur
-Makes a bet on what the shopper will purchase, then spends time and capital to produce it. Profit and loss provide feedback.
+Places a bet on what the shopper will purchase, then risks time and capital to produce it. Profit and loss provide feedback.
 
 ### Student
 Builds a model, tries a problem, gets it wrong, updates the model. Learning happens when the error stings.
@@ -52,7 +52,7 @@ At time $$t$$, each agent $$i$$ receives a local observation $$o_t^i$$ (includin
 ## Z Axis
 
 ### Applied Epistemology
-It’s the practice of making beliefs pay rent: build a model of the world, make predictions, and stay alert for moments when life offers a mispriced bet against your view. If you’re confident, stake something valuable and let the outcome grade your method. Learning turns into a game the moment your judgment has to carry the burden of uncertainty, fr.
+It’s the practice of making beliefs pay rent: build a model of the world, make predictions, and stay alert for moments when life offers a mispriced bet against your view. If you’re confident, stake something valuable and let the outcome grade your method. Learning becomes a game when your judgment carries the burden of uncertainty, fr.
 
 ---
 

@@ -21,7 +21,7 @@ We learn about the world by paying attention. We get sensations—seeing a ball,
 Human action is purposeful: you choose among options to reach ends you prefer. Under scarcity, each choice carries tradeoffs that play out over time. With an uncertain future, you use judgment to speculate about what is most likely to work. Social science begins by treating behavior as meaningful action (ends + beliefs). Treated this way, action becomes a foundation to guide empirical inquiry.[^2]
 
 ### The Argument Axiom
-When you choose argument as an action, you deal with disagreement by seeking common ground rather than force. That choice commits you to a shared method of inquiry: you offer reasons others can examine and treat their responses as worthy of inspection. It also commits you to an ethic: judgment stays accountable to those reasons and constrained by coherence (you can’t affirm claims that conflict with your other claims). These norms are the conditions that make it possible to evaluate claims as better or worse justified (and, where appropriate, as true or false), and to treat discourse as a practice of learning.[^3]
+When you choose argument as an action, you deal with disagreement by seeking common ground rather than force.[^3] That choice commits you to a shared method of inquiry: you offer reasons others can examine and treat their responses as worthy of inspection. It also commits you to an ethic: judgment stays accountable to those reasons and constrained by coherence (you can’t affirm claims that conflict with your other claims). These norms are the conditions that make it possible to evaluate claims as better or worse justified (and, where appropriate, as true or false), and to treat discourse as a practice of learning.
 
 ---
 

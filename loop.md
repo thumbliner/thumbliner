@@ -19,7 +19,7 @@ Cries, gets fed. Next time, cries sooner—and louder.
 Steers and brakes, feels the jerk or the smooth glide, keeps adjusting until it's right. Inconsistent braking muddies cause and effect—you add noise to the feedback.
 
 ### Shopper
-Buys something, waits, tries it at home, then updates what to buy next time. When feedback arrives late, learning slows—so you lean on shortcuts like "trust this brand."
+Makes a purchase, waits for delivery, tries it out, then updates buying behavior for next time. When feedback arrives late, learning slows—so you lean on shortcuts like "trust this brand."
 
 ### Politician
 Chooses a message, delivers it, watches the room and the polls, then adjusts. The public is the sensor. Their reaction is the signal.

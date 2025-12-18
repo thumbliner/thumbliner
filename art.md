@@ -184,7 +184,7 @@ _A Curation (On Loop)_
 
 ---
 
-## The Last of the Starks by Ramin Djawadi
+## **The Last of the Starks** by Ramin Djawadi
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
         frameborder="0" 
         height="175" 

@@ -79,16 +79,6 @@ _A Curation (On Loop)_
         src="https://embed.music.apple.com/album/the-tortured-poets-department-the-anthology/1742057774">
 </iframe>
 
----
-
-> <div class="hindi" lang="hi" dir="ltr">
->   <div class="verses">
->     <div class="line">राह पर उन को लगा लाए तो हैं बातों में</div>
->     <div class="line">और खुल जाएँगे दो-चार मुलाक़ातों में</div>
->     <div class="poet">— दाग़ देहलवी</div>
->   </div>
-> </div>
-
 
 ---
 
@@ -101,6 +91,16 @@ _A Curation (On Loop)_
         sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"
         src="https://embed.music.apple.com/album/rockstar-original-motion-picture-soundtrack/1123241840">
 </iframe>
+
+---
+
+> <div class="hindi" lang="hi" dir="ltr">
+>   <div class="verses">
+>     <div class="line">राह पर उन को लगा लाए तो हैं बातों में</div>
+>     <div class="line">और खुल जाएँगे दो-चार मुलाक़ातों में</div>
+>     <div class="poet">— दाग़ देहलवी</div>
+>   </div>
+> </div>
 
 ---
 

@@ -65,7 +65,7 @@ Built a virtual airline community; web, product, and ops.
 
 ---
 
-### Meet Outside
+### References and Samples
 
 - <a href="https://linkedin.com/in/thumbliner" target="_blank" rel="noopener noreferrer">LinkedIn</a>  
 - <a href="https://public.tableau.com/app/profile/thumbliner/vizzes" target="_blank" rel="noopener noreferrer">Tableau Public</a>  

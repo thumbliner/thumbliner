@@ -160,16 +160,6 @@ _A Curation (On Loop)_
 </iframe>
 
 ---
-
-> <div class="hindi" lang="hi" dir="ltr">
->   <div class="verses">
->     <div class="line">और सुनते अभी रिंदों से जनाब-ए-वाइज़</div>
->     <div class="line">चल दिए आप तो दो-चार ही सलावातों में</div>
->     <div class="poet">— दाग़ देहलवी</div>
->   </div>
-> </div>
-
----
   
 ## **Tchaikovsky: The Nutcracker** by Berlin Philharmonic & Sir Simon Rattle
 #### Editor's Pick: 9. In the Pine Forest

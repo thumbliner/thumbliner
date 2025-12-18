@@ -127,16 +127,6 @@ _A Curation (On Loop)_
 
 ---
 
-> <div class="hindi" lang="hi" dir="ltr">
->   <div class="verses">
->     <div class="line">यह भी तुम जानते हो चंद मुलाक़ातों में</div>
->     <div class="line">आज़माया है तुम्हें हमने कई बातों में</div>
->     <div class="poet">— दाग़ देहलवी</div>
->   </div>
-> </div>
-
----
-
 ## **Mustt Mustt** by Nusrat Fateh Ali Khan
 #### Editor's Pick: 4. The Game
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
@@ -158,6 +148,16 @@ _A Curation (On Loop)_
         sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"
         src="https://embed.music.apple.com/album/fiamma-del-belcanto/971242006">
 </iframe>
+
+---
+
+> <div class="hindi" lang="hi" dir="ltr">
+>   <div class="verses">
+>     <div class="line">यह भी तुम जानते हो चंद मुलाक़ातों में</div>
+>     <div class="line">आज़माया है तुम्हें हमने कई बातों में</div>
+>     <div class="poet">— दाग़ देहलवी</div>
+>   </div>
+> </div>
 
 ---
   

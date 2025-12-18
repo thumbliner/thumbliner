@@ -41,7 +41,7 @@ Built an in-house agency across creative, media, and analytics.
 
 ### Teacher  
 *2015–17  ·  EduPristine*  
-Taught branding and marketing strategy across the GCC.
+Taught branding and marketing strategy in the GCC.
 
 ### Digital Consultant  
 *2014–16  ·  Taurus Advertising Agency*  

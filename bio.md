@@ -9,7 +9,9 @@ permalink: /bio/
 
 A curious outsider based in Toronto. Thumbliner is his digital handle.<br>
 
-Want his attention? Choose your picks, frame an argument, say now Shibboleth, and cast [at] thumbliner [dot] com
+Want his attention?
+Choose your picks, frame an argument, say now Shibboleth,
+and cast [at] thumbliner [dot] com
 
 
 <div class="urdu" lang="ur" dir="rtl">

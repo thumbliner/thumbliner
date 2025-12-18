@@ -143,5 +143,5 @@ instruments, checklists, communication, airmanship, weather
 ---
 
 ### Applied Epistemology
-- <a href="https://public.tableau.com/app/profile/thumbliner/vizzes" target="_blank" rel="noopener noreferrer">Tableau Public</a>  
+- <a href="https://public.tableau.com/app/profile/thumbliner/vizzes" target="_blank" rel="noopener noreferrer">Tableau</a>  
 

@@ -197,9 +197,9 @@ _A Curation (On Loop)_
 
 > <div class="hindi" lang="hi" dir="ltr">
 >   <div class="verses">
->     <div class="line">तुम्हीं इंसाफ़ से ऐ हज़रत नासेह कह दो</div>
->     <div class="line">लुत्फ़ उन बातों में आता है कि इन बातों में</div>
->     <div class="poet">— दाग़ देहलवी</div>
+>     <div class="line">महफ़िल में आपकी हम कुछ और तो न लाए</div>
+>     <div class="line">नग़मात में सजा कर जज़्बात ले के आए</div>
+>     <div class="poet">— शिवन रिज़वी</div>
 >   </div>
 > </div>
 

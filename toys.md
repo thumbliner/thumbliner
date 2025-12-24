@@ -11,7 +11,7 @@ _Axioms & Monte Carlos_
 
 ---
 
-## **Cities Skylines** by Colossal Order<br>
+## **Cities: Skylines** by Colossal Order<br>
 traffic, jobs, housing, water, pollution
 <p>
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">

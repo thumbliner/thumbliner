@@ -179,14 +179,17 @@ instruments, checklists, communication, airmanship, weather
 ### Applied Epistemology
 - <a href="https://public.tableau.com/app/profile/thumbliner/vizzes" target="_blank" rel="noopener noreferrer">Tableau</a>
 
-<div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">
-  <tableau-viz
-    src="https://public.tableau.com/views/CompaniesofInterest/CompaniesofInterest"
-    toolbar="bottom"
-    hide-tabs
-    style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;">
-  </tableau-viz>
+<div style="width:100%;aspect-ratio:16/9;overflow:hidden;border-radius:10px;">
+  <iframe
+    src="https://public.tableau.com/views/CompaniesofInterest/CompaniesofInterest?:showVizHome=no&:embed=y"
+    title="Companies of Interest"
+    style="width:100%;height:100%;border:0;"
+    allowfullscreen
+    loading="lazy"
+    referrerpolicy="strict-origin-when-cross-origin">
+  </iframe>
 </div>
+
 
 ---
 

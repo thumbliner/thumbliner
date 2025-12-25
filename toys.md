@@ -102,7 +102,7 @@ scouting, tactics, training, incentives, cashflows
 ---
 
 ## **Frostpunk 2** by 11 Bit Studios<br>
-scarcity, voters, interests, policies, survival
+scarcity, voters, interests, laws, survival
 <p>
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">
   <iframe

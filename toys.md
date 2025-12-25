@@ -14,7 +14,7 @@ _Axioms & Monte Carlos_
 
 ---
 
-## **Farming Simulator 25** by GIANTS Software<br>
+## **Farming Simulator 25** by Giants Software<br>
 Operate a farm profitably through seasonal cycles: run machinery, plan fieldwork windows, manage inputs and rotations, raise livestock, and extend into processing, storage, and hauling that turns harvest into cashflow.
 <p>
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">
@@ -86,7 +86,7 @@ Build a modern city by laying roads and transit, zoning homes and jobs, extendin
 
 ---
 
-## **Frostpunk 2** by 11 bit studios<br>
+## **Frostpunk 2** by 11 Bit Studios<br>
 Keep a city alive under extreme scarcity by securing food and materials, producing heat, passing policies that trade comfort for output, managing competing factions, and maintaining public support as conditions worsen.
 <p>
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">

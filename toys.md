@@ -11,6 +11,11 @@ _Axioms & Monte Carlos_
 
 ---
 
+> “A game is a series of interesting choices.”<br>
+> — Sid Meier
+
+---
+
 ## **Anno 117: Pax Romana** by Ubisoft<br>
 <p>
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">
@@ -171,11 +176,16 @@ instruments, checklists, communication, airmanship, weather
 
 ---
 
-> “A game is a series of interesting choices.”<br>
-> — Sid Meier
-
----
-
 ### Applied Epistemology
 - <a href="https://public.tableau.com/app/profile/thumbliner/vizzes" target="_blank" rel="noopener noreferrer">Tableau</a>  
 
+
+---
+
+<div class="urdu" lang="ur" dir="rtl">
+  <div class="verses">
+    <div class="misra">بازیچۂ اطفال ہے دنیا میرے آگے</div>
+    <div class="misra">ہوتا ہے شب و روز تماشا میرے آگے</div>
+    <div class="poet">— مرزا غالبؔ</div>
+  </div>
+</div>

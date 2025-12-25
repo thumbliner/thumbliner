@@ -100,7 +100,7 @@ automation, optimization, leverage, fragility, convertibility
 
 ---
 
-## **Football Manager** by Sports Interactive<br>
+## **Football Manager 26** by Sports Interactive<br>
 scouting, tactics, training, incentives, cashflows
 <p>
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">

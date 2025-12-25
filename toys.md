@@ -17,7 +17,7 @@ traffic, jobs, housing, water, pollution
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">
   <iframe
     src="https://www.youtube.com/embed/WdD66WGBVHM?si=3AEf1G91sVC1t0aV"
-    title="Cities Skylines"
+    title="Cities: Skylines"
     style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;"
     allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
     allowfullscreen
@@ -98,16 +98,15 @@ scouting, tactics, training, incentives, cashflows
   </iframe>
 </div>
 </p>
-
 ---
 
-## **Geo-Political Simulator** by Eversim<br>
-voters, interests, policies, taxes, media
+## **Frostpunk 2** by 11 Bit Studios<br>
+scarcity, voters, interests, policies, survival
 <p>
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">
   <iframe
-    src="https://www.youtube.com/embed/BzS1ONXLpH4?si=EKtZ8IlDIMf9OJeb"
-    title="Geo-Political Simulator"
+    src="https://www.youtube.com/embed/PWlLOpqIYjA?si=6opckqlgbCE3IRE3"
+    title="Frostpunk 2"
     style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;"
     allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
     allowfullscreen

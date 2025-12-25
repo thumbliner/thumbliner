@@ -14,7 +14,7 @@ _Axioms & Monte Carlos_
 
 ---
 
-## **Farming Simulator 25** by Giants Software<br>
+## **Farming Simulator 25** by GIANTS Software<br>
 Operate a farm profitably through seasonal cycles: run machinery, plan fieldwork windows, manage inputs and rotations, raise livestock, and extend into processing, storage, and hauling that turns harvest into cashflow.
 <p>
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">
@@ -86,7 +86,7 @@ Build a modern city by laying roads and transit, zoning homes and jobs, extendin
 
 ---
 
-## **Frostpunk 2** by 11 Bit Studios<br>
+## **Frostpunk 2** by 11 bit studios<br>
 Keep a city alive under extreme scarcity by securing food and materials, producing heat, passing policies that trade comfort for output, managing competing factions, and maintaining public support as conditions worsen.
 <p>
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">
@@ -104,7 +104,7 @@ Keep a city alive under extreme scarcity by securing food and materials, produci
 
 ---
 
-## **Anno 117: Pax Romana** by Ubisoft<br>
+## **Anno 117: Pax Romana** by Ubisoft Mainz<br>
 Run towns across a wider province by placing neighborhoods and civic buildings, building supply chains, shipping goods along trade routes, funding services, raising living standards, speading culture, and securing borders when rival powers contest control.
 <p>
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">
@@ -122,7 +122,7 @@ Run towns across a wider province by placing neighborhoods and civic buildings, 
 
 ---
 
-## **Civilization VII** by Firaxis<br>
+## **Sid Meier’s Civilization VII** by Firaxis Games<br>
 Grow a civilization across eras by founding cities, choosing technologies and institutions, trading and negotiating, reshaping culture and identity through era resets, and committing to war when necessary.
 <p>
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">
@@ -140,7 +140,7 @@ Grow a civilization across eras by founding cities, choosing technologies and in
 
 ---
 
-## **EVE Online** by CCP Games<br>
+## **EVE Online** by CCP<br>
 Operate in a player-run space economy by joining organizations, trading in player markets, producing and hauling goods, running intelligence, and fighting for territory where logistics and coordination decide wars.
 <p>
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">

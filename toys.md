@@ -122,13 +122,13 @@ Run towns across a wider province by placing neighborhoods and civic buildings, 
 
 ---
 
-## **Civilization VI** by Firaxis<br>
+## **Civilization VII** by Firaxis<br>
 Grow a civilization across eras by founding cities, choosing technologies and institutions, trading and negotiating, reshaping culture and identity through era resets, and committing to war when necessary.
 <p>
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">
   <iframe
-    src="https://www.youtube.com/embed/5KdE0p2joJw?si=p173_c3iQ6kIfxZP"
-    title="Civilization"
+    src="https://www.youtube.com/embed/gV0waX2uPLg?si=5NMzBgQOQ_GBsTR9"
+    title="Civilization VII"
     style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;"
     allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
     allowfullscreen

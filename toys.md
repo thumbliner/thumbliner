@@ -179,20 +179,6 @@ instruments, checklists, communication, airmanship, weather
 ### Applied Epistemology
 - <a href="https://public.tableau.com/app/profile/thumbliner/vizzes" target="_blank" rel="noopener noreferrer">Tableau</a>
 
-<div style="width:100%;aspect-ratio:16/9;overflow:hidden;border-radius:10px;">
-  <iframe
-    src="https://public.tableau.com/views/CompaniesofInterest/CompaniesofInterest?:showVizHome=no&:embed=y"
-    title="Companies of Interest"
-    style="width:100%;height:100%;border:0;"
-    allowfullscreen
-    loading="lazy"
-    referrerpolicy="strict-origin-when-cross-origin">
-  </iframe>
-</div>
-
-
----
-
 <div class="urdu" lang="ur" dir="rtl">
   <div class="verses">
     <div class="misra">بازیچۂ اطفال ہے دنیا میرے آگے</div>

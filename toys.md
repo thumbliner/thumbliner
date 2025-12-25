@@ -179,9 +179,6 @@ instruments, checklists, communication, airmanship, weather
 ### Applied Epistemology
 - <a href="https://public.tableau.com/app/profile/thumbliner/vizzes" target="_blank" rel="noopener noreferrer">Tableau</a>  
 
-
----
-
 <div class="urdu" lang="ur" dir="rtl">
   <div class="verses">
     <div class="misra">بازیچۂ اطفال ہے دنیا میرے آگے</div>

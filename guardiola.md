@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Pep Guardiola
+title: Guardiola
 nav_order: 3
-permalink: /pep/
+permalink: /guardiola/
 ---
 
 # Josep “Pep” Guardiola Sala
@@ -22,7 +22,6 @@ permalink: /pep/
 
 ### On Standards
 - [ ] “If we don’t win, it’s my fault.”
-- [ ] “I’m not a genius. I’m a guy who works.”
 - [ ] “I don’t have a defence. I’m the boss, I’m the manager and I’m not good enough.”
 - [ ] “I demand a lot because I give a lot. If you don’t want to meet my standards, you’re free to leave.”
 
@@ -33,11 +32,12 @@ permalink: /pep/
 
 ---
 
-### On Communication and Clarity
+### On Understanding
 - [ ] “If I can’t explain it clearly, I don’t understand it well enough myself.”
+- [ ] “I want players who are curious, who ask questions, who want to understand why we do things.”
 - [ ] “Understanding comes from repetition. We do things over and over until they become automatic.”
+- [ ] “The best players are the ones who understand what I want without me having to explain it a hundred times.”
 - [ ] “I talk to my players constantly. Before training, during training, after training. They need to hear the message repeatedly.”
-- [ ] “Body language is as important as words. Players watch everything you do.”
 
 ---
 
@@ -46,10 +46,8 @@ permalink: /pep/
 
 ---
 
-### On Selection and Roles
+### On Selection
 - [ ] “A good player makes the game look easy. A great player makes his teammates look good.”
-- [ ] “I want players who are curious, who ask questions, who want to understand why we do things.”
-- [ ] “The best players are the ones who understand what I want without me having to explain it a hundred times.”
 - [ ] “The biggest mistake is trying to change people. Accept them as they are and help them get better at what they're good at.”
 
 ---
@@ -64,7 +62,6 @@ permalink: /pep/
 - [ ] “Football is a game of the mind. The physical part is secondary.”
 - [ ] “Losing hurts. If it doesn't hurt, you're in the wrong profession.”
 - [ ] “The pressure comes from myself. Nobody puts more pressure on me than I do.”
-- [ ] “I can't motivate people. They have to motivate themselves. I can only create the conditions.”
 
 ---
 
@@ -77,7 +74,6 @@ permalink: /pep/
 - [ ] “I prepare for every game like it's a final.”
 - [ ] “I don't worry about what other teams do. I focus on what we can control.”
 - [ ] “Every game is different. Every opponent presents a new problem to solve.”
-- [ ] “The best way to beat a good team is to be better than them for 90 minutes.”
 - [ ] “The greatest players are the simplest. They make the easy pass, the right decision.”
 - [ ] “The goal is the consequence of the process. If the process is good, the goals will come.”
 

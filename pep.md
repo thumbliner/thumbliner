@@ -10,7 +10,6 @@ permalink: /pep/
 **Role:** Manager, Manchester City Football Club  
 **Born:** 18 January 1971  
 **Birthplace:** Santpedor, Catalonia  
-**Description:** One of football’s defining managers: a meticulous philosopher and organiser whose teams are built on simple ideas, attention to detail, and consistency.  
 
 ## Quotes
 

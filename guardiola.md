@@ -33,11 +33,10 @@ permalink: /guardiola/
 ---
 
 ### On Understanding
+- [ ] “Ideas belong to everyone and I have stolen as many as I could.”
 - [ ] “If I can’t explain it clearly, I don’t understand it well enough myself.”
 - [ ] “I want players who are curious, who ask questions, who want to understand why we do things.”
 - [ ] “Understanding comes from repetition. We do things over and over until they become automatic.”
-- [ ] “The best players are the ones who understand what I want without me having to explain it a hundred times.”
-- [ ] “I talk to my players constantly. Before training, during training, after training. They need to hear the message repeatedly.”
 
 ---
 
@@ -46,9 +45,10 @@ permalink: /guardiola/
 
 ---
 
-### On Selection
-- [ ] “A good player makes the game look easy. A great player makes his teammates look good.”
-- [ ] “The biggest mistake is trying to change people. Accept them as they are and help them get better at what they're good at.”
+### On Mindset
+- [ ] “You have to learn to play football with courage.”
+- [ ] “Losing hurts. If it doesn't hurt, you're in the wrong profession.”
+- [ ] “The pressure comes from myself. Nobody puts more pressure on me than I do.”
 
 ---
 
@@ -57,51 +57,12 @@ permalink: /guardiola/
 
 ---
 
-### On Mindset
-- [ ] “You have to learn to play football with courage.”
-- [ ] “Football is a game of the mind. The physical part is secondary.”
-- [ ] “Losing hurts. If it doesn't hurt, you're in the wrong profession.”
-- [ ] “The pressure comes from myself. Nobody puts more pressure on me than I do.”
-
----
-
-> “At Barcelona, we were taught that the ball is the most important thing. Without the ball, you can't win.”<br>
-> — Pep Guardiola
-
----
-
 ### On Process
-- [ ] “I prepare for every game like it's a final.”
 - [ ] “I don't worry about what other teams do. I focus on what we can control.”
-- [ ] “Every game is different. Every opponent presents a new problem to solve.”
-- [ ] “The greatest players are the simplest. They make the easy pass, the right decision.”
+- [ ] “The game is about space and time. That's all. How you use space, how you manage time.”
 - [ ] “The goal is the consequence of the process. If the process is good, the goals will come.”
 
 ---
 
-> “I want the ball for 90 minutes. When I don't have the ball, I go high pressing because I want the ball.”<br>
-> — Pep Guardiola
-
----
-
-### On Gameplay
-- [ ] “The game is about space and time. That's all. How you use space, how you manage time.”
-- [ ] “Space is the most important thing in football. How you create it, how you exploit it, how you defend it.”
-
----
-
 > “We score goals because we create chances. We create chances because we control the game. We control the game because we have the ball.”<br>
-> — Pep Guardiola
-
----
-
-### On Learning
-- [ ] “We can always be better. Always. There's no ceiling.”
-- [ ] “Ideas belong to everyone and I have stolen as many as I could.”
-- [ ] “Football changes. If you don't change with it, you get left behind.”
-- [ ] “I make mistakes every game. The key is not to make the same mistake twice.”
-
----
-
-> “Cruyff was the best, by far.”<br>
 > — Pep Guardiola

@@ -127,14 +127,14 @@ _A Curation (On Loop)_
 
 ---
 
-## **Mustt Mustt** by Nusrat Fateh Ali Khan
-#### Editor's Pick: 4. The Game
+## **Passion: Music for the Last Temptation of Christ** by Peter Gabriel & Nusrat Fateh Ali Khan
+#### Editor's Pick: 15. Passion
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
         frameborder="0"
         height="450"
         style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;"
         sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"
-        src="https://embed.music.apple.com/album/mustt-mustt-real-world-gold/1653379088">
+        src="https://embed.music.apple.com/album/passion-music-for-the-last-temptation-of-christ/987561472">
 </iframe>
 
 ---

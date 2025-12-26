@@ -126,6 +126,16 @@ Keep a city alive under scarcity by securing food and materials, producing heat 
 
 ---
 
+> <div class="hindi" lang="hi" dir="ltr">
+>   <div class="verses">
+>     <div class="line">हो मेरा काम ग़रीबों की हिमायत करना</div>
+>     <div class="line">दर्दमंदों से, ज़ईफ़ों से मोहब्बत करना</div>
+>     <div class="poet">— अल्लामा इक़बाल</div>
+>   </div>
+> </div>
+
+---
+
 ## **Anno 117: Pax Romana** by Ubisoft Mainz<br>
 Govern towns across a wider province by placing neighborhoods and civic buildings, building supply chains that move along trade routes, and raising living standards and culture while maintaining border security.
 <p>
@@ -151,8 +161,8 @@ Govern towns across a wider province by placing neighborhoods and civic building
 
 > <div class="hindi" lang="hi" dir="ltr">
 >   <div class="verses">
->     <div class="line">हो मेरा काम ग़रीबों की हिमायत करना</div>
->     <div class="line">दर्दमंदों से, ज़ईफ़ों से मोहब्बत करना</div>
+>     <div class="line">हो मेरे दम से यूँ ही मेरे वतन की ज़ीनत</div>
+>     <div class="line">जिस तरह फूल से होती है चमन की ज़ीनत</div>
 >     <div class="poet">— अल्लामा इक़बाल</div>
 >   </div>
 > </div>
@@ -179,16 +189,6 @@ Guide a civilization across eras by committing to technologies and institutions,
 
 > “Institutions are the rules of the game—organizations and their entrepreneurs are the players.”<br>
 > — Douglass C. North
-
----
-
-> <div class="hindi" lang="hi" dir="ltr">
->   <div class="verses">
->     <div class="line">हो मेरे दम से यूँ ही मेरे वतन की ज़ीनत</div>
->     <div class="line">जिस तरह फूल से होती है चमन की ज़ीनत</div>
->     <div class="poet">— अल्लामा इक़बाल</div>
->   </div>
-> </div>
 
 ---
 

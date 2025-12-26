@@ -15,8 +15,6 @@ _Formal-ish Education_
 *1995–2009  ·  Saudi Arabia*  
 International Indian School Jeddah
 
----
-
 > <div class="hindi" lang="hi" dir="ltr">
 >   <div class="verses">
 >     <div class="line">ज़िन्दगी हो मेरी परवाने की सूरत यारब</div>
@@ -30,8 +28,6 @@ International Indian School Jeddah
 ### Bachelor of Business  
 *2009–12  ·  India*  
 Amity University
-
----
 
 > <div class="hindi" lang="hi" dir="ltr">
 >   <div class="verses">

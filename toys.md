@@ -195,6 +195,16 @@ Operate in a player-run space economy by specializing into markets, industry, an
 
 ---
 
+> <div class="hindi" lang="hi" dir="ltr">
+>   <div class="verses">
+>     <div class="line">जो कबूतर पर झपटने में मज़ा है अे पिसर</div>
+>     <div class="line">वो मज़ा शायद कबूतर के लहू में भी नहीं</div>
+>     <div class="poet">— अल्लामा इक़बाल</div>
+>   </div>
+> </div>
+
+---
+
 ## **Geo-Political Simulator** by Eversim<br>
 Run a modern country by setting taxes and budgets, steering domestic policy and the economy across major sectors, and managing approval and diplomacy through crises and security shocks.
 <p>

@@ -65,3 +65,13 @@ permalink: /guardiola/
 
 > “We score goals because we create chances. We create chances because we control the game. We control the game because we have the ball.”<br>
 > — Pep Guardiola
+
+---
+
+<div class="urdu" lang="ur" dir="rtl">
+  <div class="verses">
+    <div class="misra">خبرِ اقبالؔ کی لائی ہے گلستاں سے نسیم</div>
+    <div class="misra">نوگرفتار پھڑکتا ہے تہِ دام ابھی</div>
+    <div class="poet">— علامہ اقبالؔ</div>
+  </div>
+</div>

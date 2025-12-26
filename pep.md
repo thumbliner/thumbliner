@@ -14,7 +14,9 @@ permalink: /pep/
 
 ## Quotes
 
-> “The ball is our friend. We have to keep it and look after it.”
+---
+
+> “The ball is our friend. We have to keep it and look after it.”<br>
 > — Pep Guardiola
 
 ---
@@ -42,7 +44,7 @@ permalink: /pep/
 
 ---
 
-> “We defend by having the ball. That's our first line of defense.”
+> “We defend by having the ball. That's our first line of defense.”<br>
 > — Pep Guardiola
 
 ---
@@ -52,7 +54,7 @@ permalink: /pep/
 
 ---
 
-> “The one who has the ball, commands the game. The one who doesn't have it, runs.”
+> “The one who has the ball, commands the game. The one who doesn't have it, runs.”<br>
 > — Pep Guardiola
 
 ---
@@ -69,7 +71,7 @@ permalink: /pep/
 
 ---
 
-> “In football, the worst thing you can do is lose the ball. We have to keep it at all times.”
+> “In football, the worst thing you can do is lose the ball. We have to keep it at all times.”<br>
 > — Pep Guardiola
 
 ---
@@ -85,7 +87,7 @@ permalink: /pep/
 
 ---
 
-> “I want the ball for 90 minutes. When I don't have the ball, I go high pressing because I want the ball.”
+> “I want the ball for 90 minutes. When I don't have the ball, I go high pressing because I want the ball.”<br>
 > — Pep Guardiola
 
 ---
@@ -96,7 +98,7 @@ permalink: /pep/
 
 ---
 
-> “At Barcelona, we were taught that the ball is the most important thing. Without the ball, you can't win.”
+> “At Barcelona, we were taught that the ball is the most important thing. Without the ball, you can't win.”<br>
 > — Pep Guardiola
 
 ---
@@ -109,5 +111,5 @@ permalink: /pep/
 
 ---
 
-> “We score goals because we create chances. We create chances because we control the game. We control the game because we have the ball.”
+> “We score goals because we create chances. We create chances because we control the game. We control the game because we have the ball.”<br>
 > — Pep Guardiola

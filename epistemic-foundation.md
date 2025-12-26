@@ -16,13 +16,13 @@ To argue is to say, “I think this is true, and here is why.” An argument pre
 
 ---
 
-<div class="urdu" lang="ur" dir="rtl">
-  <div class="verses">
-    <div class="misra">نالہ ہے بلبل شوریدہ ترا خام ابھی</div>
-    <div class="misra">اپنے سینے میں اسے اور ذرا تھام ابھی</div>
-    <div class="poet">— علامہ اقبالؔ</div>
-  </div>
-</div>
+> <div class="hindi" lang="hi" dir="ltr">
+>   <div class="verses">
+>     <div class="line">नाला है बुलबुल-ए-शोरीदा तेरा ख़ाम अभी</div>
+>     <div class="line">अपने सीने में इसे और ज़रा थाम अभी</div>
+>     <div class="poet">— अल्लामा इक़बाल</div>
+>   </div>
+> </div>
 
 ---
 

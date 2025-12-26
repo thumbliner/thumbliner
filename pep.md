@@ -19,12 +19,12 @@ permalink: /pep/
 ## Quotes
 
 ### Standards, discipline, rules
-- “Being on time is not optional. It’s a sign of respect.”
-- “If you’re late, you don’t play. I don’t care who you are.”
-- “Talent is not enough. You need discipline, dedication, and intelligence.”
-- “Discipline is not punishment. Discipline is respect for yourself and your teammates.”
-- “You can have all the talent in the world, but if you don’t work hard, you won’t succeed.”
-- “When someone breaks the rules, it affects everyone. That’s why there can be no exceptions.”
-- “I demand a lot because I give a lot. If you don’t want to meet my standards, you’re free to leave.”
+- [ ] “Being on time is not optional. It’s a sign of respect.”
+- [ ] “If you’re late, you don’t play. I don’t care who you are.”
+- [ ] “Talent is not enough. You need discipline, dedication, and intelligence.”
+- [ ] “Discipline is not punishment. Discipline is respect for yourself and your teammates.”
+- [ ] “You can have all the talent in the world, but if you don’t work hard, you won’t succeed.”
+- [ ] “When someone breaks the rules, it affects everyone. That’s why there can be no exceptions.”
+- [ ] “I demand a lot because I give a lot. If you don’t want to meet my standards, you’re free to leave.”
 
 > “The ball is our friend. We have to keep it and look after it.”<br>

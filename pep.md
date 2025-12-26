@@ -24,7 +24,6 @@ permalink: /pep/
 ### On Standards
 - [ ] “If we don’t win, it’s my fault.”
 - [ ] “I don’t have a defence. I’m the boss, I’m the manager and I’m not good enough.”
-- [ ] “I don’t celebrate victories for long. There’s always another game, another challenge.”
 - [ ] “I demand a lot because I give a lot. If you don’t want to meet my standards, you’re free to leave.”
 
 ### On Communication and Clarity

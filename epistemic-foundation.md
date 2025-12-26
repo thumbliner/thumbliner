@@ -14,6 +14,18 @@ _Conditions of Possibility_
 ### Structure of an Argument
 To argue is to say, “I think this is true, and here is why.” An argument presents a conclusion (the claim) supported by reasons. A clear structure helps track that support by starting from common ground, defining key terms, setting the scope of the claim, and stating any assumptions. The line of reasoning may be deductive, inductive, or abductive—offered for the audience to judge.
 
+---
+
+<div class="urdu" lang="ur" dir="rtl">
+  <div class="verses">
+    <div class="misra">نالہ ہے بلبل شوریدہ ترا خام ابھی</div>
+    <div class="misra">اپنے سینے میں اسے اور ذرا تھام ابھی</div>
+    <div class="poet">— علامہ اقبالؔ</div>
+  </div>
+</div>
+
+---
+
 ### Mind is the Basis of Knowledge
 We learn about the world by paying attention. We get sensations—seeing a ball, hearing a dog, feeling cold—and the mind organizes them in time (“first… then…”) and space (“here… there…”). That organization lets us identify stable objects and events. We also use structure to find regularities, like counting and causal relations (“I drop it, it falls”). We engage in inquiry when we ask questions and try things out; what we settle on becomes empirical knowledge.[^1]
 

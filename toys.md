@@ -29,6 +29,11 @@ Operate a farm through seasonal cycles by aligning machinery capacity to fieldwo
 
 ---
 
+> “In nature there are neither rewards nor punishments; there are consequences.”<br>
+> — Robert Green Ingersoll
+
+---
+
 ## **Football Manager** by Sports Interactive<br>
 Run a club across seasons by building advantage through scouting and recruitment, shaping tactics and training, and managing morale and incentives through contracts, roles, and delegation.
 <p>
@@ -47,6 +52,11 @@ Run a club across seasons by building advantage through scouting and recruitment
 
 ---
 
+> “The quality of a footballer is the space they create for their teammates.”<br>
+> — Johan Cruyff
+
+---
+
 ## **Factorio** by Wube Software<br>
 Scale an industrial operation by converting manual tasks into automation, designing modular lines around throughput and bottlenecks, and extending capability through research while keeping conversions flexible across products.
 <p>
@@ -62,6 +72,11 @@ Scale an industrial operation by converting manual tasks into automation, design
   </iframe>
 </div>
 </p>
+
+---
+
+> “Evolution is a tinkerer, not an engineer.”<br>
+> — François Jacob
 
 ---
 
@@ -106,6 +121,11 @@ Keep a city alive under scarcity by securing food and materials, producing heat 
 
 ---
 
+> “In the struggle for survival, the fittest win out at the expense of their rivals because they succeed in adapting themselves best to their environment.”<br>
+> — Charles Darwin
+
+---
+
 ## **Anno 117: Pax Romana** by Ubisoft Mainz<br>
 Govern towns across a wider province by placing neighborhoods and civic buildings, building supply chains that move along trade routes, and raising living standards and culture while maintaining border security.
 <p>
@@ -147,8 +167,8 @@ Guide a civilization across eras by committing to technologies and institutions,
 
 ---
 
-> “War is a mere continuation of policy by other means.”<br>
-> — Carl von Clausewitz
+> “If institutions are the rules of the game, organizations and their entrepreneurs are the players.”<br>
+> — Douglass C. North
 
 ---
 
@@ -170,8 +190,8 @@ Operate in a player-run space economy by specializing into markets, industry, an
 
 ---
 
-> “Institutions are the rules of the game in a society.”<br>
-> — Douglass C. North
+> “A reliable way to make people believe in falsehoods is frequent repetition, because familiarity is not easily distinguished from truth.”<br>
+> — Daniel Kahneman
 
 ---
 
@@ -213,6 +233,11 @@ Pilot aircraft through cockpit procedures by running checklists and instrument f
   </iframe>
 </div>
 </p>
+
+---
+
+> “The test of a first-rate intelligence is the ability to hold two opposed ideas in mind at the same time and still retain the ability to function.”<br>
+> — F. Scott Fitzgerald
 
 ---
 

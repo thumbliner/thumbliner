@@ -227,18 +227,6 @@ _A Curation (On Loop)_
 
 ---
 
-## **Tanu Weds Manu** by Krsna Solo
-### You Pick: 4. Rangrez or 7. Rangrez
-<iframe allow="encrypted-media *; fullscreen *; clipboard-write"
-        frameborder="0"
-        height="450"
-        style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;"
-        sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"
-        src="https://embed.music.apple.com/album/tanu-weds-manu-original-motion-picture-soundtrack/1122150562">
-</iframe>
-
----
-
 ## **The Bare Necessities (Reprise)** by Sebastion Cabot & Phil Harris
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
         frameborder="0" 

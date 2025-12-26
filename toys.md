@@ -9,6 +9,8 @@ nav_order: 4
 # Toys
 _Axioms & Monte Carlos_  
 
+---
+
 > “A game is a series of interesting choices.”<br>
 > — Sid Meier
 
@@ -86,6 +88,11 @@ Grow a modern city by coupling zoning and land use to roads and transit, extendi
 
 ---
 
+> “There are no solutions. There are only trade-offs.”<br>
+> — Thomas Sowell
+
+---
+
 ## **Frostpunk 2** by 11 Bit Studios<br>
 Keep a city alive under scarcity by securing food and materials, producing heat at scale, and passing policies that manage factions and public support as tradeoffs tighten.
 <p>
@@ -119,6 +126,11 @@ Govern towns across a wider province by placing neighborhoods and civic building
   </iframe>
 </div>
 </p>
+
+---
+
+> “Institutions are the rules of the game in a society.”<br>
+> — Douglass C. North
 
 ---
 
@@ -158,6 +170,11 @@ Operate in a player-run space economy by specializing into markets, industry, an
 
 ---
 
+> “War is a mere continuation of policy by other means.”<br>
+> — Carl von Clausewitz
+
+---
+
 ## **Geo-Political Simulator** by Eversim<br>
 Run a modern country by setting taxes and budgets, steering domestic policy and the economy across major sectors, and managing approval and diplomacy through crises and security shocks.
 <p>
@@ -173,6 +190,11 @@ Run a modern country by setting taxes and budgets, steering domestic policy and 
   </iframe>
 </div>
 </p>
+
+---
+
+> “All models are wrong, but some are useful.”<br>
+> — George E. P. Box
 
 ---
 

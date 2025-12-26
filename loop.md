@@ -25,7 +25,7 @@ Makes a purchase, waits for delivery, tries it out, then updates buying behavior
 Chooses a message, delivers it, watches the room and the polls, then adjusts. The public is the sensor. Their reaction is the signal.
 
 ### Entrepreneur
-Places a bet on what the shopper will purchase, then risks time and capital to produce it. Profit and loss provide feedback.
+Places a bet on what the shopper will purchase, then risks scarce time and capital to produce it. Profit and loss provide feedback.
 
 ### Student
 Builds a model, tries a problem, gets it wrong, updates the model. Learning happens when the error stings.

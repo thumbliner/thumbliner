@@ -69,7 +69,7 @@ Scale an industrial operation by converting manual tasks into automation, design
 ---
 
 ## **Cities: Skylines** by Colossal Order<br>
-Grow a modern city by coupling zoning and land use to roads and transit, extending utilities and public services, and balancing traffic, pollution, and budgets as the population expands.
+Grow a modern city by coupling zoning and land use to roads and transit, extending utilities and public services, and balancing traffic, jobs, housing, pollution, and budgets as the population expands.
 <p>
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">
   <iframe

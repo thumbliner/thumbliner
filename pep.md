@@ -7,14 +7,10 @@ permalink: /pep/
 
 # Josep “Pep” Guardiola Sala
 
-- **Role:** Manager, Manchester City Football Club  
-- **Born:** 18 January 1971  
-- **Birthplace:** Santpedor, Catalonia  
-- **Description:** One of football’s defining managers: a meticulous philosopher and organiser whose teams are built on simple ideas, attention to detail, and consistency.  
-- **Links:**
-  - https://www.mancity.com/players/pep-guardiola  
-  - https://twitter.com/PepTeam  
-  - https://www.britannica.com/biography/Pep-Guardiola  
+**Role:** Manager, Manchester City Football Club  
+**Born:** 18 January 1971  
+**Birthplace:** Santpedor, Catalonia  
+**Description:** One of football’s defining managers: a meticulous philosopher and organiser whose teams are built on simple ideas, attention to detail, and consistency.  
 
 ## Quotes
 

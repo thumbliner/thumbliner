@@ -167,7 +167,7 @@ Guide a civilization across eras by committing to technologies and institutions,
 
 ---
 
-> “If institutions are the rules of the game, organizations and their entrepreneurs are the players.”<br>
+> “Institutions are the rules of the game—organizations and their entrepreneurs are the players.”<br>
 > — Douglass C. North
 
 ---
@@ -190,8 +190,8 @@ Operate in a player-run space economy by specializing into markets, industry, an
 
 ---
 
-> “A reliable way to make people believe in falsehoods is frequent repetition, because familiarity is not easily distinguished from truth.”<br>
-> — Daniel Kahneman
+> “The first principle is that you must not fool yourself—and you are the easiest person to fool.”<br>
+> — Richard P. Feynman
 
 ---
 

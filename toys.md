@@ -11,11 +11,6 @@ _Axioms & Monte Carlos_
 
 ---
 
-> “A game is a series of interesting choices.”<br>
-> — Sid Meier
-
----
-
 ## **Farming Simulator** by Giants Software<br>
 Operate a farm through seasonal cycles by aligning machinery capacity to fieldwork windows, managing inputs and rotations, and turning harvest into cashflow through storage, hauling, and processing.
 <p>
@@ -129,8 +124,8 @@ Govern towns across a wider province by placing neighborhoods and civic building
 
 ---
 
-> “Institutions are the rules of the game in a society.”<br>
-> — Douglass C. North
+> “A game is a series of interesting choices.”<br>
+> — Sid Meier
 
 ---
 
@@ -152,6 +147,11 @@ Guide a civilization across eras by committing to technologies and institutions,
 
 ---
 
+> “War is a mere continuation of policy by other means.”<br>
+> — Carl von Clausewitz
+
+---
+
 ## **EVE Online** by CCP<br>
 Operate in a player-run space economy by specializing into markets, industry, and hauling within organizations, using intelligence and logistics to project power, and contesting territory through coordinated campaigns.
 <p>
@@ -170,8 +170,8 @@ Operate in a player-run space economy by specializing into markets, industry, an
 
 ---
 
-> “War is a mere continuation of policy by other means.”<br>
-> — Carl von Clausewitz
+> “Institutions are the rules of the game in a society.”<br>
+> — Douglass C. North
 
 ---
 

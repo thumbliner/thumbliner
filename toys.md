@@ -14,8 +14,8 @@ _Axioms & Monte Carlos_
 
 ---
 
-## **Farming Simulator 25** by Giants Software<br>
-Operate a farm profitably through seasonal cycles: run machinery, plan fieldwork windows, manage inputs and rotations, raise livestock, and extend into processing, storage, and hauling that turns harvest into cashflow.
+## **Farming Simulator** by Giants Software<br>
+Operate a farm through seasonal cycles by aligning machinery capacity to fieldwork windows, managing inputs and rotations, and turning harvest into cashflow through storage, hauling, and processing.
 <p>
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">
   <iframe
@@ -32,8 +32,8 @@ Operate a farm profitably through seasonal cycles: run machinery, plan fieldwork
 
 ---
 
-## **Football Manager 26** by Sports Interactive<br>
-Run a club week-to-week: set tactics, structure training, manage morale and delegation, scout and recruit, negotiate contracts, and keep performance and finances aligned across seasons.
+## **Football Manager** by Sports Interactive<br>
+Run a club across seasons by building advantage through scouting and recruitment, shaping tactics and training, and managing morale and incentives through contracts, roles, and delegation.
 <p>
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">
   <iframe
@@ -51,7 +51,7 @@ Run a club week-to-week: set tactics, structure training, manage morale and dele
 ---
 
 ## **Factorio** by Wube Software<br>
-Build an industrial operation by turning manual tasks into automation: design modular lines, move materials efficiently, unlock capabilities through research, maintain convertibility from raw inputs to multiple end products, and reduce fragility and over-leveraged dependencies as complexity grows.
+Scale an industrial operation by converting manual tasks into automation, designing modular lines around throughput and bottlenecks, and extending capability through research while keeping conversions flexible across products.
 <p>
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">
   <iframe
@@ -69,7 +69,7 @@ Build an industrial operation by turning manual tasks into automation: design mo
 ---
 
 ## **Cities: Skylines** by Colossal Order<br>
-Build a modern city by laying roads and transit, zoning homes and jobs, extending water and services, controlling traffic and pollution, and balancing the budget as the population grows.
+Grow a modern city by coupling zoning and land use to roads and transit, extending utilities and public services, and balancing traffic, pollution, and budgets as the population expands.
 <p>
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">
   <iframe
@@ -87,7 +87,7 @@ Build a modern city by laying roads and transit, zoning homes and jobs, extendin
 ---
 
 ## **Frostpunk 2** by 11 Bit Studios<br>
-Keep a city alive under extreme scarcity by securing food and materials, producing heat, passing policies that trade comfort for output, managing competing factions, and maintaining public support as conditions worsen.
+Keep a city alive under scarcity by securing food and materials, producing heat at scale, and passing policies that manage factions and public support as tradeoffs tighten.
 <p>
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">
   <iframe
@@ -105,7 +105,7 @@ Keep a city alive under extreme scarcity by securing food and materials, produci
 ---
 
 ## **Anno 117: Pax Romana** by Ubisoft Mainz<br>
-Run towns across a wider province by placing neighborhoods and civic buildings, building supply chains, shipping goods along trade routes, funding services, raising living standards, speading culture, and securing borders when rival powers contest control.
+Govern towns across a wider province by placing neighborhoods and civic buildings, building supply chains that move along trade routes, and raising living standards and culture while maintaining border security.
 <p>
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">
   <iframe
@@ -123,7 +123,7 @@ Run towns across a wider province by placing neighborhoods and civic buildings, 
 ---
 
 ## **Sid Meier’s Civilization VII** by Firaxis Games<br>
-Grow a civilization across eras by founding cities, choosing technologies and institutions, trading and negotiating, reshaping culture and identity through era resets, and committing to war when necessary.
+Guide a civilization across eras by committing to technologies and institutions, working diplomacy and trade with peers, and shaping culture and identity as military pressure rises and falls.
 <p>
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">
   <iframe
@@ -141,7 +141,7 @@ Grow a civilization across eras by founding cities, choosing technologies and in
 ---
 
 ## **EVE Online** by CCP<br>
-Operate in a player-run space economy by joining organizations, trading in player markets, producing and hauling goods, running intelligence, and fighting for territory where logistics and coordination decide wars.
+Operate in a player-run space economy by specializing into markets, industry, and hauling within organizations, using intelligence and logistics to project power, and contesting territory through coordinated campaigns.
 <p>
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">
   <iframe
@@ -159,7 +159,7 @@ Operate in a player-run space economy by joining organizations, trading in playe
 ---
 
 ## **Geo-Political Simulator** by Eversim<br>
-Run a modern country in a real world framework by setting taxes and budgets, steering the economy and domestic policy, maintaining approval, managing diplomacy, and responding to crises and security shocks.
+Run a modern country by setting taxes and budgets, steering domestic policy and the economy across major sectors, and managing approval and diplomacy through crises and security shocks.
 <p>
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">
   <iframe
@@ -177,7 +177,7 @@ Run a modern country in a real world framework by setting taxes and budgets, ste
 ---
 
 ## **Microsoft Flight Simulator** by Asobo Studio<br>
-Pilot aircraft with cockpit procedures by reading instruments, following checklists, navigating and communicating, managing workload and timing, and holding a margin of safety as weather and visibility tighten limits.
+Pilot aircraft through cockpit procedures by running checklists and instrument flows, handling navigation and communication, and managing workload and timing to maintain safety margins as weather and visibility change.
 <p>
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">
   <iframe

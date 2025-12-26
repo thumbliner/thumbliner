@@ -68,7 +68,7 @@ permalink: /pep/
 
 ---
 
-> “In football, the worst thing you can do is lose the ball. We have to keep it at all times.”<br>
+> “At Barcelona, we were taught that the ball is the most important thing. Without the ball, you can't win.”<br>
 > — Pep Guardiola
 
 ---
@@ -94,7 +94,7 @@ permalink: /pep/
 
 ---
 
-> “At Barcelona, we were taught that the ball is the most important thing. Without the ball, you can't win.”<br>
+> “We score goals because we create chances. We create chances because we control the game. We control the game because we have the ball.”<br>
 > — Pep Guardiola
 
 ---
@@ -107,5 +107,5 @@ permalink: /pep/
 
 ---
 
-> “We score goals because we create chances. We create chances because we control the game. We control the game because we have the ball.”<br>
+> “Cruyff was the best, by far.”<br>
 > — Pep Guardiola

@@ -7,7 +7,7 @@ nav_order: 4
 ---
 
 # Toys
-_Axioms & Monte Carlos_  
+_Axioms & Monte Carlo_  
 
 ---
 
@@ -50,7 +50,7 @@ Run a club across seasons by building advantage through scouting and recruitment
 
 ---
 
-> “The quality of a footballer is the space they create for their teammates.”<br>
+> “Playing football is very simple, but playing simple football is the hardest thing there is.”<br>
 > — Johan Cruyff
 
 ---

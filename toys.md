@@ -121,7 +121,7 @@ Keep a city alive under scarcity by securing food and materials, producing heat 
 
 ---
 
-> “In the struggle for survival, the fittest win out at the expense of their rivals because they succeed in adapting themselves best to their environment.”<br>
+> “As more individuals are produced than can possibly survive, there must in every case be a struggle for existence.”<br>
 > — Charles Darwin
 
 ---

@@ -94,16 +94,6 @@ _A Curation (On Loop)_
 
 ---
 
-> <div class="hindi" lang="hi" dir="ltr">
->   <div class="verses">
->     <div class="line">राह पर उन को लगा लाए तो हैं बातों में</div>
->     <div class="line">और खुल जाएँगे दो-चार मुलाक़ातों में</div>
->     <div class="poet">— दाग़ देहलवी</div>
->   </div>
-> </div>
-
----
-
 ## **Hourglass** by Garth Stevenson
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
         frameborder="0" 
@@ -124,6 +114,16 @@ _A Curation (On Loop)_
         sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"
         src="https://embed.music.apple.com/album/trance-with-khusrow/1764092294">
 </iframe>
+
+---
+
+> <div class="hindi" lang="hi" dir="ltr">
+>   <div class="verses">
+>     <div class="line">राह पर उन को लगा लाए तो हैं बातों में</div>
+>     <div class="line">और खुल जाएँगे दो-चार मुलाक़ातों में</div>
+>     <div class="poet">— दाग़ देहलवी</div>
+>   </div>
+> </div>
 
 ---
 
@@ -159,7 +159,7 @@ _A Curation (On Loop)_
 > </div>
 
 ---
-  
+
 ## **Tchaikovsky: The Nutcracker** by Berlin Philharmonic & Sir Simon Rattle
 #### Editor's Pick: 9. In the Pine Forest
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"

@@ -213,8 +213,8 @@ Run a modern country by setting taxes and budgets, steering domestic policy and 
 
 ---
 
-> “All models are wrong, but some are useful.”<br>
-> — George E. P. Box
+> “The test of a first-rate intelligence is the ability to hold two opposed ideas in mind at the same time and still retain the ability to function.”<br>
+> — F. Scott Fitzgerald
 
 ---
 
@@ -236,8 +236,8 @@ Pilot aircraft through cockpit procedures by running checklists and instrument f
 
 ---
 
-> “The test of a first-rate intelligence is the ability to hold two opposed ideas in mind at the same time and still retain the ability to function.”<br>
-> — F. Scott Fitzgerald
+> “The superior pilot uses his superior judgment to avoid situations which require the use of his superior skill.”<br>
+> — Frank Borman
 
 ---
 

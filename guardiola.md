@@ -33,7 +33,6 @@ permalink: /guardiola/
 ---
 
 ### On Understanding
-- [ ] “Ideas belong to everyone and I have stolen as many as I could.”
 - [ ] “If I can’t explain it clearly, I don’t understand it well enough myself.”
 - [ ] “I want players who are curious, who ask questions, who want to understand why we do things.”
 - [ ] “Understanding comes from repetition. We do things over and over until they become automatic.”

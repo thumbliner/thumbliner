@@ -22,23 +22,9 @@ permalink: /pep/
 
 ### On Standards
 - [ ] “If we don’t win, it’s my fault.”
+- [ ] “I’m not a genius. I’m a guy who works.”
 - [ ] “I don’t have a defence. I’m the boss, I’m the manager and I’m not good enough.”
 - [ ] “I demand a lot because I give a lot. If you don’t want to meet my standards, you’re free to leave.”
-
-### On Communication and Clarity
-- [ ] “If I can’t explain it clearly, I don’t understand it well enough myself.”
-- [ ] “Understanding comes from repetition. We do things over and over until they become automatic.”
-- [ ] “I talk to my players constantly. Before training, during training, after training. They need to hear the message repeatedly.”
-- [ ] “Body language is as important as words. Players watch everything you do.”
-
-### On Scouting
-- [ ] “I need players who are intelligent and brave. That's all.”
-- [ ] “I want players who understand the game, who can read situations, who can make decisions.”
-- [ ] “I want players who think. Who ask themselves: 'What should I do now? Where should I move?'”
-- [ ] “I want players who are curious, who ask questions, who want to understand why we do things.”
-- [ ] “The best players are the ones who understand what I want without me having to explain it a hundred times.”
-- [ ] “The biggest mistake is trying to change people. Accept them as they are and help them get better at what they're good at.”
-
 
 ---
 
@@ -47,8 +33,11 @@ permalink: /pep/
 
 ---
 
-### On Teamwork
-- [ ] “A good player makes the game look easy. A great player makes his teammates look good.”
+### On Communication and Clarity
+- [ ] “If I can’t explain it clearly, I don’t understand it well enough myself.”
+- [ ] “Understanding comes from repetition. We do things over and over until they become automatic.”
+- [ ] “I talk to my players constantly. Before training, during training, after training. They need to hear the message repeatedly.”
+- [ ] “Body language is as important as words. Players watch everything you do.”
 
 ---
 
@@ -57,15 +46,25 @@ permalink: /pep/
 
 ---
 
+### On Selection and Roles
+- [ ] “A good player makes the game look easy. A great player makes his teammates look good.”
+- [ ] “I want players who are curious, who ask questions, who want to understand why we do things.”
+- [ ] “The best players are the ones who understand what I want without me having to explain it a hundred times.”
+- [ ] “The biggest mistake is trying to change people. Accept them as they are and help them get better at what they're good at.”
+
+---
+
+> “In football, the worst thing you can do is lose the ball. We have to keep it at all times.”<br>
+> — Pep Guardiola
+
+---
+
 ### On Mindset
+- [ ] “You have to learn to play football with courage.”
 - [ ] “Football is a game of the mind. The physical part is secondary.”
 - [ ] “Losing hurts. If it doesn't hurt, you're in the wrong profession.”
 - [ ] “The pressure comes from myself. Nobody puts more pressure on me than I do.”
 - [ ] “I can't motivate people. They have to motivate themselves. I can only create the conditions.”
-- [ ] “The hunger to win has to come from inside. I can't give you that.”
-- [ ] “I can't convince them if they don't believe. I can only give them an idea and a way to play.”
-- [ ] “I’m not a genius. I’m a guy who works.”
-- [ ] “I learned from Johan Cruyff… enjoy the responsibility and the pressure.”
 
 ---
 
@@ -76,7 +75,6 @@ permalink: /pep/
 
 ### On Process
 - [ ] “I prepare for every game like it's a final.”
-- [ ] “I respect all my opponents, but I don't fear any of them.”
 - [ ] “I don't worry about what other teams do. I focus on what we can control.”
 - [ ] “Every game is different. Every opponent presents a new problem to solve.”
 - [ ] “The best way to beat a good team is to be better than them for 90 minutes.”
@@ -90,7 +88,7 @@ permalink: /pep/
 
 ---
 
-### On Theory
+### On Gameplay
 - [ ] “The game is about space and time. That's all. How you use space, how you manage time.”
 - [ ] “Space is the most important thing in football. How you create it, how you exploit it, how you defend it.”
 

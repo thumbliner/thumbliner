@@ -139,6 +139,16 @@ _A Curation (On Loop)_
 
 ---
 
+> <div class="hindi" lang="hi" dir="ltr">
+>   <div class="verses">
+>     <div class="line">यह भी तुम जानते हो चंद मुलाक़ातों में</div>
+>     <div class="line">आज़माया है तुम्हें हमने कई बातों में</div>
+>     <div class="poet">— दाग़ देहलवी</div>
+>   </div>
+> </div>
+
+---
+
 ## **La traviata: "Sempre Libera"** by Diana Damrau
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
         frameborder="0" 
@@ -147,16 +157,6 @@ _A Curation (On Loop)_
         sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" 
         src="https://embed.music.apple.com/song/la-traviata-sempre-libera-violetta-alfredo/971242301">
 </iframe>
-
----
-
-> <div class="hindi" lang="hi" dir="ltr">
->   <div class="verses">
->     <div class="line">यह भी तुम जानते हो चंद मुलाक़ातों में</div>
->     <div class="line">आज़माया है तुम्हें हमने कई बातों में</div>
->     <div class="poet">— दाग़ देहलवी</div>
->   </div>
-> </div>
 
 ---
 

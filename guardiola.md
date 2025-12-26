@@ -57,7 +57,7 @@ permalink: /guardiola/
 ---
 
 ### On Process
-- [ ] “I don't worry about what other teams do. I focus on what we can control.”
+- [ ] “I don't worry about what others do. I focus on what we can control.”
 - [ ] “The game is about space and time. That's all. How you use space, how you manage time.”
 - [ ] “The goal is the consequence of the process. If the process is good, the goals will come.”
 

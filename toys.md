@@ -27,8 +27,6 @@ Operate a farm through seasonal cycles by aligning machinery capacity to fieldwo
 </div>
 </p>
 
----
-
 > “In nature there are neither rewards nor punishments; there are consequences.”<br>
 > — Robert Green Ingersoll
 

@@ -18,4 +18,11 @@ _Oops..._
 >   </div>
 > </div>
 
-![Golden retriever shaking off water](/assets/images/meme.gif)
+<img
+  src="{{ '/assets/images/meme.gif' | relative_url }}"
+  alt="Golden retriever shaking off water"
+  style="width:50%; height:auto;">
+
+---
+
+Now go study.

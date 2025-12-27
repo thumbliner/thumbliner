@@ -31,6 +31,17 @@ Places a bet on what the shopper will purchase, then risks scarce time and capit
 Builds a model, tries a problem, gets it wrong, updates the model. Learning happens when the error stings.
 
 ---
+
+> <div class="hindi" lang="hi" dir="ltr">
+>   <div class="verses">
+>     <div class="line">है जुस्तुजू कि ख़ूब से है ख़ूब-तर कहाँ</div>
+>     <div class="line">अब ठहरती है देखिए जा कर नज़र कहाँ</div>
+>     <div class="poet">— अल्ताफ़ हुसैन हाली</div>
+>   </div>
+> </div>
+
+---
+
 ## Y Axis
 
 ### Plain
@@ -49,6 +60,17 @@ Cognition is closed-loop information processing. An agent samples partial eviden
 At time $$t$$, each agent $$i$$ receives a local observation $$o_t^i$$ (including relevant price signals $$p_t$$) and infers an interpretation $$s_t^i = \phi_{\theta_i}!\left(o_{\le t}^i,; p_{\le t}\right)$$. The agent selects an action via a policy $$a_t^i = \mu_{\psi_i}!\left(s_t^i\right)$$ (subject to constraints). After executing $$a_t^i$$, it receives new observations $$o_{t+1}^i$$ (including updated prices $$p_{t+1}$$) and infers $$s_{t+1}^i = \phi_{\theta_i}!\left(o_{\le t+1}^i,; p_{\le t+1}\right)$$. It computes discrepancy/feedback signals, e.g., an interpretive/model (one-step prediction) error $$e_t^i = s_{t+1}^i - f_{\omega_i}!\left(s_t^i,; a_t^i\right)$$ and profit/loss $$\pi_{t+1}^i = \mathrm{rev}*{t+1}^i - \mathrm{cost}*{t+1}^i$$ (optionally $$\delta_t^i = \pi_{t+1}^i - \mathbb{E}*t!\left[\pi*{t+1}^i\right]$$), and uses these signals to update parameters $$(\theta_i,\psi_i,\omega_i)$$.
 
 ---
+
+> <div class="hindi" lang="hi" dir="ltr">
+>   <div class="verses">
+>     <div class="line">जुस्तुजू जिसकी थी उसको तो न पाया हम ने</div>
+>     <div class="line">इस बहाने से मगर देख ली दुनिया हम ने</div>
+>     <div class="poet">— शहरयार</div>
+>   </div>
+> </div>
+
+---
+
 ## Z Axis
 
 ### Applied Epistemology

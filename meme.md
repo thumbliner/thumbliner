@@ -38,64 +38,13 @@ _Brainrot Meets High-Brow: A Mutation..._
 
 ---
 
-<div style="max-width:670px;">
+<div style="max-width:670px; margin:0 auto;">
   <iframe
     src="https://fred.stlouisfed.org/graph/graph-landing.php?g=1PihU&width=670&height=475"
     scrolling="no"
-    frameborder="0"
-    style="overflow:hidden; width:100%; height:525px;"
+    style="border:0; overflow:hidden; width:100%; height:475px;"
     loading="lazy"
     referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-
----
-
-<div style="position:relative;width:100%;max-width:660px;padding-bottom:78.4%;height:0;overflow:hidden;border-radius:10px;">
-  <iframe
-    src="https://fred.stlouisfed.org/graph/graph-landing.php?g=1PihU&width=670&height=475"
-    title="FRED chart"
-    style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;"
-    loading="lazy"
-    referrerpolicy="strict-origin-when-cross-origin"
-    scrolling="no">
-  </iframe>
-</div>
-
----
-
-<div style="
-  position:relative;
-  width:100%;
-  max-width:660px;
-  padding-bottom:78.4%;
-  height:0;
-  border-radius:10px;
-  overflow:hidden;
-  clip-path: inset(0 round 10px);
-">
-  <iframe
-    src="https://fred.stlouisfed.org/graph/graph-landing.php?g=1PihU&width=670&height=475"
-    title="FRED chart"
-    style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;"
-    loading="lazy"
-    referrerpolicy="strict-origin-when-cross-origin"
-    scrolling="no">
-  </iframe>
-</div>
-
----
-
-<div style="border-radius:10px; overflow:hidden; max-width:660px;">
-  <div style="position:relative; width:100%; padding-bottom:78.4%; height:0;">
-    <iframe
-      src="https://fred.stlouisfed.org/graph/graph-landing.php?g=1PihU&width=670&height=475"
-      title="FRED chart"
-      style="position:absolute; inset:0; width:100%; height:100%; border:0;"
-      loading="lazy"
-      referrerpolicy="strict-origin-when-cross-origin"
-      scrolling="no">
-    </iframe>
-  </div>
 </div>
 
 ---

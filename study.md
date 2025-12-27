@@ -17,8 +17,8 @@ International Indian School Jeddah
 
 > <div class="hindi" lang="hi" dir="ltr">
 >   <div class="verses">
->     <div class="line">ज़िन्दगी हो मेरी परवाने की सूरत यारब</div>
->     <div class="line">इल्म की शम्मा से हो मुझ को मोहब्बत यारब</div>
+>     <div class="line">ज़िन्दगी हो मेरी परवाने की सूरत या रब</div>
+>     <div class="line">इल्म की शम्मा से हो मुझ को महब्बत या रब</div>
 >     <div class="poet">— अल्लामा इक़बाल</div>
 >   </div>
 > </div>
@@ -43,17 +43,41 @@ Amity University
 *2012–14  ·  United States*  
 Walden University
 
+> <div class="hindi" lang="hi" dir="ltr">
+>   <div class="verses">
+>     <div class="line">दिल सोज़ से ख़ाली है निगाह पाक नहीं है</div>
+>     <div class="line">फिर इस में अजब क्या कि तू बेबाक नहीं है</div>
+>     <div class="poet">— अल्लामा इक़बाल</div>
+>   </div>
+> </div>
+
 ---
 
 ### Doctorate in Business  
 *2014–18  ·  France*  
 Audencia Business School & Toulouse Business School
 
+> <div class="hindi" lang="hi" dir="ltr">
+>   <div class="verses">
+>     <div class="line">बिजली हूँ नज़र कोह-ओ-बयाबाँ पे है मेरी</div>
+>     <div class="line">मेरे लिए शायाँ ख़स-ओ-ख़ाशाक नहीं है</div>
+>     <div class="poet">— अल्लामा इक़बाल</div>
+>   </div>
+> </div>
+
 ---
 
 ### Advanced Studies in Management  
 *2018–19  ·  Switzerland*  
 University of Geneva
+
+> <div class="hindi" lang="hi" dir="ltr">
+>   <div class="verses">
+>     <div class="line">क्या सूफ़ी ओ मुल्ला को ख़बर मेरे जुनूँ की</div>
+>     <div class="line">उन का सर-ए-दामन भी अभी चाक नहीं है</div>
+>     <div class="poet">— अल्लामा इक़बाल</div>
+>   </div>
+> </div>
 
 ---
 

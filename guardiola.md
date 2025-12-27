@@ -70,7 +70,7 @@ permalink: /guardiola/
 
 <div class="urdu" lang="ur" dir="rtl">
   <div class="verses">
-    <div class="misra">خبرِ اقبالؔ کی لائی ہے گلستاں سے نسیم</div>
+    <div class="misra">خبر اقبالؔ کی لائی ہے گلستاں سے نسیم</div>
     <div class="misra">نوگرفتار پھڑکتا ہے تہِ دام ابھی</div>
     <div class="poet">— علامہ اقبالؔ</div>
   </div>

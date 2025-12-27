@@ -20,10 +20,11 @@ _Cringe Meets High-Brow: A Mutation..._
 
 <img
   src="{{ '/assets/images/meme.gif' | relative_url }}"
-  alt="Golden retriever shaking off water"
+  alt="Static image of a golden retriever puppy shaking off water; the image itself jitters while the puppy remains still."
   style="width:50%; height:auto;">
 
 ---
 
 🦗🦗  
+    
 🚪

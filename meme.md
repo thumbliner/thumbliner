@@ -42,6 +42,18 @@ _Brainrot Meets High-Brow: A Mutation..._
 
 ---
 
+<div style="max-width:670px;">
+  <iframe
+    src="https://fred.stlouisfed.org/graph/graph-landing.php?g=1PihU&width=670&height=475"
+    scrolling="no"
+    frameborder="0"
+    style="overflow:hidden; width:100%; height:525px;"
+    loading="lazy"
+    referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+---
+
 <div class="urdu" lang="ur" dir="rtl">
   <div class="verses">
     <div class="misra">حاصلِ کن ہے یہ جہانِ خراب</div>

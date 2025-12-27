@@ -90,3 +90,12 @@ Built a virtual airline community; web, product, and ops.
 
 ---
 
+<div class="urdu" lang="ur" dir="rtl">
+  <div class="verses">
+    <div class="misra">میرا قلم نہیں میزان ایسے عادل کی</div>
+    <div class="misra">جو اپنے چہرے پہ دوہرا نقاب رکھتا ہے</div>
+    <div class="misra">میرا قلم نہیں تسبیح اُس مُبلّغ کی</div>
+    <div class="misra">جو بندگی کا بھی ہر دم حساب رکھتا ہے</div>
+    <div class="poet">— احمد فرازّ</div>
+  </div>
+</div>

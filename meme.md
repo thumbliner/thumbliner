@@ -8,7 +8,7 @@ permalink: /meme/
 # Meme
 _Subtitle_
 
-![Golden retriever shaking off water](/assets/images/meme.gif)
+---
 
 > <div class="hindi" lang="hi" dir="ltr">
 >   <div class="verses">
@@ -18,12 +18,4 @@ _Subtitle_
 >   </div>
 > </div>
 
----
-
-<div class="urdu" lang="ur" dir="rtl">
-  <div class="verses">
-    <div class="misra">اس فن میں کوئی بے تہہ کیا ہو مرا معارض</div>
-    <div class="misra">اول تو میں سند ہوں پھر یہ مری زباں ہے</div>
-    <div class="poet">— مير تقی میرؔ</div>
-  </div>
-</div>
+![Golden retriever shaking off water](/assets/images/meme.gif)

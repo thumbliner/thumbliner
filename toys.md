@@ -159,16 +159,6 @@ Govern towns across a wider province by placing neighborhoods and civic building
 
 ---
 
-> <div class="hindi" lang="hi" dir="ltr">
->   <div class="verses">
->     <div class="line">हो मेरे दम से यूँ ही मेरे वतन की ज़ीनत</div>
->     <div class="line">जिस तरह फूल से होती है चमन की ज़ीनत</div>
->     <div class="poet">— अल्लामा इक़बाल</div>
->   </div>
-> </div>
-
----
-
 ## **Sid Meier’s Civilization VII** by Firaxis Games<br>
 Guide a civilization across eras by committing to technologies and institutions, working diplomacy and trade with peers, and shaping culture and identity as military pressure rises and falls.
 <p>
@@ -189,6 +179,16 @@ Guide a civilization across eras by committing to technologies and institutions,
 
 > “Institutions are the rules of the game—organizations and their entrepreneurs are the players.”<br>
 > — Douglass C. North
+
+---
+
+> <div class="hindi" lang="hi" dir="ltr">
+>   <div class="verses">
+>     <div class="line">हो मेरे दम से यूँ ही मेरे वतन की ज़ीनत</div>
+>     <div class="line">जिस तरह फूल से होती है चमन की ज़ीनत</div>
+>     <div class="poet">— अल्लामा इक़बाल</div>
+>   </div>
+> </div>
 
 ---
 

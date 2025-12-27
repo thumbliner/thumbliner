@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Copium
+title: Meme
 nav_order: 4
-permalink: /copium/
+permalink: /meme/
 ---
 
-# Copium
-_Oops..._
+# Meme
+_Cringe Meets High-Brow: A Mutation..._
 
 ---
 
@@ -25,4 +25,5 @@ _Oops..._
 
 ---
 
-Now go study.
+🦗🦗
+🚪

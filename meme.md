@@ -6,7 +6,7 @@ permalink: /meme/
 ---
 
 # Meme
-_Cringe Meets High-Brow: A Mutation..._
+_Brainrot Meets High-Brow: A Mutation..._
 
 ---
 

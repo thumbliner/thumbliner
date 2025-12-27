@@ -38,10 +38,6 @@ _Brainrot Meets High-Brow: A Mutation..._
 
 ---
 
-<iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=1PihU&width=670&height=475" scrolling="no" frameborder="0" style="overflow:hidden; width:670px; height:525px;" allowTransparency="true" loading="lazy"></iframe>
-
----
-
 <div style="max-width:670px;">
   <iframe
     src="https://fred.stlouisfed.org/graph/graph-landing.php?g=1PihU&width=670&height=475"
@@ -65,6 +61,42 @@ _Brainrot Meets High-Brow: A Mutation..._
   </iframe>
 </div>
 
+---
+
+<div style="
+  position:relative;
+  width:100%;
+  max-width:660px;
+  padding-bottom:78.4%;
+  height:0;
+  border-radius:10px;
+  overflow:hidden;
+  clip-path: inset(0 round 10px);
+">
+  <iframe
+    src="https://fred.stlouisfed.org/graph/graph-landing.php?g=1PihU&width=670&height=475"
+    title="FRED chart"
+    style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;"
+    loading="lazy"
+    referrerpolicy="strict-origin-when-cross-origin"
+    scrolling="no">
+  </iframe>
+</div>
+
+---
+
+<div style="border-radius:10px; overflow:hidden; max-width:660px;">
+  <div style="position:relative; width:100%; padding-bottom:78.4%; height:0;">
+    <iframe
+      src="https://fred.stlouisfed.org/graph/graph-landing.php?g=1PihU&width=670&height=475"
+      title="FRED chart"
+      style="position:absolute; inset:0; width:100%; height:100%; border:0;"
+      loading="lazy"
+      referrerpolicy="strict-origin-when-cross-origin"
+      scrolling="no">
+    </iframe>
+  </div>
+</div>
 
 ---
 

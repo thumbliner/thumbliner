@@ -17,6 +17,13 @@ _Brainrot Meets High-Brow: A Mutation..._
 
 ---
 
+<img
+  src="{{ '/assets/images/meme-puppy.gif' | relative_url }}"
+  alt="Static image of a golden retriever puppy shaking off water; the image itself jitters while the puppy remains still."
+  style="width:50%; height:auto;">
+
+---
+
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
         frameborder="0" 
         height="175" 

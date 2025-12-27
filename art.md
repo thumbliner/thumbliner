@@ -253,6 +253,16 @@ _A Curation (On Loop)_
 
 ---
 
+<div class="urdu" lang="ur" dir="rtl">
+  <div class="verses">
+    <div class="misra">عشق فرمودۂ قاصد سے سبک گامِ عمل</div>
+    <div class="misra">عقل سمجھی ہی نہیں معنیِ پیغام ابھی</div>
+    <div class="poet">— علامہ اقبالؔ</div>
+  </div>
+</div>
+
+---
+
 ## **Attenborough’s Ant Mountain** by Joe Loncraine & Martin Dohrn  
 <p>
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">

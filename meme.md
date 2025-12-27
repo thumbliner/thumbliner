@@ -6,7 +6,7 @@ permalink: /meme/
 ---
 
 # Meme
-_Brainrot Meets High-Brow: A Loopy Mutation..._
+_Brainrot Meets High-Brow: A Loopy Mutation_
 
 ---
 

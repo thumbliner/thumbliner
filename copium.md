@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Meme
+title: Copium
 nav_order: 4
-permalink: /meme/
+permalink: /copium/
 ---
 
-# Meme
-_Subtitle_
+# Copium
+_Oops..._
 
 ---
 

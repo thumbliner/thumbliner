@@ -1,11 +1,12 @@
 ---
 layout: default
-title: Guardiola
+title: Pep Talk
 nav_order: 3
-permalink: /guardiola/
+permalink: /pep-talk/
 ---
 
-# Josep “Pep” Guardiola Sala
+# Pep Talk
+_Josep “Pep” Guardiola Sala_
 
 **Role:** Manager, Manchester City Football Club  
 **Born:** 18 January 1971  

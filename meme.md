@@ -8,8 +8,6 @@ permalink: /meme/
 # Meme
 _Subtitle_
 
-Text
-
 ---
 
 > <div class="hindi" lang="hi" dir="ltr">

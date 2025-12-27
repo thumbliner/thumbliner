@@ -35,6 +35,12 @@ Built ML-enabled measurement and activation using CDP automation across multiple
 *2019–20  ·  Pet Valu*  
 Unified pricing, eCommerce, and loyalty data; supported COVID-19 ops.
 
+---
+
+
+
+---
+
 ### Agency Director  
 *2016–17  ·  Saudi Research & Marketing Group*  
 Built an in-house agency across creative, media, and analytics.
@@ -69,4 +75,6 @@ Built a virtual airline community; web, product, and ops.
 
 - <a href="https://linkedin.com/in/thumbliner" target="_blank" rel="noopener noreferrer">LinkedIn</a>  
 - <a href="https://public.tableau.com/app/profile/thumbliner/vizzes" target="_blank" rel="noopener noreferrer">Tableau</a>  
+
+---
 

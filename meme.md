@@ -8,7 +8,7 @@ permalink: /meme/
 # Meme
 _Subtitle_
 
----
+![Golden retriever shaking off water](/assets/images/meme.gif)
 
 > <div class="hindi" lang="hi" dir="ltr">
 >   <div class="verses">

@@ -17,16 +17,6 @@ _Brainrot Meets High-Brow: A Mutation..._
 
 ---
 
-> <div class="hindi" lang="hi" dir="ltr">
->   <div class="verses">
->     <div class="line">किस ने भीगे हुए बालों से ये झटका पानी</div>
->     <div class="line">झूम कर आई घटा टूट के बरसा पानी</div>
->     <div class="poet">— आरज़ू लखनवी</div>
->   </div>
-> </div>
-
----
-
 ## **Tiny Moves** by Bleachers  
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
         frameborder="0" 
@@ -48,6 +38,16 @@ _Brainrot Meets High-Brow: A Mutation..._
 </div>
 
 <script src="https://fred.stlouisfed.org/graph/js/embed.js" type="text/javascript"></script>
+
+---
+
+> <div class="hindi" lang="hi" dir="ltr">
+>   <div class="verses">
+>     <div class="line">किस ने भीगे हुए बालों से ये झटका पानी</div>
+>     <div class="line">झूम कर आई घटा टूट के बरसा पानी</div>
+>     <div class="poet">— आरज़ू लखनवी</div>
+>   </div>
+> </div>
 
 ---
 

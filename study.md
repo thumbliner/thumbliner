@@ -9,7 +9,6 @@ nav_order: 3
 # Study
 _Formal-ish Education_  
 
-## **High Hopes** by Frank Sinatra  
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
         frameborder="0" 
         height="175" 

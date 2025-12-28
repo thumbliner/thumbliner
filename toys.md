@@ -160,11 +160,11 @@ Govern towns across a province by placing neighborhoods and civic buildings, bui
 ---
 
 ## **Sid Meier’s Civilization VII** by Firaxis Games<br>
-Guide a civilization across eras by committing to technologies and institutions, working diplomacy and trade with peers, and shaping culture and identity as military pressure rises and falls.
+Guide a civilization across eras by committing to technologies and institutions, working diplomacy and trade, and shaping culture as military pressure rises and falls.
 <p>
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">
   <iframe
-    src="https://www.youtube.com/embed/gV0waX2uPLg?si=5NMzBgQOQ_GBsTR9"
+    src="https://www.youtube.com/embed/MGOdJMNN2b0?si=jU9Z7HOzrjGTNFwX"
     title="Civilization VII"
     style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;"
     allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"

@@ -23,6 +23,7 @@ An argument is a structured set of propositions to support a conclusion.
 ---
 
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
+        title="Music player: The Book by Nicholas Hooper"
         frameborder="0" 
         height="175" 
         style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" 

@@ -159,14 +159,13 @@ _A Curation (On Loop)_
 
 ---
 
-## **Tchaikovsky: The Nutcracker** by Berlin Philharmonic & Sir Simon Rattle
-#### Editor's Pick: 9. In the Pine Forest
+## **Tchaikovsky: In the Pine Forest"** by Berlin Philharmonic & Sir Simon Rattle
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
-        frameborder="0"
-        height="450"
-        style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;"
-        sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"
-        src="https://embed.music.apple.com/album/tchaikovsky-the-nutcracker/752033492">
+        frameborder="0" 
+        height="175" 
+        style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" 
+        sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" 
+        src="https://embed.music.apple.com/song/the-nutcracker-op-71-act-i-no-8-in-the-pine-forest/752036187">
 </iframe>
 
 ---

@@ -91,6 +91,18 @@ Launched the digital practice; led web, app, media, and automation.
 *2013–14  ·  Al Harithy Company*  
 Delivered campaigns and event assets, including SABIC Exhibition.
 
+---
+
+<iframe allow="encrypted-media *; fullscreen *; clipboard-write"
+        frameborder="0" 
+        height="175" 
+        style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" 
+        sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" 
+        src="https://embed.music.apple.com/song/greenback-boogie-suits-main-title-edit/1061823754">
+</iframe>
+
+---
+
 ### Business Coordinator  
 *2010–13  ·  MAI Trading Establishment*  
 Ran operations and key accounts for an HP-authorized distributor.

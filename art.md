@@ -161,7 +161,7 @@ _A Curation (On Loop)_
 
 ---
 
-## Ravel's **Boléro** by Orchestre Symphonique de Montréal, Charles Dutoit
+## Ravel's **Boléro** by Orchestre Symphonique de Montréal & Charles Dutoit
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
         frameborder="0" 
         height="175" 
@@ -182,7 +182,7 @@ _A Curation (On Loop)_
 
 ---
 
-## **Alleluia** by Soeur Marie Keyrouz and Chorale de l'Église Saint-Julien-le-Pauvre
+## **Alleluia** by Soeur Marie Keyrouz & Chorale de l'Église Saint-Julien-le-Pauvre
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
         frameborder="0" 
         height="175" 

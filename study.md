@@ -40,6 +40,7 @@ Amity University
 ---
 
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
+        title="Music player: High Hopes by Frank Sinatra"
         frameborder="0" 
         height="175" 
         style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" 

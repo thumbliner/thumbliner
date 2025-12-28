@@ -71,16 +71,6 @@ When you choose argument as an action, you deal with disagreement by seeking com
 
 ---
 
-<div class="urdu" lang="ur" dir="rtl">
-  <div class="verses">
-    <div class="misra">ناز ہے طاقتِ گفتار پر انسانوں کو</div>
-    <div class="misra">بات کرنے کا سلیقہ نہیں نادانوں کو</div>
-    <div class="poet">— علامہ اقبالؔ</div>
-  </div>
-</div>
-
----
-
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
         frameborder="0" 
         height="175" 
@@ -88,6 +78,16 @@ When you choose argument as an action, you deal with disagreement by seeking com
         sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" 
         src="https://embed.music.apple.com/song/die-forelle/1184205114">
 </iframe>
+
+---
+
+<div class="urdu" lang="ur" dir="rtl">
+  <div class="verses">
+    <div class="misra">ناز ہے طاقتِ گفتار پر انسانوں کو</div>
+    <div class="misra">بات کرنے کا سلیقہ نہیں نادانوں کو</div>
+    <div class="poet">— علامہ اقبالؔ</div>
+  </div>
+</div>
 
 ---
 

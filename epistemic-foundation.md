@@ -41,6 +41,16 @@ We learn about the world by paying attention. We get sensations—seeing a ball,
 
 ---
 
+<iframe allow="encrypted-media *; fullscreen *; clipboard-write"
+        frameborder="0" 
+        height="175" 
+        style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" 
+        sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" 
+        src="https://embed.music.apple.com/song/discombobulate/342564788">
+</iframe>
+
+---
+
 ### The Action Axiom
 Human action is purposeful: you choose among options to reach ends you prefer. Under scarcity, each choice carries tradeoffs that play out over time. With an uncertain future, you use judgment to speculate about what is most likely to work. Social science begins by treating behavior as meaningful action (ends + beliefs). Treated this way, action becomes a foundation to guide empirical inquiry.[^2]
 
@@ -53,6 +63,16 @@ Human action is purposeful: you choose among options to reach ends you prefer. U
     <div class="poet">— علامہ اقبالؔ</div>
   </div>
 </div>
+
+---
+
+<iframe allow="encrypted-media *; fullscreen *; clipboard-write"
+        frameborder="0" 
+        height="175" 
+        style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" 
+        sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" 
+        src="https://embed.music.apple.com/song/die-forelle-d-550/1455696686">
+</iframe>
 
 ---
 

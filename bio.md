@@ -17,16 +17,6 @@ cast [at] thumbliner [dot] com
 
 ---
 
-<div class="urdu" lang="ur" dir="rtl">
-  <div class="verses">
-    <div class="misra">سرِ کوئے نا شنایاں ہمیں دن سے رات کرنا</div>
-    <div class="misra">کبھی اِس سے بات کرنا کبھی اُس سے بات کرنا</div>
-    <div class="poet">— فیض احمد فیضؔ</div>
-  </div>
-</div>
-
----
-
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
         title="Music player: Yeh Hai Bombay Meri Jaan by Mohd. Rafi, Geeta Dutt, and O.P. Nayyar"
         frameborder="0" 
@@ -35,3 +25,13 @@ cast [at] thumbliner [dot] com
         sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" 
         src="https://embed.music.apple.com/song/yeh-hai-bombay-meri-jaan/1346985097">
 </iframe>
+
+---
+
+<div class="urdu" lang="ur" dir="rtl">
+  <div class="verses">
+    <div class="misra">سرِ کوئے نا شنایاں ہمیں دن سے رات کرنا</div>
+    <div class="misra">کبھی اِس سے بات کرنا کبھی اُس سے بات کرنا</div>
+    <div class="poet">— فیض احمد فیضؔ</div>
+  </div>
+</div>

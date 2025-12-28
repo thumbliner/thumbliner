@@ -9,12 +9,6 @@ permalink: /bio/
 
 A curious outsider based in Toronto. Thumbliner is his digital handle.<br>
 
-Want his attention?
-
-Choose your picks, frame an argument, say now Shibboleth, and 
-
-cast [at] thumbliner [dot] com
-
 ---
 
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
@@ -25,6 +19,14 @@ cast [at] thumbliner [dot] com
         sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" 
         src="https://embed.music.apple.com/song/yeh-hai-bombay-meri-jaan/1346985097">
 </iframe>
+
+---
+
+Want his attention?
+
+Choose your picks, frame an argument, say now Shibboleth, and 
+
+cast [at] thumbliner [dot] com
 
 ---
 

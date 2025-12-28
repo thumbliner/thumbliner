@@ -177,8 +177,8 @@ Guide a civilization across eras by committing to technologies and institutions,
 
 ---
 
-> “The first principle is that you must not fool yourself—and you are the easiest person to fool.”<br>
-> — Richard P. Feynman
+> “Institutions are the rules of the game—organizations and their entrepreneurs are the players.”<br>
+> — Douglass C. North
 
 ---
 
@@ -193,7 +193,7 @@ Guide a civilization across eras by committing to technologies and institutions,
 ---
 
 ## **EVE Online** by CCP<br>
-Operate in a player-run space economy by specializing into markets, industry, and hauling within organizations, using intelligence and logistics to project power, and contesting territory through coordinated campaigns.
+Operate in a player-run space economy by specializing into markets, using intelligence and logistics to project power, and contesting territory through coordinated campaigns.
 <p>
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">
   <iframe
@@ -210,8 +210,8 @@ Operate in a player-run space economy by specializing into markets, industry, an
 
 ---
 
-> “Institutions are the rules of the game—organizations and their entrepreneurs are the players.”<br>
-> — Douglass C. North
+> “The first principle is that you must not fool yourself—and you are the easiest person to fool.”<br>
+> — Richard P. Feynman
 
 ---
 
@@ -226,7 +226,7 @@ Operate in a player-run space economy by specializing into markets, industry, an
 ---
 
 ## **Geo-Political Simulator** by Eversim<br>
-Run a modern country by setting taxes and budgets, steering domestic policy and the economy across major sectors, and managing approval and diplomacy through crises and security shocks.
+Run a modern country by setting taxes and budgets, steering policy and the economy, and managing approval and diplomacy through crises and security shocks.
 <p>
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">
   <iframe
@@ -249,7 +249,7 @@ Run a modern country by setting taxes and budgets, steering domestic policy and 
 ---
 
 ## **Microsoft Flight Simulator** by Asobo Studio<br>
-Pilot aircraft through cockpit procedures by running checklists and instrument flows, handling navigation and communication, and managing workload and timing to maintain safety margins as weather and visibility change.
+Run procedures and checklists, monitor instruments, handle navigation and communication, and manage workload to maintain safe margins amid uncertain weather.
 <p>
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">
   <iframe

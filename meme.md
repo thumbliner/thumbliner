@@ -48,25 +48,28 @@ _Brainrot Meets High-Brow: A Loopy Mutation_
 ---
 
 <style>
-  .embed-container{
+  .fred-embed {
     width: 100%;
     max-width: 670px;
     margin: 0 auto;
-    position: relative;
-    aspect-ratio: 670 / 525; /* matches your iframe style height */
+    overflow: hidden;     /* prevents page-level bleed */
   }
-  .embed-container iframe{
-    position: absolute;
-    inset: 0;
-    width: 100%;
-    height: 100%;
-    border: 0;
-    overflow: hidden;
+
+  .fred-embed iframe {
     display: block;
+    width: 100% !important;
+    max-width: 100% !important;
+    border: 0;
+    height: 525px;        /* keep your current height */
+  }
+
+  /* optional: reduce height on small screens */
+  @media (max-width: 480px) {
+    .fred-embed iframe { height: 380px; }
   }
 </style>
 
-<div class="embed-container"
+<div class="fred-embed"
      aria-label="Chart: Market yield on U.S. Treasury securities at 10-year constant maturity, quoted on an investment basis.">
   <iframe
     src="https://fred.stlouisfed.org/graph/graph-landing.php?g=1PihU&width=670&height=475"

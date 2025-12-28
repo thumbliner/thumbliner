@@ -81,7 +81,7 @@ Scale an operation through automation, designing modular lines around throughput
 ---
 
 ## **Cities: Skylines** by Colossal Order<br>
-Grow a modern city by coupling zoning and land use to roads and transit, extending utilities and public services, and balancing traffic, jobs, housing, pollution, and budgets as the population expands.
+Grow a city by balancing traffic, jobs, housing, commercial zoning, public services, pollution, and budgets as the population expands.
 <p>
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">
   <iframe
@@ -104,7 +104,7 @@ Grow a modern city by coupling zoning and land use to roads and transit, extendi
 ---
 
 ## **Frostpunk 2** by 11 Bit Studios<br>
-Keep a city alive under scarcity by securing food and materials, producing heat at scale, and passing policies that manage factions and public support as tradeoffs tighten.
+Keep a city alive under scarcity by securing food, producing heat, and passing policies that manage competing interests as tradeoffs tighten.
 <p>
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">
   <iframe
@@ -137,7 +137,7 @@ Keep a city alive under scarcity by securing food and materials, producing heat 
 ---
 
 ## **Anno 117: Pax Romana** by Ubisoft Mainz<br>
-Govern towns across a wider province by placing neighborhoods and civic buildings, building supply chains that move along trade routes, and raising living standards and culture while maintaining border security.
+Govern towns across a province by placing neighborhoods and civic buildings, building supply chains, and raising living standards while maintaining border security.
 <p>
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">
   <iframe

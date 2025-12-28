@@ -27,6 +27,7 @@ To argue is to say, “I think this is true, and here is why.” An argument pre
 ---
 
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
+        title="Music player: Discombobulate from The Sherlock Holmes by Hans Zimmer"
         frameborder="0" 
         height="175" 
         style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" 
@@ -72,6 +73,7 @@ When you choose argument as an action, you deal with disagreement by seeking com
 ---
 
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
+        title="Music player: Die Forelle (The Trout) by Hellen Kwon and Klaus Pawassar"
         frameborder="0" 
         height="175" 
         style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" 

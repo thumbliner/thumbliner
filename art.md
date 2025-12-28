@@ -182,6 +182,17 @@ _A Curation (On Loop)_
 
 ---
 
+## **Alleluia** by Soeur Marie Keyrouz and Chorale de l'Église Saint-Julien-le-Pauvre
+<iframe allow="encrypted-media *; fullscreen *; clipboard-write"
+        frameborder="0" 
+        height="175" 
+        style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" 
+        sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" 
+        src="https://embed.music.apple.com/song/alleluia-tropaire-de-la-venue-de-lepoux-lundi/1620694478">
+</iframe>
+
+---
+
 ## **La traviata: "Sempre Libera"** by Diana Damrau
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
         frameborder="0" 

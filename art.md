@@ -161,17 +161,6 @@ _A Curation (On Loop)_
 
 ---
 
-## Ravel's **Boléro** by Orchestre Symphonique de Montréal & Charles Dutoit
-<iframe allow="encrypted-media *; fullscreen *; clipboard-write"
-        frameborder="0" 
-        height="175" 
-        style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" 
-        sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" 
-        src="https://embed.music.apple.com/song/bol%C3%A9ro/1452146549">
-</iframe>
-
----
-
 > <div class="hindi" lang="hi" dir="ltr">
 >   <div class="verses">
 >     <div class="line">यह भी तुम जानते हो चंद मुलाक़ातों में</div>

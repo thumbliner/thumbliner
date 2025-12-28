@@ -12,7 +12,7 @@ _Axioms & Monte Carlo_
 ---
 
 ## **Farming Simulator** by Giants Software<br>
-Operate a farm through seasonal cycles by aligning machinery capacity to fieldwork windows, managing inputs and rotations, and turning harvest into cashflow through storage, hauling, and processing.
+Operate a farm through seasons by aligning machinery to fieldwork, managing inputs and rotations, and turning harvest into cashflow through storage, hauling, and processing.
 <p>
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">
   <iframe
@@ -35,7 +35,7 @@ Operate a farm through seasonal cycles by aligning machinery capacity to fieldwo
 ---
 
 ## **Football Manager** by Sports Interactive<br>
-Run a club across seasons by building advantage through scouting and recruitment, shaping tactics and training, and managing morale and incentives through contracts, roles, and delegation.
+Run a club by building advantage through scouting and recruitment, shaping tactics and training, and managing morale and incentives through contracts, roles, and delegation.
 <p>
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">
   <iframe
@@ -58,7 +58,7 @@ Run a club across seasons by building advantage through scouting and recruitment
 ---
 
 ## **Factorio** by Wube Software<br>
-Scale an industrial operation by converting manual tasks into automation, designing modular lines around throughput and bottlenecks, and extending capability through research while keeping conversions flexible across products.
+Scale an operation through automation, designing modular lines around throughput and bottlenecks, and extending capability through research while maintaining convertibility.
 <p>
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">
   <iframe

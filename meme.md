@@ -47,37 +47,13 @@ _Brainrot Meets High-Brow: A Loopy Mutation_
 
 ---
 
-<div
-  class="embed-container"
-  style="max-width:670px; margin:0 auto;"
-  aria-label="Chart: Market yield on U.S. Treasury securities at 10-year constant maturity, quoted on an investment basis.">
+<div class="embed-container" aria-label="Chart: Market yield on U.S. Treasury securities at 10-year constant maturity, quoted on an investment basis.">
   <iframe
-    src="https://fred.stlouisfed.org/graph/graph-landing.php?g=1PihU"
+    src="https://fred.stlouisfed.org/graph/graph-landing.php?g=1PihU&width=670&height=475"
     title="Chart: Market yield on U.S. Treasury securities at 10-year constant maturity, quoted on an investment basis."
     scrolling="no"
     frameborder="0"
-    style="overflow:hidden; width:670px; height:525px;"
     loading="lazy">
-    Chart: Market yield on U.S. Treasury securities at 10-year constant maturity, quoted on an investment basis.
-  </iframe>
-</div>
-
-<script src="https://fred.stlouisfed.org/graph/js/embed.js" type="text/javascript"></script>
-
----
-
-<div
-  class="embed-container"
-  style="max-width:670px; margin:0 auto;"
-  aria-label="Chart: Market yield on U.S. Treasury securities at 10-year constant maturity, quoted on an investment basis.">
-  <iframe
-    src="https://fred.stlouisfed.org/graph/graph-landing.php?g=1PihU"
-    title="Chart: Market yield on U.S. Treasury securities at 10-year constant maturity, quoted on an investment basis."
-    scrolling="no"
-    frameborder="0"
-    style="overflow:hidden"
-    loading="lazy">
-    Chart: Market yield on U.S. Treasury securities at 10-year constant maturity, quoted on an investment basis.
   </iframe>
 </div>
 

@@ -26,6 +26,16 @@ To argue is to say, “I think this is true, and here is why.” An argument pre
 
 ---
 
+<iframe allow="encrypted-media *; fullscreen *; clipboard-write"
+        frameborder="0" 
+        height="175" 
+        style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" 
+        sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" 
+        src="https://embed.music.apple.com/song/discombobulate/342564788">
+</iframe>
+
+---
+
 ### Mind is the Basis of Knowledge
 We learn about the world by paying attention. We get sensations—seeing a ball, hearing a dog, feeling cold—and the mind organizes them in time (“first… then…”) and space (“here… there…”). That organization lets us identify stable objects and events. We also use structure to find regularities, like counting and causal relations (“I drop it, it falls”). We engage in inquiry when we ask questions and try things out; what we settle on becomes empirical knowledge.[^1]
 
@@ -38,16 +48,6 @@ We learn about the world by paying attention. We get sensations—seeing a ball,
 >     <div class="poet">— अल्लामा इक़बाल</div>
 >   </div>
 > </div>
-
----
-
-<iframe allow="encrypted-media *; fullscreen *; clipboard-write"
-        frameborder="0" 
-        height="175" 
-        style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" 
-        sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" 
-        src="https://embed.music.apple.com/song/discombobulate/342564788">
-</iframe>
 
 ---
 

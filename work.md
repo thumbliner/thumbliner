@@ -18,6 +18,7 @@ Applied epistemology and advisory.
 ---
 
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
+        title="Music player: The Purifying Flame from The Menu by Colin Stetson"
         frameborder="0" 
         height="175" 
         style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" 
@@ -60,6 +61,7 @@ Unified pricing, eCommerce, and loyalty data; supported COVID-19 ops.
 ---
 
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
+        title="Music player: The Patronus Light from Harry Potter and the Prisoner of Azkaban by John Williams"
         frameborder="0" 
         height="175" 
         style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" 
@@ -104,6 +106,7 @@ Delivered campaigns and event assets, including SABIC Exhibition.
 ---
 
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
+        title="Music player: Greenback Boogie from Suits by Ima Robot"
         frameborder="0" 
         height="175" 
         style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" 

@@ -9,12 +9,6 @@ nav_order: 3
 # Study
 _Formal-ish Education_  
 
----
-
-### School  
-*1995–2009  ·  Saudi Arabia*  
-International Indian School Jeddah
-
 ## **High Hopes** by Frank Sinatra  
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
         frameborder="0" 
@@ -23,6 +17,12 @@ International Indian School Jeddah
         sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" 
         src="https://embed.music.apple.com/song/high-hopes/1440950863">
 </iframe>
+
+---
+
+### School  
+*1995–2009  ·  Saudi Arabia*  
+International Indian School Jeddah
 
 > <div class="hindi" lang="hi" dir="ltr">
 >   <div class="verses">

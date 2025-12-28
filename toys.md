@@ -164,7 +164,7 @@ Guide a civilization across eras by committing to technologies and institutions,
 <p>
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">
   <iframe
-    src="https://www.youtube.com/embed/MGOdJMNN2b0?si=jU9Z7HOzrjGTNFwX"
+    src="https://www.youtube.com/embed/kK_JrrP9m2U?si=KNKC-x0oioeU2zvU"
     title="Civilization VII"
     style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;"
     allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"

@@ -8,7 +8,7 @@ permalink: /pep-talk/
 # Pep Talk
 _Josep “Pep” Guardiola Sala_
 
-**Role:** Manager, Manchester City Football Club  
+**Role:** Manager, Manchester City
 **Born:** 18 January 1971  
 **Birthplace:** Santpedor, Catalonia  
 

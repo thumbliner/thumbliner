@@ -182,16 +182,6 @@ Guide a civilization across eras by committing to technologies and institutions,
 
 ---
 
-> <div class="hindi" lang="hi" dir="ltr">
->   <div class="verses">
->     <div class="line">हो मेरे दम से यूँ ही मेरे वतन की ज़ीनत</div>
->     <div class="line">जिस तरह फूल से होती है चमन की ज़ीनत</div>
->     <div class="poet">— अल्लामा इक़बाल</div>
->   </div>
-> </div>
-
----
-
 ## **EVE Online** by CCP<br>
 Operate in a player-run space economy by specializing into markets, using intelligence and logistics to project power, and contesting territory through coordinated campaigns.
 <p>

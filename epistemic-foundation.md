@@ -66,16 +66,6 @@ Human action is purposeful: you choose among options to reach ends you prefer. U
 
 ---
 
-<iframe allow="encrypted-media *; fullscreen *; clipboard-write"
-        frameborder="0" 
-        height="175" 
-        style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" 
-        sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" 
-        src="https://embed.music.apple.com/song/die-forelle-d-550/1455696686">
-</iframe>
-
----
-
 ### The Argument Axiom
 When you choose argument as an action, you deal with disagreement by seeking common ground rather than force.[^3] That choice commits you to a shared method of inquiry: you offer reasons others can examine and treat their responses as worthy of inspection. It also commits you to an ethic: judgment stays accountable to those reasons and constrained by coherence (you can’t affirm claims that conflict with your other claims). These norms are the conditions that make it possible to evaluate claims as better or worse justified (and, where appropriate, as true or false), and to treat discourse as a practice of learning.
 
@@ -88,6 +78,16 @@ When you choose argument as an action, you deal with disagreement by seeking com
     <div class="poet">— علامہ اقبالؔ</div>
   </div>
 </div>
+
+---
+
+<iframe allow="encrypted-media *; fullscreen *; clipboard-write"
+        frameborder="0" 
+        height="175" 
+        style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" 
+        sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" 
+        src="https://embed.music.apple.com/song/die-forelle-d-550/1455696686">
+</iframe>
 
 ---
 

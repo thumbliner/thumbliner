@@ -82,14 +82,14 @@ _A Curation (On Loop)_
 
 ---
 
-## **Rockstar** by A.R. Rahman
-#### Editor's Pick: 10. The Dichotomy of Fame
+## **Vande Mataram** by A.R. Rahman
+#### Editor's Pick: 7. Thai Mannai Vanakkam
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
         frameborder="0"
         height="450"
         style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;"
         sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"
-        src="https://embed.music.apple.com/album/rockstar-original-motion-picture-soundtrack/1123241840">
+        src="https://embed.music.apple.com/album/vande-mataram/274118901">
 </iframe>
 
 ---

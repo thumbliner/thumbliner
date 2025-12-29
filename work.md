@@ -46,6 +46,10 @@ Advised Schulich Executive Education on curriculum and design.
 *2022–24  ·  Klick Health*  
 Led AI-driven analytics and experimentation for global pharmaceutical brands.
 
+### Consumer Analytics  
+*2022  ·  TD Bank*  
+Assessed the consumer marketing analytics stack and delivered a recommendations report.
+
 ### Content Analytics  
 *2021–22  ·  Postmedia Network*  
 Rebuilt the analytics team and stack; led journey mapping and attribution.

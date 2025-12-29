@@ -9,6 +9,11 @@ permalink: /bio/
 
 A curious outsider based in Toronto. Thumbliner is his digital handle.<br>
 
+<img
+  src="{{ '/assets/images/CN.gif' | relative_url }}"
+  alt="Static image of Toronto street with street car, snow, and CN tower in the backdrop."
+  style="width:50%; height:auto;">
+
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
         title="Music player: Yeh Hai Bombay Meri Jaan by Mohd. Rafi, Geeta Dutt, and O.P. Nayyar"
         frameborder="0" 

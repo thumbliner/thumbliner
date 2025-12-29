@@ -11,12 +11,6 @@ _Division of Labor_
 
 ---
 
-### Research Director  
-*Present  ·  Private Practice*  
-Applied epistemology and advisory.
-
----
-
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
         title="Music player: The First Cheeseburger You Ever Ate from The Menu by Colin Stetson"
         frameborder="0" 
@@ -25,6 +19,12 @@ Applied epistemology and advisory.
         sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" 
         src="https://embed.music.apple.com/song/the-first-cheeseburger-you-ever-ate/1650034864">
 </iframe>
+
+---
+
+### Research Director  
+*Present  ·  Private Practice*  
+Applied epistemology and advisory.
 
 ---
 

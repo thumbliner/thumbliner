@@ -20,17 +20,6 @@ A curious outsider based in Toronto. Thumbliner is his digital handle.<br>
         height="175" 
         style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" 
         sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" 
-        src="https://embed.music.apple.com/song/yeh-hai-bombay-meri-jaan/1346985097">
-</iframe>
-
----
-
-<iframe allow="encrypted-media *; fullscreen *; clipboard-write"
-        title="Music player: Yeh Hai Bombay Meri Jaan by Mohd. Rafi, Geeta Dutt, and O.P. Nayyar"
-        frameborder="0" 
-        height="175" 
-        style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" 
-        sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" 
         src="https://embed.music.apple.com/song/yeh-hai-bombay-meri-jaan/1704807051">
 </iframe>
 

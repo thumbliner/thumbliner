@@ -6,6 +6,7 @@ nav_order: 1
 # The Practice
 _This takes a long attention span_  
 
+---
 
 <div class="urdu" lang="ur" dir="rtl">
   <div class="verses">

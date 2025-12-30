@@ -73,16 +73,6 @@ At time $$t$$, each agent $$i$$ receives a local observation $$o_t^i$$ (includin
 
 ---
 
-> <div class="hindi" lang="hi" dir="ltr">
->   <div class="verses">
->     <div class="line">जुस्तुजू जिसकी थी उसको तो न पाया हम ने</div>
->     <div class="line">इस बहाने से मगर देख ली दुनिया हम ने</div>
->     <div class="poet">— शहरयार</div>
->   </div>
-> </div>
-
----
-
 <div class="urdu" lang="ur" dir="rtl">
   <div class="verses">
     <div class="misra">اگر آتا ہمیں حق چھین لینا</div>
@@ -90,6 +80,16 @@ At time $$t$$, each agent $$i$$ receives a local observation $$o_t^i$$ (includin
     <div class="poet">— خماخا حیدرآبادیّ</div>
   </div>
 </div>
+
+---
+
+> <div class="hindi" lang="hi" dir="ltr">
+>   <div class="verses">
+>     <div class="line">जुस्तुजू जिसकी थी उसको तो न पाया हम ने</div>
+>     <div class="line">इस बहाने से मगर देख ली दुनिया हम ने</div>
+>     <div class="poet">— शहरयार</div>
+>   </div>
+> </div>
 
 ---
 

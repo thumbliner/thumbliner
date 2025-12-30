@@ -12,7 +12,7 @@ _Conditions of Possibility_
 ---
 
 ### Structure of an Argument
-To argue is to say, “I think this is true, and here is why.” An argument presents a conclusion (the claim) supported by reasons. A clear structure helps track that support by starting from common ground, defining key terms, setting the scope of the claim, and stating any assumptions. The line of reasoning may be deductive, inductive, or abductive—offered for the audience to judge.
+To argue is to say, “I think this is true, and here is why.” An argument is a conclusion (the claim) supported by reasons. A clear structure helps track that support by starting from common ground, defining key terms, setting the scope of the claim, and stating any assumptions. The line of reasoning may be deductive, inductive, or abductive—offered for the audience to judge.
 
 ---
 

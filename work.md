@@ -48,7 +48,7 @@ Led AI-driven analytics and experimentation for global pharmaceutical brands.
 
 ### Consumer Analytics  
 *2022  ·  TD Bank*  
-Assessed the consumer marketing analytics stack and delivered a recommendations report.
+Assessed the marketing analytics infrastructure and delivered a recommendations report.
 
 ### Content Analytics  
 *2021–22  ·  Postmedia Network*  

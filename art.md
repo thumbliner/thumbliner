@@ -127,7 +127,7 @@ _A Curation (On Loop)_
 
 ---
 
-## **Game** by Nusrat Fateh Ali Khan
+## **The Game** by Nusrat Fateh Ali Khan
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
         frameborder="0" 
         height="175" 

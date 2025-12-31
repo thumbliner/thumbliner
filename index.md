@@ -4,7 +4,7 @@ nav_order: 1
 ---
 
 # The Practice
-_This takes a long attention span_  
+_All it takes is a long attention span_  
 
 ---
 

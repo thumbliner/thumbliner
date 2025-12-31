@@ -108,7 +108,7 @@ Launched the digital practice; led web, app, media, and automation.
 Delivered campaigns and event assets, including SABIC Exhibition.
 
 ### Business Coordinator  
-*2010–13  ·  MAI Trading Establishment*  
+*2010–13  ·  MAI Trading*  
 Ran operations and key accounts for an HP-authorized distributor.
 
 ---

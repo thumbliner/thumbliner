@@ -256,7 +256,7 @@ Run procedures and checklists, monitor instruments, handle navigation and commun
 
 ---
 
-> “The superior pilot uses his superior judgment to avoid situations which require the use of his superior skill.”<br>
+> “The superior pilot uses superior judgment to avoid situations which require the use of superior skill.”<br>
 > — Frank Borman
 
 ---

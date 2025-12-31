@@ -13,7 +13,7 @@ _Formal-ish Education_
 
 ### School  
 *1995–2009  ·  Saudi Arabia*  
-International Indian School Jeddah
+International School Jeddah
 
 > <div class="hindi" lang="hi" dir="ltr">
 >   <div class="verses">

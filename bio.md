@@ -25,6 +25,26 @@ A curious outsider based in Toronto. Thumbliner is his digital handle.<br>
 
 ---
 
+Want his attention?
+
+Pick a register, frame an argument, say now Shibboleth, and 
+
+cast [at] thumbliner [dot] com
+
+---
+
+> <div class="hindi" lang="hi" dir="ltr">
+>   <div class="verses">
+>     <div class="line">न दिल में और न किसी की नज़र में रहता हूँ</div>
+>     <div class="line">न गाँव में, न किसी भी नगर में रहता हूँ</div>
+>     <div class="line">सफ़र है मेरे तआक़्क़ुब में ख़ामख़ा कब से</div>
+>     <div class="line">उसी के डर से हमेशा सफ़र में रहता हूँ</div>
+>     <div class="poet">— ख्वाह-मख्वाह हैदराबादी</div>
+>   </div>
+> </div>
+
+---
+
 <div class="urdu" lang="ur" dir="rtl">
   <div class="verses">
     <div class="misra">سرِ کوئے نا شنایاں ہمیں دن سے رات کرنا</div>
@@ -32,11 +52,3 @@ A curious outsider based in Toronto. Thumbliner is his digital handle.<br>
     <div class="poet">— فیض احمد فیضؔ</div>
   </div>
 </div>
-
----
-
-Want his attention?
-
-Pick a register, frame an argument, say now Shibboleth, and 
-
-cast [at] thumbliner [dot] com

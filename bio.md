@@ -25,14 +25,6 @@ A curious outsider based in Toronto. Thumbliner is his digital handle.<br>
 
 ---
 
-Want his attention?
-
-Pick a register, frame an argument, say now Shibboleth, and 
-
-cast [at] thumbliner [dot] com
-
----
-
 <div class="urdu" lang="ur" dir="rtl">
   <div class="verses">
     <div class="misra">سرِ کوئے نا شنایاں ہمیں دن سے رات کرنا</div>
@@ -40,3 +32,11 @@ cast [at] thumbliner [dot] com
     <div class="poet">— فیض احمد فیضؔ</div>
   </div>
 </div>
+
+---
+
+Want his attention?
+
+Pick a register, frame an argument, say now Shibboleth, and 
+
+cast [at] thumbliner [dot] com

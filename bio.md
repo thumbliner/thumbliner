@@ -37,7 +37,7 @@ cast [at] thumbliner [dot] com
 >   <div class="verses">
 >     <div class="line">न दिल में और न किसी की नज़र में रहता हूँ</div>
 >     <div class="line">न गाँव में, न किसी भी नगर में रहता हूँ</div>
->     <div class="line">सफ़र है मेरे तआक़्क़ुब में ख़ामख़ा कब से</div>
+>     <div class="line">सफ़र है मेरे तआक़्क़ुब में ख्वाह-मख्वाह कब से</div>
 >     <div class="line">उसी के डर से हमेशा सफ़र में रहता हूँ</div>
 >     <div class="poet">— ख्वाह-मख्वाह हैदराबादी</div>
 >   </div>

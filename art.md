@@ -182,7 +182,7 @@ _A Curation (On Loop)_
 
 ---
 
-## **La traviata: "Sempre Libera"** by Diana Damrau
+## **La traviata: "Sempre Libera"** by Diana Damrau, Piotr Beczala, Orchestra Teatro Regio Torino, & Gianandrea Noseda
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
         frameborder="0" 
         height="175" 

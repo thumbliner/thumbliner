@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Pep Talk
-nav_order: 5
+parent: Small Talk
+nav_order: 1
 permalink: /pep-talk/
 ---
 

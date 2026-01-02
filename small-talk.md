@@ -53,7 +53,7 @@ Alright.<br>
 But do you know what happened in `insert millennia` B.C.?  
 I probably don’t.<br>
 
-You should. It is THE TRUTH.  
+You should. It is the truth.  
 I’ll add it to my reading list. Thanks.<br>
 
 ---

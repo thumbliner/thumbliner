@@ -24,7 +24,7 @@ _Casually Stuck Mid-Sneeze_
 How are you?  
 I’m fine, thank you. How are you?<br>
 
-Fine. Can you believe this weather?  
+Can you believe this weather?  
 This city is most beautiful in the rain.<br>
 
 What have you been up to?  

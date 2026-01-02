@@ -25,7 +25,7 @@ How are you?
 I’m fine, thank you. How are you?<br>
 
 Can you believe this weather?  
-This city is most beautiful in the rain.<br>
+I find this city most beautiful in the rain.<br>
 
 What have you been up to?  
 Digging into how language, music, and thought connect.<br>

@@ -53,8 +53,8 @@ Alright.<br>
 But do you know what happened in `insert millennia` B.C.?  
 I probably don’t.<br>
 
-Well, you should!  
-I’ll add it to my reading list. Thank you.<br>
+You should.  
+I’ll add it to my reading list.<br>
 
 ---
 

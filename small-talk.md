@@ -21,40 +21,40 @@ _Casually Stuck Mid-Sneeze_
 
 ---
 
-How are you?
-I’m fine, thank you. How are you?
+How are you?  
+I’m fine, thank you. How are you?<br>
 
-Fine. Can you believe this weather?
-This city is most beautiful in the rain.
+Fine. Can you believe this weather?  
+This city is most beautiful in the rain.<br>
 
-What have you been up to?
-Studying the relation between language, music, and thought.
+What have you been up to?  
+Studying the relation between language, music, and thought.<br>
 
-What do you think about Artificial Intelligence?
-I don't have any interesting thoughts on it.
+What do you think about Artificial Intelligence?  
+I don't have any interesting thoughts on it.<br>
 
-What about the economy?
-What about it?
+What about the economy?  
+What about it?<br>
 
-It was better. {Insert scapegoat} broke it.
-I see. How so?
+It was better. {Insert scapegoat} broke it.  
+I see. How so?<br>
 
-Nevermind, can you believe this traffic?
-We're the traffic.
+Nevermind, can you believe this traffic?  
+We're the traffic.<br>
 
-Oh…!
+Oh…!<br>
 
-So aren’t you outraged by {insert headline}?
-No, not outraged.
+So aren’t you outraged by {insert headline}?  
+No, not outraged.<br>
 
-How come? Aren’t you a {insert label}?
-No, I’m not.
+How come? Aren’t you a {insert label}?  
+No, I’m not.<br>
 
-But do you know what happened in {insert millenia} B.C.?
-I probably don’t.
+But do you know what happened in {insert millenia} B.C.?  
+I probably don’t.<br>
 
-Well, you should!
-I’ll add it to my reading list. Thank you.
+Well, you should!  
+I’ll add it to my reading list. Thank you.<br>
 
 ---
 

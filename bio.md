@@ -6,6 +6,7 @@ permalink: /bio/
 ---
 
 # Salman
+_s-l-m_
 
 A curious outsider based in Toronto. Thumbliner is his digital handle.<br>
 

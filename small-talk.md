@@ -36,7 +36,7 @@ I don’t have any interesting thoughts on it.<br>
 What about the economy?  
 What about it?<br>
 
-It was better. `Insert scapegoat` broke it.  
+It was better. `Insert name` broke it.  
 I see. How so?<br>
 
 Nevermind, can you believe this traffic?  

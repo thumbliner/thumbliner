@@ -28,10 +28,10 @@ Can you believe this weather?
 This city is most beautiful in the rain.<br>
 
 What have you been up to?  
-Studying the relation between language, music, and thought.<br>
+Digging into how language, music, and thought connect.<br>
 
 What do you think about Artificial Intelligence?  
-I don't have any interesting thoughts on it.<br>
+I don’t have any interesting thoughts on it.<br>
 
 What about the economy?  
 What about it?<br>
@@ -40,17 +40,17 @@ It was better. `Insert scapegoat` broke it.
 I see. How so?<br>
 
 Nevermind, can you believe this traffic?  
-We're the traffic.<br>
+We’re the traffic.<br>
 
 Oh…!<br>
 
-So aren’t you outraged by {insert headline}?  
+So aren’t you outraged by `insert headline`?  
 No, not outraged.<br>
 
-How come? Aren’t you a {insert label}?  
+How come? Aren’t you a `insert label`?  
 No, I’m not.<br>
 
-But do you know what happened in {insert millenia} B.C.?  
+But do you know what happened in `insert millennia` B.C.?  
 I probably don’t.<br>
 
 Well, you should!  

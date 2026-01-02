@@ -54,7 +54,7 @@ But do you know what happened in `insert millennia` B.C.?
 I probably don’t.<br>
 
 You should.  
-I’ll add it to my reading list.<br>
+I’ll add it to my reading list. Thanks.<br>
 
 ---
 

@@ -22,7 +22,7 @@ _Casually Stuck Mid-Sneeze_
 ---
 
 How are you?  
-I’m fine, thank you. How are you?<br>
+I’m fine, thank you. You?<br>
 
 Can you believe this weather?  
 I find this city most beautiful in the rain.<br>

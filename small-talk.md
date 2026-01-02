@@ -1,0 +1,83 @@
+---
+layout: default
+title: Small Talk
+nav_order: 4
+permalink: /small-talk/
+---
+
+# Small Talk
+_Casually Stuck Mid-Sneeze_
+
+---
+
+<iframe allow="encrypted-media *; fullscreen *; clipboard-write"
+        title="Music player: Huns Dhun by Mekaal Hasan Band"
+        frameborder="0" 
+        height="175" 
+        style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" 
+        sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" 
+        src="https://embed.music.apple.com/song/huns-dhun/1842331595">
+</iframe>
+
+---
+
+How are you?
+I’m fine, thank you. How are you?
+
+Fine. Can you believe this weather?
+This city is most beautiful in the rain.
+
+What have you been up to?
+Studying the relation between language, music, and thought.
+
+What do you think about Artificial Intelligence?
+I don't have any interesting thoughts on it.
+
+What about the economy?
+What about it?
+
+It was better. {Insert scapegoat} broke it.
+I see. How so?
+
+Nevermind, can you believe this traffic?
+We're the traffic.
+
+Oh…!
+
+So aren’t you outraged by {insert headline}?
+No, not outraged.
+
+How come? Aren’t you a {insert label}?
+No, I’m not.
+
+But do you know what happened in {insert millenia} B.C.?
+I probably don’t.
+
+Well, you should!
+I’ll add it to my reading list. Thank you.
+
+---
+
+> <div class="hindi" lang="hi" dir="ltr">
+>   <div class="verses">
+>     <div class="line">हम आ गए हैं तह-ए-दाम तो नसीब अपना</div>
+>     <div class="line">वगरना उस ने तो फेंका था जाल वैसे ही</div>
+>     <div class="line">मैं रोकना ही नहीं चाहता था वार उस का</div>
+>     <div class="line">गिरी नहीं मिरे हाथों से ढाल वैसे ही</div>
+>     <div class="line">मुझे भी शौक़ न था दास्तां सुनाने का</div>
+>     <div class="line">फ़राज़ उस ने भी पूछा था हाल वैसे ही</div>
+>     <div class="poet">— अहमद फ़राज़</div>
+>   </div>
+> </div>
+
+---
+
+<div class="urdu" lang="ur" dir="rtl">
+  <div class="verses">
+    <div class="misra">پامالِ رہ گزر ہوں تجھے کچھ خبر بھی ہے</div>
+    <div class="misra">او مستِ ناز دیکھ یہاں میرا سر بھی ہے</div>
+    <div class="misra">موقوف تیرے سننے نہ سننے پہ ہے یہ حال</div>
+    <div class="misra">قصہ میرا دراز بھی ہے مختصر بھی ہے</div>
+    <div class="poet">— نادر دہلوی</div>
+  </div>
+</div>

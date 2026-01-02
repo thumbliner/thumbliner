@@ -47,8 +47,8 @@ Oh…!<br>
 So aren’t you outraged by `insert headline`?  
 No, not outraged.<br>
 
-You should be! Aren’t you a `insert label`?  
-No, I’m not.<br>
+You should be if you are a real `insert label`.  
+Alright.<br>
 
 But do you know what happened in `insert millennia` B.C.?  
 I probably don’t.<br>

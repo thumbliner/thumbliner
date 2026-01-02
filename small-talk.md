@@ -60,8 +60,6 @@ I’ll add it to my reading list. Thank you.<br>
 
 > <div class="hindi" lang="hi" dir="ltr">
 >   <div class="verses">
->     <div class="line">हम आ गए हैं तह-ए-दाम तो नसीब अपना</div>
->     <div class="line">वगरना उस ने तो फेंका था जाल वैसे ही</div>
 >     <div class="line">मैं रोकना ही नहीं चाहता था वार उस का</div>
 >     <div class="line">गिरी नहीं मिरे हाथों से ढाल वैसे ही</div>
 >     <div class="line">मुझे भी शौक़ न था दास्तां सुनाने का</div>

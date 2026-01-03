@@ -27,13 +27,13 @@ How are you?
 I’m fine, thank you. You?<br>
 
 Can you believe this weather?  
-I actually find this city most beautiful in the rain.<br>
+I,  actually, find this city most beautiful in the rain.<br>
 
 So what have you been up to?  
 Studying how music talks.<br>
 
 Do you agree with `insert trend`?  
-I have not formed any good thoughts on it.<br>
+I have, not formed, any good thoughts, on it.<br>
 
 What is your philosophy of `insert subject`?  
 What about it?<br>
@@ -47,21 +47,21 @@ But, we’re the traffic.<br>
 Oh…!<br>
 
 So, who are you, really?  
-I am John Doe.<br>
+I am, John Doe.<br>
 
 Flaws?  
 Standard.<br>
 
-So, then, are you outraged by `insert headline`?  
+So then are you outraged by `insert headline`?  
 Not outraged. Aware.<br>
 
-But, you should be, if you are a real `insert label`.  
+You would be if you were a real `insert label`.  
 Woah—you really made me think this through.<br>
 
 Do you even care?  
 Look. Listen.<br>
 
-Don’t you remember, what happened in `insert millennia` B.C.?  
+Don’t you remember what happened in `insert millennia` B.C.?  
 I, probably, don’t. Should I?<br>
 
 You should read more. This is the truth.  

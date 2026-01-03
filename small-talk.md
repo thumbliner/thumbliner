@@ -46,20 +46,20 @@ But, we’re the traffic.<br>
 
 Oh…!<br>
 
-So who are you?  
+So, who are you, really?  
 I am john doe.
 
 Flaws?
 Standard.
 
-So then you too must be outraged by `insert headline`?  
+So, then, you too must be outraged by `insert headline`?  
 No, not outraged. Aware.<br>
 
-But you should be, if you are a real `insert label`.  
+But, you should be, if you are a real `insert label`.  
 Woah—you really made me think this through.<br>
 
-Don’t you know what happened in `insert millennia` B.C.?  
-I probably don’t. Should I?<br>
+Don’t you know, what happened in `insert millennia` B.C.?  
+I, probably, don’t. Should, I?<br>
 
 Do you even care?  
 I do. Look at me. Listen to me.<br>

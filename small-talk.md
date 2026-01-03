@@ -28,7 +28,7 @@ Can you believe this weather?
 I find this city most beautiful in the rain.<br>
 
 What have you been up to?  
-Studying how music can talk.<br>
+Studying how music talks.<br>
 
 What do you think about Artificial Intelligence?  
 I don’t have any interesting thoughts on it.<br>

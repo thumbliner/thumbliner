@@ -59,7 +59,7 @@ But, you should be, if you are a real `insert label`.
 Woah—you really made me think this through.<br>
 
 Do you even care?  
-Look at me. Listen to me.<br>
+Look. Listen.<br>
 
 Don’t you remember, what happened in `insert millennia` B.C.?  
 I, probably, don’t. Should, I?<br>

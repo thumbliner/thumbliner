@@ -47,7 +47,7 @@ But, we’re the traffic.<br>
 Oh…!<br>
 
 So, who are you, really?  
-I am john doe.<br>
+I am John Doe.<br>
 
 Flaws?  
 Standard.<br>

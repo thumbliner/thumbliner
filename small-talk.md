@@ -47,10 +47,10 @@ But, we’re the traffic.<br>
 Oh…!<br>
 
 So, who are you, really?  
-I am john doe.
+I am john doe.<br>
 
-Flaws?
-Standard.
+Flaws?  
+Standard.<br>
 
 So, then, you too must be outraged by `insert headline`?  
 No, not outraged. Aware.<br>

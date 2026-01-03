@@ -62,7 +62,7 @@ Don’t you remember, what happened in `insert millennia` B.C.?
 I, probably, don’t. Should, I?<br>
 
 Do you even care?  
-I do. Look at me. Listen to me.<br>
+Look at me. Listen to me.<br>
 
 Then you should read more. This is the truth.  
 Ok, let’s add that to the reading list.<br>

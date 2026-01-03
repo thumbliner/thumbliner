@@ -61,7 +61,7 @@ Woah—you really made me think this through.<br>
 Do you even care?  
 Look. Listen.<br>
 
-Don’t you remember what happened in `insert millennia` B.C.?  
+So don’t you remember what happened in `insert millennia` B.C.?  
 I, probably, don’t. Should I?<br>
 
 You should read more. This is the truth.  

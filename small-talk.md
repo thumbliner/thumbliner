@@ -27,7 +27,7 @@ How are you?
 I’m fine, thank you. You?<br>
 
 Can you believe this weather?  
-I, actually, find this city most beautiful in the rain.<br>
+I actually find this city most beautiful in the rain.<br>
 
 So what have you been up to?  
 Studying how music talks.<br>
@@ -53,7 +53,7 @@ Flaws?
 Standard.<br>
 
 So, then, are you outraged by `insert headline`?  
-No, not outraged. Aware.<br>
+Not outraged. Aware.<br>
 
 But, you should be, if you are a real `insert label`.  
 Woah—you really made me think this through.<br>
@@ -62,7 +62,7 @@ Do you even care?
 Look. Listen.<br>
 
 Don’t you remember, what happened in `insert millennia` B.C.?  
-I, probably, don’t. Should, I?<br>
+I, probably, don’t. Should I?<br>
 
 You should read more. This is the truth.  
 Ok, let’s add that to the reading list.<br>

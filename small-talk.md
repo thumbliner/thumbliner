@@ -52,7 +52,7 @@ I am John Doe.<br>
 Flaws?  
 Standard.<br>
 
-So, then, you too must be outraged by `insert headline`?  
+So, then, are you outraged by `insert headline`?  
 No, not outraged. Aware.<br>
 
 But, you should be, if you are a real `insert label`.  

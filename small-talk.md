@@ -48,16 +48,16 @@ So aren’t you outraged by `insert headline`?
 No, not outraged.<br>
 
 You should be if you are a real `insert label`.  
-Alright.<br>
+Then let me think about it.<br>
 
 Don’t you know what happened in `insert millennia` B.C.?  
-I probably don’t.<br>
+I probably don’t. Should I?<br>
 
 Don’t you even care?  
-I do.<br>
+I do. Look at me.<br>
 
 Then you should read more. It is the truth.  
-I’ll add it to my reading list.<br>
+I’ll add that to the reading list.<br>
 
 Thanks.
 

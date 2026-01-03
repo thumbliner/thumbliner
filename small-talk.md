@@ -27,13 +27,13 @@ How are you?
 I’m fine, thank you. You?<br>
 
 Can you believe this weather?  
-I find this city most beautiful in the rain.<br>
+I actually find this city most beautiful in the rain.<br>
 
 What have you been up to?  
 Studying how music talks.<br>
 
-What do you think about Artificial Intelligence?  
-I don’t have any interesting thoughts on it.<br>
+What do you think about A.I.?  
+I don’t have any good thoughts on it.<br>
 
 What about the economy?  
 What about it?<br>
@@ -50,7 +50,7 @@ So aren’t you outraged by `insert headline`?
 No, not outraged.<br>
 
 You should be if you are a real `insert label`.  
-Then let me think about it.<br>
+Woah, you really made me think this through.<br>
 
 Don’t you know what happened in `insert millennia` B.C.?  
 I probably don’t. Should I?<br>

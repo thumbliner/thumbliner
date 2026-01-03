@@ -55,7 +55,7 @@ Then let me think about it.<br>
 Don’t you know what happened in `insert millennia` B.C.?  
 I probably don’t. Should I?<br>
 
-Don’t you even care?  
+Do you even care?  
 I do. Look at me.<br>
 
 Then you should read more. It is the truth.  

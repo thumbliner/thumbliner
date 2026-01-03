@@ -21,7 +21,7 @@ _Casually Stuck Mid-Sneeze_
 
 ---
 
-Hi, how are you?  
+Salaam, how are you?  
 I’m fine, thank you. You?<br>
 
 Can you believe this weather?  

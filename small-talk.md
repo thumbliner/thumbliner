@@ -27,9 +27,9 @@ How are you?
 I’m fine, thank you. You?<br>
 
 Can you believe this weather?  
-I actually find this city most beautiful in the rain.<br>
+I, actually, find this city most beautiful in the rain.<br>
 
-What have you been up to?  
+So what have you been up to?  
 Studying how music talks.<br>
 
 What do you think about A.I.?  

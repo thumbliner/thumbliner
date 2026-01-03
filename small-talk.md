@@ -39,7 +39,7 @@ What is your philosophy of `insert subject`?
 What about it?<br>
 
 It was better until `insert name` broke it.  
-How so? Show me?<br>
+How so? Please show me.<br>
 
 Nevermind, can you believe this traffic?  
 But, we’re this traffic.<br>

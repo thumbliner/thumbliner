@@ -46,11 +46,17 @@ But, we’re the traffic.<br>
 
 Oh…!<br>
 
-So aren’t you outraged by `insert headline`?  
-No, not outraged.<br>
+So who are you?
+I am john doe.
 
-You should be if you are a real `insert label`.  
-Woah, you really made me think this through.<br>
+Flaws?
+Standard.
+
+So then you too must be outraged by `insert headline`?  
+No, not outraged. Aware.<br>
+
+But you should be, if you are a real `insert label`.  
+Woah—you really made me think this through.<br>
 
 Don’t you know what happened in `insert millennia` B.C.?  
 I probably don’t. Should I?<br>
@@ -58,8 +64,8 @@ I probably don’t. Should I?<br>
 Do you even care?  
 I do. Look at me.<br>
 
-Then you should read more. It is the truth.  
-I’ll add that to the reading list.<br>
+Then you should read more. This is the truth.  
+Ok, let’s add that to the reading list.<br>
 
 Thanks
 

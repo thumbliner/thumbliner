@@ -32,10 +32,10 @@ I, actually, find this city most beautiful in the rain.<br>
 So what have you been up to?  
 Studying how music talks.<br>
 
-What do you think about A.I.?  
+What do you think about `insert trend`?  
 I don’t have any good thoughts on it.<br>
 
-What about the `insert subject`?  
+What is your philosophy on `insert subject`?  
 What about it?<br>
 
 It was better. `Insert name` broke it.  

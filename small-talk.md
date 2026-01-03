@@ -50,7 +50,7 @@ No, not outraged.<br>
 You should be if you are a real `insert label`.  
 Alright.<br>
 
-But do you know what happened in `insert millennia` B.C.?  
+Don’t you know what happened in `insert millennia` B.C.?  
 I probably don’t.<br>
 
 You should. It is the truth.  

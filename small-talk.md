@@ -21,7 +21,9 @@ _Casually Stuck Mid-Sneeze_
 
 ---
 
-Salaam, how are you?  
+Salaam,
+
+How are you?  
 I’m fine, thank you. You?<br>
 
 Can you believe this weather?  
@@ -59,7 +61,7 @@ I do. Look at me.<br>
 Then you should read more. It is the truth.  
 I’ll add that to the reading list.<br>
 
-Thanks.
+Thanks
 
 ---
 

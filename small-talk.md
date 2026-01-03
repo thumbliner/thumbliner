@@ -33,16 +33,16 @@ So what have you been up to?
 Studying music and metaphor.<br>
 
 Do you agree with `insert trend`?  
-I have, not formed, any good thoughts, on it.<br>
+I have, not formed any good thoughts, on it.<br>
 
 What is your philosophy of `insert subject`?  
 What about it?<br>
 
-It was better. `Insert name` broke it.  
+It was better until `insert name` broke it.  
 Really? How so? Show me?<br>
 
 Nevermind, can you believe this traffic?  
-But, we’re the traffic.<br>
+But, we’re this traffic.<br>
 
 Oh…!<br>
 
@@ -55,7 +55,7 @@ The standard.<br>
 So let’s be outraged by `insert headline`?  
 Not outraged. Aware.<br>
 
-You would be if you were a pure `insert label`.  
+You would not say so if you were a pure `insert label`.  
 Woah—you made me think this through.<br>
 
 Do you even care?  

@@ -57,7 +57,9 @@ Don’t you even care?
 I do.<br>
 
 Then you should read more. It is the truth.  
-I’ll add it to my reading list. Thanks.<br>
+I’ll add it to my reading list.<br>
+
+Thanks.
 
 ---
 

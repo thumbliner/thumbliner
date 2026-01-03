@@ -32,7 +32,7 @@ I, actually, find this city most beautiful in the rain.<br>
 So what have you been up to?  
 Studying how music talks.<br>
 
-What do you think about `insert trend`?  
+Do you agree with `insert trend`?  
 I have not formed any good thoughts on it.<br>
 
 What is your philosophy on `insert subject`?  

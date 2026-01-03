@@ -47,21 +47,21 @@ But, we’re the traffic.<br>
 Oh…!<br>
 
 So, who are you, really?  
-I am, John Doe.<br>
+I am your fellow human.<br>
 
 Flaws?  
-Standard.<br>
+The standard.<br>
 
-So then are you outraged by `insert headline`?  
+So let’s be outraged by `insert headline`?  
 Not outraged. Aware.<br>
 
-You would be if you were a real `insert label`.  
-Woah—you really made me think this through.<br>
+You would be if you were a pure `insert label`.  
+Woah—you made me think this through.<br>
 
 Do you even care?  
 Look. Listen.<br>
 
-So don’t you remember what happened in `insert millennia` B.C.?  
+Then don’t you remember what happened in `insert millennia` B.C.?  
 I, probably, don’t. Should I?<br>
 
 You should read more. This is the truth.  

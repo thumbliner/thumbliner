@@ -53,7 +53,10 @@ Alright.<br>
 Don’t you know what happened in `insert millennia` B.C.?  
 I probably don’t.<br>
 
-You should. It is the truth.  
+Don’t you even care?  
+I do.<br>
+
+Then you should read more. It is the truth.  
 I’ll add it to my reading list. Thanks.<br>
 
 ---

@@ -58,7 +58,7 @@ No, not outraged. Aware.<br>
 But, you should be, if you are a real `insert label`.  
 Woah—you really made me think this through.<br>
 
-Don’t you know, what happened in `insert millennia` B.C.?  
+Don’t you remember, what happened in `insert millennia` B.C.?  
 I, probably, don’t. Should, I?<br>
 
 Do you even care?  

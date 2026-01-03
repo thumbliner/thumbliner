@@ -30,7 +30,7 @@ Can you believe this weather?
 I,  actually, find this city most beautiful in the rain.<br>
 
 So what have you been up to?  
-Studying how music talks.<br>
+Studying music and metaphor.<br>
 
 Do you agree with `insert trend`?  
 I have, not formed, any good thoughts, on it.<br>

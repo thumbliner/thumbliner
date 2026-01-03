@@ -35,7 +35,7 @@ Studying how music talks.<br>
 What do you think about A.I.?  
 I don’t have any good thoughts on it.<br>
 
-What about the economy?  
+What about the `insert subject`?  
 What about it?<br>
 
 It was better. `Insert name` broke it.  

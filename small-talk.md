@@ -35,7 +35,7 @@ Studying how music talks.<br>
 Do you agree with `insert trend`?  
 I have not formed any good thoughts on it.<br>
 
-What is your philosophy on `insert subject`?  
+What is your philosophy of `insert subject`?  
 What about it?<br>
 
 It was better. `Insert name` broke it.  

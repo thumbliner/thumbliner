@@ -67,7 +67,7 @@ Look at me. Listen to me.<br>
 Then you should read more. This is the truth.  
 Ok, let’s add that to the reading list.<br>
 
-Thanks. Peace
+Peace
 
 ---
 

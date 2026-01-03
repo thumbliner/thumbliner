@@ -33,7 +33,7 @@ So what have you been up to?
 Studying how music talks.<br>
 
 What do you think about `insert trend`?  
-I don’t have any good thoughts on it.<br>
+I have not formed any good thoughts on it.<br>
 
 What is your philosophy on `insert subject`?  
 What about it?<br>

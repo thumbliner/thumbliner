@@ -39,7 +39,7 @@ What about the economy?
 What about it?<br>
 
 It was better. `Insert name` broke it.  
-Really? How so?<br>
+Really? How so? Show me?<br>
 
 Nevermind, can you believe this traffic?  
 But, we’re the traffic.<br>

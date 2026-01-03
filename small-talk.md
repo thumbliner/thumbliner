@@ -65,7 +65,7 @@ Then don’t you remember what happened in `insert millennia` B.C.?
 I, probably, can’t. Should I?<br>
 
 You should read more. This is the truth.  
-Ok, let’s add it to the reading list.<br>
+Ok, let’s add this to the reading list.<br>
 
 Peace
 

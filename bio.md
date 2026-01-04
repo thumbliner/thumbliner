@@ -8,7 +8,7 @@ permalink: /bio/
 # Salman
 _अ म न    ·    ש ל ם   ·   س ل م   ·    ا م ن_
 
-A curious outsider based in Toronto. Thumbliner is his digital handle.<br>
+A curious outsider based in Canada. Thumbliner is his digital handle.<br>
 
 <img
   src="{{ '/assets/images/CN.png' | relative_url }}"

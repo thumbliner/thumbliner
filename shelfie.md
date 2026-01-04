@@ -41,7 +41,7 @@ _Poor Salman's Capital_
 
 > <div class="hindi" lang="hi" dir="ltr">
 >   <div class="verses">
->     <div class="line">जितना दिया सरकार ने मुझको उतनी मेरी औकात नहीं है</div>
+>     <div class="line">जितना दिया सरकार ने मुझको उतनी मेरी औखात नहीं है</div>
 >     <div class="line">ये तो करम है उनका वरना मुझ में तो कोई बात नहीं है</div>
 >     <div class="poet">— कौसर बरेलवी</div>
 >   </div>

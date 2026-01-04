@@ -42,7 +42,7 @@ It was better until `insert name` broke it.
 Is that so? Please show me.<br>
 
 Nevermind, can you believe this traffic?  
-But, we’re this traffic.<br>
+Yes, we’re this traffic.<br>
 
 Huh…<br>
 

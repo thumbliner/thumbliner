@@ -53,7 +53,7 @@ Flaws?
 The standard.<br>
 
 So let’s be outraged by `insert headline`?  
-Not outraged. Aware.<br>
+Not outraged. Aware. Concerned.<br>
 
 You would not say so if you were a pure `insert label`.  
 Woah—you made me think this through.<br>

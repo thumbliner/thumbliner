@@ -50,6 +50,6 @@ A curious outsider based in Toronto. Thumbliner is his digital handle.<br>
 
 Want his attention?
 
-Pick a register, frame an argument, and 
+Frame an argument, and 
 
 cast [at] thumbliner [dot] com

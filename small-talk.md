@@ -49,7 +49,7 @@ Huh…<br>
 So, who are you, really?  
 I am your fellow human.<br>
 
-Flaws?  
+Any flaws?  
 The standard.<br>
 
 Now let’s be outraged about `insert headline`.  

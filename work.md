@@ -107,10 +107,6 @@ Launched the digital practice; led web, app, media, and automation.
 *2013–14  ·  Al Harithy Company*  
 Delivered campaigns and event assets, including SABIC Exhibition.
 
-### Business Coordinator  
-*2010–13  ·  MAI Trading*  
-Ran operations and key accounts for an HP-authorized distributor.
-
 ---
 
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
@@ -123,6 +119,10 @@ Ran operations and key accounts for an HP-authorized distributor.
 </iframe>
 
 ---
+
+### Business Coordinator  
+*2010–13  ·  MAI Trading*  
+Ran operations and key accounts for an HP-authorized distributor.
 
 ### Intern  
 *2009  ·  Business Standard*  

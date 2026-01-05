@@ -38,7 +38,7 @@ To argue is to say, “I think this is true, and here is why.” An argument is 
 ---
 
 ### Mind is the Basis of Knowledge
-We learn about the world by paying attention. We get sensations—seeing a ball, hearing a dog, feeling cold—and the mind organizes them in time (“first… then…”) and space (“here… there…”). That organization lets us identify stable objects and events. We also use structure to find regularities, like counting and cause-and-effect relations (“I drop it, it falls”). We engage in inquiry when we ask questions and try things out; what we settle on becomes empirical knowledge.[^1]
+We learn about the world by paying attention. We receive sensations—seeing a ball, hearing a dog, feeling cold—and the mind organizes them in time (“first… then…”) and space (“here… there…”). This organization allows us to identify stable objects and events. We also use this structure to find regularities: counting patterns and cause-and-effect relations like “I drop it, it falls.” We engage in inquiry when we ask questions and test ideas; what we eventually settle on becomes empirical knowledge.[^1]
 
 ---
 
@@ -53,7 +53,7 @@ We learn about the world by paying attention. We get sensations—seeing a ball,
 ---
 
 ### The Action Axiom
-Human action is purposeful: you choose among options to reach ends you prefer. Under scarcity, each choice carries tradeoffs that play out over time. With an uncertain future, you use judgment to speculate about what is most likely to satisfy. Social science begins by treating behavior as meaningful action (ends + beliefs). Action is the foundation of inquiry.[^2]
+Human action is purposeful—you choose among options to reach ends you prefer. Because resources are scarce, every choice involves tradeoffs that unfold over time. Facing an uncertain future, you rely on judgment to speculate about what will best satisfy your goals. Social science begins by treating behavior as meaningful action, combining your ends with your beliefs. This understanding of action forms the foundation of inquiry.[^2]
 
 ---
 
@@ -68,7 +68,7 @@ Human action is purposeful: you choose among options to reach ends you prefer. U
 ---
 
 ### The Argument Axiom
-When you choose argument as an action, you deal with disagreement by seeking common ground rather than force.[^3] That choice commits you to a shared method of inquiry: you offer reasons others can examine and treat their responses as worthy of inspection. It also commits you to an ethic: judgment stays accountable to those reasons and constrained by coherence (you can’t affirm claims that conflict with your other claims). These norms are the conditions that make it possible to evaluate claims as better or worse justified (and, where appropriate, as true or false), and to treat discourse as a practice of learning.
+When you choose argument as an action, you deal with disagreement by seeking common ground rather than resorting to force.[^3] This choice commits you to a shared method of inquiry: you offer reasons others can examine, and you treat their feedback as worthy of inspection. It also commits you to an ethic—your judgment must remain accountable to those reasons and constrained by coherence, meaning you can’t affirm claims that conflict with one another. These norms create the conditions that make it possible to evaluate claims as better or worse justified—and, where appropriate, as true or false—and to treat discourse as a practice of learning.
 
 ---
 

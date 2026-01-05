@@ -28,7 +28,7 @@ _The General in Particulars_
 Cries, gets fed. Next time, cries sooner—and louder.
 
 ### Driver
-Steers and brakes, feels the jerk or the smooth glide, keeps adjusting until it's right. Inconsistent braking muddies cause and effect—you add noise to the feedback.
+Steers and brakes, feels the jerk or the smooth glide, keeps adjusting until it’s right. Inconsistent braking muddies the cause-and-effect—you add noise to the feedback.
 
 ### Shopper
 Makes a purchase, waits for delivery, tries it out, then updates buying behavior for next time. When feedback arrives late, learning slows—so you lean on shortcuts like "trust this brand."
@@ -66,7 +66,7 @@ Take in information, form a view, choose an action, then compare the result to w
 An agent senses its environment and models a state estimate. It predicts consequences and selects an action. After acting, it compares outcomes to expectations; the resulting error updates its policy.
 
 ### Elvish
-Cognition is closed-loop information processing. An agent samples partial evidence and receives compact signals that summarize constraints and affordances. From these, it infers latent state and constructs causal representations of its environment. Using a dynamic model, it generates probabilistic expectations, then applies judgment to select feasible, norm-compliant control actions within limits of capability, budget, and risk policy. Action perturbs the evidentiary stream, so perception, belief, prediction, and control form a feedback loop. After acting, the agent re-observes, measures prediction error as divergence between expected and realized outcomes, and traces the error to perception, world-model, value/utility components, and execution. It then updates model and policy to improve performance under scarcity and uncertainty.
+Cognition is closed-loop information processing. An agent samples partial evidence and receives compact signals that summarize constraints and affordances. From these, it infers a latent state and constructs causal representations of its environment. Using a dynamic model, it generates probabilistic expectations, then applies judgment to select feasible, norm-compliant control actions within limits of capability, budget, and risk policy. Action perturbs the evidentiary stream, so perception, belief, prediction, and control form a feedback loop. After acting, the agent re-observes, measures prediction error as divergence between expected and realized outcomes, and traces the error to perception, world-model, value/utility components, and execution. It then updates the model and policy to improve performance under scarcity and uncertainty.
 
 ### Greek
 At time $$t$$, each agent $$i$$ receives a local observation $$o_t^i$$ (including relevant price signals $$p_t$$) and infers an interpretation $$s_t^i = \phi_{\theta_i}!\left(o_{\le t}^i,; p_{\le t}\right)$$. The agent selects an action via a policy $$a_t^i = \mu_{\psi_i}!\left(s_t^i\right)$$ (subject to constraints). After executing $$a_t^i$$, it receives new observations $$o_{t+1}^i$$ (including updated prices $$p_{t+1}$$) and infers $$s_{t+1}^i = \phi_{\theta_i}!\left(o_{\le t+1}^i,; p_{\le t+1}\right)$$. It computes discrepancy/feedback signals, e.g., an interpretive/model (one-step prediction) error $$e_t^i = s_{t+1}^i - f_{\omega_i}!\left(s_t^i,; a_t^i\right)$$ and profit/loss $$\pi_{t+1}^i = \mathrm{rev}*{t+1}^i - \mathrm{cost}*{t+1}^i$$ (optionally $$\delta_t^i = \pi_{t+1}^i - \mathbb{E}*t!\left[\pi*{t+1}^i\right]$$), and uses these signals to update parameters $$(\theta_i,\psi_i,\omega_i)$$.
@@ -86,7 +86,7 @@ At time $$t$$, each agent $$i$$ receives a local observation $$o_t^i$$ (includin
 ## Z Axis
 
 ### Applied Epistemology
-The practice of making beliefs pay rent: build a model of the world, make predictions, and stay alert for moments when life offers a mispriced bet against your view. If you’re confident, stake something valuable and let the outcome grade your method. Learning becomes a game when your judgment carries the burden of uncertainty, fr.
+The practice of making beliefs pay rent: build a model of the world, make predictions, and stay alert for moments when life offers a mispriced bet against your view. If you’re confident, stake something valuable and let the outcome grade your method. Learning becomes a game when your judgment carries the burden of uncertainty fr.
 
 ---
 

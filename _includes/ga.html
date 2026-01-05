@@ -3,7 +3,20 @@
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
+
+  // No-banner, privacy-minimized default: do not write storage until consent is granted
+  gtag('consent', 'default', {
+    ad_storage: 'denied',
+    ad_user_data: 'denied',
+    ad_personalization: 'denied',
+    analytics_storage: 'denied'
+  });
+
   gtag('js', new Date());
 
-  gtag('config', '{{ site.google_analytics_id }}');
+  // Configure GA4 (optional: reduce ads-related signals)
+  gtag('config', '{{ site.google_analytics_id }}', {
+    allow_google_signals: false,
+    allow_ad_personalization_signals: false
+  });
 </script>

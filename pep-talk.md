@@ -90,6 +90,16 @@ _Josep “Pep” Guardiola Sala_
 
 ---
 
+> <div class="hindi" lang="hi" dir="ltr">
+>   <div class="verses">
+>     <div class="line">मैं तो बुलबुल हूँ मेरा काम है गाते रहना</div>
+>     <div class="line">अगर भूल जाऊँ तो मुझे याद दिलाते रहना</div>
+>     <div class="poet">— वसीम बरेलवी</div>
+>   </div>
+> </div>
+
+---
+
 <div class="urdu" lang="ur" dir="rtl">
   <div class="verses">
     <div class="misra">خبر اقبالؔ کی لائی ہے گلستاں سے نسیم</div>

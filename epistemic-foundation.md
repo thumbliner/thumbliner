@@ -53,7 +53,7 @@ We learn about the world by paying attention. We get sensations—seeing a ball,
 ---
 
 ### The Action Axiom
-Human action is purposeful: you choose among options to reach ends you prefer. Under scarcity, each choice carries tradeoffs that play out over time. With an uncertain future, you use judgment to speculate about what is most likely to work. Social science begins by treating behavior as meaningful action (ends + beliefs). Treated this way, action becomes a foundation to guide empirical inquiry.[^2]
+Human action is purposeful: you choose among options to reach ends you prefer. Under scarcity, each choice carries tradeoffs that play out over time. With an uncertain future, you use judgment to speculate about what is most likely to satisfy. Social science begins by treating behavior as meaningful action (ends + beliefs). Action is the foundation of inquiry.[^2]
 
 ---
 

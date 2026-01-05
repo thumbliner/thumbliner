@@ -70,8 +70,8 @@ Audencia Business School & Toulouse Business School
 
 > <div class="hindi" lang="hi" dir="ltr">
 >   <div class="verses">
->     <div class="line">बिजली हूँ नज़र कोह-ओ-बयाबाँ पे है मेरी</div>
->     <div class="line">मेरे लिए शायाँ ख़स-ओ-ख़ाशाक नहीं है</div>
+>     <div class="line">क्या सूफ़ी ओ मुल्ला को ख़बर मेरे जुनूँ की</div>
+>     <div class="line">उन का सर-ए-दामन भी अभी चाक नहीं है</div>
 >     <div class="poet">— अल्लामा इक़बाल</div>
 >   </div>
 > </div>
@@ -84,8 +84,8 @@ University of Geneva
 
 > <div class="hindi" lang="hi" dir="ltr">
 >   <div class="verses">
->     <div class="line">क्या सूफ़ी ओ मुल्ला को ख़बर मेरे जुनूँ की</div>
->     <div class="line">उन का सर-ए-दामन भी अभी चाक नहीं है</div>
+>     <div class="line">बिजली हूँ नज़र कोह-ओ-बयाबाँ पे है मेरी</div>
+>     <div class="line">मेरे लिए शायाँ ख़स-ओ-ख़ाशाक नहीं है</div>
 >     <div class="poet">— अल्लामा इक़बाल</div>
 >   </div>
 > </div>

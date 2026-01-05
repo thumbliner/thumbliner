@@ -78,7 +78,7 @@ Unified pricing, eCommerce, and loyalty data; supported COVID-19 ops.
 > <div class="hindi" lang="hi" dir="ltr">
 >   <div class="verses">
 >     <div class="line">डरते-डरते दम-ए-सहर से</div>
->     <div class="line">तारे कहने लगे क़मर से</div>
+>     <div class="line">तारे कहने लगे ख़मर से</div>
 >     <div class="line">नज़ारे रहे वही फ़लक पर</div>
 >     <div class="line">हम थक भी गए चमक-चमक कर</div>
 >     <div class="line">रहते हैं सितम-कश-ए-सफ़र सब</div>

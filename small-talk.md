@@ -24,10 +24,10 @@ _Casually Stuck Mid-Sneeze_
 Salaam,
 
 How are you?  
-I’m fine, thank you. You?<br>
+I’m fine, thank you. And you?<br>
 
 Can you believe this weather?  
-I,  actually, find this city most beautiful in the rain.<br>
+Atually, I find this city most beautiful in the rain.<br>
 
 So what have you been up to?  
 Studying music and metaphor.<br>
@@ -39,10 +39,10 @@ What is your philosophy of `insert subject`?
 What about it?<br>
 
 It was better until `insert name` broke it.  
-Is that so? Please show me.<br>
+Is that so? Please, show me.<br>
 
-Nevermind, can you believe this traffic?  
-Yes, we’re this traffic.<br>
+Never mind, can you believe this traffic?  
+Yes—we are this traffic.<br>
 
 Huh…<br>
 
@@ -62,10 +62,10 @@ Do you even care?
 Look. Listen.<br>
 
 Remember what happened in `insert millennia` B.C.?  
-I, probably, can’t. Should I?<br>
+I probably can’t. Should I?<br>
 
 You should read more. This is the truth.  
-Ok, let’s add this, to the reading list.<br>
+Ok—let’s add it to the reading list.<br>
 
 Peace
 

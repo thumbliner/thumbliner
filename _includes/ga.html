@@ -4,12 +4,12 @@
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
 
-  // No-banner, privacy-minimized default: do not write storage until consent is granted
+  // Privacy default
   gtag('consent', 'default', {
     ad_storage: 'denied',
     ad_user_data: 'denied',
     ad_personalization: 'denied',
-    analytics_storage: 'denied'
+    analytics_storage: 'granted'
   });
 
   gtag('js', new Date());

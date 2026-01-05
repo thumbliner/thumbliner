@@ -27,7 +27,7 @@ How are you?
 I’m fine, thank you. And you?<br>
 
 Can you believe this weather?  
-Atually, I find this city most beautiful in the rain.<br>
+Actually, I find this city most beautiful in the rain.<br>
 
 So what have you been up to?  
 Studying music and metaphor.<br>

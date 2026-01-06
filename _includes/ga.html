@@ -1,8 +1,25 @@
 <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
+
+  // 2. Set Default Consent (This MUST come before the GA4 library loads)
+  gtag('consent', 'default', {
+    'ad_storage': 'denied',
+    'ad_user_data': 'denied',
+    'ad_personalization': 'denied',
+    'analytics_storage': 'granted',
+    'wait_for_update': 500
+  });
+
+  // 3. Additional Signals
+  gtag('set', 'allow_google_signals', false);
+  gtag('set', 'allow_ad_personalization_signals', false);
+</script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
+
+<script>
   gtag('js', new Date());
   gtag('config', '{{ site.google_analytics }}');
 </script>

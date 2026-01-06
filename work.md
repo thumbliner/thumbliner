@@ -48,15 +48,15 @@ Led AI-driven analytics and experimentation for global pharmaceutical brands.
 
 ### Consumer Analytics  
 *2022  ·  TD Bank*  
-Assessed the marketing analytics infrastructure and delivered a recommendations report.
+Assessed marketing analytics infrastructure; delivered recommendations.
 
 ### Content Analytics  
 *2021–22  ·  Postmedia Network*  
-Rebuilt the analytics team and stack; led journey mapping and attribution.
+Rebuilt the analytics team and stack; led journey mapping and attribution, and editorial-to-revenue measurement.
 
 ### Media Analytics  
 *2021  ·  Dentsu*  
-Built ML-enabled measurement and activation using CDP automation across multiple brands.
+Built ML-enabled measurement and activation using CDP automation across brands.
 
 ### Retail Analytics 
 *2019–20  ·  Pet Valu*  
@@ -122,7 +122,7 @@ Delivered campaigns and event assets, including SABIC Exhibition.
 
 ### Business Coordinator  
 *2010–13  ·  MAI Trading*  
-Ran operations and key accounts for an HP-authorized distributor.
+Ran operations and key accounts for an HP-authorized distributor—sales coordination, logistics, and client support.
 
 ### Intern  
 *2009  ·  Business Standard*  
@@ -130,7 +130,7 @@ Supported sales and subscriptions.
 
 ### Game Developer  
 *2006–09  ·  Bourne Aviation*  
-Built a community—writing code, designing systems, shaping the experience—to learn and entertain.
+Built a community—writing code, designing systems, and shaping the experience—to learn and entertain.
 
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
         title="Music player: Old Friends by Howard Shore"

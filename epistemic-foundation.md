@@ -16,13 +16,13 @@ To argue is to say, “I think this is true, and here is why.” An argument is 
 
 ---
 
-> <div class="hindi" lang="hi" dir="ltr">
->   <div class="verses">
->     <div class="line">नाला है बुलबुल-ए-शोरीदा तेरा ख़ाम अभी</div>
->     <div class="line">अपने सीने में इसे और ज़रा थाम अभी</div>
->     <div class="poet">— अल्लामा इक़बाल</div>
->   </div>
-> </div>
+ <div class="hindi" lang="hi" dir="ltr">
+   <div class="verses">
+     <div class="line">नाला है बुलबुल-ए-शोरीदा तेरा ख़ाम अभी</div>
+     <div class="line">अपने सीने में इसे और ज़रा थाम अभी</div>
+     <div class="poet">— अल्लामा इक़बाल</div>
+   </div>
+ </div>
 
 ---
 
@@ -42,13 +42,13 @@ We learn about the world by paying attention. We receive sensations—seeing a b
 
 ---
 
-> <div class="hindi" lang="hi" dir="ltr">
->   <div class="verses">
->     <div class="line">पुख़्ता होती है अगर मसलहत-अंदेश हो अक़्ल</div>
->     <div class="line">इश्क़ हो मसलहत-अंदेश तो है ख़ाम अभी</div>
->     <div class="poet">— अल्लामा इक़बाल</div>
->   </div>
-> </div>
+ <div class="hindi" lang="hi" dir="ltr">
+   <div class="verses">
+     <div class="line">पुख़्ता होती है अगर मसलहत-अंदेश हो अक़्ल</div>
+     <div class="line">इश्क़ हो मसलहत-अंदेश तो है ख़ाम अभी</div>
+     <div class="poet">— अल्लामा इक़बाल</div>
+   </div>
+ </div>
 
 ---
 

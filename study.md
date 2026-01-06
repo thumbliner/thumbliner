@@ -78,7 +78,7 @@ Audencia Business School & Toulouse Business School
 
 ---
 
-### Advanced Studies in Management  
+### Advanced Studies in Aviation Management  
 *2019  ·  Switzerland*  
 University of Geneva
 

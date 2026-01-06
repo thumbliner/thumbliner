@@ -16,7 +16,7 @@ Operate a farm through seasons by aligning machinery to fieldwork, managing inpu
 <p>
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">
   <iframe
-    src="https://www.youtube.com/embed/KcbqQcCn0qU?si=MZQrzsE6E0MOhfCX"
+    src="https://www.youtube.com/embed/KcbqQcCn0qU?enablejsapi=1"
     title="Farming Simulator 25"
     style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;"
     allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
@@ -39,7 +39,7 @@ Run a club by building advantage through scouting and recruitment, shaping tacti
 <p>
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">
   <iframe
-    src="https://www.youtube.com/embed/J0Mhw11bTYA?si=J6RjEgWnPPfQ6f_n"
+    src="https://www.youtube.com/embed/J0Mhw11bTYA?enablejsapi=1"
     title="Football Manager"
     style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;"
     allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
@@ -62,7 +62,7 @@ Scale an operation through automation, designing modular lines around throughput
 <p>
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">
   <iframe
-    src="https://www.youtube.com/embed/BqaAjgpsoW8?si=jtfny2KLTMxII9P6"
+    src="https://www.youtube.com/embed/BqaAjgpsoW8?enablejsapi=1"
     title="Factorio"
     style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;"
     allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
@@ -85,7 +85,7 @@ Grow a city by balancing traffic, jobs, housing, commercial zoning, public servi
 <p>
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">
   <iframe
-    src="https://www.youtube.com/embed/WdD66WGBVHM?si=3AEf1G91sVC1t0aV"
+    src="https://www.youtube.com/embed/WdD66WGBVHM?enablejsapi=1"
     title="Cities: Skylines"
     style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;"
     allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
@@ -108,7 +108,7 @@ Keep a city alive under scarcity by securing food, producing heat, and passing p
 <p>
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">
   <iframe
-    src="https://www.youtube.com/embed/PWlLOpqIYjA?si=6opckqlgbCE3IRE3"
+    src="https://www.youtube.com/embed/PWlLOpqIYjA?enablejsapi=1"
     title="Frostpunk 2"
     style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;"
     allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
@@ -141,7 +141,7 @@ Govern towns across a province by placing neighborhoods and civic buildings, bui
 <p>
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">
   <iframe
-    src="https://www.youtube.com/embed/uc19jc5dCWE?si=7KIf9hLf34aGNgjS"
+    src="https://www.youtube.com/embed/uc19jc5dCWE?enablejsapi=1"
     title="Anno 117: Pax Romana"
     style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;"
     allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
@@ -164,7 +164,7 @@ Guide a civilization across eras by committing to technologies and institutions,
 <p>
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">
   <iframe
-    src="https://www.youtube.com/embed/kK_JrrP9m2U?si=KNKC-x0oioeU2zvU"
+    src="https://www.youtube.com/embed/kK_JrrP9m2U?enablejsapi=1"
     title="Civilization VII"
     style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;"
     allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
@@ -187,7 +187,7 @@ Operate in a player-run space economy by specializing into markets, using intell
 <p>
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">
   <iframe
-    src="https://www.youtube.com/embed/zQciMy_Pr0Q?si=Y17P3D_UohlYZZq5"
+    src="https://www.youtube.com/embed/zQciMy_Pr0Q?enablejsapi=1"
     title="EVE Online"
     style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;"
     allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
@@ -220,7 +220,7 @@ Run a modern country by setting taxes and budgets, steering policy and the econo
 <p>
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">
   <iframe
-    src="https://www.youtube.com/embed/BzS1ONXLpH4?si=8dvdd0mjsnzciZo6"
+    src="https://www.youtube.com/embed/BzS1ONXLpH4?enablejsapi=1"
     title="Geo-Political Simulator"
     style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;"
     allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
@@ -243,7 +243,7 @@ Run procedures and checklists, monitor instruments, handle navigation and commun
 <p>
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">
   <iframe
-    src="https://www.youtube.com/embed/5rrS_s3QLZU?si=j_MpzMLj7Et06NEX"
+    src="https://www.youtube.com/embed/5rrS_s3QLZU?enablejsapi=1"
     title="Microsoft Flight Simulator"
     style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;"
     allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"

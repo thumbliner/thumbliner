@@ -26,18 +26,6 @@ _The Long Apprenticeship_
 *Present  ·  Private Practice*  
 Applied epistemology and advisory—especially where data, incentives, and narratives conflict.
 
----
-
-> <div class="hindi" lang="hi" dir="ltr">
->   <div class="verses">
->     <div class="line">नहीं तेरा नशेमन क़स्र-ए-सुल्तानी के गुम्बद पर</div>
->     <div class="line">तू शाहीं है बसेरा कर पहाड़ों की चटानों में</div>
->     <div class="poet">— अल्लामा इक़बाल</div>
->   </div>
-> </div>
-
----
-
 ### Program Advisory Council  
 *2024–25  ·  York University*  
 Advised Schulich Executive Education on curriculum and design.

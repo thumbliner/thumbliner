@@ -44,13 +44,13 @@ Builds a model, tries a problem, gets it wrong, updates the model. Learning happ
 
 ---
 
-> <div class="hindi" lang="hi" dir="ltr">
->   <div class="verses">
->     <div class="line">है जुस्तुजू कि ख़ूब से है ख़ूब-तर कहाँ</div>
->     <div class="line">अब ठहरती है देखिए जा कर नज़र कहाँ</div>
->     <div class="poet">— अल्ताफ़ हुसैन हाली</div>
->   </div>
-> </div>
+ <div class="hindi" lang="hi" dir="ltr">
+   <div class="verses">
+     <div class="line">है जुस्तुजू कि ख़ूब से है ख़ूब-तर कहाँ</div>
+     <div class="line">अब ठहरती है देखिए जा कर नज़र कहाँ</div>
+     <div class="poet">— अल्ताफ़ हुसैन हाली</div>
+   </div>
+ </div>
 
 ---
 
@@ -73,13 +73,13 @@ At time $$t$$, each agent $$i$$ receives a local observation $$o_t^i$$ (includin
 
 ---
 
-> <div class="hindi" lang="hi" dir="ltr">
->   <div class="verses">
->     <div class="line">जुस्तुजू जिसकी थी उसको तो न पाया हम ने</div>
->     <div class="line">इस बहाने से मगर देख ली दुनिया हम ने</div>
->     <div class="poet">— शहरयार</div>
->   </div>
-> </div>
+ <div class="hindi" lang="hi" dir="ltr">
+   <div class="verses">
+     <div class="line">जुस्तुजू जिसकी थी उसको तो न पाया हम ने</div>
+     <div class="line">इस बहाने से मगर देख ली दुनिया हम ने</div>
+     <div class="poet">— शहरयार</div>
+   </div>
+ </div>
 
 ---
 

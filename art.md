@@ -318,7 +318,7 @@ Reciter: Raheel Farooq | English Translation in Subtitles
 <p>
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">
   <iframe
-    src="https://www.youtube.com/embed/COqTw3R0RRs?si=6CuwnJ2aIMKdrLY4"
+    src="https://www.youtube.com/embed/COqTw3R0RRs?enablejsapi=1"
     title="O Noble Humans"
     style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;"
     allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"

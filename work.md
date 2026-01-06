@@ -7,7 +7,7 @@ nav_order: 5
 ---
 
 # Work
-_Division of Labor_  
+_The Long Apprenticeship_  
 
 ---
 

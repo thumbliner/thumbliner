@@ -111,19 +111,6 @@ Delivered campaigns and event assets, including SABIC Exhibition.
 *2010–13  ·  MAI Trading*  
 Ran operations and key accounts for an HP-authorized distributor—sales coordination, logistics, and client support.
 
----
-
-<iframe allow="encrypted-media *; fullscreen *; clipboard-write"
-        title="Music player: Greenback Boogie from Suits by Ima Robot"
-        frameborder="0" 
-        height="175" 
-        style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" 
-        sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" 
-        src="https://embed.music.apple.com/song/greenback-boogie-suits-main-title-edit/1061823754">
-</iframe>
-
----
-
 ### Intern  
 *2009  ·  Business Standard*  
 Supported sales and subscriptions.

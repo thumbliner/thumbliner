@@ -109,7 +109,7 @@ Delivered campaigns and event assets, including SABIC Exhibition.
 
 ### Business Coordinator  
 *2010–13  ·  MAI Trading*  
-Ran operations and key accounts for an HP-authorized distributor—sales coordination, logistics, and client support.
+Managed operations, finance, and key accounts for an HP-authorized distributor.
 
 ### Intern  
 *2009  ·  Business Standard*  

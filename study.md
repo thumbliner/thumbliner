@@ -23,7 +23,7 @@ _Formal-ish Education_
 ---
 
 ### School  
-*1995–2009  ·  Saudi Arabia*  
+*Until 2009  ·  Saudi Arabia*  
 International School Jeddah
 
 > <div class="hindi" lang="hi" dir="ltr">

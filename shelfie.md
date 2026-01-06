@@ -39,13 +39,13 @@ _Poor Salman's Capital_
 
 ---
 
-> <div class="hindi" lang="hi" dir="ltr">
->   <div class="verses">
->     <div class="line">ख़ुद से चलकर नहीं ये तर्ज़-ए-सुख़न आया है</div>
->     <div class="line">पाँव दाबे हैं बुज़ुर्गों के तो फ़न आया है</div>
->     <div class="poet">— मुनव्वर राना</div>
->   </div>
-> </div>
+ <div class="hindi" lang="hi" dir="ltr">
+   <div class="verses">
+     <div class="line">ख़ुद से चलकर नहीं ये तर्ज़-ए-सुख़न आया है</div>
+     <div class="line">पाँव दाबे हैं बुज़ुर्गों के तो फ़न आया है</div>
+     <div class="poet">— मुनव्वर राना</div>
+   </div>
+ </div>
 
 ---
 

@@ -138,6 +138,18 @@ Built a community—writing code, designing systems, shaping the experience—to
 
 ---
 
+> <div class="hindi" lang="hi" dir="ltr">
+>   <div class="verses">
+>     <div class="line">जैसे कोई दर-ए-दिल पर हो सितादा कब से</div>
+>     <div class="line">इक साया न दरूँ है न बरूँ है यूँ है</div>
+>     <div class="line">शायरी ताज़ा ज़मानों की है मेमार फ़राज़</div>
+>     <div class="line">ये भी इक सिलसिला-ए-कुन फ़यकूँ है यूँ है</div>        
+>     <div class="poet">— अहमद फ़राज़</div>
+>   </div>
+> </div>
+
+---
+
 <div class="urdu" lang="ur" dir="rtl">
   <div class="verses">
     <div class="misra">میرا قلم نہیں میزان ایسے عادل کی</div>

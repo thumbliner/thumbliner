@@ -105,7 +105,7 @@ Supported sales and subscriptions.
 
 ### Game Developer  
 *2006–09  ·  Bourne Aviation*  
-Built a community—writing code, designing systems, and shaping the experience—to learn and entertain.
+Built a community—writing, coding, and designing the experience—to learn and entertain.
 
 ---
 

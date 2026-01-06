@@ -79,7 +79,6 @@ _A Curation (On Loop)_
         src="https://embed.music.apple.com/album/the-tortured-poets-department-the-anthology/1742057774">
 </iframe>
 
-
 ---
 
 ## **Vande Mataram** by A.R. Rahman
@@ -94,13 +93,13 @@ _A Curation (On Loop)_
 
 ---
 
-> <div class="hindi" lang="hi" dir="ltr">
->   <div class="verses">
->     <div class="line">राह पर उन को लगा लाए तो हैं बातों में</div>
->     <div class="line">और खुल जाएँगे दो-चार मुलाख़ाातों में</div>
->     <div class="poet">— दाग़ देहलवी</div>
->   </div>
-> </div>
+ <div class="hindi" lang="hi" dir="ltr">
+   <div class="verses">
+     <div class="line">राह पर उन को लगा लाए तो हैं बातों में</div>
+     <div class="line">और खुल जाएँगे दो-चार मुलाख़ाातों में</div>
+     <div class="poet">— दाग़ देहलवी</div>
+   </div>
+ </div>
 
 ---
 
@@ -161,13 +160,13 @@ _A Curation (On Loop)_
 
 ---
 
-> <div class="hindi" lang="hi" dir="ltr">
->   <div class="verses">
->     <div class="line">ये भी तुम जानते हो चंद मुलाख़ाातों में</div>
->     <div class="line">आज़माया है तुम्हें हमने कई बातों में</div>
->     <div class="poet">— दाग़ देहलवी</div>
->   </div>
-> </div>
+ <div class="hindi" lang="hi" dir="ltr">
+   <div class="verses">
+     <div class="line">ये भी तुम जानते हो चंद मुलाख़ाातों में</div>
+     <div class="line">आज़माया है तुम्हें हमने कई बातों में</div>
+     <div class="poet">— दाग़ देहलवी</div>
+   </div>
+ </div>
 
 ---
 
@@ -226,13 +225,13 @@ _A Curation (On Loop)_
 
 ---
 
-> <div class="hindi" lang="hi" dir="ltr">
->   <div class="verses">
->     <div class="line">महफ़िल में आपकी हम कुछ और तो न लाए</div>
->     <div class="line">नग़मात में सजा कर जज़्बात ले के आए</div>
->     <div class="poet">— शिवन रिज़वी</div>
->   </div>
-> </div>
+ <div class="hindi" lang="hi" dir="ltr">
+   <div class="verses">
+     <div class="line">महफ़िल में आपकी हम कुछ और तो न लाए</div>
+     <div class="line">नग़मात में सजा कर जज़्बात ले के आए</div>
+     <div class="poet">— शिवन रिज़वी</div>
+   </div>
+ </div>
 
 ---
 

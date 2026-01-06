@@ -163,7 +163,7 @@ _A Curation (On Loop)_
 
 > <div class="hindi" lang="hi" dir="ltr">
 >   <div class="verses">
->     <div class="line">यह भी तुम जानते हो चंद मुलाक़ातों में</div>
+>     <div class="line">यह भी तुम जानते हो चंद मुलाख़ाातों में</div>
 >     <div class="line">आज़माया है तुम्हें हमने कई बातों में</div>
 >     <div class="poet">— दाग़ देहलवी</div>
 >   </div>

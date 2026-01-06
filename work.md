@@ -118,7 +118,7 @@ Supported sales and subscriptions.
 
 ### Game Developer  
 *2006–09  ·  Bourne Aviation*  
-Built a virtual airline community; web, product, and ops.
+Built a virtual airline community; wrote code, and entertained.
 
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
         title="Music player: Old Friends by Howard Shore"

@@ -23,7 +23,7 @@ _Formal-ish Education_
 ---
 
 ### School  
-*Until 2009  ·  Saudi Arabia*  
+*2009  ·  Saudi Arabia*  
 International School Jeddah
 
 > <div class="hindi" lang="hi" dir="ltr">
@@ -37,7 +37,7 @@ International School Jeddah
 ---
 
 ### Bachelor of Business  
-*2009–12  ·  India*  
+*2012  ·  India*  
 Amity University
 
 > <div class="hindi" lang="hi" dir="ltr">
@@ -51,7 +51,7 @@ Amity University
 ---
 
 ### Master of Business  
-*2012–14  ·  United States*  
+*2014  ·  United States*  
 Walden University
 
 > <div class="hindi" lang="hi" dir="ltr">
@@ -65,7 +65,7 @@ Walden University
 ---
 
 ### Doctorate in Business  
-*2014–18  ·  France*  
+*2018  ·  France*  
 Audencia Business School & Toulouse Business School
 
 > <div class="hindi" lang="hi" dir="ltr">
@@ -79,7 +79,7 @@ Audencia Business School & Toulouse Business School
 ---
 
 ### Advanced Studies in Management  
-*2018–19  ·  Switzerland*  
+*2019  ·  Switzerland*  
 University of Geneva
 
 > <div class="hindi" lang="hi" dir="ltr">

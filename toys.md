@@ -126,13 +126,13 @@ Keep a city alive under scarcity by securing food, producing heat, and passing p
 
 ---
 
-> <div class="hindi" lang="hi" dir="ltr">
->   <div class="verses">
->     <div class="line">हो मेरा काम ग़रीबों की हिमायत करना</div>
->     <div class="line">दर्दमंदों से, ज़ईफ़ों से महब्बत करना</div>
->     <div class="poet">— अल्लामा इक़बाल</div>
->   </div>
-> </div>
+<div class="hindi" lang="hi" dir="ltr">
+   <div class="verses">
+     <div class="line">हो मेरा काम ग़रीबों की हिमायत करना</div>
+     <div class="line">दर्दमंदों से, ज़ईफ़ों से महब्बत करना</div>
+     <div class="poet">— अल्लामा इक़बाल</div>
+   </div>
+ </div>
 
 ---
 
@@ -205,13 +205,13 @@ Operate in a player-run space economy by specializing into markets, using intell
 
 ---
 
-> <div class="hindi" lang="hi" dir="ltr">
->   <div class="verses">
->     <div class="line">जो कबूतर पर झपटने में मज़ा है अे पिसर</div>
->     <div class="line">वो मज़ा शायद कबूतर के लहू में भी नहीं</div>
->     <div class="poet">— अल्लामा इक़बाल</div>
->   </div>
-> </div>
+ <div class="hindi" lang="hi" dir="ltr">
+   <div class="verses">
+     <div class="line">जो कबूतर पर झपटने में मज़ा है अे पिसर</div>
+     <div class="line">वो मज़ा शायद कबूतर के लहू में भी नहीं</div>
+     <div class="poet">— अल्लामा इक़बाल</div>
+   </div>
+ </div>
 
 ---
 

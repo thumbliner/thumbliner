@@ -33,7 +33,7 @@ _Josep “Pep” Guardiola Sala_
 
 ### On Standards
 - [ ] “If we don’t win, it’s my fault.”
-- [ ] “I don’t have a defence. I’m the boss, I’m the manager and I’m not good enough.”
+- [ ] “Our job is to convince the players that our way is the best way to cross the road.”
 - [ ] “I demand a lot because I give a lot. If you don’t want to meet my standards, you’re free to leave.”
 
 ---
@@ -58,7 +58,7 @@ _Josep “Pep” Guardiola Sala_
 ### On Mindset
 - [ ] “You have to learn to play football with courage.”
 - [ ] “Losing hurts. If it doesn't hurt, you're in the wrong profession.”
-- [ ] “The pressure comes from myself. Nobody puts more pressure on me than I do.”
+- [ ] “Criticize all you want. You will never be more critical with me than I am with myself.”
 
 ---
 

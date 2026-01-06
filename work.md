@@ -137,7 +137,7 @@ Built a community—writing, coding, and designing the experience—to learn and
     <div class="misra">ناصحا تجھ کو خبر کیا کہ محبت کیا ہے</div>
     <div class="misra">روز آ جاتا ہے سمجھاتا ہے یوں ہے یوں ہے</div>
     <div class="misra">شاعری تازہ زمانوں کی ہے معمار فرازؔ</div>
-    <div class="misra">یہ بھی اک سلسلۂ کن فیکوں ہے یوں ہے</div>
+    <div class="misra">یہ بھی اک سلسلۂ کُن فیکوں ہے یوں ہے</div>
     <div class="poet">— احمد فرازّ</div>
   </div>
 </div>

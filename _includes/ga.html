@@ -1,13 +1,8 @@
-{% assign GA_ID = site.google_analytics_id | default: "" %}
-
-{% if GA_ID != "" %}
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id={{ GA_ID | escape }}"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-R2LVNVET74"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
 
-  // Privacy default
   gtag('consent', 'default', {
     ad_storage: 'denied',
     ad_user_data: 'denied',
@@ -16,16 +11,8 @@
   });
 
   gtag('js', new Date());
-
-  // GA4 config (THIS must execute with a real G-XXXXXXX value)
-  gtag('config', '{{ GA_ID | escape }}', {
+  gtag('config', 'G-R2LVNVET74', {
     allow_google_signals: false,
-    allow_ad_personalization_signals: false,
-    // debug_mode: true  // uncomment to verify in DebugView
+    allow_ad_personalization_signals: false
   });
 </script>
-{% else %}
-<script>
-  console.error("GA4 not initialized: site.google_analytics_id is empty (expected a G-XXXXXXXXXX Measurement ID).");
-</script>
-{% endif %}

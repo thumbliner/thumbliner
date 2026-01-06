@@ -131,13 +131,6 @@ Built a community—writing code, designing systems, shaping the experience—to
 
 ---
 
-### References & Portfolio
-
-- <a href="https://linkedin.com/in/thumbliner" target="_blank" rel="noopener noreferrer">LinkedIn</a>  
-- <a href="https://public.tableau.com/app/profile/thumbliner/vizzes" target="_blank" rel="noopener noreferrer">Tableau</a>  
-
----
-
 > <div class="hindi" lang="hi" dir="ltr">
 >   <div class="verses">
 >     <div class="line">जैसे कोई दर-ए-दिल पर हो सितादा कब से</div>
@@ -159,3 +152,10 @@ Built a community—writing code, designing systems, shaping the experience—to
     <div class="poet">— احمد فرازّ</div>
   </div>
 </div>
+
+---
+
+### References & Portfolio
+
+- <a href="https://linkedin.com/in/thumbliner" target="_blank" rel="noopener noreferrer">LinkedIn</a>  
+- <a href="https://public.tableau.com/app/profile/thumbliner/vizzes" target="_blank" rel="noopener noreferrer">Tableau</a>  

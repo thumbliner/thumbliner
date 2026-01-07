@@ -10,11 +10,13 @@ _अ म न    ·    ש ל ם   ·   س ل م   ·    ا م ن_
 
 A curious outsider in Canada.<br>
 
-Thumbliner is a digital handle—this is a personal corner of the internet.<br>
+Thumbliner is a digital handle—this is a little corner of the internet.<br>
 
-Thanks for stopping by. You’re welcome to drop a quick greeting.<br>
+Glad you stopped by. Feel free to say hi.<br>
 
 cast [at] thumbliner [dot] com
+
+Mail is checked infrequently.<br>
 
 ---
 

@@ -10,7 +10,7 @@ _अ म न    ·    ש ל ם   ·   س ل م   ·    ا م ن_
 
 A curious outsider in Canada. Thumbliner is a digital handle; this is a personal, non-commercial space.<br>
 
-Glad you came. Feel free to sign the visitor register.<br>
+Glad you came. Feel free to sign the guestbook.<br>
 
 cast [at] thumbliner [dot] com
 

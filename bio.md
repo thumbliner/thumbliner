@@ -8,7 +8,15 @@ permalink: /bio/
 # Salman
 _अ म न    ·    ש ל ם   ·   س ل م   ·    ا م ن_
 
-A curious outsider based in Canada. Thumbliner is his digital handle.<br>
+A curious outsider based in Canada. Thumbliner is his digital handle and this is his corner of the internet.<br>
+
+He has nothing to sell. Thank you for stopping by. If you’d like to say hello, you’re very welcome.<br>
+
+Mail is checked very infrequently.<br>
+
+cast [at] thumbliner [dot] com
+
+---
 
 <img
   src="{{ '/assets/images/CN.png' | relative_url }}"
@@ -45,9 +53,3 @@ A curious outsider based in Canada. Thumbliner is his digital handle.<br>
     <div class="poet">— فیض احمد فیضؔ</div>
   </div>
 </div>
-
----
-
-Want to chat?
-
-cast [at] thumbliner [dot] com

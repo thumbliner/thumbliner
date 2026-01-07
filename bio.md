@@ -50,6 +50,4 @@ A curious outsider based in Canada. Thumbliner is his digital handle.<br>
 
 Want his attention?
 
-Frame an argument, and 
-
 cast [at] thumbliner [dot] com

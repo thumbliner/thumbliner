@@ -12,7 +12,7 @@ A curious outsider in Canada.<br>
 
 Thumbliner is a digital handle—this is a personal corner of the internet.<br>
 
-Thanks for stopping by. You’re welcome to drop a hello in the inbox.<br>
+Thanks for stopping by. You’re welcome to drop a quick greeting.<br>
 
 cast [at] thumbliner [dot] com
 

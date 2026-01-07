@@ -48,6 +48,6 @@ A curious outsider based in Canada. Thumbliner is his digital handle.<br>
 
 ---
 
-Want his attention?
+Want to talk?
 
 cast [at] thumbliner [dot] com

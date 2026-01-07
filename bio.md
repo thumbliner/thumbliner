@@ -8,15 +8,11 @@ permalink: /bio/
 # Salman
 _अ म न    ·    ש ל ם   ·   س ل م   ·    ا م ن_
 
-A curious outsider in Canada.<br>
+A curious outsider in Canada. Thumbliner is a digital handle; this is a personal, non-commercial space.<br>
 
-Thumbliner is a digital handle—this is a little corner of the internet.<br>
-
-Glad you stopped by. Feel free to say hi.<br>
+Glad you came. Feel free to sign the visitor register.<br>
 
 cast [at] thumbliner [dot] com
-
-Mail is checked infrequently.<br>
 
 ---
 

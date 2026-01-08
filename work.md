@@ -26,6 +26,12 @@ _The Long Apprenticeship_
 *Present  ·  Private Practice*  
 Applied epistemology and advisory—especially where data, incentives, and narratives conflict.
 
+---
+
+> “And be one traveler, long I stood
+
+---
+
 ### Program Advisory Council  
 *2024–25  ·  York University*  
 Advised Schulich Executive Education on curriculum and design.
@@ -113,7 +119,7 @@ Built a community—writing, coding, and designing the experience—to learn and
 > Somewhere ages and ages hence:
 > Two roads diverged in a wood, and I—
 > I took the one less traveled by,
-> And that has made all the difference.
+> And that has made all the difference.”
 > — Robert Frost
 
 ---

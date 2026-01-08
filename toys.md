@@ -11,6 +11,17 @@ _Axioms & Monte Carlo_
 
 ---
 
+<iframe allow="encrypted-media *; fullscreen *; clipboard-write"
+        title="Music player: Dexter's Laboratory Main Theme by Geek Music"
+        frameborder="0" 
+        height="175" 
+        style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" 
+        sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" 
+        src="https://embed.music.apple.com/song/dexters-laboratory-main-theme-from-dexters-laboratory/1524648430">
+</iframe>
+
+---
+
 ## **Farming Simulator** by Giants Software<br>
 Operate a farm through seasons by aligning machinery to fieldwork, managing inputs and rotations, and turning harvest into cashflow through storage, hauling, and processing.
 <p>

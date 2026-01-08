@@ -28,7 +28,8 @@ Applied epistemology and advisory—especially where data, incentives, and narra
 
 ---
 
-> “And be one traveler, long I stood
+> “And be one traveler, long I stood  
+> And looked down one as far as I could
 
 ---
 

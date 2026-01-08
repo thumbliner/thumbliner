@@ -120,22 +120,8 @@ Built a community—writing, coding, and designing the experience—to learn and
 
 ---
 
- <div class="hindi" lang="hi" dir="ltr">
-   <div class="verses">
-    <div class="line">मेरा क़लम नहीं मीज़ान ऐसे आदिल की</div>
-    <div class="line">जो अपने चेहरे पे दोहरा नक़ाब रखता है</div>
-    <div class="line">मेरा क़लम नहीं तस्बीह उस मुबल्लिग़ की</div>
-     <div class="line">जो बन्दगी का भी हर दम हिसाब रखता है</div>        
-     <div class="poet">— अहमद फ़राज़</div>
-   </div>
-</div>
-
----
-
 <div class="urdu" lang="ur" dir="rtl">
   <div class="verses">
-    <div class="misra">ناصحا تجھ کو خبر کیا کہ محبت کیا ہے</div>
-    <div class="misra">روز آ جاتا ہے سمجھاتا ہے یوں ہے یوں ہے</div>
     <div class="misra">شاعری تازہ زمانوں کی ہے معمار فرازؔ</div>
     <div class="misra">یہ بھی اک سلسلۂ کُن فیکوں ہے یوں ہے</div>
     <div class="poet">— احمد فرازّ</div>

@@ -73,6 +73,11 @@ At time $$t$$, each agent $$i$$ receives a local observation $$o_t^i$$ (includin
 
 ---
 
+> “So that makes our problem simpler. We have nothing but atoms, all the same, everywhere.”<br>
+> — Richard Feynman
+
+---
+
  <div class="hindi" lang="hi" dir="ltr">
    <div class="verses">
      <div class="line">जुस्तुजू जिसकी थी उसको तो न पाया हम ने</div>
@@ -80,11 +85,6 @@ At time $$t$$, each agent $$i$$ receives a local observation $$o_t^i$$ (includin
      <div class="poet">— शहरयार</div>
    </div>
  </div>
-
----
-
-> “So that makes our problem simpler. We have nothing but atoms, all the same, everywhere.”<br>
-> — Richard Feynman
 
 ---
 

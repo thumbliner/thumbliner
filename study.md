@@ -117,12 +117,6 @@ University of Geneva
 
 ---
 
-### Publications
-- <a href="https://orcid.org/0000-0003-4798-0467" target="_blank" rel="noopener noreferrer">ORCID</a>
-- <a href="https://public.tableau.com/app/profile/thumbliner/vizzes" target="_blank" rel="noopener noreferrer">Tableau</a>
-
----
-
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
         title="Music player: I Can See Clearly Now by Jimmy Cliff"
         frameborder="0" 
@@ -133,6 +127,10 @@ University of Geneva
 </iframe>
 
 ---
+
+### Publications
+- <a href="https://orcid.org/0000-0003-4798-0467" target="_blank" rel="noopener noreferrer">ORCID</a>
+- <a href="https://public.tableau.com/app/profile/thumbliner/vizzes" target="_blank" rel="noopener noreferrer">Tableau</a>
 
 <div class="urdu" lang="ur" dir="rtl">
   <div class="verses">

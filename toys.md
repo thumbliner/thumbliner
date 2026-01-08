@@ -261,16 +261,6 @@ Run procedures and checklists, monitor instruments, handle navigation and commun
 
 ---
 
- <div class="hindi" lang="hi" dir="ltr">
-   <div class="verses">
-     <div class="line">नहीं तेरा नशेमन क़स्र-ए-सुल्तानी के गुम्बद पर</div>
-     <div class="line">तू शाहीं है बसेरा कर पहाड़ों की चटानों में</div>
-     <div class="poet">— अल्लामा इक़बाल</div>
-   </div>
- </div>
-
----
-
 ### Applied Epistemology
 - <a href="https://public.tableau.com/app/profile/thumbliner/vizzes" target="_blank" rel="noopener noreferrer">Tableau</a>
 

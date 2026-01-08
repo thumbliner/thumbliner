@@ -36,8 +36,8 @@ International School Jeddah
 
 ---
 
-> “The successful investor is usually an individual who is inherently interested in business problems.”<br>
-> — Philip Fisher
+> “We read for the enjoyment of it. I mean it’s been enormously beneficial to us but the reason we read is that it’s fun.”<br>
+> — Warren Buffett
 
 ---
 
@@ -55,6 +55,11 @@ Amity University
 
 ---
 
+> “The successful investor is usually an individual who is inherently interested in business problems.”<br>
+> — Philip Fisher
+
+---
+
 ### Master of Business  
 *2014  ·  United States*  
 Walden University
@@ -69,8 +74,8 @@ Walden University
 
 ---
 
-> “We read for the enjoyment of it. I mean it’s been enormously beneficial to us but the reason we read is that it’s fun and you know it's still fun.”<br>
-> — Warren Buffett
+> “Tout le malheur des hommes vient d’une seule chose, qui est de ne savoir pas demeurer en repos dans une chambre.”<br>
+> — Blaise Pascal
 
 ---
 
@@ -88,6 +93,11 @@ Audencia Business School & Toulouse Business School
 
 ---
 
+> “Therefore, dear Sir, love your solitude, and bear the pain which it causes you…”<br>
+> — Rainer Maria Rilke
+
+---
+
 ### Advanced Studies in Aviation Management  
 *2019  ·  Switzerland*  
 University of Geneva
@@ -102,14 +112,21 @@ University of Geneva
 
 ---
 
-> “I think what we have done all these years is—it wasn’t all that hard to do, and it’s not all that hard to explain. All that said and done, I think a lot of people just don’t get it.”<br>
-> — Charlie Munger
+> “I am impatient to set out for my solitude, for there the mind gains strength and learns to lean upon herself.”<br>
+> — Laurence Sterne
 
 ---
 
 ### Publications
 - <a href="https://orcid.org/0000-0003-4798-0467" target="_blank" rel="noopener noreferrer">ORCID</a>
 - <a href="https://public.tableau.com/app/profile/thumbliner/vizzes" target="_blank" rel="noopener noreferrer">Tableau</a>
+
+---
+
+> “I think what we have done all these years is—it wasn’t all that hard to do, and it’s not all that hard to explain. All that said and done, I think a lot of people just don’t get it.”<br>
+> — Charlie Munger
+
+---
 
 <div class="urdu" lang="ur" dir="rtl">
   <div class="verses">

@@ -111,6 +111,16 @@ The practice of making beliefs pay rent: build a model of the world, and stay al
 
 ---
 
+ <div class="hindi" lang="hi" dir="ltr">
+   <div class="verses">
+     <div class="line">इश्क़ फ़रमूदा-ए-क़ासिद से सुबुक-गाम-ए-अमल</div>
+     <div class="line">अक़्ल समझी ही नहीं मअनी-ए-पैग़ाम अभी</div>
+     <div class="poet">— अल्लामा इक़बाल</div>
+   </div>
+ </div>
+
+---
+
 > “What we have done wasn’t all that hard to do, and it’s not all that hard to explain. All that said and done, I think a lot of people just don’t get it.”<br>
 > — Charlie Munger
 

@@ -43,7 +43,7 @@ Wait!
 ---
 
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
-        title="Music player: Jao Pakhi by Pranab Biswas, Shreya Ghoshal, Aninda Chatterjee, and Chandril Bhattacharya"
+        title="Music player: Jao Pakhi by Pranab Biswas, Shreya Ghoshal, Aninda Chatterjee, Chandril Bhattacharya, and Shantanu Moitra"
         frameborder="0" 
         height="175" 
         style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" 

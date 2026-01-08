@@ -92,6 +92,11 @@ University of Geneva
 
 ---
 
+> “I think what we have done all these years is—it wasn’t all that hard to do, and it’s not all that hard to explain. All that said and done, I think a lot of people just don’t get it.”<br>
+> — Charlie Munger
+
+---
+
 ### Publications
 - <a href="https://orcid.org/0000-0003-4798-0467" target="_blank" rel="noopener noreferrer">ORCID</a>
 - <a href="https://public.tableau.com/app/profile/thumbliner/vizzes" target="_blank" rel="noopener noreferrer">Tableau</a>

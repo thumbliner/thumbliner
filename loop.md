@@ -95,6 +95,11 @@ The practice of making beliefs pay rent: build a model of the world, and stay al
 
 ---
 
+> “I know my heart, and have studied mankind.”<br>
+> — Jean-Jacques Rousseau
+
+---
+
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
         title="Music player: What a Wonderful World - Single by Reuben And The Dark"
         frameborder="0" 

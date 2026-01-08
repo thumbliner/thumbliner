@@ -6,7 +6,12 @@ permalink: /meme/
 ---
 
 # Meme
-_Brainrot Meets High-Brow: A Loopy Mutation_
+_High-Brow Meets Brainrot: A Loopy Mutation_
+
+---
+
+> “All things are subject to the law of cause and effect.”<br>
+> — Carl Menger
 
 ---
 
@@ -14,11 +19,6 @@ _Brainrot Meets High-Brow: A Loopy Mutation_
   src="{{ '/assets/images/meme.gif' | relative_url }}"
   alt="Static image of a golden retriever puppy shaking off water; the image itself jitters while the puppy remains still."
   style="width:50%; height:auto;">
-
----
-
-> “All things are subject to the law of cause and effect.”<br>
-> — Carl Menger
 
 ---
 

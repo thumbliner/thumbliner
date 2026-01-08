@@ -137,6 +137,13 @@ Built a community—writing, coding, and designing the experience—to learn and
 
 ---
 
+### References & Portfolio
+
+- <a href="https://linkedin.com/in/thumbliner" target="_blank" rel="noopener noreferrer">LinkedIn</a>  
+- <a href="https://public.tableau.com/app/profile/thumbliner/vizzes" target="_blank" rel="noopener noreferrer">Tableau</a>  
+
+---
+
 <div class="urdu" lang="ur" dir="rtl">
   <div class="verses">
     <div class="misra">شاعری تازہ زمانوں کی ہے معمار فرازؔ</div>
@@ -144,10 +151,3 @@ Built a community—writing, coding, and designing the experience—to learn and
     <div class="poet">— احمد فرازّ</div>
   </div>
 </div>
-
----
-
-### References & Portfolio
-
-- <a href="https://linkedin.com/in/thumbliner" target="_blank" rel="noopener noreferrer">LinkedIn</a>  
-- <a href="https://public.tableau.com/app/profile/thumbliner/vizzes" target="_blank" rel="noopener noreferrer">Tableau</a>  

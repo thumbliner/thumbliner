@@ -24,7 +24,7 @@ _The Long Apprenticeship_
 
 ### Research Director  
 *Present  ·  Private Practice*  
-Applied epistemology and advisory—especially where data, incentives, and narratives conflict.
+Applied epistemology and advisory.
 
 ---
 

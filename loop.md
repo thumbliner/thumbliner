@@ -90,6 +90,17 @@ The practice of making beliefs pay rent: build a model of the world, and stay al
 
 ---
 
+<iframe allow="encrypted-media *; fullscreen *; clipboard-write"
+        title="Music player: I Can See Clearly Now by Jimmy Cliff"
+        frameborder="0" 
+        height="175" 
+        style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" 
+        sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" 
+        src="https://embed.music.apple.com/song/i-can-see-clearly-now/312390954">
+</iframe>
+
+---
+
 > “I think what we have done all these years is—it wasn’t all that hard to do, and it’s not all that hard to explain. All that said and done, I think a lot of people just don’t get it.”<br>
 > — Charlie Munger
 

@@ -8,6 +8,20 @@ permalink: /bio/
 # Salman
 _अ म न    ·    ש ל ם   ·   س ل م   ·    ا م ن_
 
+---
+
+ <div class="hindi" lang="hi" dir="ltr">
+   <div class="verses">
+     <div class="line">बिखरी पड़ी थीं टूट के कलियाँ ज़मीन पर</div>
+     <div class="line">तरतीब दे के मैंने तेरा नाम लिख दिया</div>
+     <div class="line">क़ैसर किसी की देन है ये शायरी मेरी</div>
+     <div class="line">उस की ग़ज़ल पे किसने मेरा नाम लिख दिया</div>
+     <div class="poet">— क़ैसर-उल-जाफ़री</div>
+   </div>
+ </div>
+
+---
+
 A curious outsider in Canada. Thumbliner is a digital handle; and this is a non-commercial space, packed with friends.<br>
 
 So glad you’re here! Come say hi or come argue; your pick.<br>

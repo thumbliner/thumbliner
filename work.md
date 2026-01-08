@@ -98,6 +98,17 @@ Managed operations, finance, and key accounts for an HP-authorized distributor.
 *2009  ·  Business Standard*  
 Supported sales and subscriptions.
 
+---
+
+> I shall be telling this with a sigh  
+> Somewhere ages and ages hence:  
+> Two roads diverged in a wood, and I—  
+> I took the one less traveled by,  
+> And that has made all the difference.”  
+> — Robert Frost
+
+---
+
 ### Game Developer  
 *2006–09  ·  Bourne Aviation*  
 Built a community—writing, coding, and designing the experience—to learn and entertain.
@@ -112,15 +123,6 @@ Built a community—writing, coding, and designing the experience—to learn and
         sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" 
         src="https://embed.music.apple.com/song/old-friends-extended-version/1454398444">
 </iframe>
-
----
-
-> I shall be telling this with a sigh  
-> Somewhere ages and ages hence:  
-> Two roads diverged in a wood, and I—  
-> I took the one less traveled by,  
-> And that has made all the difference.”
-> — Robert Frost
 
 ---
 

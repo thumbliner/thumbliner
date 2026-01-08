@@ -36,6 +36,11 @@ International School Jeddah
 
 ---
 
+> “We read for the enjoyment of it. I mean it’s been enormously beneficial to us but the reason we read is that it’s fun and you know it's still fun.”
+> — Warren Buffett
+
+---
+
 ### Bachelor of Business  
 *2012  ·  India*  
 Amity University

@@ -98,8 +98,8 @@ Grow a city by balancing traffic, jobs, housing, commercial zoning, public servi
 
 ---
 
-> “There are no solutions. There are only trade-offs.”<br>
-> — Thomas Sowell
+> “As more individuals are produced than can possibly survive, there must in every case be a struggle for existence.”<br>
+> — Charles Darwin
 
 ---
 
@@ -121,8 +121,8 @@ Keep a city alive under scarcity by securing food, producing heat, and passing p
 
 ---
 
-> “As more individuals are produced than can possibly survive, there must in every case be a struggle for existence.”<br>
-> — Charles Darwin
+> “There are no solutions. There are only trade-offs.”<br>
+> — Thomas Sowell
 
 ---
 

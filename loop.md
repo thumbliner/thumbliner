@@ -83,6 +83,11 @@ At time $$t$$, each agent $$i$$ receives a local observation $$o_t^i$$ (includin
 
 ---
 
+> “So that makes our problem simpler. We have nothing but atoms, all the same, everywhere.”<br>
+> — Richard Feymann
+
+---
+
 ## Z Axis
 
 ### Applied Epistemology

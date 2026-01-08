@@ -39,7 +39,7 @@ _Poor Salman's Capital_
 
 ---
 
-> “We read for the enjoyment of it. I mean it’s been enormously beneficial to us but the reason we read is that it’s fun.”<br>
+> “We read for the enjoyment of it. It’s been enormously beneficial to us but the reason we read is that it’s fun.”<br>
 > — Warren Buffett
 
 ---

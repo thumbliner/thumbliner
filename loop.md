@@ -90,6 +90,11 @@ The practice of making beliefs pay rent: build a model of the world, and stay al
 
 ---
 
+> “I think what we have done all these years is—it wasn’t all that hard to do, and it’s not all that hard to explain. All that said and done, I think a lot of people just don’t get it.”<br>
+> — Charlie Munger
+
+---
+
 <div class="urdu" lang="ur" dir="rtl">
   <div class="verses">
     <div class="misra">یارب وہ نہ سمجھے ہیں نہ سمجھیں گے مری بات</div>

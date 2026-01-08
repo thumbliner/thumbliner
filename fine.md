@@ -15,6 +15,10 @@ _Richard Phillips Feynman_
 
 ---
 
+
+
+---
+
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
         title="Music player: Fireflies by Owl City"
         frameborder="0" 
@@ -26,6 +30,18 @@ _Richard Phillips Feynman_
 
 ---
 
+ <div class="hindi" lang="hi" dir="ltr">
+   <div class="verses">
+     <div class="line">अब किसी तौर से क़ाबू में नहीं आने का</div>
+     <div class="line">ख़ल्क़ देखेगी तमाशा तेरे दीवाने का</div>
+     <div class="line">बात कहता है कुछ ऐसी के न समझे कोई</div>
+     <div class="line">ये भी एक ग़ौर-तलब रंग है दीवाने का</div>
+     <div class="poet">— पीर सैयद नसीरुद्दीन नसीर गिलानी</div>
+   </div>
+ </div>
+
+---
+
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
         title="Music player: Jao Pakhi by Pranab Biswas, Shreya Ghoshal, Aninda Chatterjee, and Chandril Bhattacharya"
         frameborder="0" 
@@ -34,16 +50,6 @@ _Richard Phillips Feynman_
         sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" 
         src="https://embed.music.apple.com/song/jao-pakhi/1283471165">
 </iframe>
-
----
-
- <div class="hindi" lang="hi" dir="ltr">
-   <div class="verses">
-     <div class="line">मैं तो बुलबुल हूँ मेरा काम है गाते रहना</div>
-     <div class="line">अगर भूल जाऊँ तो मुझे याद दिलाते रहना</div>
-     <div class="poet">— वसीम बरेलवी</div>
-   </div>
- </div>
 
 ---
 

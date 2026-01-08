@@ -83,6 +83,11 @@ Peace
 
 ---
 
+> “Man is naturally good; it is society that corrupts him.”<br>
+>— Jean-Jacques Rousseau
+
+---
+
 <div class="urdu" lang="ur" dir="rtl">
   <div class="verses">
     <div class="misra">پامالِ رہ گزر ہوں تجھے کچھ خبر بھی ہے</div>

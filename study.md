@@ -26,13 +26,13 @@ _Formal-ish Education_
 *2009  ·  Saudi Arabia*  
 International School Jeddah
 
-> <div class="hindi" lang="hi" dir="ltr">
->   <div class="verses">
->     <div class="line">ज़िन्दगी हो मेरी परवाने की सूरत या रब</div>
->     <div class="line">इल्म की शम्मा से हो मुझ को महब्बत या रब</div>
->     <div class="poet">— अल्लामा इक़बाल</div>
->   </div>
-> </div>
+ <div class="hindi" lang="hi" dir="ltr">
+   <div class="verses">
+     <div class="line">ज़िन्दगी हो मेरी परवाने की सूरत या रब</div>
+     <div class="line">इल्म की शम्मा से हो मुझ को महब्बत या रब</div>
+     <div class="poet">— अल्लामा इक़बाल</div>
+   </div>
+ </div>
 
 ---
 
@@ -45,13 +45,13 @@ International School Jeddah
 *2012  ·  India*  
 Amity University
 
-> <div class="hindi" lang="hi" dir="ltr">
->   <div class="verses">
->     <div class="line">नहीं है ना उम्मीद इक़बाल अपनी क़िश्त-ए-वीराँ से</div>
->     <div class="line">ज़रा नम हो तो ये मिट्टी बहुत ज़रख़ेज़ है साक़ी</div>
->     <div class="poet">— अल्लामा इक़बाल</div>
->   </div>
-> </div>
+ <div class="hindi" lang="hi" dir="ltr">
+   <div class="verses">
+     <div class="line">नहीं है ना उम्मीद इक़बाल अपनी क़िश्त-ए-वीराँ से</div>
+     <div class="line">ज़रा नम हो तो ये मिट्टी बहुत ज़रख़ेज़ है साक़ी</div>
+     <div class="poet">— अल्लामा इक़बाल</div>
+   </div>
+ </div>
 
 ---
 
@@ -64,13 +64,13 @@ Amity University
 *2014  ·  United States*  
 Walden University
 
-> <div class="hindi" lang="hi" dir="ltr">
->   <div class="verses">
->     <div class="line">दिल सोज़ से ख़ाली है निगाह पाक नहीं है</div>
->     <div class="line">फिर इस में अजब क्या कि तू बेबाक नहीं है</div>
->     <div class="poet">— अल्लामा इक़बाल</div>
->   </div>
-> </div>
+ <div class="hindi" lang="hi" dir="ltr">
+   <div class="verses">
+     <div class="line">दिल सोज़ से ख़ाली है निगाह पाक नहीं है</div>
+     <div class="line">फिर इस में अजब क्या कि तू बेबाक नहीं है</div>
+     <div class="poet">— अल्लामा इक़बाल</div>
+   </div>
+ </div>
 
 ---
 
@@ -83,13 +83,13 @@ Walden University
 *2018  ·  France*  
 Audencia Business School & Toulouse Business School
 
-> <div class="hindi" lang="hi" dir="ltr">
->   <div class="verses">
->     <div class="line">क्या सूफ़ी ओ मुल्ला को ख़बर मेरे जुनूँ की</div>
->     <div class="line">उन का सर-ए-दामन भी अभी चाक नहीं है</div>
->     <div class="poet">— अल्लामा इक़बाल</div>
->   </div>
-> </div>
+ <div class="hindi" lang="hi" dir="ltr">
+   <div class="verses">
+     <div class="line">क्या सूफ़ी ओ मुल्ला को ख़बर मेरे जुनूँ की</div>
+     <div class="line">उन का सर-ए-दामन भी अभी चाक नहीं है</div>
+     <div class="poet">— अल्लामा इक़बाल</div>
+   </div>
+ </div>
 
 ---
 
@@ -102,13 +102,13 @@ Audencia Business School & Toulouse Business School
 *2019  ·  Switzerland*  
 University of Geneva
 
-> <div class="hindi" lang="hi" dir="ltr">
->   <div class="verses">
->     <div class="line">बिजली हूँ नज़र कोह-ओ-बयाबाँ पे है मेरी</div>
->     <div class="line">मेरे लिए शायाँ ख़स-ओ-ख़ाशाक नहीं है</div>
->     <div class="poet">— अल्लामा इक़बाल</div>
->   </div>
-> </div>
+ <div class="hindi" lang="hi" dir="ltr">
+   <div class="verses">
+     <div class="line">बिजली हूँ नज़र कोह-ओ-बयाबाँ पे है मेरी</div>
+     <div class="line">मेरे लिए शायाँ ख़स-ओ-ख़ाशाक नहीं है</div>
+     <div class="poet">— अल्लामा इक़बाल</div>
+   </div>
+ </div>
 
 ---
 

@@ -24,7 +24,7 @@ _Casually Stuck Mid-Sneeze_
 Salaam,
 
 How do you do?  
-I’m well, thank you. And you?<br>
+I’m fine, thank you. And you?<br>
 
 Can you believe this weather?  
 Actually, I find this city most beautiful in the rain.<br>

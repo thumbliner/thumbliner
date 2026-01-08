@@ -36,8 +36,8 @@ International School Jeddah
 
 ---
 
-> “We read for the enjoyment of it. I mean it’s been enormously beneficial to us but the reason we read is that it’s fun.”<br>
-> — Warren Buffett
+> “The market economy is like a delicate plant which needs a carefully tended soil.”<br>
+> — Wilhelm Röpke
 
 ---
 

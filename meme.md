@@ -17,6 +17,11 @@ _Brainrot Meets High-Brow: A Loopy Mutation_
 
 ---
 
+> “All things are subject to the law of cause and effect.”<br>
+> — Carl Menger
+
+---
+
  <div class="hindi" lang="hi" dir="ltr">
    <div class="verses">
      <div class="line">किस ने भीगे हुए बालों से ये झटका पानी</div>

@@ -2,7 +2,7 @@
 layout: default
 title: Fine
 parent: Small Talk
-nav_order: 2
+nav_order: 1
 permalink: /fine/
 ---
 

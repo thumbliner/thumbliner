@@ -83,7 +83,7 @@ Peace
 
 ---
 
-> “Humans are naturally good; it is society that corrupts.”<br>
+> “A human is naturally good; it is society that corrupts.”<br>
 >— Jean-Jacques Rousseau
 
 ---

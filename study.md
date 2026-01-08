@@ -69,6 +69,11 @@ Walden University
 
 ---
 
+> “The successful investor is usually an individual who is inherently interested in business problems.”<br>
+> — Philip Fisher
+
+---
+
 ### Doctorate in Business  
 *2018  ·  France*  
 Audencia Business School & Toulouse Business School

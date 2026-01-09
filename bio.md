@@ -14,8 +14,6 @@ _अ म न    ·    ש ל ם   ·   س ل م   ·    ا م ن_
    <div class="verses">
      <div class="line">बिखरी पड़ी थीं टूट के कलियाँ ज़मीन पर</div>
      <div class="line">तरतीब दे के मैंने तेरा नाम लिख दिया</div>
-     <div class="line">क़ैसर किसी की देन है ये शायरी मेरी</div>
-     <div class="line">उस की ग़ज़ल पे किसने मेरा नाम लिख दिया</div>
      <div class="poet">— क़ैसर-उल-जाफ़री</div>
    </div>
  </div>

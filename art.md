@@ -40,23 +40,6 @@ _A Curation (On Loop)_
 
 ---
 
-## **The Message** by Moustapha Akkad  
-<p>
-<div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">
-  <iframe
-    src="https://www.imdb.com/videoembed/vi4035691289"
-    title="The Message"
-    style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;"
-    allowfullscreen
-    loading="lazy"
-    referrerpolicy="strict-origin-when-cross-origin"
-    scrolling="no">
-  </iframe>
-</div>
-</p>
-
----
-
 ## **Devdas** by Ismail Darbar & Birju Maharaj
 ### You Pick: 4. Bairi Piya or 5. Kaahe Chhed
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"

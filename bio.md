@@ -24,7 +24,7 @@ _अ म न    ·    ש ל ם   ·   س ل م   ·    ا م ن_
 
 A curious outsider in Canada. Thumbliner is a digital handle; and this is a non-commercial space, packed with friends.<br>
 
-Glad to have you! Look around and share ideas...<br>
+Glad to have you! Look around and share ideas (in writing)...<br>
 
 cast [at] thumbliner [dot] com
 

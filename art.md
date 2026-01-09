@@ -268,23 +268,6 @@ _A Curation (On Loop)_
 
 ---
 
-## **Ratatouille** by Brad Bird  
-<p>
-<div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">
-  <iframe
-    src="https://www.imdb.com/videoembed/vi669713433"
-    title="Ratatouille"
-    style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;"
-    allowfullscreen
-    loading="lazy"
-    referrerpolicy="strict-origin-when-cross-origin"
-    scrolling="no">
-  </iframe>
-</div>
-</p>
-
----
-
 ## **Attenborough’s Ant Mountain** by Joe Loncraine & Martin Dohrn  
 <p>
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">

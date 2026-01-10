@@ -50,7 +50,7 @@ _Josep “Pep” Guardiola Sala_
 
 ---
 
-> “The one who has the ball, commands the game. The one who doesn't have it, runs.”<br>
+> “The one who has the ball commands the game. The one who doesn't have it runs.”<br>
 > — Pep Guardiola
 
 ---
@@ -58,7 +58,7 @@ _Josep “Pep” Guardiola Sala_
 ### On Mindset
 - [ ] “You have to learn to play football with courage.”
 - [ ] “Losing hurts. If it doesn't hurt, you're in the wrong profession.”
-- [ ] “Criticize all you want. You will never be more critical with me than I am with myself.”
+- [ ] “Criticize all you want. You will never be more critical of me than I am of myself.”
 
 ---
 

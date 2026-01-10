@@ -20,10 +20,21 @@ _Richard Phillips Feynman_
 
 ---
 
-### The Mood
-- [ ] “The question I want to answer first is not whether we go back to Albuquerque or not, but rather in what frame of mind we should be when we decide to go back or not.”
-- [ ] “It soon became apparent that the testimony of higher management was a bit muddleheaded about why they weren’t told, why the system broke down, etc. They weren’t told because they didn’t want to hear any doubts or bad news.”
-- [ ] “You see, you always envied me when I didn’t get all sorrowful and despondent about bad things—but on the other hand, I don’t get the fun of leaping around for joy when things seem to be turning out good. Don’t get me wrong—I’m not sad, I’m just not wildly happy.”
+### The Poetry
+- [ ] “Art and poetry can remind the mind of beauty and gradually make life more beautiful.”
+- [ ] “I need to thank you. Thank you for noticing and enjoying what I tried to “hide” in my lecture. Really, I thought of it poetically also, but was afraid of ridicule if I tried to write a poem in a lecture.”
+
+---
+
+ <div class="hindi" lang="hi" dir="ltr">
+   <div class="verses">
+     <div class="line">अब किसी तौर से क़ाबू में नहीं आने का</div>
+     <div class="line">ख़ल्क़ देखेगी तमाशा तेरे दीवाने का</div>
+     <div class="line">बात कहता है कुछ ऐसी के न समझे कोई</div>
+     <div class="line">ये भी एक ग़ौर-तलब रंग है दीवाने का</div>
+     <div class="poet">— पीर सैयद नसीरुद्दीन नसीर गिलानी</div>
+   </div>
+ </div>
 
 ---
 
@@ -35,6 +46,13 @@ _Richard Phillips Feynman_
         sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" 
         src="https://embed.music.apple.com/song/fireflies/1440770878">
 </iframe>
+
+ ---
+
+### The Mood
+- [ ] “The question I want to answer first is not whether we go back to Albuquerque or not, but rather in what frame of mind we should be when we decide to go back or not.”
+- [ ] “It soon became apparent that the testimony of higher management was a bit muddleheaded about why they weren’t told, why the system broke down, etc. They weren’t told because they didn’t want to hear any doubts or bad news.”
+- [ ] “You see, you always envied me when I didn’t get all sorrowful and despondent about bad things—but on the other hand, I don’t get the fun of leaping around for joy when things seem to be turning out good. Don’t get me wrong—I’m not sad, I’m just not wildly happy.”
 
 ---
 
@@ -79,21 +97,7 @@ _Richard Phillips Feynman_
 
 ---
 
-### The Poetry
-- [ ] “Art and poetry can remind the mind of beauty and gradually make life more beautiful.”
-- [ ] “I need to thank you. Thank you for noticing and enjoying what I tried to “hide” in my lecture. Really, I thought of it poetically also, but was afraid of ridicule if I tried to write a poem in a lecture.”
 
----
-
- <div class="hindi" lang="hi" dir="ltr">
-   <div class="verses">
-     <div class="line">अब किसी तौर से क़ाबू में नहीं आने का</div>
-     <div class="line">ख़ल्क़ देखेगी तमाशा तेरे दीवाने का</div>
-     <div class="line">बात कहता है कुछ ऐसी के न समझे कोई</div>
-     <div class="line">ये भी एक ग़ौर-तलब रंग है दीवाने का</div>
-     <div class="poet">— पीर सैयद नसीरुद्दीन नसीर गिलानी</div>
-   </div>
- </div>
 
 ---
 

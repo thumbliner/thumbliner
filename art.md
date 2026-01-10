@@ -51,18 +51,6 @@ _A Curation (On Loop)_
 
 ---
 
-## **The Tortured Poets Department: The Anthology** by Taylor Swift
-#### Editor's Pick: 13. I Can Do It With a Broken Heart
-<iframe allow="encrypted-media *; fullscreen *; clipboard-write"
-        frameborder="0"
-        height="450"
-        style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;"
-        sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"
-        src="https://embed.music.apple.com/album/the-tortured-poets-department-the-anthology/1742057774">
-</iframe>
-
----
-
 ## **Vande Mataram** by A.R. Rahman
 #### Editor's Pick: 7. Thai Mannai Vanakkam
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
@@ -79,6 +67,38 @@ _A Curation (On Loop)_
    <div class="verses">
      <div class="line">राह पर उन को लगा लाए तो हैं बातों में</div>
      <div class="line">और खुल जाएँगे दो-चार मुलाख़ाातों में</div>
+     <div class="poet">— दाग़ देहलवी</div>
+   </div>
+ </div>
+
+ ---
+
+## **The Tortured Poets Department: The Anthology** by Taylor Swift
+#### Editor's Pick: 13. I Can Do It With a Broken Heart
+<iframe allow="encrypted-media *; fullscreen *; clipboard-write"
+        frameborder="0"
+        height="450"
+        style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;"
+        sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"
+        src="https://embed.music.apple.com/album/the-tortured-poets-department-the-anthology/1742057774">
+</iframe>
+
+---
+
+<div class="urdu" lang="ur" dir="rtl">
+  <div class="verses">
+    <div class="misra">مصحفیؔ ہم تو یہ سمجھے تھے کہ ہوگا کوئی زخم</div>
+    <div class="misra">تیرے دل میں تو بہت کام رفو کا نکلا</div>
+    <div class="poet">— مصحفی غلام ہمدانی</div>
+  </div>
+</div>
+
+---
+
+ <div class="hindi" lang="hi" dir="ltr">
+   <div class="verses">
+     <div class="line">ये भी तुम जानते हो चंद मुलाख़ाातों में</div>
+     <div class="line">आज़माया है तुम्हें हमने कई बातों में</div>
      <div class="poet">— दाग़ देहलवी</div>
    </div>
  </div>
@@ -144,9 +164,9 @@ _A Curation (On Loop)_
 
  <div class="hindi" lang="hi" dir="ltr">
    <div class="verses">
-     <div class="line">ये भी तुम जानते हो चंद मुलाख़ाातों में</div>
-     <div class="line">आज़माया है तुम्हें हमने कई बातों में</div>
-     <div class="poet">— दाग़ देहलवी</div>
+     <div class="line">महफ़िल में आपकी हम कुछ और तो न लाए</div>
+     <div class="line">नग़मात में सजा कर जज़्बात ले के आए</div>
+     <div class="poet">— शिवन रिज़वी</div>
    </div>
  </div>
 
@@ -204,16 +224,6 @@ _A Curation (On Loop)_
         sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" 
         src="https://embed.music.apple.com/song/the-last-of-the-starks/1464079250">
 </iframe>
-
----
-
- <div class="hindi" lang="hi" dir="ltr">
-   <div class="verses">
-     <div class="line">महफ़िल में आपकी हम कुछ और तो न लाए</div>
-     <div class="line">नग़मात में सजा कर जज़्बात ले के आए</div>
-     <div class="poet">— शिवन रिज़वी</div>
-   </div>
- </div>
 
 ---
 

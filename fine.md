@@ -28,6 +28,8 @@ _Richard Phillips Feynman_
 
 ### Mood
 - [ ] “The question I want to answer first is not whether we go back to Albuquerque or not, but rather in what frame of mind we should be when we decide to go back or not.”
+- [ ] “If you are an average student in everything and no intellectual pursuit gives you real delight, then I don’t know how to advise you. You will have to discuss it with someone else. It is a problem that I have not thought about very hard.”
+- [ ] “You see you always envied me when I didn’t get all sorrowful and despondent about bad things—but on the other hand I don’t get the fun of leaping around for joy when things seem to be turning out good. Don’t get me wrong—I’m not sad, I’m just not wildly happy.”
 
 ---
 

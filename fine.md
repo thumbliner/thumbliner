@@ -26,11 +26,6 @@ _Richard Phillips Feynman_
 
 ---
 
-> “I look to the future neither with hope nor fear but with uncertainty as to what will be.”<br>
-> — Richard Feynman
-
----
-
 ### Mood
 - [ ] “The question I want to answer first is not whether we go back to Albuquerque or not, but rather in what frame of mind we should be when we decide to go back or not.”
 - [ ] “It soon became apparent that the testimony of higher management was a bit muddleheaded about why they weren’t told, why the system broke down, etc. They weren’t told because they didn’t want to hear any doubts or bad news.”
@@ -38,7 +33,7 @@ _Richard Phillips Feynman_
 
 ---
 
-> “Study hard what interests you the most in the most undisciplined, irreverent, and original manner possible.”<br>
+> “I look to the future neither with hope nor fear but with uncertainty as to what will be.”<br>
 > — Richard Feynman
 
 ---
@@ -50,7 +45,7 @@ _Richard Phillips Feynman_
 
 ---
 
-> “If you are an average student in everything and no intellectual pursuit gives you real delight, then I don’t know how to advise you.”<br>
+> “Study hard what interests you the most in the most undisciplined, irreverent, and original manner possible.”<br>
 > — Richard Feynman
 
 ---
@@ -62,7 +57,7 @@ _Richard Phillips Feynman_
 
 ---
 
-> “It is wonderful if you can find something you love to do in your youth, which is big enough to sustain your interest through all your adult life. Because, whatever it is, if you do it well enough (and you will, if you truly love it), people will pay you to do what you want to do anyway.”<br>
+> “If you are an average student in everything and no intellectual pursuit gives you real delight, then I don’t know how to advise you.”<br>
 > — Richard Feynman
 
 ---
@@ -74,7 +69,7 @@ _Richard Phillips Feynman_
 
 ---
 
-> “When you are young, you only want to go as fast as far and as deep as you can in one subject—all the others are neglected as being relatively uninteresting. But later on, when you get older, you find nearly everything is really interesting if you go into it deeply enough. Because what you learned as a youth was that some one thing is ever more interesting as you go deeper. Only later do you find it true of other things—ultimately everything too.”<br>
+> “It is wonderful if you can find something you love to do in your youth, which is big enough to sustain your interest through all your adult life. Because, whatever it is, if you do it well enough (and you will, if you truly love it), people will pay you to do what you want to do anyway.”<br>
 > — Richard Feynman
 
 ---
@@ -94,6 +89,11 @@ _Richard Phillips Feynman_
      <div class="poet">— पीर सैयद नसीरुद्दीन नसीर गिलानी</div>
    </div>
  </div>
+
+---
+
+> “When you are young, you only want to go as fast as far and as deep as you can in one subject—all the others are neglected as being relatively uninteresting. But later on, when you get older, you find nearly everything is really interesting if you go into it deeply enough. Because what you learned as a youth was that some one thing is ever more interesting as you go deeper. Only later do you find it true of other things—ultimately everything too.”<br>
+> — Richard Feynman
 
 ---
 

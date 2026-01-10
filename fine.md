@@ -26,6 +26,11 @@ _Richard Phillips Feynman_
 
 ---
 
+> “I look to the future neither with hope nor fear but with uncertainty as to what will be.”<br>
+> — Richard Feynman
+
+---
+
 ### Mood
 - [ ] “The question I want to answer first is not whether we go back to Albuquerque or not, but rather in what frame of mind we should be when we decide to go back or not.”
 - [ ] “It soon became apparent that the testimony of higher management was a bit muddleheaded about why they weren’t told, why the system broke down, etc. They weren’t told because they didn’t want to hear any doubts or bad news.”
@@ -33,19 +38,19 @@ _Richard Phillips Feynman_
 
 ---
 
-> “I look to the future neither with hope nor fear but with uncertainty as to what will be.”<br>
+> “Study hard what interests you the most in the most undisciplined, irreverent, and original manner possible.”<br>
 > — Richard Feynman
 
 ---
 
-### On Episteme
+### Episteme
 - [ ] “You should, in science, believe logic and arguments, carefully drawn, and not authorities.”
+- [ ] “I still don’t know whether we have opposite viewpoints or any argument on the results of this experiment. In short, I don’t know what your viewpoint is. Therefore, I hope to hear your opinion clearly and simply stated in your next letter.”
 - [ ] “One does not learn a subject by using the words that people who know the subject use in discussing it. One must learn how to handle the ideas and then, when the subtleties arise that require special language, that special language can be used and developed easily. In the meantime, clarity is the desire.”
-- [ ] “If I don’t know what your opinion is in this matter, I don’t see much use in writing letters back and forth because I don’t know whether my views disagree with yours or not. You speak of our “opposite viewpoints” and “my arguments,” but I still don’t know whether we have opposite viewpoints or any argument on the results of this experiment. In short, I don’t know what your viewpoint is. Therefore, I hope to hear your opinion clearly and simply stated in your next letter.”
 
 ---
 
-> “Study hard what interests you the most in the most undisciplined, irreverent, and original manner possible.”<br>
+> “If you are an average student in everything and no intellectual pursuit gives you real delight, then I don’t know how to advise you.”<br>
 > — Richard Feynman
 
 ---
@@ -57,7 +62,7 @@ _Richard Phillips Feynman_
 
 ---
 
-> “If you are an average student in everything and no intellectual pursuit gives you real delight, then I don’t know how to advise you.”<br>
+> “It is wonderful if you can find something you love to do in your youth, which is big enough to sustain your interest through all your adult life. Because, whatever it is, if you do it well enough (and you will, if you truly love it), people will pay you to do what you want to do anyway.”<br>
 > — Richard Feynman
 
 ---
@@ -69,7 +74,7 @@ _Richard Phillips Feynman_
 
 ---
 
-> “It is wonderful if you can find something you love to do in your youth, which is big enough to sustain your interest through all your adult life. Because, whatever it is, if you do it well enough (and you will, if you truly love it), people will pay you to do what you want to do anyway.”<br>
+> “When you are young, you only want to go as fast as far and as deep as you can in one subject—all the others are neglected as being relatively uninteresting. But later on, when you get older, you find nearly everything is really interesting if you go into it deeply enough. Because what you learned as a youth was that some one thing is ever more interesting as you go deeper. Only later do you find it true of other things—ultimately everything too.”<br>
 > — Richard Feynman
 
 ---
@@ -89,11 +94,6 @@ _Richard Phillips Feynman_
      <div class="poet">— पीर सैयद नसीरुद्दीन नसीर गिलानी</div>
    </div>
  </div>
-
----
-
-> “When you are young, you only want to go as fast as far and as deep as you can in one subject—all the others are neglected as being relatively uninteresting. But later on, when you get older, you find nearly everything is really interesting if you go into it deeply enough. Because what you learned as a youth was that some one thing is ever more interesting as you go deeper. Only later do you find it true of other things—ultimately everything too.”<br>
-> — Richard Feynman
 
 ---
 

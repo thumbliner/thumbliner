@@ -15,17 +15,6 @@ _Richard Phillips Feynman_
 
 ---
 
-<iframe allow="encrypted-media *; fullscreen *; clipboard-write"
-        title="Music player: Fireflies by Owl City"
-        frameborder="0" 
-        height="175" 
-        style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" 
-        sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" 
-        src="https://embed.music.apple.com/song/fireflies/1440770878">
-</iframe>
-
----
-
 > “I look to the future neither with hope nor fear but with uncertainty as to what will be.”<br>
 > — Richard Feynman
 
@@ -35,6 +24,17 @@ _Richard Phillips Feynman_
 - [ ] “The question I want to answer first is not whether we go back to Albuquerque or not, but rather in what frame of mind we should be when we decide to go back or not.”
 - [ ] “It soon became apparent that the testimony of higher management was a bit muddleheaded about why they weren’t told, why the system broke down, etc. They weren’t told because they didn’t want to hear any doubts or bad news.”
 - [ ] “You see, you always envied me when I didn’t get all sorrowful and despondent about bad things—but on the other hand, I don’t get the fun of leaping around for joy when things seem to be turning out good. Don’t get me wrong—I’m not sad, I’m just not wildly happy.”
+
+---
+
+<iframe allow="encrypted-media *; fullscreen *; clipboard-write"
+        title="Music player: Fireflies by Owl City"
+        frameborder="0" 
+        height="175" 
+        style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" 
+        sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" 
+        src="https://embed.music.apple.com/song/fireflies/1440770878">
+</iframe>
 
 ---
 

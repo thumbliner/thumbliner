@@ -43,7 +43,7 @@ _Richard Phillips Feynman_
 
 ---
 
-### The Episteme
+### The Integrity
 - [ ] “You should, in science, believe logic and arguments, carefully drawn, and not authorities.”
 - [ ] “I still don’t know whether we have opposite viewpoints or any argument on the results of this experiment. In short, I don’t know what your viewpoint is. Therefore, I hope to hear your opinion clearly and simply stated in your next letter.”
 - [ ] “One does not learn a subject by using the words that people who know the subject use in discussing it. One must learn how to handle the ideas and then, when the subtleties arise that require special language, that special language can be used and developed easily. In the meantime, clarity is the desire.”

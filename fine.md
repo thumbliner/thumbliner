@@ -31,7 +31,7 @@ _Richard Phillips Feynman_
 
 ---
 
-### Mood
+### The Mood
 - [ ] “The question I want to answer first is not whether we go back to Albuquerque or not, but rather in what frame of mind we should be when we decide to go back or not.”
 - [ ] “It soon became apparent that the testimony of higher management was a bit muddleheaded about why they weren’t told, why the system broke down, etc. They weren’t told because they didn’t want to hear any doubts or bad news.”
 - [ ] “You see, you always envied me when I didn’t get all sorrowful and despondent about bad things—but on the other hand, I don’t get the fun of leaping around for joy when things seem to be turning out good. Don’t get me wrong—I’m not sad, I’m just not wildly happy.”
@@ -43,7 +43,7 @@ _Richard Phillips Feynman_
 
 ---
 
-### Episteme
+### The Episteme
 - [ ] “You should, in science, believe logic and arguments, carefully drawn, and not authorities.”
 - [ ] “I still don’t know whether we have opposite viewpoints or any argument on the results of this experiment. In short, I don’t know what your viewpoint is. Therefore, I hope to hear your opinion clearly and simply stated in your next letter.”
 - [ ] “One does not learn a subject by using the words that people who know the subject use in discussing it. One must learn how to handle the ideas and then, when the subtleties arise that require special language, that special language can be used and developed easily. In the meantime, clarity is the desire.”
@@ -55,7 +55,7 @@ _Richard Phillips Feynman_
 
 ---
 
-### On Problems
+### The Problems & Solutions
 - [ ] “All you have to do is, from time to time—in spite of everything, just try to examine a problem in a novel way. You won’t “stifle the creative process” if you remember to think from time to time. Don’t you have time to think?”
 - [ ] “What is the best method to obtain the solution to a problem? The answer is, any way that works. So, what we want in arithmetic textbooks is not to teach a particular way of doing every problem, but, rather, to teach what the original problem is, and to leave a much greater freedom in obtaining the answer—but, of course, no freedom as to what the right answer should be. That is to say, there may be several ways of adding 17 and 15 (or, rather, of obtaining the solution to the sum of 17 and 15), but there is only one correct answer.”
 - [ ] “The worthwhile problems are the ones you can really solve or help solve, the ones you can really contribute something to. A problem is grand in science if it lies before us unsolved, and we see some way for us to make a little headway into it. I would advise you to take even simpler, or as you say, humbler, problems until you find some you can really solve easily, no matter how trivial. You will get the pleasure of success, and of helping your fellow man, even if it is only to answer a question in the mind of a colleague less able than you. You must not take away from yourself these pleasures because you have some erroneous idea of what is worthwhile.”
@@ -67,7 +67,7 @@ _Richard Phillips Feynman_
 
 ---
 
-### On Collaboration
+### The Spirit of Collaboration
 - [ ] “There are three kinds of questions: One is how does it affect me? Another question is, how does it affect you? And then there’s a question: What are the stars made out of? Now, only the last kind are a real pleasure to talk to. Because the last kind has the same kind of curiosity as motivates you in the sciences. And so you kind of feel a kind of sympathy right away for that kind of question. And those people you can spend a lot of time with and tell them all about the stars, and they grin back, and they ask more questions. And that’s lots of fun.”
 - [ ] “In high energy physics, the experiments are so complicated and elaborate and require such expensive machines that almost all experiments are done by large teams. But when it comes to a realization of what an experiment might mean, or to inventing and producing a new clever way of doing something—that might be done by one fellow independently. Finally, good theoretical work seems to me to be much as it always has been—good ideas appear in individual brains, not in committee meetings. Of course, as always, reading others’ work or conversations and discussions with colleagues helps a lot in preliminary stages of thinking.”
 - [ ] “Perhaps it is just that I enjoy being peculiar. My peculiarity is this: I find it psychologically very distasteful to judge people’s “merit.” So I cannot participate in the main activity of selecting people for membership. To be a member of a group, of which an important activity is to choose others deemed worthy of membership in that self-esteemed group, bothers me. The care with which we select “those worthy of the honor” of joining the Academy feels to me like a form of self-praise. How can we say only the best must be allowed in to join those who are already in, without loudly proclaiming to our inner selves that we who are in must be very good indeed. Of course, I believe I am very good indeed, but that is a private matter, and I cannot publicly admit that I do so, to such an extent that I have the nerve to decide that this man, or that, is not worthy of joining my elite club. Maybe I don’t explain it very well, but suffice to say that I am not happy as a member of a self-perpetuating honorary society.”
@@ -79,7 +79,7 @@ _Richard Phillips Feynman_
 
 ---
 
-### Poetry
+### The Poetry
 - [ ] “Art and poetry can remind the mind of beauty and gradually make life more beautiful.”
 - [ ] “I need to thank you. Thank you for noticing and enjoying what I tried to “hide” in my lecture. Really, I thought of it poetically also, but was afraid of ridicule if I tried to write a poem in a lecture.”
 

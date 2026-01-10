@@ -89,7 +89,7 @@ _A Curation (On Loop)_
   <div class="verses">
     <div class="misra">مصحفیؔ ہم تو یہ سمجھے تھے کہ ہوگا کوئی زخم</div>
     <div class="misra">تیرے دل میں تو بہت کام رفو کا نکلا</div>
-    <div class="poet">— مصحفی غلام ہمدانی</div>
+    <div class="poet">— مصحفیؔ غلام ہمدانی</div>
   </div>
 </div>
 

@@ -26,7 +26,15 @@ _Richard Phillips Feynman_
 
 ---
 
-Wait!
+### Frame of Mind
+- [ ] “Art and poetry can remind the mind of beauty and gradually make life more beautiful.”
+- [ ] “I need to thank you. Thank you for noticing and enjoying what I tried to “hide” in my lecture. Really, I thought of it poetically also, but was afraid of ridicule if I tried to write a poem in a lecture.”
+
+---
+
+### Poetry
+- [ ] “Art and poetry can remind the mind of beauty and gradually make life more beautiful.”
+- [ ] “I need to thank you. Thank you for noticing and enjoying what I tried to “hide” in my lecture. Really, I thought of it poetically also, but was afraid of ridicule if I tried to write a poem in a lecture.”
 
 ---
 

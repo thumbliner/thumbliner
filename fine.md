@@ -26,14 +26,15 @@ _Richard Phillips Feynman_
 
 ---
 
-### Frame of Mind
+### Mindset
 - [ ] “The question I want to answer first is not whether we go back to Albuquerque or not, but rather in what frame of mind we should be when we decide to go back or not.”
 
 ---
 
-### Poetry
-- [ ] “Art and poetry can remind the mind of beauty and gradually make life more beautiful.”
-- [ ] “I need to thank you. Thank you for noticing and enjoying what I tried to “hide” in my lecture. Really, I thought of it poetically also, but was afraid of ridicule if I tried to write a poem in a lecture.”
+### On Problem Solving
+- [ ] “Study hard what interests you the most in the most undisciplined, irreverent and original manner possible.”
+- [ ] “All you have to do is, from time to time—in spite of everything, just try to examine a problem in a novel way. You won’t “stifle the creative process” if you remember to think from time to time. Don’t you have time to think?”
+- [ ] “What is the best method to obtain the solution to a problem? The answer is, any way that works. So, what we want in arithmetic textbooks is not to teach a particular way of doing every problem, but, rather, to teach what the original problem is, and to leave a much greater freedom in obtaining the answer—but, of course, no freedom as to what the right answer should be.That is to say, there may be several ways of adding 17 and 15 (or, rather, of obtaining the solution to the sum of 17 and 15) but there is only one correct answer.”
 
 ---
 
@@ -46,6 +47,12 @@ _Richard Phillips Feynman_
      <div class="poet">— पीर सैयद नसीरुद्दीन नसीर गिलानी</div>
    </div>
  </div>
+
+---
+
+### Poetry
+- [ ] “Art and poetry can remind the mind of beauty and gradually make life more beautiful.”
+- [ ] “I need to thank you. Thank you for noticing and enjoying what I tried to “hide” in my lecture. Really, I thought of it poetically also, but was afraid of ridicule if I tried to write a poem in a lecture.”
 
 ---
 

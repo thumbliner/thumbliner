@@ -51,6 +51,16 @@ _A Curation (On Loop)_
 
 ---
 
+ <div class="hindi" lang="hi" dir="ltr">
+   <div class="verses">
+     <div class="line">राह पर उन को लगा लाए तो हैं बातों में</div>
+     <div class="line">और खुल जाएँगे दो-चार मुलाख़ाातों में</div>
+     <div class="poet">— दाग़ देहलवी</div>
+   </div>
+ </div>
+
+ ---
+
 ## **Vande Mataram** by A.R. Rahman
 #### Editor's Pick: 7. Thai Mannai Vanakkam
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
@@ -62,16 +72,6 @@ _A Curation (On Loop)_
 </iframe>
 
 ---
-
- <div class="hindi" lang="hi" dir="ltr">
-   <div class="verses">
-     <div class="line">राह पर उन को लगा लाए तो हैं बातों में</div>
-     <div class="line">और खुल जाएँगे दो-चार मुलाख़ाातों में</div>
-     <div class="poet">— दाग़ देहलवी</div>
-   </div>
- </div>
-
- ---
 
 ## **The Tortured Poets Department: The Anthology** by Taylor Swift
 #### Editor's Pick: 13. I Can Do It With a Broken Heart

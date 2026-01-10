@@ -27,8 +27,7 @@ _Richard Phillips Feynman_
 ---
 
 ### Frame of Mind
-- [ ] “Art and poetry can remind the mind of beauty and gradually make life more beautiful.”
-- [ ] “I need to thank you. Thank you for noticing and enjoying what I tried to “hide” in my lecture. Really, I thought of it poetically also, but was afraid of ridicule if I tried to write a poem in a lecture.”
+- [ ] “The question I want to answer first is not whether we go back to Albuquerque or not, but rather in what frame of mind we should be when we decide to go back or not.”
 
 ---
 

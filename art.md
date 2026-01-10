@@ -61,40 +61,6 @@ _A Curation (On Loop)_
 
  ---
 
-## **Vande Mataram** by A.R. Rahman
-#### Editor's Pick: 7. Thai Mannai Vanakkam
-<iframe allow="encrypted-media *; fullscreen *; clipboard-write"
-        frameborder="0"
-        height="450"
-        style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;"
-        sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"
-        src="https://embed.music.apple.com/album/vande-mataram/274118901">
-</iframe>
-
----
-
-## **The Tortured Poets Department: The Anthology** by Taylor Swift
-#### Editor's Pick: 13. I Can Do It With a Broken Heart
-<iframe allow="encrypted-media *; fullscreen *; clipboard-write"
-        frameborder="0"
-        height="450"
-        style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;"
-        sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"
-        src="https://embed.music.apple.com/album/the-tortured-poets-department-the-anthology/1742057774">
-</iframe>
-
----
-
-<div class="urdu" lang="ur" dir="rtl">
-  <div class="verses">
-    <div class="misra">مصحفیؔ ہم تو یہ سمجھے تھے کہ ہوگا کوئی زخم</div>
-    <div class="misra">تیرے دل میں تو بہت کام رفو کا نکلا</div>
-    <div class="poet">— مصحفیؔ غلام ہمدانی</div>
-  </div>
-</div>
-
----
-
 ## **Hourglass** by Garth Stevenson
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
         frameborder="0" 
@@ -159,6 +125,40 @@ _A Curation (On Loop)_
      <div class="poet">— दाग़ देहलवी</div>
    </div>
  </div>
+
+---
+
+## **Vande Mataram** by A.R. Rahman
+#### Editor's Pick: 7. Thai Mannai Vanakkam
+<iframe allow="encrypted-media *; fullscreen *; clipboard-write"
+        frameborder="0"
+        height="450"
+        style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;"
+        sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"
+        src="https://embed.music.apple.com/album/vande-mataram/274118901">
+</iframe>
+
+---
+
+## **The Tortured Poets Department: The Anthology** by Taylor Swift
+#### Editor's Pick: 13. I Can Do It With a Broken Heart
+<iframe allow="encrypted-media *; fullscreen *; clipboard-write"
+        frameborder="0"
+        height="450"
+        style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;"
+        sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"
+        src="https://embed.music.apple.com/album/the-tortured-poets-department-the-anthology/1742057774">
+</iframe>
+
+---
+
+<div class="urdu" lang="ur" dir="rtl">
+  <div class="verses">
+    <div class="misra">مصحفیؔ ہم تو یہ سمجھے تھے کہ ہوگا کوئی زخم</div>
+    <div class="misra">تیرے دل میں تو بہت کام رفو کا نکلا</div>
+    <div class="poet">— مصحفیؔ غلام ہمدانی</div>
+  </div>
+</div>
 
 ---
 

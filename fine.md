@@ -26,7 +26,7 @@ _Richard Phillips Feynman_
 
 ---
 
-### Mindset
+### Mood
 - [ ] “The question I want to answer first is not whether we go back to Albuquerque or not, but rather in what frame of mind we should be when we decide to go back or not.”
 
 ---

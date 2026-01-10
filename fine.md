@@ -33,10 +33,19 @@ _Richard Phillips Feynman_
 
 ---
 
+### On Episteme
+- [ ] “You should, in science, believe logic and arguments, carefully drawn, and not authorities.”
+- [ ] “One does not learn a subject by using the words that people who know the subject use in discussing it. One must learn how to handle the ideas and then, when the subtleties arise which require special language, that special language can be used and developed easily. In the meantime, clarity is the desire.”
+- [ ] “If I don’t know what your opinion is in this matter I don’t see much use to our writing letters back and forth because I don’t know whether my views disagree with yours or not. You speak of our “opposite viewpoints” and “my arguments” but I still don’t know whether we have opposite viewpoints or any argument on the results of this experiment. In short, I don’t know what your viewpoint is. Therefore I hope to hear your opinion clearly and simply stated in your next letter.”
+
+---
+
 ### On Curiosity
 - [ ] “Study hard what interests you the most in the most undisciplined, irreverent and original manner possible.”
 - [ ] “If you are an average student in everything and no intellectual pursuit gives you real delight, then I don’t know how to advise you. You will have to discuss it with someone else. It is a problem that I have not thought about very hard.”
-- [ ] 
+- [ ] “It is wonderful, if you can find something you love to do in your youth which is big enough to sustain your interest through all your adult life. Because, whatever it is, if you do it well enough (and you will, if you truly love it) people will pay you to do what you want to do anyway.”
+- [ ] “When you are young you only want to go as fast as far and as deep as you can in one subject—all the others are neglected as being relatively uninteresting. But later on when you get older you find nearly everything is really interesting if you go into it deeply enough. Because what you learned as a youth was that some one thing is ever more interesting as you go deeper. Only later do you find it true of other things—ultimately everything too.”
+
 ---
 
 ### On Problems

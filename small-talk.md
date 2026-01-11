@@ -92,13 +92,13 @@ Peace
 
  <div class="hindi" lang="hi" dir="ltr">
    <div class="verses">
-     <div class="line">हर एक बात पे कहते हो तुम कि तू क्या है<div>
-     <div class="line">तुम्हीं कहो के ये अंदाज़-ए-गुफ़्तुगू क्या है</div>
-     <div class="line">रही न ताक़त-ए-गुफ़्तार और अगर हो भी</div>
-     <div class="line">तो किस उमीद पे कहिए कि आरज़ू क्या है<div>
-     <div class="misra">हुआ है शह का मुसाहिब फिरे है इतराता</div>
-     <div class="misra">वगर्ना शहर में ग़ालिब की आबरू क्या है</div>
-     <div class="poet">— मिर्ज़ा ग़ालिब</div>
+     <div class="line">हम आगए हैं तह-ए-दाम तो नसीब अपना</div>
+     <div class="line">वगरना उसने तो फेंका था जाल वैसे ही</div>
+     <div class="line">मैं रोकना ही नहीं चाहता था वार उसका</div>
+     <div class="line">गिरी नहीं मेरे हाथों से ढाल वैसे ही</div>
+     <div class="line">मुझे भी शौक़ न था दास्तां सुनाने का</div>
+     <div class="line">फ़राज़ उसने भी पूछा था हाल वैसे ही</div>
+     <div class="poet">— अहमद फ़राज़</div>
    </div>
  </div>
 

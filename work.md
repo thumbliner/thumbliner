@@ -116,16 +116,6 @@ Built a community—writing, coding, and designing the experience—to learn and
 
 ---
 
- <div class="hindi" lang="hi" dir="ltr">
-   <div class="verses">
-     <div class="line">नहीं तेरा नशेमन क़स्र-ए-सुल्तानी के गुम्बद पर</div>
-     <div class="line">तू शाहीं है बसेरा कर पहाड़ों की चटानों में</div>
-     <div class="poet">— अल्लामा इक़बाल</div>
-   </div>
- </div>
-
----
-
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
         title="Music player: Old Friends by Howard Shore"
         frameborder="0" 
@@ -134,6 +124,16 @@ Built a community—writing, coding, and designing the experience—to learn and
         sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" 
         src="https://embed.music.apple.com/song/old-friends-extended-version/1454398444">
 </iframe>
+
+---
+
+ <div class="hindi" lang="hi" dir="ltr">
+   <div class="verses">
+     <div class="line">नहीं तेरा नशेमन क़स्र-ए-सुल्तानी के गुम्बद पर</div>
+     <div class="line">तू शाहीं है बसेरा कर पहाड़ों की चटानों में</div>
+     <div class="poet">— अल्लामा इक़बाल</div>
+   </div>
+ </div>
 
 ---
 

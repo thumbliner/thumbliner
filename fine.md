@@ -61,6 +61,16 @@ _Richard Phillips Feynman_
 
 ---
 
+ <div class="hindi" lang="hi" dir="ltr">
+   <div class="verses">
+     <div class="line">उस का अपना ही करिश्मा है फ़ुसूँ है यूँ है</div>
+     <div class="line">यूँ तो कहने को सभी कहते हैं यूँ है यूँ है</div>
+     <div class="poet">— अहमद फ़राज़</div>
+   </div>
+ </div>
+
+---
+
 ### The Integrity
 - [ ] “You should, in science, believe logic and arguments, carefully drawn, and not authorities.”
 - [ ] “I still don’t know whether we have opposite viewpoints or any argument on the results of this experiment. In short, I don’t know what your viewpoint is. Therefore, I hope to hear your opinion clearly and simply stated in your next letter.”
@@ -70,6 +80,16 @@ _Richard Phillips Feynman_
 
 > “If you are an average student in everything and no intellectual pursuit gives you real delight, then I don’t know how to advise you.”<br>
 > — Richard Feynman
+
+---
+
+ <div class="hindi" lang="hi" dir="ltr">
+   <div class="verses">
+     <div class="line">जैसे कोई दर-ए-दिल पर हो सितादा कब से</div>
+     <div class="line">एक साया न दरूँ है न बरूँ है यूँ है</div>
+     <div class="poet">— अहमद फ़राज़</div>
+   </div>
+ </div>
 
 ---
 
@@ -85,6 +105,16 @@ _Richard Phillips Feynman_
 
 ---
 
+ <div class="hindi" lang="hi" dir="ltr">
+   <div class="verses">
+     <div class="line">तुम महब्बत में कहाँ सूद-ओ-ज़ियाँ ले आए</div>
+     <div class="line">इश्क़ का नाम ख़िरद है न जुनूँ है यूँ है</div>
+     <div class="poet">— अहमद फ़राज़</div>
+   </div>
+ </div>
+
+---
+
 ### The Collaboration
 - [ ] “There are three kinds of questions: One is how does it affect me? Another question is, how does it affect you? And then there’s a question: What are the stars made out of? Now, only the last kind are a real pleasure to talk to. Because the last kind has the same kind of curiosity as motivates you in the sciences. And so you kind of feel a kind of sympathy right away for that kind of question. And those people you can spend a lot of time with and tell them all about the stars, and they grin back, and they ask more questions. And that’s lots of fun.”
 - [ ] “In high energy physics, the experiments are so complicated and elaborate and require such expensive machines that almost all experiments are done by large teams. But when it comes to a realization of what an experiment might mean, or to inventing and producing a new clever way of doing something—that might be done by one fellow independently. Finally, good theoretical work seems to me to be much as it always has been—good ideas appear in individual brains, not in committee meetings. Of course, as always, reading others’ work or conversations and discussions with colleagues helps a lot in preliminary stages of thinking.”
@@ -94,6 +124,16 @@ _Richard Phillips Feynman_
 
 > “When you are young, you only want to go as fast as far and as deep as you can in one subject—all the others are neglected as being relatively uninteresting. But later on, when you get older, you find nearly everything is really interesting if you go into it deeply enough. Because what you learned as a youth was that some one thing is ever more interesting as you go deeper. Only later do you find it true of other things—ultimately everything too.”<br>
 > — Richard Feynman
+
+---
+
+ <div class="hindi" lang="hi" dir="ltr">
+   <div class="verses">
+     <div class="line">नासेहा तुझ को ख़बर क्या कि मोहब्बत क्या है</div>
+     <div class="line">रोज़ आ जाता है समझाता है यूँ है यूँ है</div>
+     <div class="poet">— अहमद फ़राज़</div>
+   </div>
+ </div>
 
 ---
 

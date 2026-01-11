@@ -50,9 +50,9 @@ _Richard Phillips Feynman_
  ---
 
 ### The Mood
+- [ ] “Don’t get me wrong—I’m not sad, I’m just not wildly happy.”
+- [ ] “They weren’t told because they didn’t want to hear any doubts or bad news.”
 - [ ] “The question I want to answer first is not whether we go back to Albuquerque or not, but rather in what frame of mind we should be when we decide to go back or not.”
-- [ ] “It soon became apparent that the testimony of higher management was a bit muddleheaded about why they weren’t told, why the system broke down, etc. They weren’t told because they didn’t want to hear any doubts or bad news.”
-- [ ] “You see, you always envied me when I didn’t get all sorrowful and despondent about bad things—but on the other hand, I don’t get the fun of leaping around for joy when things seem to be turning out good. Don’t get me wrong—I’m not sad, I’m just not wildly happy.”
 
 ---
 
@@ -63,7 +63,7 @@ _Richard Phillips Feynman_
 
 ### The Integrity
 - [ ] “You should, in science, believe logic and arguments, carefully drawn, and not authorities.”
-- [ ] “I still don’t know whether we have opposite viewpoints or any argument on the results of this experiment. In short, I don’t know what your viewpoint is. Therefore, I hope to hear your opinion clearly and simply stated in your next letter.”
+- [ ] “In short, I don’t know what your viewpoint is. Therefore, I hope to hear your opinion clearly and simply stated in your next letter.”
 - [ ] “One does not learn a subject by using the words that people who know the subject use in discussing it. One must learn how to handle the ideas and then, when the subtleties arise that require special language, that special language can be used and developed easily. In the meantime, clarity is the desire.”
 
 ---
@@ -85,8 +85,8 @@ _Richard Phillips Feynman_
 
 ### The Method
 - [ ] “All you have to do is, from time to time—in spite of everything, just try to examine a problem in a novel way. You won’t “stifle the creative process” if you remember to think from time to time. Don’t you have time to think?”
+- [ ] “I would advise you to take even simpler, or as you say, humbler, problems until you find some you can really solve easily, no matter how trivial. You will get the pleasure of success, and of helping your fellow man, even if it is only to answer a question in the mind of a colleague less able than you. You must not take away from yourself these pleasures because you have some erroneous idea of what is worthwhile.”
 - [ ] “What is the best method to obtain the solution to a problem? The answer is, any way that works. So, what we want in arithmetic textbooks is not to teach a particular way of doing every problem, but, rather, to teach what the original problem is, and to leave a much greater freedom in obtaining the answer—but, of course, no freedom as to what the right answer should be. That is to say, there may be several ways of adding 17 and 15 (or, rather, of obtaining the solution to the sum of 17 and 15), but there is only one correct answer.”
-- [ ] “The worthwhile problems are the ones you can really solve or help solve, the ones you can really contribute something to. A problem is grand in science if it lies before us unsolved, and we see some way for us to make a little headway into it. I would advise you to take even simpler, or as you say, humbler, problems until you find some you can really solve easily, no matter how trivial. You will get the pleasure of success, and of helping your fellow man, even if it is only to answer a question in the mind of a colleague less able than you. You must not take away from yourself these pleasures because you have some erroneous idea of what is worthwhile.”
 
 ---
 

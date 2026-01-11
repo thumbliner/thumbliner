@@ -46,6 +46,16 @@ cast [at] thumbliner [dot] com
 
 ---
 
+ <div class="hindi" lang="hi" dir="ltr">
+   <div class="verses">
+     <div class="line">जहाँ रहेगा वहीं रौशनी लुटाएगा</div>
+     <div class="line">किसी चराग़ का अपना मकाँ नहीं होता</div>
+     <div class="poet">— वसीम बरेलवी</div>
+   </div>
+ </div>
+ 
+---
+
 <div class="urdu" lang="ur" dir="rtl">
   <div class="verses">
     <div class="misra">سرِ کوئے نا شنایاں ہمیں دن سے رات کرنا</div>

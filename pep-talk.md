@@ -31,9 +31,9 @@ _Josep “Pep” Guardiola Sala_
 
 ---
 
-### On Standards
-- [ ] “If we don’t win, it’s my fault.”
-- [ ] “Our job is to convince the players that our way is the best way to cross the road.”
+### The Standard
+- [ ] “If I can’t explain it clearly, I don’t understand it well enough myself.”
+- [ ] “Criticize all you want. You will never be more critical of me than I am of myself.”
 - [ ] “I demand a lot because I give a lot. If you don’t want to meet my standards, you’re free to leave.”
 
 ---
@@ -43,9 +43,9 @@ _Josep “Pep” Guardiola Sala_
 
 ---
 
-### On Understanding
+### The Learning
 - [ ] “Understanding comes from repetition.”
-- [ ] “If I can’t explain it clearly, I don’t understand it well enough myself.”
+- [ ] “Our job is to convince the players that our way is the best way to cross the road.”
 - [ ] “I want players who are curious, who ask questions, who want to understand why we do things.”
 
 ---
@@ -58,7 +58,6 @@ _Josep “Pep” Guardiola Sala_
 ### On Mindset
 - [ ] “You have to learn to play football with courage.”
 - [ ] “Losing hurts. If it doesn't hurt, you're in the wrong profession.”
-- [ ] “Criticize all you want. You will never be more critical of me than I am of myself.”
 
 ---
 
@@ -68,7 +67,6 @@ _Josep “Pep” Guardiola Sala_
 ---
 
 ### On Process
-- [ ] “I don't worry about what others do. I focus on what we can control.”
 - [ ] “The goal is the consequence of the process. If the process is good, the goals will come.”
 - [ ] “The game is about space and time. That's all. How you use space, how you manage time.”
 

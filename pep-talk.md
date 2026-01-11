@@ -56,6 +56,7 @@ _Josep “Pep” Guardiola Sala_
 ---
 
 ### On Mindset
+- [ ] “If we don’t win, it’s my fault.”
 - [ ] “You have to learn to play football with courage.”
 - [ ] “Losing hurts. If it doesn't hurt, you're in the wrong profession.”
 

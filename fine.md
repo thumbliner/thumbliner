@@ -85,7 +85,7 @@ _Richard Phillips Feynman_
 
 ### The Method
 - [ ] “All you have to do is, from time to time—in spite of everything, just try to examine a problem in a novel way. You won’t “stifle the creative process” if you remember to think from time to time. Don’t you have time to think?”
-- [ ] “I would advise you to take even simpler, or as you say, humbler, problems until you find some you can really solve easily, no matter how trivial. You will get the pleasure of success, and of helping your fellow man, even if it is only to answer a question in the mind of a colleague less able than you. You must not take away from yourself these pleasures because you have some erroneous idea of what is worthwhile.”
+- [ ] “I would advise you to take even simpler, or as you say, humbler, problems until you find some you can really solve easily, no matter how trivial. You will get the pleasure of success, and of helping your fellow human, even if it is only to answer a question in the mind of a colleague less able than you. You must not take away from yourself these pleasures because you have some erroneous idea of what is worthwhile.”
 - [ ] “What is the best method to obtain the solution to a problem? The answer is, any way that works. So, what we want in arithmetic textbooks is not to teach a particular way of doing every problem, but, rather, to teach what the original problem is, and to leave a much greater freedom in obtaining the answer—but, of course, no freedom as to what the right answer should be. That is to say, there may be several ways of adding 17 and 15 (or, rather, of obtaining the solution to the sum of 17 and 15), but there is only one correct answer.”
 
 ---

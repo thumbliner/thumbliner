@@ -128,8 +128,8 @@ _A Curation (On Loop)_
 
 ---
 
-## **Vande Mataram** by A.R. Rahman
-#### Editor's Pick: 7. Thai Mannai Vanakkam
+## **Vande Mataram** by A.R. Rahman  
+### You Pick: 6. Missing or 7. Thai Mannai Vanakkam  
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
         frameborder="0"
         height="450"

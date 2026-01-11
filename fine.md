@@ -73,16 +73,6 @@ _Richard Phillips Feynman_
 
 ---
 
- <div class="hindi" lang="hi" dir="ltr">
-   <div class="verses">
-     <div class="line">नासेहा तुझको ख़बर क्या कि महब्बत क्या है</div>
-     <div class="line">रोज़ आजाता है समझाता है यूँ है यूँ है</div>
-     <div class="poet">— अहमद फ़राज़</div>
-   </div>
- </div>
-
----
-
 ### The Method
 - [ ] “All you have to do is, from time to time—in spite of everything, just try to examine a problem in a novel way. You won’t “stifle the creative process” if you remember to think from time to time. Don’t you have time to think?”
 - [ ] “I would advise you to take even simpler, or as you say, humbler, problems until you find some you can really solve easily, no matter how trivial. You will get the pleasure of success, and of helping your fellow human, even if it is only to answer a question in the mind of a colleague less able than you. You must not take away from yourself these pleasures because you have some erroneous idea of what is worthwhile.”

@@ -148,7 +148,7 @@ _Richard Phillips Feynman_
 
 ---
 
-> “We are not that much smarter than each other..”<br>
+> “We are not that much smarter than each other.”<br>
 > — Richard Feynman
 
 ---

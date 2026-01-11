@@ -28,7 +28,7 @@ _Richard Phillips Feynman_
 
  <div class="hindi" lang="hi" dir="ltr">
    <div class="verses">
-     <div class="line">अब किसी तौर से क़ाबू में नहीं आने का</div>
+     <div class="line">अब किसी तौर से ख़ाबू में नहीं आने का</div>
      <div class="line">ख़ल्क़ देखेगी तमाशा तेरे दीवाने का</div>
      <div class="line">बात कहता है कुछ ऐसी के न समझे कोई</div>
      <div class="line">ये भी एक ग़ौर-तलब रंग है दीवाने का</div>

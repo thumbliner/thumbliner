@@ -127,21 +127,21 @@ Built a community—writing, coding, and designing the experience—to learn and
 
 ---
 
- <div class="hindi" lang="hi" dir="ltr">
-   <div class="verses">
-     <div class="line">नहीं तेरा नशेमन क़स्र-ए-सुल्तानी के गुम्बद पर</div>
-     <div class="line">तू शाहीं है बसेरा कर पहाड़ों की चटानों में</div>
-     <div class="poet">— अल्लामा इक़बाल</div>
-   </div>
- </div>
-
----
-
 ### References & Portfolio
 
 - <a href="https://linkedin.com/in/thumbliner" target="_blank" rel="noopener noreferrer">LinkedIn</a>  
 - <a href="https://public.tableau.com/app/profile/thumbliner/vizzes" target="_blank" rel="noopener noreferrer">Tableau</a>  
 
+---
+
+ <div class="hindi" lang="hi" dir="ltr">
+   <div class="verses">
+     <div class="line">नासेहा तुझको ख़बर क्या कि महब्बत क्या है</div>
+     <div class="line">रोज़ आजाता है समझाता है यूँ है यूँ है</div>
+     <div class="poet">— अहमद फ़राज़</div>
+   </div>
+ </div>
+ 
 ---
 
 <div class="urdu" lang="ur" dir="rtl">

@@ -19,7 +19,7 @@ _High-Brow Meets Brainrot: A Loopy Mutation_
 
  <div class="hindi" lang="hi" dir="ltr">
    <div class="verses">
-     <div class="line">किस ने भीगे हुए बालों से ये झटका पानी</div>
+     <div class="line">किसने भीगे हुए बालों से ये झटका पानी</div>
      <div class="line">झूम कर आई घटा टूट के बरसा पानी</div>
      <div class="poet">— आरज़ू लखनवी</div>
    </div>

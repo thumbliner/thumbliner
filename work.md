@@ -116,6 +116,16 @@ Built a community—writing, coding, and designing the experience—to learn and
 
 ---
 
+ <div class="hindi" lang="hi" dir="ltr">
+   <div class="verses">
+     <div class="line">नहीं तेरा नशेमन क़स्र-ए-सुल्तानी के गुम्बद पर</div>
+     <div class="line">तू शाहीं है बसेरा कर पहाड़ों की चटानों में</div>
+     <div class="poet">— अल्लामा इक़बाल</div>
+   </div>
+ </div>
+
+---
+
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
         title="Music player: Old Friends by Howard Shore"
         frameborder="0" 

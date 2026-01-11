@@ -135,7 +135,7 @@ Keep a city alive under scarcity by securing food, producing heat, and passing p
 <div class="hindi" lang="hi" dir="ltr">
    <div class="verses">
      <div class="line">हो मेरा काम ग़रीबों की हिमायत करना</div>
-     <div class="line">दर्दमंदों से, ज़ईफ़ों से महब्बत करना</div>
+     <div class="line">दर्दमंदों से, ज़-ईफ़ों से महब्बत करना</div>
      <div class="poet">— अल्लामा इक़बाल</div>
    </div>
  </div>

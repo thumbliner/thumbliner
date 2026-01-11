@@ -73,7 +73,7 @@ Peace
 
  <div class="hindi" lang="hi" dir="ltr">
    <div class="verses">
-     <div class="line">हम आ गए हैं तह-ए-दाम तो नसीब अपना</div>
+     <div class="line">हम आगए हैं तह-ए-दाम तो नसीब अपना</div>
      <div class="line">वगरना उसने तो फेंका था जाल वैसे ही</div>
      <div class="line">मैं रोकना ही नहीं चाहता था वार उसका</div>
      <div class="line">गिरी नहीं मेरे हाथों से ढाल वैसे ही</div>

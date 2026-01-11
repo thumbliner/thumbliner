@@ -61,16 +61,6 @@ _Richard Phillips Feynman_
 
 ---
 
- <div class="hindi" lang="hi" dir="ltr">
-   <div class="verses">
-     <div class="line">उस का अपना ही करिश्मा है फ़ुसूँ है यूँ है</div>
-     <div class="line">यूँ तो कहने को सभी कहते हैं यूँ है यूँ है</div>
-     <div class="poet">— अहमद फ़राज़</div>
-   </div>
- </div>
-
----
-
 ### The Integrity
 - [ ] “You should, in science, believe logic and arguments, carefully drawn, and not authorities.”
 - [ ] “I still don’t know whether we have opposite viewpoints or any argument on the results of this experiment. In short, I don’t know what your viewpoint is. Therefore, I hope to hear your opinion clearly and simply stated in your next letter.”
@@ -85,8 +75,8 @@ _Richard Phillips Feynman_
 
  <div class="hindi" lang="hi" dir="ltr">
    <div class="verses">
-     <div class="line">जैसे कोई दर-ए-दिल पर हो सितादा कब से</div>
-     <div class="line">एक साया न दरूँ है न बरूँ है यूँ है</div>
+     <div class="line">नासेहा तुझ को ख़बर क्या कि मोहब्बत क्या है</div>
+     <div class="line">रोज़ आ जाता है समझाता है यूँ है यूँ है</div>
      <div class="poet">— अहमद फ़राज़</div>
    </div>
  </div>
@@ -124,16 +114,6 @@ _Richard Phillips Feynman_
 
 > “When you are young, you only want to go as fast as far and as deep as you can in one subject—all the others are neglected as being relatively uninteresting. But later on, when you get older, you find nearly everything is really interesting if you go into it deeply enough. Because what you learned as a youth was that some one thing is ever more interesting as you go deeper. Only later do you find it true of other things—ultimately everything too.”<br>
 > — Richard Feynman
-
----
-
- <div class="hindi" lang="hi" dir="ltr">
-   <div class="verses">
-     <div class="line">नासेहा तुझ को ख़बर क्या कि मोहब्बत क्या है</div>
-     <div class="line">रोज़ आ जाता है समझाता है यूँ है यूँ है</div>
-     <div class="poet">— अहमद फ़राज़</div>
-   </div>
- </div>
 
 ---
 

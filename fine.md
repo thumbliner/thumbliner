@@ -75,7 +75,7 @@ _Richard Phillips Feynman_
 
  <div class="hindi" lang="hi" dir="ltr">
    <div class="verses">
-     <div class="line">नासेहा तुझ को ख़बर क्या कि महब्बत क्या है</div>
+     <div class="line">नासेहा तुझको ख़बर क्या कि महब्बत क्या है</div>
      <div class="line">रोज़ आजाता है समझाता है यूँ है यूँ है</div>
      <div class="poet">— अहमद फ़राज़</div>
    </div>

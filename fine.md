@@ -148,6 +148,11 @@ _Richard Phillips Feynman_
 
 ---
 
+> “We are not that much smarter than each other..”<br>
+> — Richard Feynman
+
+---
+
 <div class="urdu" lang="ur" dir="rtl">
   <div class="verses">
     <div class="misra">بس کہ دشوار ہے ہر کام کا آساں ہونا</div>

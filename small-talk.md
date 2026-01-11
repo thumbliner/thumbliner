@@ -78,7 +78,7 @@ Peace
      <div class="line">मैं रोकना ही नहीं चाहता था वार उसका</div>
      <div class="line">गिरी नहीं मेरे हाथों से ढाल वैसे ही</div>
      <div class="line">मुझे भी शौक़ न था दास्तां सुनाने का</div>
-     <div class="line">फ़राज़ उस ने भी पूछा था हाल वैसे ही</div>
+     <div class="line">फ़राज़ उसने भी पूछा था हाल वैसे ही</div>
      <div class="poet">— अहमद फ़राज़</div>
    </div>
  </div>

@@ -90,7 +90,17 @@ Peace
 
 ---
 
-A
+ <div class="hindi" lang="hi" dir="ltr">
+   <div class="verses">
+     <div class="line">हर एक बात पे कहते हो तुम कि तू क्या है<div>
+     <div class="line">तुम्हीं कहो के ये अंदाज़-ए-गुफ़्तुगू क्या है</div>
+     <div class="line">रही न ताक़त-ए-गुफ़्तार और अगर हो भी</div>
+     <div class="line">तो किस उमीद पे कहिए कि आरज़ू क्या है<div>
+     <div class="misra">हुआ है शह का मुसाहिब फिरे है इतराता</div>
+     <div class="misra">वगर्ना शहर में ग़ालिब की आबरू क्या है</div>
+     <div class="poet">— मिर्ज़ा ग़ालिब</div>
+   </div>
+ </div>
 
 ---
 

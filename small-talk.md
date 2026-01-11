@@ -94,7 +94,15 @@ A
 
 ---
 
-B
+<div class="urdu" lang="ur" dir="rtl">
+  <div class="verses">
+    <div class="misra">پامالِ رہ گزر ہوں تجھے کچھ خبر بھی ہے</div>
+    <div class="misra">او مستِ ناز دیکھ یہاں میرا سر بھی ہے</div>
+    <div class="misra">موقوف تیرے سننے نہ سننے پہ ہے یہ حال</div>
+    <div class="misra">قصہ میرا دراز بھی ہے مختصر بھی ہے</div>
+    <div class="poet">— نادر دہلوی</div>
+  </div>
+</div>
 
 ---
 
@@ -112,12 +120,4 @@ B
 
 ---
 
-<div class="urdu" lang="ur" dir="rtl">
-  <div class="verses">
-    <div class="misra">پامالِ رہ گزر ہوں تجھے کچھ خبر بھی ہے</div>
-    <div class="misra">او مستِ ناز دیکھ یہاں میرا سر بھی ہے</div>
-    <div class="misra">موقوف تیرے سننے نہ سننے پہ ہے یہ حال</div>
-    <div class="misra">قصہ میرا دراز بھی ہے مختصر بھی ہے</div>
-    <div class="poet">— نادر دہلوی</div>
-  </div>
-</div>
+

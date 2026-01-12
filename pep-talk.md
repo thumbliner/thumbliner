@@ -15,6 +15,11 @@ _Josep “Pep” Guardiola Sala_
 
 ---
 
+> “The ball is our friend. We have to keep it and look after it.”<br>
+> — Pep Guardiola
+
+---
+
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
         title="Music player: Minions Universal Fanfare by Heitor Pereira"
         frameborder="0" 
@@ -23,11 +28,6 @@ _Josep “Pep” Guardiola Sala_
         sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" 
         src="https://embed.music.apple.com/song/universal-fanfare/1004731603">
 </iframe>
-
----
-
-> “The ball is our friend. We have to keep it and look after it.”<br>
-> — Pep Guardiola
 
 ---
 

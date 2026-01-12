@@ -97,9 +97,9 @@ _Richard Phillips Feynman_
 
  <div class="hindi" lang="hi" dir="ltr">
    <div class="verses">
-     <div class="line">तुम महब्बत में कहाँ सूद-ओ-ज़ियाँ ले आए</div>
-     <div class="line">इश्क़ का नाम ख़िरद है न जुनूँ है यूँ है</div>
-     <div class="poet">— अहमद फ़राज़</div>
+     <div class="line">मैं बुलाता तो हूँ उस को मगर ऐ जज़्बा-ए-दिल</div>
+     <div class="line">उस पे बन जाए कुछ ऐसी कि बिन आए न बने</div>
+     <div class="poet">— मिर्ज़ा ग़ालिब</div>
    </div>
  </div>
 
@@ -111,16 +111,6 @@ _Richard Phillips Feynman_
 - [ ] “Perhaps it is just that I enjoy being peculiar. My peculiarity is this: I find it psychologically very distasteful to judge people’s “merit.” So I cannot participate in the main activity of selecting people for membership. To be a member of a group, of which an important activity is to choose others deemed worthy of membership in that self-esteemed group, bothers me. The care with which we select “those worthy of the honor” of joining the Academy feels to me like a form of self-praise. How can we say only the best must be allowed in to join those who are already in, without loudly proclaiming to our inner selves that we who are in must be very good indeed. Of course, I believe I am very good indeed, but that is a private matter, and I cannot publicly admit that I do so, to such an extent that I have the nerve to decide that this human, or that, is not worthy of joining my elite club. Maybe I don’t explain it very well, but suffice to say that I am not happy as a member of a self-perpetuating honorary society.”
 
 ---
-
- <div class="hindi" lang="hi" dir="ltr">
-   <div class="verses">
-     <div class="line">मैं बुलाता तो हूँ उस को मगर ऐ जज़्बा-ए-दिल</div>
-     <div class="line">उस पे बन जाए कुछ ऐसी कि बिन आए न बने</div>
-     <div class="poet">— मिर्ज़ा ग़ालिब</div>
-   </div>
- </div>
-
- ---
 
 > “When you are young, you only want to go as fast as far and as deep as you can in one subject—all the others are neglected as being relatively uninteresting. But later on, when you get older, you find nearly everything is really interesting if you go into it deeply enough. Because what you learned as a youth was that some one thing is ever more interesting as you go deeper. Only later do you find it true of other things—ultimately everything too.”<br>
 > — Richard Feynman

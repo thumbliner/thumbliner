@@ -47,6 +47,11 @@ _Richard Phillips Feynman_
         src="https://embed.music.apple.com/song/fireflies/1440770878">
 </iframe>
 
+---
+
+> “We are not that much smarter than each other.”<br>
+> — Richard Feynman
+
  ---
 
 ### The Mood
@@ -145,8 +150,3 @@ _Richard Phillips Feynman_
     <div class="poet">— مرزا غالبؔ</div>
   </div>
 </div>
-
----
-
->> “We are not that much smarter than each other.”<br>
->> — Richard Feynman

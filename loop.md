@@ -44,6 +44,11 @@ Builds a model, tries a problem, gets it wrong, updates the model. Learning happ
 
 ---
 
+> “I know my heart, and have studied mankind.”<br>
+> — Jean-Jacques Rousseau
+
+---
+
  <div class="hindi" lang="hi" dir="ltr">
    <div class="verses">
      <div class="line">है जुस्तुजू कि ख़ूब से है ख़ूब-तर कहाँ</div>
@@ -92,11 +97,6 @@ At time $$t$$, each agent $$i$$ receives a local observation $$o_t^i$$ (includin
 
 ### Applied Epistemology
 The practice of making beliefs pay rent: build models of the world, and stay alert for special situations when life offers a mispriced bet against your reading. Apply what you think you know, to find out if it is really so. When you’re confident, stake something valuable and let the outcome grade your method. Learning becomes a game when your judgment carries the burden of uncertainty fr.
-
----
-
-> “I know my heart, and have studied mankind.”<br>
-> — Jean-Jacques Rousseau
 
 ---
 

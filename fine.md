@@ -108,7 +108,7 @@ _Richard Phillips Feynman_
 <div class="urdu" lang="ur" dir="rtl">
   <div class="verses">
     <div class="misra">کیوں میکدے میں شیخ جی بنتے ہو پارسا</div>
-    <div class="misra">نظریں بتا رہے ہیں کہ نیت خراب ہے</div>
+    <div class="misra">نظریں بتا رہی ہیں کہ نیت خراب ہے</div>
     <div class="poet">— فنا بلند شہری</div>
   </div>
 </div>

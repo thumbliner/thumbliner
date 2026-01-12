@@ -58,7 +58,7 @@ Let's be attuned and empathize.<br>
 You would not say so if you were a pure `insert label`.  
 Woah—you made me think this through.<br>
 
-Do you even care?  
+Does it even affect you? Do you even care?  
 Look. Listen.<br>
 
 Remember what happened in `insert millennia` B.C.?  

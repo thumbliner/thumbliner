@@ -9,14 +9,16 @@ permalink: /pep-talk/
 # Pep Talk
 _Josep “Pep” Guardiola Sala_
 
-**Role:** Manager, Manchester City Football Club  
-**Born:** 18 January 1971  
-**Birthplace:** Santpedor, Catalonia  
-
 ---
 
 > “The ball is our friend. We have to keep it and look after it.”<br>
 > — Pep Guardiola
+
+---
+
+**Role:** Manager, Manchester City Football Club  
+**Born:** 18 January 1971  
+**Birthplace:** Santpedor, Catalonia  
 
 ---
 

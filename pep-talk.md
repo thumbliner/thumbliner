@@ -72,16 +72,6 @@ _Josep “Pep” Guardiola Sala_
 
 ---
 
- <div class="hindi" lang="hi" dir="ltr">
-   <div class="verses">
-     <div class="line">तुम महब्बत में कहाँ सूद-ओ-ज़ियाँ ले आए</div>
-     <div class="line">इश्क़ का नाम ख़िरद है न जुनूँ है यूँ है</div>
-     <div class="poet">— अहमद फ़राज़</div>
-   </div>
- </div>
-
----
-
 > “In football, the worst thing you can do is lose the ball. We have to keep it at all times.”<br>
 > — Pep Guardiola
 
@@ -96,6 +86,16 @@ _Josep “Pep” Guardiola Sala_
 
 > “We score goals because we create chances. We create chances because we control the game. We control the game because we have the ball.”<br>
 > — Pep Guardiola
+
+---
+
+ <div class="hindi" lang="hi" dir="ltr">
+   <div class="verses">
+     <div class="line">तुम महब्बत में कहाँ सूद-ओ-ज़ियाँ ले आए</div>
+     <div class="line">इश्क़ का नाम ख़िरद है न जुनूँ है यूँ है</div>
+     <div class="poet">— अहमद फ़राज़</div>
+   </div>
+ </div>
 
 ---
 

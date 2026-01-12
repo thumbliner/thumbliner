@@ -73,6 +73,16 @@ _Richard Phillips Feynman_
 
 ---
 
+ <div class="hindi" lang="hi" dir="ltr">
+   <div class="verses">
+     <div class="line">नुक्ता-चीं है ग़म-ए-दिल उस को सुनाए न बने</div>
+     <div class="line">क्या बने बात जहाँ बात बनाए न बने</div>
+     <div class="poet">— मिर्ज़ा ग़ालिब</div>
+   </div>
+ </div>
+
+---
+
 ### The Method
 - [ ] “All you have to do is, from time to time—in spite of everything, just try to examine a problem in a novel way. You won’t “stifle the creative process” if you remember to think from time to time. Don’t you have time to think?”
 - [ ] “I would advise you to take even simpler, or as you say, humbler, problems until you find some you can really solve easily, no matter how trivial. You will get the pleasure of success, and of helping your fellow human, even if it is only to answer a question in the mind of a colleague less able than you. You must not take away from yourself these pleasures because you have some erroneous idea of what is worthwhile.”
@@ -102,8 +112,28 @@ _Richard Phillips Feynman_
 
 ---
 
+ <div class="hindi" lang="hi" dir="ltr">
+   <div class="verses">
+     <div class="line">मैं बुलाता तो हूँ उस को मगर ऐ जज़्बा-ए-दिल</div>
+     <div class="line">उस पे बन जाए कुछ ऐसी कि बिन आए न बने</div>
+     <div class="poet">— मिर्ज़ा ग़ालिब</div>
+   </div>
+ </div>
+
+ ---
+
 > “When you are young, you only want to go as fast as far and as deep as you can in one subject—all the others are neglected as being relatively uninteresting. But later on, when you get older, you find nearly everything is really interesting if you go into it deeply enough. Because what you learned as a youth was that some one thing is ever more interesting as you go deeper. Only later do you find it true of other things—ultimately everything too.”<br>
 > — Richard Feynman
+
+---
+
+ <div class="hindi" lang="hi" dir="ltr">
+   <div class="verses">
+     <div class="line">बोझ वो सर से गिरा है कि उठाए न उठे</div>
+     <div class="line">काम वो आन पड़ा है कि बनाए न बने</div>
+     <div class="poet">— मिर्ज़ा ग़ालिब</div>
+   </div>
+ </div>
 
 ---
 

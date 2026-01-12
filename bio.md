@@ -12,7 +12,7 @@ _अ म न    ·    ש ל ם   ·   س ل م   ·    ا م ن_
 
  <div class="hindi" lang="hi" dir="ltr">
    <div class="verses">
-     <div class="line">बिखरी पड़ी थीं टूट के कलियाँ ज़मीन पर</div>
+     <div class="line">बिखरी पड़ी थी टूट के कलियाँ ज़मीन पर</div>
      <div class="line">तरतीब दे के मैंने तेरा नाम लिख दिया</div>
      <div class="poet">— क़ैसर-उल-जाफ़री</div>
    </div>

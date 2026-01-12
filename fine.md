@@ -105,6 +105,19 @@ _Richard Phillips Feynman_
 
 ---
 
+<div class="urdu" lang="ur" dir="rtl">
+  <div class="verses">
+    <div class="misra">کیوں میکدے میں شیخ جی بنتے ہو پارسا</div>
+    <div class="misra">نظریں بتا رہے ہیں کہ نیت خراب ہے</div>
+    <div class="misra">پہلو میں ہے رقیب تمہارے خدا کی شان</div>
+    <div class="misra">کانٹا بھی ہے وہیں پہ جہاں پر گلاب ہے</div>
+    <div class="poet">— فنا بلند شہری</div>
+  </div>
+</div>
+
+
+---
+
 > “When you are young, you only want to go as fast as far and as deep as you can in one subject—all the others are neglected as being relatively uninteresting. But later on, when you get older, you find nearly everything is really interesting if you go into it deeply enough. Because what you learned as a youth was that some one thing is ever more interesting as you go deeper. Only later do you find it true of other things—ultimately everything too.”<br>
 > — Richard Feynman
 

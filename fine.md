@@ -15,7 +15,7 @@ _Richard Phillips Feynman_
 
 ---
 
-> “I look to the future neither with hope nor fear but with uncertainty as to what will be.”<br>
+> “We are not that much smarter than each other.”<br>
 > — Richard Feynman
 
 ---
@@ -37,10 +37,10 @@ _Richard Phillips Feynman_
 
 ---
 
-> “We are not that much smarter than each other.”<br>
+> “I look to the future neither with hope nor fear but with uncertainty as to what will be.”<br>
 > — Richard Feynman
 
- ---
+---
 
 ### The Mood
 - [ ] “Don’t get me wrong—I’m not sad, I’m just not wildly happy.”

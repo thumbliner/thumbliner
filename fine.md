@@ -117,16 +117,6 @@ _Richard Phillips Feynman_
 
 ---
 
- <div class="hindi" lang="hi" dir="ltr">
-   <div class="verses">
-     <div class="line">बोझ वो सर से गिरा है कि उठाए न उठे</div>
-     <div class="line">काम वो आन पड़ा है कि बनाए न बने</div>
-     <div class="poet">— मिर्ज़ा ग़ालिब</div>
-   </div>
- </div>
-
----
-
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
         title="Music player: Jao Pakhi by Pranab Biswas, Shreya Ghoshal, Aninda Chatterjee, Chandril Bhattacharya, and Shantanu Moitra"
         frameborder="0" 
@@ -138,8 +128,13 @@ _Richard Phillips Feynman_
 
 ---
 
-> “We are not that much smarter than each other.”<br>
-> — Richard Feynman
+ <div class="hindi" lang="hi" dir="ltr">
+   <div class="verses">
+     <div class="line">बोझ वो सर से गिरा है कि उठाए न उठे</div>
+     <div class="line">काम वो आन पड़ा है कि बनाए न बने</div>
+     <div class="poet">— मिर्ज़ा ग़ालिब</div>
+   </div>
+ </div>
 
 ---
 
@@ -150,3 +145,8 @@ _Richard Phillips Feynman_
     <div class="poet">— مرزا غالبؔ</div>
   </div>
 </div>
+
+---
+
+>> “We are not that much smarter than each other.”<br>
+>> — Richard Feynman

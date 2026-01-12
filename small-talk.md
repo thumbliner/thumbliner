@@ -33,7 +33,7 @@ So what have you been up to?
 Studying music and metaphor.<br>
 
 Do you agree with `insert trend`?  
-On that, I have no special views.<br>
+I don't know enough.<br>
 
 What is your philosophy of `insert subject`?  
 What about it?<br>

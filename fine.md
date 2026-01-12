@@ -75,7 +75,7 @@ _Richard Phillips Feynman_
 
  <div class="hindi" lang="hi" dir="ltr">
    <div class="verses">
-     <div class="line">नुक्ता-चीं है ग़म-ए-दिल उस को सुनाए न बने</div>
+     <div class="line">नुक्ता-चीं है ग़म-ए-दिल उसको सुनाए न बने</div>
      <div class="line">क्या बने बात जहाँ बात बनाए न बने</div>
      <div class="poet">— मिर्ज़ा ग़ालिब</div>
    </div>
@@ -97,8 +97,8 @@ _Richard Phillips Feynman_
 
  <div class="hindi" lang="hi" dir="ltr">
    <div class="verses">
-     <div class="line">मैं बुलाता तो हूँ उस को मगर ऐ जज़्बा-ए-दिल</div>
-     <div class="line">उस पे बन जाए कुछ ऐसी कि बिन आए न बने</div>
+     <div class="line">मैं बुलाता तो हूँ उसको मगर ऐ जज़्बा-ए-दिल</div>
+     <div class="line">उसपे बनजाए कुछ ऐसी कि बिन आए न बने</div>
      <div class="poet">— मिर्ज़ा ग़ालिब</div>
    </div>
  </div>

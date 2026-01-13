@@ -116,16 +116,6 @@ The practice of making beliefs pay rent: build models of the world, and stay ale
 
 ---
 
- <div class="hindi" lang="hi" dir="ltr">
-   <div class="verses">
-     <div class="line">इश्क़ फ़रमूदा-ए-क़ासिद से सुबुक-गाम-ए-अमल</div>
-     <div class="line">अक़्ल समझी ही नहीं मअनी-ए-पैग़ाम अभी</div>
-     <div class="poet">— अल्लामा इक़बाल</div>
-   </div>
- </div>
-
----
-
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
         title="Music player: What a Wonderful World - Single by Reuben And The Dark"
         frameborder="0" 
@@ -134,6 +124,16 @@ The practice of making beliefs pay rent: build models of the world, and stay ale
         sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" 
         src="https://embed.music.apple.com/song/what-a-wonderful-world/1835559014">
 </iframe>
+
+---
+
+ <div class="hindi" lang="hi" dir="ltr">
+   <div class="verses">
+     <div class="line">इश्क़ फ़रमूदा-ए-क़ासिद से सुबुक-गाम-ए-अमल</div>
+     <div class="line">अक़्ल समझी ही नहीं मअनी-ए-पैग़ाम अभी</div>
+     <div class="poet">— अल्लामा इक़बाल</div>
+   </div>
+ </div>
 
 ---
 

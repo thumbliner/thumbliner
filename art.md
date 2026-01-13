@@ -296,6 +296,18 @@ _A Curation (On Loop)_
 
 ---
 
+ <div class="hindi" lang="hi" dir="ltr">
+   <div class="verses">
+     <div class="line">मेरा क़लम नहीं मीज़ान ऐसे आदिल की</div>
+     <div class="line">जो अपने चेहरे पे दोहरा निक़ाब रखता है</div>
+     <div class="line">मेरा क़लम नहीं तस्बीह उस मुबल्लिग़ की</div>
+     <div class="line">जो बंदगी का भी हर दम हिसाब रखता है</div>
+     <div class="poet">— अहमद फ़राज़</div>
+   </div>
+ </div>
+
+---
+
 ## **O Noble Humans** by Sahir Ludhianvi
 Reciter: Raheel Farooq | English Translation in Subtitles
 <p>

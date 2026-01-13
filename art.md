@@ -267,6 +267,18 @@ _A Curation (On Loop)_
 
 ---
 
+ <div class="hindi" lang="hi" dir="ltr">
+   <div class="verses">
+     <div class="line">मुझे आप क्यों न समझ सके ये ख़ुद अपने दिल ही से पूछिए</div>
+     <div class="line">मिरी दास्तान-ए-हयात का तो वरक़-वरक़ है खुला हुआ</div>
+     <div class="line">हमें इस का कोई भी हक़ नहीं कि शरीक-ए-बज़्म-ए-ख़ुलूस हों</div>
+     <div class="line">न हमारे पास नक़ाब है न कुछ आस्तीन में छुपा हुआ</div>
+     <div class="poet">— इक़बाल अज़ीम</div>
+   </div>
+ </div>
+
+---
+
 ## **Attenborough’s Ant Mountain** by Joe Loncraine & Martin Dohrn  
 <p>
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">

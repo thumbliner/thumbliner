@@ -57,7 +57,7 @@ _A Curation (On Loop)_
 
 ---
 
-## *Devdas** by Ismail Darbar & Birju Maharaj
+## **Devdas** by Ismail Darbar & Birju Maharaj
 ### You Pick: 4. Bairi Piya or 5. Kaahe Chhed  
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
         frameborder="0"

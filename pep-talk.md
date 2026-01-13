@@ -55,7 +55,7 @@ _Josep “Pep” Guardiola Sala_
  <div class="hindi" lang="hi" dir="ltr">
    <div class="verses">
      <div class="line">इश्क़ पर ज़ोर नहीं है ये वो आतिश ग़ालिब</div>
-     <div class="line">कि लगाए न लगे और बुझाए न बने</div>
+     <div class="line">के लगाए न लगे और बुझाए न बने</div>
      <div class="poet">— मिर्ज़ा ग़ालिब</div>
    </div>
  </div>

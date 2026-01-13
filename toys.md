@@ -145,7 +145,7 @@ Keep a city alive under scarcity by securing food, producing heat, and passing p
 <div class="hindi" lang="hi" dir="ltr">
    <div class="verses">
      <div class="line">लौट जाती है उधर को भी नज़र क्या कीजे</div>
-     <div class="line">अब भी दिलकश है तिरा हुस्न मगर क्या कीजे</div>
+     <div class="line">अब भी दिलकश है तेरा हुस्न मगर क्या कीजे</div>
      <div class="poet">— फ़ैज़ अहमद फ़ैज़</div>
    </div>
  </div>

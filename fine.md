@@ -144,8 +144,8 @@ _Richard Phillips Feynman_
 
  <div class="hindi" lang="hi" dir="ltr">
    <div class="verses">
-     <div class="line">बोझ वो सर से गिरा है कि उठाए न उठे</div>
-     <div class="line">काम वो आन पड़ा है कि बनाए न बने</div>
+     <div class="line">बोझ वो सर से गिरा है के उठाए न उठे</div>
+     <div class="line">काम वो आन पड़ा है के बनाए न बने</div>
      <div class="poet">— मिर्ज़ा ग़ालिब</div>
    </div>
  </div>

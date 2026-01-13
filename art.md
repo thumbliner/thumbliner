@@ -180,7 +180,131 @@ _A Curation (On Loop)_
 
 ---
 
+## **Alleluia** by Soeur Marie Keyrouz & Chorale de l'Église Saint-Julien-le-Pauvre
+<iframe allow="encrypted-media *; fullscreen *; clipboard-write"
+        frameborder="0" 
+        height="175" 
+        style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" 
+        sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" 
+        src="https://embed.music.apple.com/song/alleluia-tropaire-de-la-venue-de-lepoux-lundi/1620694478">
+</iframe>
 
+---
+
+## **La traviata: "Sempre Libera"** by Diana Damrau, Piotr Beczala, Orchestra Teatro Regio Torino, & Gianandrea Noseda
+<iframe allow="encrypted-media *; fullscreen *; clipboard-write"
+        frameborder="0" 
+        height="175" 
+        style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" 
+        sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" 
+        src="https://embed.music.apple.com/song/la-traviata-sempre-libera-violetta-alfredo/971242301">
+</iframe>
+
+---
+
+## **I Could Have Done More** by John Williams, Itzhak Perlman, & Boston Symphony Orchestra
+<iframe allow="encrypted-media *; fullscreen *; clipboard-write"
+        frameborder="0" 
+        height="175" 
+        style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" 
+        sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" 
+        src="https://embed.music.apple.com/song/i-could-have-done-more/1440502983">
+</iframe>
+
+---
+
+## **The Last of the Starks** by Ramin Djawadi
+<iframe allow="encrypted-media *; fullscreen *; clipboard-write"
+        frameborder="0" 
+        height="175" 
+        style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" 
+        sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" 
+        src="https://embed.music.apple.com/song/the-last-of-the-starks/1464079250">
+</iframe>
+
+---
+
+ <div class="hindi" lang="hi" dir="ltr">
+   <div class="verses">
+     <div class="line">महफ़िल में आपकी हम कुछ और तो न लाए</div>
+     <div class="line">नग़मात में सजा कर जज़्बात ले के आए</div>
+     <div class="poet">— शिवन रिज़वी</div>
+   </div>
+ </div>
+
+---
+
+## **Raga Maru Bihag** by Shruti Sadolikar
+<iframe allow="encrypted-media *; fullscreen *; clipboard-write"
+        frameborder="0" 
+        height="175" 
+        style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" 
+        sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" 
+        src="https://embed.music.apple.com/song/raga-maru-bigag/80964202">
+</iframe>
+
+---
+
+## **La Aurora Nocturna (Live)** by Luis Delgado
+<iframe allow="encrypted-media *; fullscreen *; clipboard-write"
+        frameborder="0" 
+        height="175" 
+        style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" 
+        sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" 
+        src="https://embed.music.apple.com/song/la-aurora-nocturna-live/595774390">
+</iframe>
+
+---
+
+## **The Bare Necessities (Reprise)** by Sebastion Cabot & Phil Harris
+<iframe allow="encrypted-media *; fullscreen *; clipboard-write"
+        frameborder="0" 
+        height="175" 
+        style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" 
+        sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" 
+        src="https://embed.music.apple.com/song/the-bare-necessities-reprise/1467938374">
+</iframe>
+
+---
+
+ <div class="hindi" lang="hi" dir="ltr">
+   <div class="verses">
+     <div class="line">मुझे आप क्यों न समझ सके ये ख़ुद अपने दिल ही से पूछिए</div>
+     <div class="line">मेरी दास्तान-ए-हयात का तो वरक़-वरक़ है खुला हुआ</div>
+     <div class="line">हमें इस का कोई भी हक़ नहीं कि शरीक-ए-बज़्म-ए-ख़ुलूस हो</div>
+     <div class="line">न हमारे पास निक़ाब है न कुछ आस्तीन में छुपा हुआ</div>
+     <div class="poet">— इक़बाल अज़ीम</div>
+   </div>
+ </div>
+
+---
+
+## **Attenborough’s Ant Mountain** by Joe Loncraine & Martin Dohrn  
+<p>
+<div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">
+  <iframe
+    src="https://www.youtube-nocookie.com/embed/hhyy1hE-QWc?enablejsapi=1"
+    title="Attenborough’s Ant Mountain"
+    style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;"
+    allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen
+    loading="lazy"
+    referrerpolicy="strict-origin-when-cross-origin">
+  </iframe>
+</div>
+</p>
+
+---
+
+ <div class="hindi" lang="hi" dir="ltr">
+   <div class="verses">
+     <div class="line">मेरा क़लम नहीं मीज़ान ऐसे आदिल की</div>
+     <div class="line">जो अपने चेहरे पे दोहरा निक़ाब रखता है</div>
+     <div class="line">मेरा क़लम नहीं तस्बीह उस मुबल्लिग़ की</div>
+     <div class="line">जो बंदगी का भी हर दम हिसाब रखता है</div>
+     <div class="poet">— अहमद फ़राज़</div>
+   </div>
+ </div>
 
 ---
 

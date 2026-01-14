@@ -116,6 +116,11 @@ Built a community—writing, coding, and designing the experience—to learn and
 
 ---
 
+> “I have a habit (some might call it a compulsion) of analyzing how things work, examining their effects on people, and parsing out which elements are fundamentally compelling and which are just window dressing. Once you isolate the most interesting part of any given decision, then you’re ready to build an interactive experience for the player that feels fascinatingly new, yet comfortingly familiar. That’s my philosophy, anyway. It seems to have worked out pretty well.”<br>
+> — Sid Meier
+
+---
+
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
         title="Music player: Old Friends by Howard Shore"
         frameborder="0" 
@@ -124,11 +129,6 @@ Built a community—writing, coding, and designing the experience—to learn and
         sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" 
         src="https://embed.music.apple.com/song/old-friends-extended-version/1454398444">
 </iframe>
-
----
-
-> “I have a habit (some might call it a compulsion) of analyzing how things work, examining their effects on people, and parsing out which elements are fundamentally compelling and which are just window dressing. Once you isolate the most interesting part of any given decision, then you’re ready to build an interactive experience for the player that feels fascinatingly new, yet comfortingly familiar. That’s my philosophy, anyway. It seems to have worked out pretty well.”<br>
-> — Sid Meier
 
 ---
 

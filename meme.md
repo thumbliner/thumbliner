@@ -52,23 +52,6 @@ _High-Brow Meets Brainrot: A Loopy Mutation_
 
 ---
 
-> “Transitory”<br>
-> — Unknown
-
----
-
- <div class="hindi" lang="hi" dir="ltr">
-   <div class="verses">
-     <div class="line">ऐ वा'दा-शिकन ख़्वाब दिखाना ही नहीं था</div>
-     <div class="line">क्यूँ प्यार किया था जो निभाना ही नहीं था</div>
-     <div class="line">इस तरह मेरे हाथ से दामन न छुड़ाओ</div>
-     <div class="line">दिल तोड़ के जाना था तो आना ही नहीं था</div>
-     <div class="poet">— हफ़ीज़ जालंधरी</div>
-   </div>
- </div>
-
----
-
 <div class="urdu" lang="ur" dir="rtl">
   <div class="verses">
     <div class="misra">حاصلِ کُن ہے یہ جہانِ خراب</div>

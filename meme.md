@@ -69,6 +69,12 @@ _High-Brow Meets Brainrot: A Loopy Mutation_
 
 ---
 
+🦗🦗  
+   
+🚪
+
+---
+
 <div class="urdu" lang="ur" dir="rtl">
   <div class="verses">
     <div class="misra">حاصلِ کُن ہے یہ جہانِ خراب</div>
@@ -76,9 +82,3 @@ _High-Brow Meets Brainrot: A Loopy Mutation_
     <div class="poet">— جون ایلیا</div>
   </div>
 </div>
-
----
-
-🦗🦗  
-   
-🚪

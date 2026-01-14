@@ -52,7 +52,7 @@ _High-Brow Meets Brainrot: A Loopy Mutation_
 
 ---
 
-> “Personally I am very fond of strawberries and cream.”<br>
+> “Personally I am very fond of strawberries and cream”<br>
 > — Dale Carnegie
 
 ---

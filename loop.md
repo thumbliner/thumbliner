@@ -11,7 +11,7 @@ _The General in Particulars_
 
 ---
 
-> “All the world’s a stage,"<br>
+> “All the world’s a stage"<br>
 > — William Shakespeare
 
 ---

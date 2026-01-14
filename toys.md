@@ -213,8 +213,8 @@ Guide a civilization across eras by committing to technologies and institutions,
 
 ---
 
-> “Institutions are the rules of the game—organizations and their entrepreneurs are the players.”<br>
-> — Douglass C. North
+> “What we encourage is knowledge-seeking in itself, and ownership of one’s beliefs. We want you to understand that choices have consequences, that a country’s fate can turn on a single act of diplomacy, and that historical figures were not black-and-white paragons of good and evil—not because we’ve told you, but because you’ve faced those complex dilemmas for yourself.”<br>
+> — Sid Meier
 
 ---
 

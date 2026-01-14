@@ -59,8 +59,10 @@ _High-Brow Meets Brainrot: A Loopy Mutation_
 
  <div class="hindi" lang="hi" dir="ltr">
    <div class="verses">
-     <div class="line">ओ दिल तोड़ के जाने वाले दिल की बात बताता जा</div>
-     <div class="line">अब मैं दिल को क्या समझाऊँ तू मुझको समझाता जा</div>
+     <div class="line">ऐ वा'दा-शिकन ख़्वाब दिखाना ही नहीं था</div>
+     <div class="line">क्यूँ प्यार किया था जो निभाना ही नहीं था</div>
+     <div class="line">इस तरह मेरे हाथ से दामन न छुड़ाओ</div>
+     <div class="line">दिल तोड़ के जाना था तो आना ही नहीं था</div>
      <div class="poet">— हफ़ीज़ जालंधरी</div>
    </div>
  </div>

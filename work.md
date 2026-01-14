@@ -127,6 +127,11 @@ Built a community—writing, coding, and designing the experience—to learn and
 
 ---
 
+> “I have a habit (some might call it a compulsion) of analyzing how things work, examining their effects on people, and parsing out which elements are fundamentally compelling and which are just window dressing. Once you isolate the most interesting part of any given decision, then you’re ready to build an interactive experience for the player that feels fascinatingly new, yet comfortingly familiar. That’s my philosophy, anyway. It seems to have worked out pretty well.”<br>
+> — Sid Meier
+
+---
+
  <div class="hindi" lang="hi" dir="ltr">
    <div class="verses">
      <div class="line">नहीं तेरा नशेमन क़स्र-ए-सुल्तानी के गुम्बद पर</div>

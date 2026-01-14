@@ -116,7 +116,7 @@ Built a community—writing, coding, and designing the experience—to learn and
 
 ---
 
-> “I have a habit (some might call it a compulsion) of analyzing how things work, examining their effects on people, and parsing out which elements are fundamentally compelling and which are just window dressing. Once you isolate the most interesting part of any given decision, then you’re ready to build an interactive experience for the player that feels fascinatingly new, yet comfortingly familiar. That’s my philosophy, anyway. It seems to have worked out pretty well.”<br>
+> “Education is somebody else telling you what to think, while learning is opening yourself to new possibilities, and grasping a concept because you understand it on a personal level.”<br>
 > — Sid Meier
 
 ---

@@ -22,6 +22,11 @@ _Axioms & Monte Carlo_
 
 ---
 
+> “Anyone who tries to make a distinction between education and entertainment doesn’t know the first thing about either.”<br>
+> — Marshall McLuhan
+
+---
+
 ## **Farming Simulator** by Giants Software<br>
 Operate a farm through seasons by aligning machinery to fieldwork, managing inputs and rotations, and turning harvest into cashflow through storage, hauling, and processing.
 <p>
@@ -261,6 +266,11 @@ Run procedures and checklists, monitor instruments, handle navigation and commun
 
 ### Applied Epistemology
 - <a href="https://public.tableau.com/app/profile/thumbliner/vizzes" target="_blank" rel="noopener noreferrer">Tableau</a>
+
+---
+
+> “I find it mind-boggling that a life spent dedicated to gaming is the exception, rather than the rule.”<br>
+> — Sid Meier
 
 ---
 

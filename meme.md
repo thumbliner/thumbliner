@@ -57,6 +57,16 @@ _High-Brow Meets Brainrot: A Loopy Mutation_
 
 ---
 
+ <div class="hindi" lang="hi" dir="ltr">
+   <div class="verses">
+     <div class="line">ओ दिल तोड़ के जाने वाले दिल की बात बताता जा</div>
+     <div class="line">अब मैं दिल को क्या समझाऊँ मुझ को भी समझाता जा</div>
+     <div class="poet">— हफ़ीज़ जालंधरी</div>
+   </div>
+ </div>
+
+---
+
 <div class="urdu" lang="ur" dir="rtl">
   <div class="verses">
     <div class="misra">حاصلِ کُن ہے یہ جہانِ خراب</div>

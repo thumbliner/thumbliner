@@ -11,6 +11,11 @@ _The General in Particulars_
 
 ---
 
+> “All the world’s a stage,"<br>
+> — William Shakespeare
+
+---
+
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
         title="Music player: Ravel's Bolero by Boston Symphony Orchestra and Seiji Ozawa"
         frameborder="0" 
@@ -19,11 +24,6 @@ _The General in Particulars_
         sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" 
         src="https://embed.music.apple.com/song/bol%C3%A9ro/1440789783">
 </iframe>
-
----
-
-> “All the world’s a stage,"<br>
-> — William Shakespeare
 
 ---
 

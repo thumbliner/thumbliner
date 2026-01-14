@@ -93,8 +93,8 @@ Audencia Business School & Toulouse Business School
 
 ---
 
-> “I am impatient to set out for my solitude, for there the mind gains strength and learns to lean upon herself.”<br>
-> — Laurence Sterne
+> “I have never been truly suited for civil society, where everything is annoyance, obligation, and duty, ... my naturally independent temperament always made me incapable of the subjection necessary to anyone who wants to live among men.”<br>
+> — Jean-Jacques Rousseau
 
 ---
 
@@ -112,8 +112,8 @@ University of Geneva
 
 ---
 
-> “These hours of solitude and meditation are the only ones in the day during which I am fully myself and for myself, without diversion, without obstacle, and during which I can truly claim to be what nature willed.”<br>
-> — Jean-Jacques Rousseau
+> “I am impatient to set out for my solitude, for there the mind gains strength and learns to lean upon herself.”<br>
+> — Laurence Sterne
 
 ---
 

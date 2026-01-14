@@ -38,6 +38,11 @@ _High-Brow Meets Brainrot: A Loopy Mutation_
 
 ---
 
+> “All things are subject to the law of cause and effect.”<br>
+> — Carl Menger
+
+---
+
 <div class="embed-container"
     aria-label="Chart: Federal Funds Effective Rate.">
   <iframe
@@ -47,8 +52,7 @@ _High-Brow Meets Brainrot: A Loopy Mutation_
 
 ---
 
-> “All things are subject to the law of cause and effect.”<br>
-> — Carl Menger
+> “Transitory”<br>
 
 ---
 

@@ -57,6 +57,13 @@ _High-Brow Meets Brainrot: A Loopy Mutation_
 
 ---
 
+<img
+  src="{{ '/assets/images/oh_god_no.png' | relative_url }}"
+  alt="Static image; a salmon in a navy suit and glasses sits at a candlelit table with strawberries, cream, and a half-full wine glass. Warm, blurry lights glow behind it."
+  style="width:50%; height:auto;">
+
+---
+
 <div class="urdu" lang="ur" dir="rtl">
   <div class="verses">
     <div class="misra">حاصلِ کُن ہے یہ جہانِ خراب</div>

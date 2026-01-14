@@ -111,8 +111,8 @@ The practice of making beliefs pay rent: build models of the world, and stay ale
 
 ---
 
-> “What we have done wasn’t all that hard to do, and it’s not all that hard to explain. All that said and done, I think a lot of people just don’t get it.”<br>
-> — Charlie Munger
+> “Education is somebody else telling you what to think, while learning is opening yourself to new possibilities, and grasping a concept because you understand it on a personal level.”<br>
+> — Sid Meier
 
 ---
 
@@ -124,6 +124,11 @@ The practice of making beliefs pay rent: build models of the world, and stay ale
         sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" 
         src="https://embed.music.apple.com/song/what-a-wonderful-world/1835559014">
 </iframe>
+
+---
+
+> “What we have done wasn’t all that hard to do, and it’s not all that hard to explain. All that said and done, I think a lot of people just don’t get it.”<br>
+> — Charlie Munger
 
 ---
 

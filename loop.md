@@ -22,8 +22,7 @@ _The General in Particulars_
 
 ---
 
-> “All the world’s a stage,<br>
-> And all the men and women merely players;”<br>
+> “All the world’s a stage,"<br>
 > — William Shakespeare
 
 ---

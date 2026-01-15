@@ -16,16 +16,6 @@ To argue is to say, “I think this is true, and here is why.” An argument is 
 
 ---
 
- <div class="hindi" lang="hi" dir="ltr">
-   <div class="verses">
-     <div class="line">नाला है बुलबुल-ए-शोरीदा तेरा ख़ाम अभी</div>
-     <div class="line">अपने सीने में इसे और ज़रा थाम अभी</div>
-     <div class="poet">— अल्लामा इक़बाल</div>
-   </div>
- </div>
-
----
-
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
         title="Music player: Discombobulate from The Sherlock Holmes by Hans Zimmer"
         frameborder="0" 
@@ -34,6 +24,16 @@ To argue is to say, “I think this is true, and here is why.” An argument is 
         sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" 
         src="https://embed.music.apple.com/song/discombobulate/342564788">
 </iframe>
+
+---
+
+ <div class="hindi" lang="hi" dir="ltr">
+   <div class="verses">
+     <div class="line">नाला है बुलबुल-ए-शोरीदा तेरा ख़ाम अभी</div>
+     <div class="line">अपने सीने में इसे और ज़रा थाम अभी</div>
+     <div class="poet">— अल्लामा इक़बाल</div>
+   </div>
+ </div>
 
 ---
 

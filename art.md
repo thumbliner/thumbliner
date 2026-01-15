@@ -267,6 +267,11 @@ _A Curation (On Loop)_
 
 ---
 
+> “I know ways back that take forever.”<br>
+> — Aberama Gold, The Duel
+
+---
+
  <div class="hindi" lang="hi" dir="ltr">
    <div class="verses">
      <div class="line">मुझे आप क्यों न समझ सके ये ख़ुद अपने दिल ही से पूछिए</div>

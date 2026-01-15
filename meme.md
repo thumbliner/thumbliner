@@ -43,6 +43,7 @@ _High-Brow Meets Brainrot: A Loopy Mutation_
 
 ---
 
+## **Transitory** by Nature  
 <div class="embed-container"
     aria-label="Chart: Federal Funds Effective Rate.">
   <iframe

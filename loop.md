@@ -122,7 +122,7 @@ At time $$t$$, each agent $$i$$ receives a local observation $$o_t^i$$ (includin
 ## Z Axis
 
 ### Applied Epistemology
-The practice of building models of the world and staying alert for special situations when you are offered a bet that seems mispriced against your reading. Test if your belief holds up. If you are confident, put a valuable stake on the line and accept the outcome as a grade on your problem-solving method. Learning becomes a game when your judgment has to carry the burden of uncertainty fr.
+The practice of building models of the world and staying alert for special situations when you are offered a bet that seems mispriced against your reading. The kind that makes you jump out. Test if your belief holds up. If you are confident, put a valuable stake on the line and accept the outcome as a grade on your problem-solving method. Learning becomes a game when your judgment carries the burden of uncertainty fr.
 
 ---
 

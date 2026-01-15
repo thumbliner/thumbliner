@@ -94,13 +94,13 @@ At time $$t$$, each agent $$i$$ receives a local observation $$o_t^i$$ (includin
 
 ---
 
-<div class="urdu" lang="ur" dir="rtl">
-  <div class="verses">
-    <div class="misra">نہ میں سمجھا نہ آپ آئے کہیں سے</div>
-    <div class="misra">پسینہ پوچھیے اپنی جبیں سے</div>
-    <div class="poet">— انور دہلوی</div>
-  </div>
-</div>
+ <div class="hindi" lang="hi" dir="ltr">
+   <div class="verses">
+     <div class="line">न मैं समझा न आप आए कहीं से</div>
+     <div class="line">पसीना पोछिए अपनी जबीं से</div>
+     <div class="poet">— अनवर देहलवी</div>
+   </div>
+ </div>
 
 ---
 

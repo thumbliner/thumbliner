@@ -53,7 +53,7 @@ Any flaws?
 The standard.<br>
 
 Now let’s be outraged about `insert headline`.  
-Let's be attuned and empathize.<br>
+Let's empathize and stay attuned.<br>
 
 You would not say so if you were a pure `insert label`.  
 Woah—you made me think this through.<br>

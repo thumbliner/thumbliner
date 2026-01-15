@@ -24,7 +24,7 @@ A curious outsider in Canada. Thumbliner is a digital handle; and this is a non-
 
 Glad to have you! Look around, please judge, and share your picks.<br>
 
-Also, your questions are welcome. I will share what I can.<br>
+Also, all silly questions are welcome.<br>
 
 cast [at] thumbliner [dot] com
 

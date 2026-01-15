@@ -122,7 +122,7 @@ At time $$t$$, each agent $$i$$ receives a local observation $$o_t^i$$ (includin
 ## Z Axis
 
 ### Applied Epistemology
-The practice of building models of the world and staying alert for special situations when something jumps out at you. You can test your beliefs if you accept the outcome as a grade on your problem-solving method. It is something. Learning becomes a game when your judgment carries the burden of uncertainty fr.
+The practice of building models of the world and staying alert for special situations when something jumps out at you. You can test your beliefs if you accept the outcome as a grade on your problem-solving method. It is substance for inquiry. Learning becomes a game when your judgment carries the burden of uncertainty fr.
 
 ---
 

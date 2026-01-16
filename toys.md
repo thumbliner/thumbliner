@@ -147,6 +147,11 @@ Keep a city alive under scarcity by securing food, producing heat, and passing p
 
 ---
 
+> “There are no solutions. There are only trade-offs.”<br>
+> — Thomas Sowell
+
+---
+
 <div class="hindi" lang="hi" dir="ltr">
    <div class="verses">
      <div class="line">लौट जाती है उधर को भी नज़र क्या कीजे</div>
@@ -154,11 +159,6 @@ Keep a city alive under scarcity by securing food, producing heat, and passing p
      <div class="poet">— फ़ैज़ अहमद फ़ैज़</div>
    </div>
  </div>
-
----
-
-> “There are no solutions. There are only trade-offs.”<br>
-> — Thomas Sowell
 
 ---
 

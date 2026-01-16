@@ -162,16 +162,6 @@ Keep a city alive under scarcity by securing food, producing heat, and passing p
 
 ---
 
-<div class="urdu" lang="ur" dir="rtl">
-  <div class="verses">
-    <div class="misra">اور بھی دکھ ہیں زمانے میں محبت کے سوا</div>
-    <div class="misra">راحتیں اور بھی ہیں وصل کی راحت کے سوا</div>
-    <div class="poet">— فیض احمد فیضؔ</div>
-  </div>
-</div>
-
----
-
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
         title="Music player: Bread and Roses by Dawn Landes"
         frameborder="0" 
@@ -180,6 +170,16 @@ Keep a city alive under scarcity by securing food, producing heat, and passing p
         sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" 
         src="https://embed.music.apple.com/song/bread-and-roses-1912/1723065617">
 </iframe>
+
+---
+
+<div class="urdu" lang="ur" dir="rtl">
+  <div class="verses">
+    <div class="misra">اور بھی دکھ ہیں زمانے میں محبت کے سوا</div>
+    <div class="misra">راحتیں اور بھی ہیں وصل کی راحت کے سوا</div>
+    <div class="poet">— فیض احمد فیضؔ</div>
+  </div>
+</div>
 
 ---
 

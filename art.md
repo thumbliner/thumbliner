@@ -303,11 +303,11 @@ _A Curation (On Loop)_
 
  <div class="hindi" lang="hi" dir="ltr">
    <div class="verses">
-     <div class="line">मेरा क़लम नहीं मीज़ान ऐसे आदिल की</div>
-     <div class="line">जो अपने चेहरे पे दोहरा निक़ाब रखता है</div>
-     <div class="line">मेरा क़लम नहीं तस्बीह उस मुबल्लिग़ की</div>
-     <div class="line">जो बंदगी का भी हर दम हिसाब रखता है</div>
-     <div class="poet">— अहमद फ़राज़</div>
+     <div class="line">हम पे मुश्तरका हैं एहसान ग़म-ए-उल्फ़त के</div>
+     <div class="line">इतने एहसान कि गिनवाऊँ तो गिनवा न सकूँ</div>
+     <div class="line">हम ने इस इश्क़ में क्या खोया है क्या सीखा है</div>
+     <div class="line">जुज़ तेरे और को समझाऊँ तो समझा न सकूँ</div>
+     <div class="poet">— फ़ैज़ अहमद फ़ैज़</div>
    </div>
  </div>
 

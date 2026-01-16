@@ -119,16 +119,6 @@ Grow a city by balancing traffic, jobs, housing, commercial zoning, public servi
 
 ---
 
-<div class="hindi" lang="hi" dir="ltr">
-   <div class="verses">
-     <div class="line">हो मेरा काम ग़रीबों की हिमायत करना</div>
-     <div class="line">दर्दमंदों से, ज़-ईफ़ों से महब्बत करना</div>
-     <div class="poet">— अल्लामा इक़बाल</div>
-   </div>
- </div>
-
----
-
 ## **Frostpunk 2** by 11 Bit Studios<br>
 Keep a city alive under scarcity by securing food, producing heat, and passing policies that manage competing interests as tradeoffs tighten.
 <p>
@@ -145,6 +135,16 @@ Keep a city alive under scarcity by securing food, producing heat, and passing p
 </div>
 </p>
 
+---
+
+<div class="hindi" lang="hi" dir="ltr">
+   <div class="verses">
+     <div class="line">हो मेरा काम ग़रीबों की हिमायत करना</div>
+     <div class="line">दर्दमंदों से, ज़-ईफ़ों से महब्बत करना</div>
+     <div class="poet">— अल्लामा इक़बाल</div>
+   </div>
+ </div>
+ 
 ---
 
 > “There are no solutions. There are only trade-offs.”<br>

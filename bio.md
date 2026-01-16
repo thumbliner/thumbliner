@@ -22,9 +22,7 @@ _अ म न    ·    ש ל ם   ·   س ل م   ·    ا م ن_
 
 A curious outsider in Canada. Thumbliner is a digital handle; and this is a non-commercial space, packed with friends, and a grandmother.<br>
 
-Glad to have you! Look around, please judge, and share your picks.<br>
-
-All silly questions are welcome.<br>
+Glad to have you! Look around, please judge, and share your picks. All silly questions are welcome.<br>
 
 cast [at] thumbliner [dot] com
 

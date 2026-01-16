@@ -30,15 +30,15 @@ cast [at] thumbliner [dot] com
 
 ---
 
+> “Je pense, donc je suis.”<br>
+> —  René Descartes
+
+---
+
 <img
   src="{{ '/assets/images/CN.png' | relative_url }}"
   alt="Static image of Canadian street with street car, snow, and CN tower in the backdrop."
   style="width:100%; height:auto;">
-
----
-
-> “Je pense, donc je suis.”<br>
-> —  René Descartes
 
 ---
 

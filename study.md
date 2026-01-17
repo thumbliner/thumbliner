@@ -71,6 +71,17 @@ Amity University
 
 ---
 
+<iframe allow="encrypted-media *; fullscreen *; clipboard-write"
+        title="Music player: Masti Ki Paathshala by A.R. Rahman"
+        frameborder="0" 
+        height="175" 
+        style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" 
+        sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" 
+        src="https://embed.music.apple.com/song/masti-ki-paathshala/316981881">
+</iframe>
+
+---
+
 ### Master of Business  
 *2014  ·  United States*  
 Walden University
@@ -90,6 +101,17 @@ Walden University
 
 ---
 
+<iframe allow="encrypted-media *; fullscreen *; clipboard-write"
+        title="Music player: Greenback Boogie (Suits Main Title Edit) by Ima Robot and Christopher Tyng"
+        frameborder="0" 
+        height="175" 
+        style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" 
+        sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" 
+        src="https://embed.music.apple.com/song/greenback-boogie-suits-main-title-edit/1061823754">
+</iframe>
+
+---
+
 ### Doctorate in Business  
 *2018  ·  France*  
 Audencia Business School & Toulouse Business School
@@ -106,6 +128,17 @@ Audencia Business School & Toulouse Business School
 
 > “I have never been truly suited for civil society, where everything is annoyance, obligation, and duty, ... my naturally independent temperament always made me incapable of the subjection necessary to anyone who wants to live among men.”<br>
 > — Jean-Jacques Rousseau
+
+---
+
+<iframe allow="encrypted-media *; fullscreen *; clipboard-write"
+        title="Music player: Evenstar by Howard Shore"
+        frameborder="0" 
+        height="175" 
+        style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" 
+        sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" 
+        src="https://embed.music.apple.com/song/evenstar/297981091">
+</iframe>
 
 ---
 

@@ -36,6 +36,11 @@ International School Jeddah
 
 ---
 
+> “The market economy is like a delicate plant which needs a carefully tended soil.”<br>
+> — Wilhelm Röpke
+
+---
+
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
         title="Music player: Lab Pe Aati Hai Dua by Siza Roy and Jagjit Singh"
         frameborder="0" 
@@ -44,11 +49,6 @@ International School Jeddah
         sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" 
         src="https://embed.music.apple.com/song/lab-pe-aati-hai-dua-banke-tamanna-meri/1522321097">
 </iframe>
-
----
-
-> “The market economy is like a delicate plant which needs a carefully tended soil.”<br>
-> — Wilhelm Röpke
 
 ---
 
@@ -66,6 +66,11 @@ Amity University
 
 ---
 
+> “The successful investor is usually an individual who is inherently interested in business problems.”<br>
+> — Philip Fisher
+
+---
+
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
         title="Music player: Masti Ki Paathshala by A.R. Rahman"
         frameborder="0" 
@@ -74,11 +79,6 @@ Amity University
         sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" 
         src="https://embed.music.apple.com/song/masti-ki-paathshala/316981881">
 </iframe>
-
----
-
-> “The successful investor is usually an individual who is inherently interested in business problems.”<br>
-> — Philip Fisher
 
 ---
 

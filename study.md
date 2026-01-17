@@ -36,11 +36,6 @@ International School Jeddah
 
 ---
 
-> “The market economy is like a delicate plant which needs a carefully tended soil.”<br>
-> — Wilhelm Röpke
-
----
-
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
         title="Music player: Lab Pe Aati Hai Dua by Siza Roy and Jagjit Singh"
         frameborder="0" 
@@ -49,6 +44,11 @@ International School Jeddah
         sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" 
         src="https://embed.music.apple.com/song/lab-pe-aati-hai-dua-banke-tamanna-meri/1522321097">
 </iframe>
+
+---
+
+> “The market economy is like a delicate plant which needs a carefully tended soil.”<br>
+> — Wilhelm Röpke
 
 ---
 
@@ -66,11 +66,6 @@ Amity University
 
 ---
 
-> “The successful investor is usually an individual who is inherently interested in business problems.”<br>
-> — Philip Fisher
-
----
-
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
         title="Music player: Masti Ki Paathshala by A.R. Rahman"
         frameborder="0" 
@@ -79,6 +74,11 @@ Amity University
         sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" 
         src="https://embed.music.apple.com/song/masti-ki-paathshala/316981881">
 </iframe>
+
+---
+
+> “The successful investor is usually an individual who is inherently interested in business problems.”<br>
+> — Philip Fisher
 
 ---
 
@@ -96,11 +96,6 @@ Walden University
 
 ---
 
-> “Tout le malheur des hommes vient d’une seule chose, qui est de ne savoir pas demeurer en repos dans une chambre.”<br>
-> — Blaise Pascal
-
----
-
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
         title="Music player: Greenback Boogie (Suits Main Title Edit) by Ima Robot and Christopher Tyng"
         frameborder="0" 
@@ -109,6 +104,11 @@ Walden University
         sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" 
         src="https://embed.music.apple.com/song/greenback-boogie-suits-main-title-edit/1061823754">
 </iframe>
+
+---
+
+> “Tout le malheur des hommes vient d’une seule chose, qui est de ne savoir pas demeurer en repos dans une chambre.”<br>
+> — Blaise Pascal
 
 ---
 
@@ -126,11 +126,6 @@ Audencia Business School & Toulouse Business School
 
 ---
 
-> “I have never been truly suited for civil society, where everything is annoyance, obligation, and duty, ... my naturally independent temperament always made me incapable of the subjection necessary to anyone who wants to live among men.”<br>
-> — Jean-Jacques Rousseau
-
----
-
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
         title="Music player: Evenstar by Howard Shore"
         frameborder="0" 
@@ -139,6 +134,11 @@ Audencia Business School & Toulouse Business School
         sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" 
         src="https://embed.music.apple.com/song/evenstar/297981091">
 </iframe>
+
+---
+
+> “I have never been truly suited for civil society, where everything is annoyance, obligation, and duty, ... my naturally independent temperament always made me incapable of the subjection necessary to anyone who wants to live among men.”<br>
+> — Jean-Jacques Rousseau
 
 ---
 
@@ -156,11 +156,6 @@ University of Geneva
 
 ---
 
-> “I am impatient to set out for my solitude, for there the mind gains strength and learns to lean upon herself.”<br>
-> — Laurence Sterne
-
----
-
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
         title="Music player: I Can See Clearly Now by Jimmy Cliff"
         frameborder="0" 
@@ -169,6 +164,11 @@ University of Geneva
         sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" 
         src="https://embed.music.apple.com/song/i-can-see-clearly-now/185590294">
 </iframe>
+
+---
+
+> “I am impatient to set out for my solitude, for there the mind gains strength and learns to lean upon herself.”<br>
+> — Laurence Sterne
 
 ---
 

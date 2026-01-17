@@ -41,6 +41,17 @@ International School Jeddah
 
 ---
 
+<iframe allow="encrypted-media *; fullscreen *; clipboard-write"
+        title="Music player: Lab Pe Aati Hai Dua by Siza Roy and Jagjit Singh"
+        frameborder="0" 
+        height="175" 
+        style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" 
+        sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" 
+        src="https://embed.music.apple.com/song/lab-pe-aati-hai-dua-banke-tamanna-meri/1522321097">
+</iframe>
+
+---
+
 ### Bachelor of Business  
 *2012  ·  India*  
 Amity University

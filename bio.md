@@ -36,21 +36,6 @@ A curious outsider in Canada. Thumbliner is a digital handle; and this is a non-
 
 ---
 
- <div class="hindi" lang="hi" dir="ltr">
-   <div class="verses">
-     <div class="line">जहाँ रहेगा वहीं रौशनी लुटाएगा</div>
-     <div class="line">किसी चराग़ का अपना मकाँ नहीं होता</div>
-     <div class="poet">— वसीम बरेलवी</div>
-   </div>
- </div>
-
----
-
-> “The map is not the territory.”<br>
-> —  Alfred Korzybski
-
----
-
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
         title="Music player: Yeh Hai Bombay Meri Jaan by Mohd. Rafi, Geeta Dutt, and O.P. Nayyar"
         frameborder="0" 
@@ -59,6 +44,21 @@ A curious outsider in Canada. Thumbliner is a digital handle; and this is a non-
         sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" 
         src="https://embed.music.apple.com/song/yeh-hai-bombay-meri-jaan/1704807051">
 </iframe>
+
+---
+
+> “The map is not the territory.”<br>
+> —  Alfred Korzybski
+
+---
+
+ <div class="hindi" lang="hi" dir="ltr">
+   <div class="verses">
+     <div class="line">जहाँ रहेगा वहीं रौशनी लुटाएगा</div>
+     <div class="line">किसी चराग़ का अपना मकाँ नहीं होता</div>
+     <div class="poet">— वसीम बरेलवी</div>
+   </div>
+ </div>
 
 ---
 

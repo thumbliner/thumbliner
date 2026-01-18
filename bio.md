@@ -69,7 +69,7 @@ A curious outsider in Canada. Thumbliner is a digital handle; and this is a non-
 
  <div class="hindi" lang="hi" dir="ltr">
    <div class="verses">
-     <div class="line">वो जिस को पढ़ता नहीं कोई बोलते सब हैं</div>
+     <div class="line">वो जिसको पढ़ता नहीं कोई बोलते सब हैं</div>
      <div class="line">जनाब-ए-'मीर' भी कैसी ज़बान छोड़ गए</div>
      <div class="poet">— अनवर जलालपुरी</div>
    </div>

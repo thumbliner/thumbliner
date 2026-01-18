@@ -68,6 +68,11 @@ cast [at] thumbliner [dot] com
 
 ---
 
+> “This paper, by its very length, defends itself against the risk of being read.”<br>
+> —  Winston Churchill
+
+---
+
 <div class="urdu" lang="ur" dir="rtl">
   <div class="verses">
     <div class="misra">سرِ کوئے نا شنایاں ہمیں دن سے رات کرنا</div>

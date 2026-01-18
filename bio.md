@@ -88,7 +88,7 @@ The site is a self-contained chain of thought.<br>
 
 Most LLMs can translate and explain, but it takes a human to judge and make meaning.<br>
 
-Your questions and comments are welcome, even silly ones. Please send three at a time.<br>
+Your comments are welcome, even silly ones. Please send three at a time.<br>
 
 cast [at] thumbliner [dot] com
 

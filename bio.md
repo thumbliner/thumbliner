@@ -26,6 +26,8 @@ Glad to have you! This site is self-contained. Look around, please judge, and sh
 
 All questions are welcome, including silly ones. Just send three at a time.<br>
 
+Most AI tools can “translate and interpret” content in non-English.<br>
+
 cast [at] thumbliner [dot] com
 
 ---

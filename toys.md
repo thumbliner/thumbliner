@@ -114,8 +114,8 @@ Grow a city by balancing traffic, jobs, housing, commercial zoning, public servi
 
 ---
 
-> “As more individuals are produced than can possibly survive, there must in every case be a struggle for existence.”<br>
-> — Charles Darwin
+> “Our general strategy is to provide multiple points of view for understanding.”<br>
+> —  Katie Salen & Eric Zimmerman
 
 ---
 

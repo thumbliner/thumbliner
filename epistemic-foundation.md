@@ -68,7 +68,7 @@ Action is purposeful—you choose among options to reach goals you prefer. Becau
 ---
 
 ### The Argument Axiom
-When you choose argument as an action, you deal with disagreement by seeking common ground rather than resorting to force.[^3] This choice commits you to a shared method of inquiry: you offer reasons others can examine, and you treat their feedback as worthy of inspection. It also commits you to an ethic—your judgment must remain accountable to those reasons and constrained by coherence, meaning you can’t affirm claims that conflict with one another. These norms create the conditions that make it possible to evaluate claims as better or worse justified—and, where appropriate, as true or false—and to treat discourse as a practice of learning.
+When you choose argument over other methods, you commit to a collaborative method of inquiry[^3]: you put your arguments on the table for assessment, and treat feedback as worth taking seriously. You also take on an ethic of non-contradiction—your reasoning is constrained by coherence, so your claims must agree with one another. These norms create the conditions for a discourse in which ideas can be judged as better or worse justified—and, where appropriate, as true or false—and in which argument becomes a shared practice of learning.
 
 ---
 

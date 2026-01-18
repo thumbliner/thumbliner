@@ -26,8 +26,6 @@ Glad to have you! This site is self-contained. Look around, please judge, and sh
 
 All questions are welcome, including silly ones. Just send three at a time.<br>
 
-Most AI tools can “translate and interpret” content in non-English.<br>
-
 cast [at] thumbliner [dot] com
 
 ---
@@ -57,6 +55,10 @@ cast [at] thumbliner [dot] com
 
 > “The map is not the territory.”<br>
 > —  Alfred Korzybski
+
+---
+
+Large language models (LLMs) such as ChatGPT, Gemini, and Claude can “translate and interpret” multilingual text, but human judgment is what makes meaning.<br>
 
 ---
 

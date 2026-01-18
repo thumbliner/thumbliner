@@ -79,7 +79,7 @@ A curious outsider in Canada. Thumbliner is a digital handle; and this is a non-
 
 Glad to have you!<br>
 
-This site is self-contained. Most LLMs can translate and explain, but it takes a human to judge and make meaning.<br>
+The site is self-contained. Most LLMs can translate and explain, but it takes a human to judge and make meaning.<br>
 
 Your questions and ideas are welcome, even silly ones. Just send three at a time.<br>
 

@@ -77,6 +77,11 @@ A curious outsider in Canada. Thumbliner is a digital handle; and this is a non-
 
 ---
 
+> “We often think that when we have completed our study of one we know all about two, because ‘two’ is ‘one and one’. We forget that we have still to make a study of ‘and’.”<br>
+> —  Arthur Eddington
+
+---
+
 Glad to have you!<br>
 
 The site is a self-contained chain of thought.<br>

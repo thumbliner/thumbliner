@@ -29,12 +29,6 @@ _अ म न    ·    ש ל ם   ·   س ل م   ·    ا م ن_
 
 A curious outsider in Canada. Thumbliner is a digital handle; and this is a non-commercial space, packed with friends, and a grandma.<br>
 
-Glad to have you! This site is self-contained. Most LLMs can translate and explain, but it takes a human to judge and make meaning.<br>
-
-Your questions and ideas are welcome, even silly ones. Just send three at a time.<br>
-
-cast [at] thumbliner [dot] com
-
 ---
 
 > “Je pense, donc je suis.”<br>
@@ -70,6 +64,14 @@ cast [at] thumbliner [dot] com
 
 > “This paper, by its very length, defends itself against the risk of being read.”<br>
 > —  Winston Churchill
+
+---
+
+Glad to have you! This site is self-contained. Most LLMs can translate and explain, but it takes a human to judge and make meaning.<br>
+
+Your questions and ideas are welcome, even silly ones. Just send three at a time.<br>
+
+cast [at] thumbliner [dot] com
 
 ---
 

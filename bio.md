@@ -20,6 +20,13 @@ _अ म न    ·    ש ל ם   ·   س ل م   ·    ا م ن_
 
 ---
 
+<img
+  src="{{ '/assets/images/CN.png' | relative_url }}"
+  alt="Static image of Canadian street with street car, snow, and CN tower in the backdrop."
+  style="width:100%; height:auto;">
+  
+---
+
 A curious outsider in Canada. Thumbliner is a digital handle; and this is a non-commercial space, packed with friends, and a grandma.<br>
 
 Glad to have you! This site is self-contained. Please judge and see what you make of it.<br>
@@ -35,13 +42,6 @@ cast [at] thumbliner [dot] com
 > “Je pense, donc je suis.”<br>
 > —  René Descartes
 
----
-
-<img
-  src="{{ '/assets/images/CN.png' | relative_url }}"
-  alt="Static image of Canadian street with street car, snow, and CN tower in the backdrop."
-  style="width:100%; height:auto;">
-  
 ---
 
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"

@@ -22,9 +22,11 @@ _अ म न    ·    ש ל ם   ·   س ل م   ·    ا م ن_
 
 A curious outsider in Canada. Thumbliner is a digital handle; and this is a non-commercial space, packed with friends, and a grandma.<br>
 
-Glad to have you! This site is self-contained. Look around, please judge, and share your picks.<br>
+Glad to have you! This site is self-contained. Please judge and see what you make of it.<br>
 
-All questions are welcome, including silly ones. Just send three at a time.<br>
+All questions are welcome, even silly ones. Just send three at a time.<br>
+
+Most LLMs can translate well and give a useful first explanation.<br>
 
 cast [at] thumbliner [dot] com
 
@@ -39,7 +41,7 @@ cast [at] thumbliner [dot] com
   src="{{ '/assets/images/CN.png' | relative_url }}"
   alt="Static image of Canadian street with street car, snow, and CN tower in the backdrop."
   style="width:100%; height:auto;">
-
+  
 ---
 
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
@@ -58,10 +60,6 @@ cast [at] thumbliner [dot] com
 
 ---
 
-Large language models (LLMs) such as ChatGPT, Gemini, and Claude can “translate and interpret” multilingual text, but human judgment is what makes meaning.<br>
-
----
-
  <div class="hindi" lang="hi" dir="ltr">
    <div class="verses">
      <div class="line">जहाँ रहेगा वहीं रौशनी लुटाएगा</div>
@@ -69,7 +67,7 @@ Large language models (LLMs) such as ChatGPT, Gemini, and Claude can “translat
      <div class="poet">— वसीम बरेलवी</div>
    </div>
  </div>
- 
+
 ---
 
 <div class="urdu" lang="ur" dir="rtl">

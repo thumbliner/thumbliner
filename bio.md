@@ -70,6 +70,11 @@ cast [at] thumbliner [dot] com
 
 ---
 
+> “Our general strategy is to provide multiple points of view for understanding.”<br>
+> —  Katie Salen & Eric Zimmerman
+
+---
+
 <div class="urdu" lang="ur" dir="rtl">
   <div class="verses">
     <div class="misra">سرِ کوئے نا شنایاں ہمیں دن سے رات کرنا</div>

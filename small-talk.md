@@ -52,7 +52,7 @@ I am your fellow human.<br>
 Any flaws?  
 The standard.<br>
 
-Now let’s be outraged about `insert headline`.  
+Now let’s be outraged by `insert headline`.  
 Let's empathize and stay attuned.<br>
 
 You would not say so if you were a pure `insert label`.  

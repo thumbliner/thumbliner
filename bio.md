@@ -29,9 +29,9 @@ _अ म न    ·    ש ל ם   ·   س ل م   ·    ا م ن_
 
 A curious outsider in Canada. Thumbliner is a digital handle; and this is a non-commercial space, packed with friends, and a grandma.<br>
 
-Glad to have you! This site is self-contained. Most LLMs can translate and give a useful first explanation. But it takes a human to judge. See what you make of it.<br>
+Glad to have you! This site is self-contained. Most LLMs can translate and explain, but it takes a human to judge and make meaning.<br>
 
-All questions are welcome, even silly ones. Just send three at a time.<br>
+Your questions and ideas are welcome, even silly ones. Just send three at a time.<br>
 
 cast [at] thumbliner [dot] com
 

@@ -77,7 +77,12 @@ _A Curation (On Loop)_
    </div>
  </div>
 
- ---
+---
+
+> “Take a simple idea and take it seriously.”<br>
+> — Charlie Munger
+
+---
 
 ## **Hourglass** by Garth Stevenson
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"

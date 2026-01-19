@@ -239,6 +239,11 @@ _A Curation (On Loop)_
 
 ---
 
+> “Time is a necessary representation, lying at the foundation of all our intuitions.”<br>
+> — Immanuel Kant
+
+---
+
 ## **Raga Maru Bihag** by Shruti Sadolikar
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
         frameborder="0" 

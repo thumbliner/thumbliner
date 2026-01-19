@@ -69,11 +69,6 @@ _A Curation (On Loop)_
 
 ---
 
-> “Take a simple idea and take it seriously.”<br>
-> — Charlie Munger
-
----
-
  <div class="hindi" lang="hi" dir="ltr">
    <div class="verses">
      <div class="line">राह पर उन को लगा लाए तो हैं बातों में</div>
@@ -81,6 +76,11 @@ _A Curation (On Loop)_
      <div class="poet">— दाग़ देहलवी</div>
    </div>
  </div>
+
+---
+
+> “Take a simple idea and take it seriously.”<br>
+> — Charlie Munger
 
 ---
 

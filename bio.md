@@ -84,7 +84,7 @@ A curious outsider in Canada. Thumbliner is his digital handle; and this is a no
 
 Glad to have you!<br>
 
-The site is a self-contained chain of thought.<br>
+The site is a self-contained frame of thought.<br>
 
 Most LLMs can translate and explain, but it takes a human to judge and make meaning.<br>
 

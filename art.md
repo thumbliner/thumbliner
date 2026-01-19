@@ -58,7 +58,7 @@ _A Curation (On Loop)_
 ---
 
 ## **Kalank** by Pritam
-### You Pick: 8. Ghar More Pardesiya (Radio Edit) or 10. Kalank (Bonus Track) 
+### You Pick: 1. Ghar More Pardesiya or 10. Kalank (Bonus Track) 
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
         frameborder="0"
         height="450"

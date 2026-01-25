@@ -71,7 +71,7 @@ Glad to have you!<br>
 
 The site is a self-contained frame of thought.<br>
 
-Most LLMs can translate and explain, but it takes a human to judge and make meaning.<br>
+Even A.I. can translate and explain, but it takes a human to judge and make meaning.<br>
 
 Your comments are welcome, even silly ones. Please send three at a time.<br>
 

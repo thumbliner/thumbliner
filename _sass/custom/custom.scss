@@ -1,0 +1,251 @@
+/* global size bump for Garamond’s x-height */
+html { font-size: 17px; }
+@media (min-width: 1100px) { html { font-size: 18px; } }
+
+/* Make the footer a tad smaller */
+.site-footer { font-size: 0.8rem; }
+
+
+/* Header (top-left) logo/title: no visual change and no hand cursor */
+.side-bar .site-header a,
+.side-bar .site-header a:link,
+.side-bar .site-header a:visited,
+.side-bar .site-header a:hover,
+.side-bar .site-header a:focus,
+.side-bar .site-header a:active {
+  color: inherit;
+  text-decoration: none;
+  background: transparent;
+  box-shadow: none;
+  outline: none;
+  transition: none;
+  cursor: default; /* kill the hand cursor */
+}
+
+/* Sidebar + top nav should NOT be burgundy */
+.nav-list .nav-list-link,
+.site-nav .nav-list .nav-list-link {
+  color: inherit;           /* use body text color */
+  text-decoration: none;    /* nav items usually not underlined */
+}
+.nav-list .nav-list-link:visited,
+.site-nav .nav-list .nav-list-link:visited {
+  color: inherit;
+}
+.nav-list .nav-list-link:hover,
+.nav-list .nav-list-link:focus,
+.site-nav .nav-list .nav-list-link:hover,
+.site-nav .nav-list .nav-list-link:focus {
+  color: inherit;
+  text-decoration: none;
+}
+.nav-list .nav-list-link.active,
+.site-nav .nav-list .nav-list-link.active {
+  color: inherit;
+  font-weight: 600;           /* rely on weight (not color) for active */
+}
+
+/* Sidebar footer: indent to match nav items */
+.side-bar .nav-footer {
+  padding-right: 1rem;
+  margin-bottom: 1.25rem;
+  line-height: 1.3;
+  text-align: left;
+}
+@media (max-width: 65.999rem) { .side-bar .nav-footer { padding-left: 1rem; } }
+@media (min-width: 66rem) { .side-bar .nav-footer { padding-left: 1.25rem; } }
+
+/* Footer line in sidebar: non-interactive look */
+.side-bar .nav-footer a {
+  color: inherit;
+  text-decoration: none;
+  cursor: default;
+}
+
+.subtitle {
+  margin-top: -0.25rem;
+  font-size: 1.05rem;
+  font-weight: 300;
+  color: #6b7280; /* NOTE: if you want this color tokenized, move to brand.css */
+}
+
+
+/* Hairline separators like Just the Docs (fixed 1px) */
+
+/* Sidebar/content vertical rule */
+.side-bar { border-right: 1px solid var(--jtd-border-color, #e5e5e5); }
+
+/* Header/footer rules (if your theme shows them) */
+.site-header, .main-header { border-bottom: 1px solid var(--jtd-border-color, #e5e5e5); }
+.site-footer { border-top: 1px solid var(--jtd-border-color, #e5e5e5); }
+
+/* Any horizontal rules inside content */
+.main-content hr { border: 0; height: 1px; background: var(--jtd-border-color, #e5e5e5); }
+
+
+/* ===== Urdu / Nastaliq ===== */
+
+$urdu-font-family: "Noto Nastaliq Urdu", "Noto Naskh Arabic", "Segoe UI Historic", serif;
+
+:root {
+  --tk-urdu-font: #{$urdu-font-family};
+  --urdu-leading: 2.4; /* tighter overall; tweak 1.85–2.0 to taste */
+}
+
+/* Base container */
+.urdu,
+[lang="ur"] {
+  direction: rtl;
+  text-align: right;
+  font-family: var(--tk-urdu-font);
+  line-height: var(--urdu-leading);
+  color: $tk-gray-6; // #9CA1A1 – lighter than $tk-gray-9 for quote-style text
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Neutralize theme margins inside the block so spacing is only line-height */
+.urdu,
+.urdu * {
+  margin: 0;
+}
+
+/* Verses: plain stack, no width hacks */
+.urdu .verses {
+  margin: 0;
+}
+
+/* Each line (misra): own line, right-aligned */
+.urdu .misra {
+  display: block;
+  font-size: 1.00rem;
+  line-height: 2.5;
+}
+
+/* Poet credit: small, modest gap above */
+.urdu .poet {
+  display: block;
+  margin-top: 0.35rem;
+  font-size: 0.80rem;
+  line-height: 2.4;
+}
+
+
+/* ===== Hindi / Devanagari — Mukta ===== */
+
+$hindi-font-family: "Mukta", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+
+:root {
+  --tk-hindi-font: #{$hindi-font-family};
+  --hindi-leading: 2.0; /* tweak ~1.7–2.0 to taste */
+}
+
+/* Base container */
+.hindi,
+[lang="hi"] {
+  direction: ltr;
+  text-align: left;
+  font-family: var(--tk-hindi-font);
+  line-height: var(--hindi-leading);
+  color: $tk-gray-6; // #9CA1A1 – lighter than $tk-gray-9 for quote-style text
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Neutralize theme margins inside the block so spacing is only line-height */
+.hindi,
+.hindi * {
+  margin: 0;
+}
+
+/* Verses / lines container */
+.hindi .verses {
+  margin: 0;
+}
+
+/* Each line (pankti): own line, left-aligned */
+.hindi .line {
+  display: block;
+  font-size: 1.00rem;
+}
+
+/* Poet credit: small, modest gap above */
+.hindi .poet {
+  display: block;
+  margin-top: 0.35rem;
+  font-size: 0.80rem;
+}
+
+
+
+/* --- TABLES: structure & behavior (colors pulled from brand.css vars) --- */
+.page-content table,
+.post-content table,
+article table {
+  width: 100%;
+  border-collapse: collapse;
+  font-variant-numeric: tabular-nums;
+  background: var(--tk-table-bg);              /* color from brand.css */
+}
+
+/* cells */
+.page-content th, .page-content td,
+.post-content th, .post-content td,
+article th, article td {
+  padding: 0.55rem 0.7rem;
+  border-bottom: 1px solid var(--tk-table-border);  /* color from brand.css */
+  vertical-align: top;
+  line-height: 1.45;
+}
+
+/* header row */
+.page-content thead th,
+.post-content thead th,
+article thead th {
+  text-align: left;
+  font-weight: 600;
+  background: var(--tk-table-header-bg);       /* color from brand.css */
+  position: sticky;
+  top: 0;
+}
+
+/* zebra striping */
+.page-content tbody tr:nth-child(odd),
+.post-content tbody tr:nth-child(odd),
+article tbody tr:nth-child(odd) {
+  background: var(--tk-table-row-alt);         /* color from brand.css */
+}
+
+/* links inside tables: layout safeguards only */
+.page-content td a,
+.post-content td a,
+article td a {
+  word-break: break-word;
+  overflow-wrap: anywhere;
+  text-underline-offset: 2px;
+}
+
+/* optional per-table ergonomics (no colors) */
+table .year { text-align: right; white-space: nowrap; width: 6ch; }
+table .link, table .comments { white-space: nowrap; }
+
+/* Mobile: horizontal pan if needed */
+@media (max-width: 720px) {
+  .page-content table,
+  .post-content table,
+  article table {
+    display: block;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    white-space: nowrap;
+  }
+}
+
+/* Ensure table headers use body font (not UI font) */
+.page-content thead th,
+.post-content thead th,
+article thead th {
+  font-family: "EB Garamond", serif; /* or simply `inherit` if you prefer */
+  font-weight: 600;
+  letter-spacing: 0.01em;
+}

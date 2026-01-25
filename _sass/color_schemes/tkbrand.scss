@@ -1,0 +1,119 @@
+/* ==========================================================================
+   Just the Docs Color Scheme: tkbrand (Light, Warm)
+   --------------------------------------------------------------------------
+   PURPOSE
+   - Apply Thumbliner tokens to Just-the-Docs theme variables.
+   - Keep UI readable for long-form docs.
+   - Sidebar remains cream to visually separate navigation from content.
+
+   KEY INTENT
+   - Links: Burgundy (distinct; editorial).
+   - Buttons: Teal (actions are not links).
+   - Headings: Mostly Navy, Deep Teal for prominent titles.
+   - Surfaces: Paper (content), Cream (sidebar), Sand Tint (code/panels).
+   - Borders: Quiet Gray 4; avoid heavy separators.
+   ========================================================================== */
+
+@import "./color_schemes/light"; // base on light
+
+/* --- Surfaces (calm, readable) --- */
+$body-background-color:   $tk-gray-0;   // main “paper” background
+$sidebar-color:           $tk-cream;    // keep cream sidebar
+$code-background-color:   $tk-cream-2;  // code blocks / subtle panels
+$table-background-color:  $body-background-color;
+
+/* --- Typography --- */
+$body-text-color:         $tk-gray-9;   // default body text
+$body-heading-color:      $tk-navy;     // general headings (h2–h6)
+$muted-text-color:        $tk-gray-6;   // captions, meta, breadcrumbs
+
+/* Reserve Deep Teal for BIG titles only (usage guidance, not enforced): */
+// h1, hero, or key section titles may be styled via custom CSS:
+// .page-title { color: $tk-deep-teal; }
+
+/* --- Links (distinct from buttons) --- */
+// Default: Burgundy links (editorial feel)
+$link-color:              $tk-link;
+$link-visited-color:      $tk-link;
+$link-hover-color:        $tk-navy; // calm brand hover
+$focus-color:             $tk-teal;      // accessible focus ring
+
+/* Optional: switch to Orange links by uncommenting below. Keep buttons teal.
+$link-color:              $tk-link-orange;
+$link-visited-color:      $tk-link-orange;
+*/
+
+/* --- Borders & rules (quiet) --- */
+$border-color:            $tk-gray-4;
+
+/* --- Buttons (actions ≠ links) --- */
+$btn-primary-color:         $tk-teal;     // primary CTA
+$btn-primary-text-color:    #ffffff;
+$btn-primary-border-color:  $tk-teal;
+$btn-outline-color:         $tk-deep-teal; // secondary CTA
+$btn-outline-text-color:    $tk-deep-teal;
+
+/* --- Search --- */
+$search-background-color:    $tk-gray-0;
+$search-result-preview-color: $tk-warm-600;
+
+/* --- Callouts (subtle; not shouting) --- */
+$feedback-color:             $tk-accent-lime; // “notice” style
+$callouts-level:             quiet;
+
+/* --- Intent-exposed CSS variables (COLORS ONLY) -------------------------- */
+/* Tables */
+:root {
+  /* table sits on paper, not sidebar */
+  --tk-table-bg: #{$table-background-color};
+  --tk-table-header-bg: #{$table-background-color};
+
+  /* quiet separators & zebra derived from border token */
+  --tk-table-border: #{$border-color};
+  /* subtle row alt using border color so contrast tracks theme */
+  --tk-table-row-alt: color-mix(in srgb, #{$border-color} 28%, transparent);
+}
+
+/* Selection */
+::selection { background: $tk-cream-2; color: $body-text-color; }
+::-moz-selection { background: $tk-cream-2; color: $body-text-color; }
+
+
+
+/* fonts (variables only) */
+$body-font-family: "EB Garamond", serif;
+$mono-font-family: monospace;
+
+/* UI font (Lato) */
+:root { --tk-ui-font: "Lato", sans-serif; }
+.site-title, .site-nav, .side-bar, .nav-list, .breadcrumbs,
+.search, .search-input, .btn, .button, .pagination, .label, .badge,
+.toc, .toc-entry, .site-footer { font-family: var(--tk-ui-font); }
+
+/* Urdu font (variables only) */
+$urdu-font-family: "Noto Nastaliq Urdu", "Noto Naskh Arabic", "Segoe UI Historic", serif;
+
+/* Expose as a CSS var for easy use in CSS-only contexts */
+:root { --tk-urdu-font: #{$urdu-font-family}; }
+
+/* Hindi font (Mukta, variables only) */
+$hindi-font-family: "Mukta", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+
+/* Expose as a CSS var for easy use in CSS-only contexts */
+:root { --tk-hindi-font: #{$hindi-font-family}; }
+
+
+/* Sidebar nav affordances */
+.side-bar .nav-list .nav-list-item > .nav-list-link.active { color: $tk-gray-9; }
+.side-bar .nav-list .nav-list-item > .nav-list-link:hover { color: $tk-gray-9; }
+$tk-sidebar-nav-highlight: $tk-warm-300;
+.side-bar .nav-list .nav-list-item > .nav-list-link.active { background: $tk-sidebar-nav-highlight !important; }
+.side-bar .nav-list .nav-list-item > .nav-list-link:hover  { background: $tk-sidebar-nav-highlight !important; }
+
+/* Utilities */
+.special-box {
+  background: $tk-box;
+  border: 1px solid $tk-gray-4;
+  padding: 0.75rem 1rem;
+  border-radius: 4px;
+}

@@ -1,0 +1,18 @@
+title: "Thumbliner"
+description: "A practice."
+url: "https://thumbliner.com"
+baseurl: ""   # keep empty since you'll serve from the root
+
+remote_theme: just-the-docs/just-the-docs
+plugins:
+  - jekyll-remote-theme
+  
+search_enabled: true
+color_scheme: light   # auto = follows user’s light/dark preference
+
+logo: "/assets/images/logo.png"
+favicon_ico: "/favicon.ico"
+
+color_scheme: tkbrand
+
+math: mathjax

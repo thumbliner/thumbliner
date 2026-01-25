@@ -1,5 +1,0 @@
-- Tokens live in `_sass/custom/setup.scss` with philosophy comments.
-- Theme variable mapping lives in `_sass/color_schemes/tkbrand.scss`.
-- Use burgundy for links (or switch to orange by toggling the commented block).
-- Buttons are teal; headings mostly navy; reserve deep teal for big titles.
-- Avoid gradients; keep sidebar cream.

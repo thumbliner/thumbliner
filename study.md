@@ -11,6 +11,17 @@ _Formal-ish Education_
 
 ---
 
+<iframe allow="encrypted-media *; fullscreen *; clipboard-write"
+        title="Music player: Tala'al Badru 'Alayna by Olivia Newton-John"
+        frameborder="0" 
+        height="175" 
+        style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" 
+        sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" 
+        src="https://embed.music.apple.com/song/talaal-badru-alayna-interlude/1599981496">
+</iframe>
+
+---
+
 ### School  
 *2009  ·  Saudi Arabia*  
 International School Jeddah
@@ -31,12 +42,12 @@ International School Jeddah
 ---
 
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
-        title="Music player: Tala'al Badru 'Alayna by Olivia Newton-John"
+        title="Music player: Masti Ki Paathshala by A.R. Rahman"
         frameborder="0" 
         height="175" 
         style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" 
         sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" 
-        src="https://embed.music.apple.com/song/talaal-badru-alayna-interlude/1599981496">
+        src="https://embed.music.apple.com/song/masti-ki-paathshala/316981881">
 </iframe>
 
 ---
@@ -61,12 +72,12 @@ Amity University
 ---
 
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
-        title="Music player: Masti Ki Paathshala by A.R. Rahman"
+        title="Music player: Greenback Boogie (Suits Main Title Edit) by Ima Robot and Christopher Tyng"
         frameborder="0" 
         height="175" 
         style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" 
         sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" 
-        src="https://embed.music.apple.com/song/masti-ki-paathshala/316981881">
+        src="https://embed.music.apple.com/song/greenback-boogie-suits-main-title-edit/1061823754">
 </iframe>
 
 ---
@@ -82,17 +93,6 @@ Walden University
      <div class="poet">— अल्लामा इक़बाल</div>
    </div>
  </div>
-
----
-
-<iframe allow="encrypted-media *; fullscreen *; clipboard-write"
-        title="Music player: Greenback Boogie (Suits Main Title Edit) by Ima Robot and Christopher Tyng"
-        frameborder="0" 
-        height="175" 
-        style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" 
-        sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" 
-        src="https://embed.music.apple.com/song/greenback-boogie-suits-main-title-edit/1061823754">
-</iframe>
 
 ---
 
@@ -145,6 +145,11 @@ University of Geneva
 
 ---
 
+> “I am impatient to set out for my solitude, for there the mind gains strength and learns to lean upon herself.”<br>
+> — Laurence Sterne
+
+---
+
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
         title="Music player: I Can See Clearly Now by Jimmy Cliff"
         frameborder="0" 
@@ -153,11 +158,6 @@ University of Geneva
         sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" 
         src="https://embed.music.apple.com/song/i-can-see-clearly-now/185590294">
 </iframe>
-
----
-
-> “I am impatient to set out for my solitude, for there the mind gains strength and learns to lean upon herself.”<br>
-> — Laurence Sterne
 
 ---
 

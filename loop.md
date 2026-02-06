@@ -33,19 +33,19 @@ _The General in Particulars_
 Cries, gets fed. Next time, cries sooner—and louder.
 
 ### Driver
-Steers and brakes, feels the jerk, keeps adjusting until it’s right. Inconsistent braking muddies the cause-and-effect—it adds noise to the feedback.
+Steers and brakes, feels the jerk, keeps adjusting until it’s right. When feedback is clean and direct, the cause-and-effect stays obvious.
 
 ### Shopper
-Makes a purchase, waits for delivery, tries it out, then updates buying behavior for next time. When feedback arrives late, learning slows—so one lean on shortcuts like "trust this brand."
+Makes a purchase, waits for delivery, tries it out, then updates buying behavior for next time. When feedback arrives late, learning slows—so one leans on stand-ins like “trust this brand.”
 
 ### Politician
-Chooses a message, delivers it, watches the room and the polls, then adjusts. The public is the sensor. Their reaction is the feedback signal.
+Chooses a message, delivers it, watches the room and the polls, then adjusts. The public is the sensor. Voter reaction is the signal.
 
 ### Entrepreneur
-Places a bet on what the shopper will purchase, then risks scarce time and capital to produce it. Profit and loss provide feedback.
+Places a bet on what the shopper will purchase, then risks scarce time and capital to produce it. Profit and loss provide shopper feedback.
 
 ### Student
-Builds a model, tries to solve a problem, fails, updates the model. Learning happens when the error stings.
+Builds a model, tries to solve a problem, fails, updates the model. Learning happens through correction—especially when the error stings.
 
 ---
 

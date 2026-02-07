@@ -170,7 +170,7 @@ University of Geneva
  <div class="hindi" lang="hi" dir="ltr">
    <div class="verses">
      <div class="line">इशरत-ए-क़तरा है दरिया में फ़ना हो जाना</div>
-     <div class="line">दर्द का हद से गुजरना है दवा हो जाना</div>
+     <div class="line">दर्द का हद से गुज़रना है दवा हो जाना</div>
      <div class="poet">— मिर्ज़ा ग़ालिब</div>
    </div>
  </div>

@@ -30,22 +30,22 @@ _The General in Particulars_
 ## X Axis
 
 ### Baby
-Cries, gets fed. Next time, cries sooner—and louder.
+Cries, gets fed. Next time, cries louder.
 
 ### Driver
-Steers and brakes, feels the jerk, keeps adjusting until it’s right. When feedback is clean and direct, the cause-and-effect stays obvious.
+Steers and brakes, feels the jerk, adjusts until it’s right. When feedback is clean and direct, the cause-and-effect relation is obvious.
 
 ### Shopper
-Makes a purchase, waits for delivery, tries it out, then updates buying behavior for next time. When feedback arrives late, learning slows—so one leans on stand-ins like “trust this brand.”
+Makes a purchase, waits for delivery, tries it out, updates buying behavior. When feedback is delayed, learning leans on stand-ins like “trust this brand.”
 
 ### Politician
-Chooses a message, delivers it, watches the room and the polls, then adjusts. The public is the sensor. Voter reaction is the signal.
+Delivers a message, takes feedback through observation and polls, then adapts. Voter reaction is the signal.
 
 ### Entrepreneur
-Places a bet on what the shopper will purchase, then risks scarce time and capital to produce it. Profit and loss provide shopper feedback.
+Bets scarce time and capital on what the shopper will purchase. Profit and loss provide consumer feedback.
 
 ### Student
-Builds a model, tries to solve a problem, fails, updates the model. Learning happens through correction—particularly when the error stings.
+Builds a model, tries to solve a problem, fails, updates the model. Learning happens by correction—particularly when error stings.
 
 ---
 

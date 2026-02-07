@@ -27,7 +27,7 @@ _अ म न    ·    ש ל ם   ·   س ل م   ·    ا م ن_
   
 ---
 
-A curious outsider in Canada. Thumbliner is his digital handle; and this is a non-commercial space, packed with friends, and a grandma. They are wondering what stars are made of.<br>
+A curious outsider in Canada. Thumbliner is his digital handle; and this is a non-commercial space, packed with friends, and a grandma. They are wondering what stars are made out of.<br>
 
 ---
 

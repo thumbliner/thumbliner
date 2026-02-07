@@ -36,10 +36,10 @@ Cries, gets fed. Next time, cries louder.
 Steers and brakes, feels the jerk, adjusts until it’s right. When feedback is clean and direct, the cause-and-effect relation is obvious.
 
 ### Shopper
-Makes a purchase, waits for delivery, tries it out, updates buying behavior. When feedback is delayed, learning leans on stand-ins like “trust this brand.”
+Makes a purchase, waits for delivery, tries it out, updates buying behavior. When feedback is delayed, one leans on stand-ins like “trust this brand.”
 
 ### Politician
-Delivers a message, takes feedback through observation and polls, then adapts. Voter reaction is the signal.
+Delivers a message, gathers feedback through observation and polls, then adapts. Voter reaction is the signal.
 
 ### Entrepreneur
 Bets scarce time and capital on what the shopper will purchase. Profit and loss provide consumer feedback.

@@ -45,7 +45,17 @@ Chooses a message, delivers it, watches the room and the polls, then adjusts. Th
 Places a bet on what the shopper will purchase, then risks scarce time and capital to produce it. Profit and loss provide shopper feedback.
 
 ### Student
-Builds a model, tries to solve a problem, fails, updates the model. Learning happens through correction—especially when the error stings.
+Builds a model, tries to solve a problem, fails, updates the model. Learning happens through correction—particularly when the error stings.
+
+---
+
+ <div class="hindi" lang="hi" dir="ltr">
+   <div class="verses">
+     <div class="line">जुनूँ में जितनी भी गुज़री ब-कार गुज़री है</div>
+     <div class="line">अगरचे दिल पे ख़राबी हज़ार गुज़री है</div>
+     <div class="poet">— फ़ैज़ अहमद फ़ैज़</div>
+   </div>
+ </div>
 
 ---
 

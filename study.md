@@ -126,6 +126,11 @@ Audencia Business School & Toulouse Business School
 
 ---
 
+> “I have never been truly suited for civil society, where everything is annoyance, obligation, and duty, ... my naturally independent temperament always made me incapable of the subjection necessary to anyone who wants to live among men.”<br>
+> — Jean-Jacques Rousseau
+
+---
+
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
         title="Music player: Evenstar by Howard Shore"
         frameborder="0" 
@@ -134,11 +139,6 @@ Audencia Business School & Toulouse Business School
         sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" 
         src="https://embed.music.apple.com/song/evenstar/297981091">
 </iframe>
-
----
-
-> “I have never been truly suited for civil society, where everything is annoyance, obligation, and duty, ... my naturally independent temperament always made me incapable of the subjection necessary to anyone who wants to live among men.”<br>
-> — Jean-Jacques Rousseau
 
 ---
 

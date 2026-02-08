@@ -355,7 +355,7 @@ Original by Franz Schubert and Franz Schubert | English CC
 
 ---
 
-## **All the worlds a stage monologue** by Andrew Buchanan & Queensland Theatre Company
+## **All the worlds a stage monologue** by William Shakespeare, Andrew Buchanan, & Queensland Theatre Company
 <p>
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">
   <iframe

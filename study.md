@@ -172,6 +172,16 @@ University of Geneva
 
 ---
 
+ <div class="hindi" lang="hi" dir="ltr">
+   <div class="verses">
+     <div class="line">जो तुझ से अहद-ए-वफ़ा उस्तुवार रखते हैं</div>
+     <div class="line">इलाज-ए-गर्दिश-ए-लैल-ओ-नहार रखते हैं</div>
+     <div class="poet">— फ़ैज़ अहमद फ़ैज़</div>
+   </div>
+ </div>
+
+---
+
 ### Applied Epistemology
 - <a href="https://orcid.org/0000-0003-4798-0467" target="_blank" rel="noopener noreferrer">ORCID</a>
 - <a href="https://public.tableau.com/app/profile/thumbliner/vizzes" target="_blank" rel="noopener noreferrer">Tableau</a>

@@ -176,9 +176,13 @@ _A Curation (On Loop)_
 
  <div class="hindi" lang="hi" dir="ltr">
    <div class="verses">
-     <div class="line">महफ़िल में आपकी हम कुछ और तो न लाए</div>
-     <div class="line">नग़मात में सजा कर जज़्बात ले के आए</div>
-     <div class="poet">— शिवन रिज़वी</div>
+     <div class="line">नहीं निगाह में मंज़िल तो जुस्तुजू ही सही</div>
+     <div class="line">नहीं विसाल मयस्सर तो आरज़ू ही सही</div>
+     <div class="line">किसी तरह तो जमे बज़्म मय-कदे वालो</div>
+     <div class="line">नहीं जो बादा-ओ-साग़र तो हाव-हू ही सही</div>
+     <div class="line">दयार-ए-ग़ैर में महरम अगर नहीं कोई</div>
+     <div class="line">तो 'फ़ैज़' ज़िक्र-ए-वतन अपने रू-ब-रू ही सही</div>
+     <div class="poet">— फ़ैज़ अहमद फ़ैज़</div>
    </div>
  </div>
 
@@ -259,6 +263,16 @@ _A Curation (On Loop)_
         sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" 
         src="https://embed.music.apple.com/song/the-last-of-the-starks/1464079250">
 </iframe>
+
+---
+
+ <div class="hindi" lang="hi" dir="ltr">
+   <div class="verses">
+     <div class="line">महफ़िल में आपकी हम कुछ और तो न लाए</div>
+     <div class="line">नग़मात में सजा कर जज़्बात ले के आए</div>
+     <div class="poet">— शिवन रिज़वी</div>
+   </div>
+ </div>
 
 ---
 

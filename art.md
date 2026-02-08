@@ -113,6 +113,16 @@ _A Curation (On Loop)_
         src="https://embed.music.apple.com/album/trance-with-khusrow/1764092294">
 </iframe>
 
+----
+
+<div class="urdu" lang="ur" dir="rtl">
+  <div class="verses">
+    <div class="misra">جب نام ترا لیجیے تب چشم بھر آوے</div>
+    <div class="misra">اس زندگی کرنے کو کہاں سے جگر آوے</div>
+    <div class="poet">— مير تقی میرؔ</div>
+  </div>
+</div>
+
 ---
 
 ## **The Game** by Nusrat Fateh Ali Khan

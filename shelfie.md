@@ -39,6 +39,16 @@ _Poor Salman's Capital_
 
 ---
 
+ <div class="hindi" lang="hi" dir="ltr">
+   <div class="verses">
+     <div class="line">ख़ुद से चलकर नहीं ये तर्ज़-ए-सुख़न आया है</div>
+     <div class="line">पाँव दाबे हैं बुज़ुर्गों के तो फ़न आया है</div>
+     <div class="poet">— मुनव्वर राना</div>
+   </div>
+ </div>
+
+---
+
 > “It’s been enormously beneficial to us but the reason we read is that it’s fun.”<br>
 > — Warren Buffett
 
@@ -46,9 +56,9 @@ _Poor Salman's Capital_
 
  <div class="hindi" lang="hi" dir="ltr">
    <div class="verses">
-     <div class="line">ख़ुद से चलकर नहीं ये तर्ज़-ए-सुख़न आया है</div>
-     <div class="line">पाँव दाबे हैं बुज़ुर्गों के तो फ़न आया है</div>
-     <div class="poet">— मुनव्वर राना</div>
+     <div class="line">वो मुझ से हुए हम-कलाम अल्लाह अल्लाह</div>
+     <div class="line">कहाँ मैं कहाँ ये मक़ाम अल्लाह अल्लाह</div>
+     <div class="poet">— सूफ़ी ग़ुलाम मुस्ताफ़ा तबस्सुम</div>
    </div>
  </div>
 

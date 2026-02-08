@@ -404,7 +404,7 @@ Original by Franz Schubert and Franz Schubert | English CC
 ---
 
 ## **O Noble Humans** by Sahir Ludhianvi
-Reciter: Raheel Farooq | English CC
+Presenter: Raheel Farooq | English CC
 <p>
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">
   <iframe

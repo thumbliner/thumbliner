@@ -92,6 +92,16 @@ _A Curation (On Loop)_
 
 ---
 
+ <div class="hindi" lang="hi" dir="ltr">
+   <div class="verses">
+     <div class="line">ये भी तुम जानते हो चंद मुलाख़ातों में</div>
+     <div class="line">आज़माया है तुम्हें हमने कई बातों में</div>
+     <div class="poet">— दाग़ देहलवी</div>
+   </div>
+ </div>
+ 
+---
+
 ## **Hourglass** by Garth Stevenson
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
         frameborder="0" 
@@ -161,9 +171,9 @@ _A Curation (On Loop)_
 
  <div class="hindi" lang="hi" dir="ltr">
    <div class="verses">
-     <div class="line">ये भी तुम जानते हो चंद मुलाख़ातों में</div>
-     <div class="line">आज़माया है तुम्हें हमने कई बातों में</div>
-     <div class="poet">— दाग़ देहलवी</div>
+     <div class="line">महफ़िल में आपकी हम कुछ और तो न लाए</div>
+     <div class="line">नग़मात में सजा कर जज़्बात ले के आए</div>
+     <div class="poet">— शिवन रिज़वी</div>
    </div>
  </div>
 
@@ -244,16 +254,6 @@ _A Curation (On Loop)_
         sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" 
         src="https://embed.music.apple.com/song/the-last-of-the-starks/1464079250">
 </iframe>
-
----
-
- <div class="hindi" lang="hi" dir="ltr">
-   <div class="verses">
-     <div class="line">महफ़िल में आपकी हम कुछ और तो न लाए</div>
-     <div class="line">नग़मात में सजा कर जज़्बात ले के आए</div>
-     <div class="poet">— शिवन रिज़वी</div>
-   </div>
- </div>
 
 ---
 

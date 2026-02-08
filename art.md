@@ -113,6 +113,11 @@ _A Curation (On Loop)_
 
 ---
 
+> “Time is a necessary representation, lying at the foundation of all our intuitions.”<br>
+> — Immanuel Kant
+
+---
+
 ## **Trance with Khusrow** by Kavita Seth & Kanishk Seth
 ### You Pick: 2. Chashm-e-Maste or 3. Man Qunto Maula
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
@@ -254,11 +259,6 @@ _A Curation (On Loop)_
         sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" 
         src="https://embed.music.apple.com/song/the-last-of-the-starks/1464079250">
 </iframe>
-
----
-
-> “Time is a necessary representation, lying at the foundation of all our intuitions.”<br>
-> — Immanuel Kant
 
 ---
 

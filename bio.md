@@ -62,11 +62,6 @@ A curious outsider in Canada. Thumbliner is his digital handle; and this is a no
 
 ---
 
-> “We often think that when we have completed our study of one we know all about two, because ‘two’ is ‘one and one’. We forget that we have still to make a study of ‘and’.”<br>
-> —  Arthur Eddington
-
----
-
 Glad to have you!<br>
 
 The site is a self-contained frame of thought.<br>
@@ -76,6 +71,21 @@ Even A.I. can translate and explain, but it takes a human to judge and make mean
 Your comments are welcome, even silly ones. Please send three at a time.<br>
 
 cast [at] thumbliner [dot] com
+
+---
+
+<div class="urdu" lang="ur" dir="rtl">
+  <div class="verses">
+    <div class="misra">کج کلاہوں کا ہے یہ شہر یہاں بندہ نواز</div>
+    <div class="misra">کون پہچانے گا مجھ خاک بسر کی صورت</div>
+    <div class="poet">— ذوالفقار علی بخاری</div>
+  </div>
+</div>
+
+---
+
+> “We often think that when we have completed our study of one we know all about two, because ‘two’ is ‘one and one’. We forget that we have still to make a study of ‘and’.”<br>
+> —  Arthur Eddington
 
 ---
 

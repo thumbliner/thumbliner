@@ -295,15 +295,6 @@ _A Curation (On Loop)_
 
 ---
 
-<div class="urdu" lang="ur" dir="rtl">
-  <div class="verses">
-    <div class="misra">جوش قدح سے بزم چراغاں کیے ہوئے</div>
-    <div class="poet">— مرزا غالبؔ</div>
-  </div>
-</div>
-
----
-
 > “I know ways back that take forever.”<br>
 > — Aberama Gold, The Duel
 
@@ -400,6 +391,16 @@ Original by Franz Schubert and Franz Schubert | English CC
      <div class="poet">— फ़ैज़ अहमद फ़ैज़</div>
    </div>
  </div>
+
+---
+
+<div class="urdu" lang="ur" dir="rtl">
+  <div class="verses">
+    <div class="misra">مدت ہوئی ہے یار کو مہماں کیے ہوئے</div>
+    <div class="misra">جوش قدح سے بزم چراغاں کیے ہوئے</div>
+    <div class="poet">— مرزا غالبؔ</div>
+  </div>
+</div>
 
 ---
 

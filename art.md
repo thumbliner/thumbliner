@@ -309,6 +309,23 @@ _A Curation (On Loop)_
 
 ---
 
+## **All the worlds a stage monologue** by Andrew Buchanan & Queensland Theatre Company
+<p>
+<div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">
+  <iframe
+    src="https://www.youtube.com/embed/hcp5YhQ1I3M?enablejsapi=1"
+    title="O Noble Humans"
+    style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;"
+    allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen
+    loading="lazy"
+    referrerpolicy="strict-origin-when-cross-origin">
+  </iframe>
+</div>
+</p>
+
+---
+
  <div class="hindi" lang="hi" dir="ltr">
    <div class="verses">
      <div class="line">हमें इस का कोई भी हक़ नहीं कि शरीक-ए-बज़्म-ए-ख़ुलूस हो</div>

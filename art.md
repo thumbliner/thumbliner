@@ -309,16 +309,6 @@ _A Curation (On Loop)_
 
 ---
 
-<div class="urdu" lang="ur" dir="rtl">
-  <div class="verses">
-    <div class="misra">کج کلاہوں کا ہے یہ شہر یہاں بندہ نواز</div>
-    <div class="misra">کون پہچانے گا مجھ خاک بسر کی صورت</div>
-    <div class="poet">— ذوالفقار علی بخاری</div>
-  </div>
-</div>
-
----
-
  <div class="hindi" lang="hi" dir="ltr">
    <div class="verses">
      <div class="line">हमें इस का कोई भी हक़ नहीं कि शरीक-ए-बज़्म-ए-ख़ुलूस हो</div>

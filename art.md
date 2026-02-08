@@ -257,15 +257,6 @@ _A Curation (On Loop)_
 
 ---
 
-<div class="urdu" lang="ur" dir="rtl">
-  <div class="verses">
-    <div class="misra">جوش قدح سے بزم چراغاں کیے ہوئے</div>
-    <div class="poet">— مرزا غالبؔ</div>
-  </div>
-</div>
-
----
-
 > “Time is a necessary representation, lying at the foundation of all our intuitions.”<br>
 > — Immanuel Kant
 
@@ -301,6 +292,15 @@ _A Curation (On Loop)_
         sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" 
         src="https://embed.music.apple.com/song/the-bare-necessities-reprise/1467938374">
 </iframe>
+
+---
+
+<div class="urdu" lang="ur" dir="rtl">
+  <div class="verses">
+    <div class="misra">جوش قدح سے بزم چراغاں کیے ہوئے</div>
+    <div class="poet">— مرزا غالبؔ</div>
+  </div>
+</div>
 
 ---
 

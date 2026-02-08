@@ -386,8 +386,6 @@ Original by Franz Schubert and Franz Schubert | English CC
    <div class="verses">
      <div class="line">मुझे आप क्यों न समझ सके ये ख़ुद अपने दिल ही से पूछिए</div>
      <div class="line">मेरी दास्तान-ए-हयात का तो वरक़-वरक़ है खुला हुआ</div>
-     <div class="line">हमें इस का कोई भी हक़ नहीं कि शरीक-ए-बज़्म-ए-ख़ुलूस हो</div>
-     <div class="line">न हमारे पास निक़ाब है न कुछ आस्तीन में छुपा हुआ</div>
      <div class="poet">— इक़बाल अज़ीम</div>
    </div>
  </div>
@@ -413,11 +411,9 @@ Original by Franz Schubert and Franz Schubert | English CC
 
  <div class="hindi" lang="hi" dir="ltr">
    <div class="verses">
-     <div class="line">हम पे मुश्तरका हैं एहसान ग़म-ए-उल्फ़त के</div>
-     <div class="line">इतने एहसान कि गिनवाऊँ तो गिनवा न सकूँ</div>
-     <div class="line">हम ने इस इश्क़ में क्या खोया है क्या सीखा है</div>
-     <div class="line">जुज़ तेरे और को समझाऊँ तो समझा न सकूँ</div>
-     <div class="poet">— फ़ैज़ अहमद फ़ैज़</div>
+     <div class="line">हमें इस का कोई भी हक़ नहीं कि शरीक-ए-बज़्म-ए-ख़ुलूस हो</div>
+     <div class="line">न हमारे पास निक़ाब है न कुछ आस्तीन में छुपा हुआ</div>
+     <div class="poet">— इक़बाल अज़ीम</div>
    </div>
  </div>
 

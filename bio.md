@@ -10,16 +10,6 @@ _अ म न    ·    ש ל ם   ·   س ل م   ·    ا م ن_
 
 ---
 
- <div class="hindi" lang="hi" dir="ltr">
-   <div class="verses">
-     <div class="line">बिखरी पड़ी थी टूट के कलियाँ ज़मीन पर</div>
-     <div class="line">तरतीब दे के मैंने तेरा नाम लिख दिया</div>
-     <div class="poet">— क़ैसर-उल-जाफ़री</div>
-   </div>
- </div>
-
----
-
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
         title="Music player: Khan Theme by Shankar Ehsaan Loy"
         frameborder="0" 
@@ -28,6 +18,16 @@ _अ म न    ·    ש ל ם   ·   س ل م   ·    ا م ن_
         sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" 
         src="https://embed.music.apple.com/song/khan-theme/1569776331">
 </iframe>
+
+---
+
+ <div class="hindi" lang="hi" dir="ltr">
+   <div class="verses">
+     <div class="line">बिखरी पड़ी थी टूट के कलियाँ ज़मीन पर</div>
+     <div class="line">तरतीब दे के मैंने तेरा नाम लिख दिया</div>
+     <div class="poet">— क़ैसर-उल-जाफ़री</div>
+   </div>
+ </div>
 
 ---
 
@@ -50,14 +50,13 @@ A curious outsider in Canada. Thumbliner is his digital handle; and this is a no
 
 ---
 
-<iframe allow="encrypted-media *; fullscreen *; clipboard-write"
-        title="Music player: Yeh Hai Bombay Meri Jaan by Mohd. Rafi, Geeta Dutt, and O.P. Nayyar"
-        frameborder="0" 
-        height="175" 
-        style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" 
-        sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" 
-        src="https://embed.music.apple.com/song/yeh-hai-bombay-meri-jaan/1704807051">
-</iframe>
+ <div class="hindi" lang="hi" dir="ltr">
+   <div class="verses">
+     <div class="line">तू शाहीं है परवाज़ है काम तेरा</div>
+     <div class="line">तेरे सामने आसमाँ और भी हैं</div>
+     <div class="poet">— अल्लामा इक़बाल</div>
+   </div>
+ </div>
 
 ---
 
@@ -66,13 +65,10 @@ A curious outsider in Canada. Thumbliner is his digital handle; and this is a no
 
 ---
 
- <div class="hindi" lang="hi" dir="ltr">
-   <div class="verses">
-     <div class="line">तू शाहीं है परवाज़ है काम तेरा</div>
-     <div class="line">तेरे सामने आसमाँ और भी हैं</div>
-     <div class="poet">— अल्लामा इक़बाल</div>
-   </div>
- </div>
+<img
+  src="{{ '/assets/images/CN.png' | relative_url }}"
+  alt="Static image of Canadian street with street car, snow, and CN tower in the backdrop."
+  style="width:100%; height:auto;">
 
 ---
 
@@ -98,10 +94,14 @@ cast [at] thumbliner [dot] com
 
 ---
 
-<img
-  src="{{ '/assets/images/CN.png' | relative_url }}"
-  alt="Static image of Canadian street with street car, snow, and CN tower in the backdrop."
-  style="width:100%; height:auto;">
+<iframe allow="encrypted-media *; fullscreen *; clipboard-write"
+        title="Music player: Yeh Hai Bombay Meri Jaan by Mohd. Rafi, Geeta Dutt, and O.P. Nayyar"
+        frameborder="0" 
+        height="175" 
+        style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" 
+        sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" 
+        src="https://embed.music.apple.com/song/yeh-hai-bombay-meri-jaan/1704807051">
+</iframe>
 
 ---
 

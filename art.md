@@ -350,6 +350,11 @@ Original by Franz Schubert and Franz Schubert | English CC
 
 ---
 
+> “From such crooked timber as humankind is made of, nothing entirely straight can be made.”<br>
+> — Immanuel Kant
+
+---
+
 ## **All the worlds a stage monologue** by Andrew Buchanan & Queensland Theatre Company
 <p>
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">

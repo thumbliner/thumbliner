@@ -31,6 +31,16 @@ A curious outsider in Canada. Thumbliner is his digital handle; and this is a no
 
 ---
 
+ <div class="hindi" lang="hi" dir="ltr">
+   <div class="verses">
+     <div class="line">सितारों से आगे जहाँ और भी हैं</div>
+     <div class="line">अभी इश्क़ के इम्तिहाँ और भी हैं</div>
+     <div class="poet">— अल्लामा इक़बाल</div>
+   </div>
+ </div>
+
+---
+
 > “Je pense, donc je suis.”<br>
 > —  René Descartes
 
@@ -54,9 +64,9 @@ A curious outsider in Canada. Thumbliner is his digital handle; and this is a no
 
  <div class="hindi" lang="hi" dir="ltr">
    <div class="verses">
-     <div class="line">जहाँ रहेगा वहीं रौशनी लुटाएगा</div>
-     <div class="line">किसी चराग़ का अपना मकाँ नहीं होता</div>
-     <div class="poet">— वसीम बरेलवी</div>
+     <div class="line">तू शाहीं है परवाज़ है काम तेरा</div>
+     <div class="line">तेरे सामने आसमाँ और भी हैं</div>
+     <div class="poet">— अल्लामा इक़बाल</div>
    </div>
  </div>
 
@@ -71,6 +81,16 @@ Even A.I. can translate and explain, but it takes a human to judge and make mean
 Your comments are welcome, even silly ones. Please send three at a time.<br>
 
 cast [at] thumbliner [dot] com
+
+---
+
+ <div class="hindi" lang="hi" dir="ltr">
+   <div class="verses">
+     <div class="line">गए दिन कि तन्हा था मैं अंजुमन में</div>
+     <div class="line">यहाँ अब मेरे राज़-दाँ और भी हैं</div>
+     <div class="poet">— अल्लामा इक़बाल</div>
+   </div>
+ </div>
 
 ---
 

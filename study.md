@@ -174,9 +174,9 @@ University of Geneva
 
  <div class="hindi" lang="hi" dir="ltr">
    <div class="verses">
-     <div class="line">जो तुझ से अहद-ए-वफ़ा उस्तुवार रखते हैं</div>
-     <div class="line">इलाज-ए-गर्दिश-ए-लैल-ओ-नहार रखते हैं</div>
-     <div class="poet">— फ़ैज़ अहमद फ़ैज़</div>
+     <div class="line">इशरत-ए-क़तरा है दरिया में फ़ना हो जाना</div>
+     <div class="line">दर्द का हद से गुज़रना है दवा हो जाना</div>
+     <div class="poet">— मिर्ज़ा ग़ालिब</div>
    </div>
  </div>
 
@@ -190,9 +190,9 @@ University of Geneva
 
  <div class="hindi" lang="hi" dir="ltr">
    <div class="verses">
-     <div class="line">इशरत-ए-क़तरा है दरिया में फ़ना हो जाना</div>
-     <div class="line">दर्द का हद से गुज़रना है दवा हो जाना</div>
-     <div class="poet">— मिर्ज़ा ग़ालिब</div>
+     <div class="line">जो तुझ से अहद-ए-वफ़ा उस्तुवार रखते हैं</div>
+     <div class="line">इलाज-ए-गर्दिश-ए-लैल-ओ-नहार रखते हैं</div>
+     <div class="poet">— फ़ैज़ अहमद फ़ैज़</div>
    </div>
  </div>
 

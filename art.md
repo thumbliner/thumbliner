@@ -367,6 +367,16 @@ Original by Franz Schubert and Franz Schubert | English CC
 
 ---
 
+<div class="urdu" lang="ur" dir="rtl">
+  <div class="verses">
+    <div class="misra">اُن سے ملنے کو تو کیا کہیے جگر</div>
+    <div class="misra">خود سے ملنے کو زمانہ چاہیے</div>
+    <div class="poet">— جگر مراد آبادی</div>
+  </div>
+</div>
+
+---
+
  <div class="hindi" lang="hi" dir="ltr">
    <div class="verses">
      <div class="line">मुझे आप क्यों न समझ सके ये ख़ुद अपने दिल ही से पूछिए</div>

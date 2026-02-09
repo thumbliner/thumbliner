@@ -212,6 +212,16 @@ _A Curation (On Loop)_
 
 ---
 
+ <div class="hindi" lang="hi" dir="ltr">
+   <div class="verses">
+     <div class="line">अश्कों ने बयाँ कर ही दिया राज़-ए-तमन्ना</div>
+     <div class="line">हम सोच रहे थे अभी इज़हार की सूरत</div>
+     <div class="poet">— वासिफ़ अली वासिफ़</div>
+   </div>
+ </div>
+
+---
+
 <div class="urdu" lang="ur" dir="rtl">
   <div class="verses">
     <div class="misra">جب نام ترا لیجیے تب چشم بھر آوے</div>
@@ -219,6 +229,16 @@ _A Curation (On Loop)_
     <div class="poet">— مير تقی میرؔ</div>
   </div>
 </div>
+
+---
+
+ <div class="hindi" lang="hi" dir="ltr">
+   <div class="verses">
+     <div class="line">अहबाब की सूरत हो कि अग़्यार की सूरत</div>
+     <div class="line">हर चेहरे में आती है नज़र यार की सूरत</div>
+     <div class="poet">— वासिफ़ अली वासिफ़</div>
+   </div>
+ </div>
 
 ---
 

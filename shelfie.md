@@ -39,6 +39,16 @@ _Poor Salman's Capital_
 
 ---
 
+<div class="urdu" lang="ur" dir="rtl">
+  <div class="verses">
+    <div class="misra">ہم پرورشِ لوح و قلم کرتے رہیں گے</div>
+    <div class="misra">جو دل پہ گزرتی ہے رقم کرتے رہیں گے</div>
+    <div class="poet">— فیض احمد فیضؔ</div>
+  </div>
+</div>
+
+---
+
  <div class="hindi" lang="hi" dir="ltr">
    <div class="verses">
      <div class="line">ख़ुद से चलकर नहीं ये तर्ज़-ए-सुख़न आया है</div>

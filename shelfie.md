@@ -41,9 +41,9 @@ _Poor Salman's Capital_
 
 <div class="urdu" lang="ur" dir="rtl">
   <div class="verses">
-    <div class="misra">ہم پرورشِ لوح و قلم کرتے رہیں گے</div>
-    <div class="misra">جو دل پہ گزرتی ہے رقم کرتے رہیں گے</div>
-    <div class="poet">— فیض احمد فیضؔ</div>
+    <div class="misra">ہمیں بھی جلوہ گاہِ ناز تک تُم لے چلو موسیٰ</div>
+    <div class="misra">تمہیں غش آ گیا تو حُسنِ جاناں کون دیکھے گا</div>
+    <div class="poet">— جگر مراد آبادی</div>
   </div>
 </div>
 
@@ -76,8 +76,8 @@ _Poor Salman's Capital_
 
 <div class="urdu" lang="ur" dir="rtl">
   <div class="verses">
-    <div class="misra">ہمیں بھی جلوہ گاہِ ناز تک تُم لے چلو موسیٰ</div>
-    <div class="misra">تمہیں غش آ گیا تو حُسنِ جاناں کون دیکھے گا</div>
-    <div class="poet">— جگر مراد آبادی</div>
+    <div class="misra">ہم پرورشِ لوح و قلم کرتے رہیں گے</div>
+    <div class="misra">جو دل پہ گزرتی ہے رقم کرتے رہیں گے</div>
+    <div class="poet">— فیض احمد فیضؔ</div>
   </div>
 </div>

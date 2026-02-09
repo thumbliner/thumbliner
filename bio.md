@@ -87,10 +87,30 @@ cast [at] thumbliner [dot] com
 
 ---
 
+<div class="urdu" lang="ur" dir="rtl">
+  <div class="verses">
+    <div class="misra">دل ہاتھ پر رکھا ہے کوئی ہے جو خریدے</div>
+    <div class="misra">دیکھوں تو ذرا میں بھی خریدار کی صورت</div>
+    <div class="poet">— واصف علی واصفّ</div>
+  </div>
+</div>
+
+---
+
 <img
   src="{{ '/assets/images/CN.png' | relative_url }}"
   alt="Static image of Canadian street with street car, snow, and CN tower in the backdrop."
   style="width:100%; height:auto;">
+
+---
+
+<div class="urdu" lang="ur" dir="rtl">
+  <div class="verses">
+    <div class="misra">کج کلاہوں کا ہے یہ شہر یہاں بندہ نواز</div>
+    <div class="misra">کون پہچانے گا مجھ خاک بسر کی صورت</div>
+    <div class="poet">— ذوالفقار علی بخاری</div>
+  </div>
+</div>
 
 ---
 
@@ -107,9 +127,9 @@ cast [at] thumbliner [dot] com
 
 <div class="urdu" lang="ur" dir="rtl">
   <div class="verses">
-    <div class="misra">کج کلاہوں کا ہے یہ شہر یہاں بندہ نواز</div>
-    <div class="misra">کون پہچانے گا مجھ خاک بسر کی صورت</div>
-    <div class="poet">— ذوالفقار علی بخاری</div>
+    <div class="misra">پہچان لیا تجھ کو تری شیشہ گری سے</div>
+    <div class="misra">آتی ہے نظر فن سے ہی فن کار کی صورت</div>
+    <div class="poet">— واصف علی واصفّ</div>
   </div>
 </div>
 

@@ -183,7 +183,7 @@ University of Geneva
 ---
 
 ### Applied Epistemology
-*Present*  
+*Present  ·  Private Practice*  
 - <a href="https://orcid.org/0000-0003-4798-0467" target="_blank" rel="noopener noreferrer">ORCID</a>
 - <a href="https://public.tableau.com/app/profile/thumbliner/vizzes" target="_blank" rel="noopener noreferrer">Tableau</a>
 

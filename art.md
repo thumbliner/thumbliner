@@ -315,7 +315,6 @@ _A Curation (On Loop)_
 ---
 
 ## **"The Trout" in English** by Hazel Neighbour, Maya Soltan, and Lieder in English Foundation
-Music by Schubert, lyrics by Christian Schubart, English version by Oliver Wright
 <p>
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">
   <iframe

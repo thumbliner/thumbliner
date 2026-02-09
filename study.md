@@ -187,6 +187,16 @@ University of Geneva
 - <a href="https://orcid.org/0000-0003-4798-0467" target="_blank" rel="noopener noreferrer">ORCID</a>
 - <a href="https://public.tableau.com/app/profile/thumbliner/vizzes" target="_blank" rel="noopener noreferrer">Tableau</a>
 
+ <div class="hindi" lang="hi" dir="ltr">
+   <div class="verses">
+     <div class="line">तेरे इश्क़ की इंतिहा चाहता हूँ</div>
+     <div class="line">मेरी सादगी देख क्या चाहता हूँ</div>
+     <div class="line">ज़रा सा तो दिल हूँ मगर शोख़ इतना</div>
+     <div class="line">वही लन-तरानी सुना चाहता हूँ</div>
+     <div class="poet">— अल्लामा इक़बाल</div>
+   </div>
+ </div>
+
 ---
 
 <div class="urdu" lang="ur" dir="rtl">

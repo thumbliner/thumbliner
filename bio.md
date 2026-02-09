@@ -65,11 +65,14 @@ A curious outsider in Canada. Thumbliner is his digital handle; and this is a no
 
 ---
 
-<img
-  src="{{ '/assets/images/CN.png' | relative_url }}"
-  alt="Static image of Canadian street with street car, snow, and CN tower in the backdrop."
-  style="width:100%; height:auto;">
-
+ <div class="hindi" lang="hi" dir="ltr">
+   <div class="verses">
+     <div class="line">गए दिन कि तन्हा था मैं अंजुमन में</div>
+     <div class="line">यहाँ अब मेरे राज़-दाँ और भी हैं</div>
+     <div class="poet">— अल्लामा इक़बाल</div>
+   </div>
+ </div>
+ 
 ---
 
 Glad to have you!<br>
@@ -84,13 +87,10 @@ cast [at] thumbliner [dot] com
 
 ---
 
- <div class="hindi" lang="hi" dir="ltr">
-   <div class="verses">
-     <div class="line">गए दिन कि तन्हा था मैं अंजुमन में</div>
-     <div class="line">यहाँ अब मेरे राज़-दाँ और भी हैं</div>
-     <div class="poet">— अल्लामा इक़बाल</div>
-   </div>
- </div>
+<img
+  src="{{ '/assets/images/CN.png' | relative_url }}"
+  alt="Static image of Canadian street with street car, snow, and CN tower in the backdrop."
+  style="width:100%; height:auto;">
 
 ---
 

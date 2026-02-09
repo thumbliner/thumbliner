@@ -130,13 +130,13 @@ _A Curation (On Loop)_
 
 ----
 
-<div class="urdu" lang="ur" dir="rtl">
-  <div class="verses">
-    <div class="misra">جب نام ترا لیجیے تب چشم بھر آوے</div>
-    <div class="misra">اس زندگی کرنے کو کہاں سے جگر آوے</div>
-    <div class="poet">— مير تقی میرؔ</div>
-  </div>
-</div>
+ <div class="hindi" lang="hi" dir="ltr">
+   <div class="verses">
+     <div class="line">महफ़िल में आपकी हम कुछ और तो न लाए</div>
+     <div class="line">नग़मात में सजा कर जज़्बात ले के आए</div>
+     <div class="poet">— शिवन रिज़वी</div>
+   </div>
+ </div>
 
 ---
 
@@ -214,9 +214,9 @@ _A Curation (On Loop)_
 
 <div class="urdu" lang="ur" dir="rtl">
   <div class="verses">
-    <div class="misra">مصحفیؔ ہم تو یہ سمجھے تھے کہ ہوگا کوئی زخم</div>
-    <div class="misra">تیرے دل میں تو بہت کام رفو کا نکلا</div>
-    <div class="poet">— مصحفیؔ غلام ہمدانی</div>
+    <div class="misra">جب نام ترا لیجیے تب چشم بھر آوے</div>
+    <div class="misra">اس زندگی کرنے کو کہاں سے جگر آوے</div>
+    <div class="poet">— مير تقی میرؔ</div>
   </div>
 </div>
 
@@ -266,13 +266,13 @@ _A Curation (On Loop)_
 
 ---
 
- <div class="hindi" lang="hi" dir="ltr">
-   <div class="verses">
-     <div class="line">महफ़िल में आपकी हम कुछ और तो न लाए</div>
-     <div class="line">नग़मात में सजा कर जज़्बात ले के आए</div>
-     <div class="poet">— शिवन रिज़वी</div>
-   </div>
- </div>
+<div class="urdu" lang="ur" dir="rtl">
+  <div class="verses">
+    <div class="misra">مصحفیؔ ہم تو یہ سمجھے تھے کہ ہوگا کوئی زخم</div>
+    <div class="misra">تیرے دل میں تو بہت کام رفو کا نکلا</div>
+    <div class="poet">— مصحفیؔ غلام ہمدانی</div>
+  </div>
+</div>
 
 ---
 

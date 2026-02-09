@@ -51,9 +51,9 @@ _Poor Salman's Capital_
 
  <div class="hindi" lang="hi" dir="ltr">
    <div class="verses">
-     <div class="line">ख़ुद से चलकर नहीं ये तर्ज़-ए-सुख़न आया है</div>
-     <div class="line">पाँव दाबे हैं बुज़ुर्गों के तो फ़न आया है</div>
-     <div class="poet">— मुनव्वर राना</div>
+     <div class="line">यही जाना कि कुछ न जाना हाय</div>
+     <div class="line">सो भी इक उम्र में हुआ मालूम</div>
+     <div class="poet">— मीर तक़ी मीर</div>
    </div>
  </div>
 
@@ -66,9 +66,9 @@ _Poor Salman's Capital_
 
  <div class="hindi" lang="hi" dir="ltr">
    <div class="verses">
-     <div class="line">वो मुझ से हुए हम-कलाम अल्लाह अल्लाह</div>
-     <div class="line">कहाँ मैं कहाँ ये मक़ाम अल्लाह अल्लाह</div>
-     <div class="poet">— सूफ़ी ग़ुलाम मुस्ताफ़ा तबस्सुम</div>
+     <div class="line">ख़ुद से चलकर नहीं ये तर्ज़-ए-सुख़न आया है</div>
+     <div class="line">पाँव दाबे हैं बुज़ुर्गों के तो फ़न आया है</div>
+     <div class="poet">— मुनव्वर राना</div>
    </div>
  </div>
 

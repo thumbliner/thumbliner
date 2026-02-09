@@ -41,9 +41,9 @@ _Poor Salman's Capital_
 
 <div class="urdu" lang="ur" dir="rtl">
   <div class="verses">
-    <div class="misra">ہمیں بھی جلوہ گاہِ ناز تک تُم لے چلو موسیٰ</div>
-    <div class="misra">تمہیں غش آ گیا تو حُسنِ جاناں کون دیکھے گا</div>
-    <div class="poet">— جگر مراد آبادی</div>
+    <div class="misra">خود سے چل کر نہیں یہ طرز سخن آیا ہے</div>
+    <div class="misra">پاؤں دبائیں ہیں بزرگوں کے تو فن آیا ہے</div>
+    <div class="poet">— منور رانا</div>
   </div>
 </div>
 
@@ -51,9 +51,9 @@ _Poor Salman's Capital_
 
  <div class="hindi" lang="hi" dir="ltr">
    <div class="verses">
-     <div class="line">यही जाना कि कुछ न जाना हाय</div>
-     <div class="line">सो भी इक उम्र में हुआ मालूम</div>
-     <div class="poet">— मीर तक़ी मीर</div>
+     <div class="line">हर क़तरे में दरिया की मौजें नज़र आती हैं</div>
+     <div class="line">हर बंदे की सूरत में मौला नज़र आता है</div>
+     <div class="poet">— सैयद बेदम शाह वारसी</div>
    </div>
  </div>
 
@@ -66,9 +66,9 @@ _Poor Salman's Capital_
 
  <div class="hindi" lang="hi" dir="ltr">
    <div class="verses">
-     <div class="line">ख़ुद से चलकर नहीं ये तर्ज़-ए-सुख़न आया है</div>
-     <div class="line">पाँव दाबे हैं बुज़ुर्गों के तो फ़न आया है</div>
-     <div class="poet">— मुनव्वर राना</div>
+     <div class="line">क्या पूछते हो उन जल्वों की फ़रावानी</div>
+     <div class="line">हम देख नहीं सकते—इतना नज़र आता है</div>
+     <div class="poet">— सैयद बेदम शाह वारसी</div>
    </div>
  </div>
 
@@ -76,8 +76,8 @@ _Poor Salman's Capital_
 
 <div class="urdu" lang="ur" dir="rtl">
   <div class="verses">
-    <div class="misra">ہم پرورشِ لوح و قلم کرتے رہیں گے</div>
-    <div class="misra">جو دل پہ گزرتی ہے رقم کرتے رہیں گے</div>
-    <div class="poet">— فیض احمد فیضؔ</div>
+    <div class="misra">ہمیں بھی جلوہ گاہِ ناز تک تُم لے چلو موسیٰ</div>
+    <div class="misra">تمہیں غش آ گیا تو حُسنِ جاناں کون دیکھے گا</div>
+    <div class="poet">— جگر مراد آبادی</div>
   </div>
 </div>

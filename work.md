@@ -59,6 +59,16 @@ Unified pricing, eCommerce, and loyalty data; supported COVID-19 ops.
 
 ---
 
+ <div class="urdu" lang="ur" dir="rtl">
+  <div class="verses">
+    <div class="misra">مرا قلم نہیں میزان ایسے عادل کی</div>
+    <div class="misra">جو اپنے چہرے پہ دہرا نقاب رکھتا ہے</div>
+    <div class="poet">— احمد فرازّ</div>
+  </div>
+</div>
+
+---
+
  <div class="hindi" lang="hi" dir="ltr">
    <div class="verses">
      <div class="line">डरते-डरते दम-ए-सहर से</div>
@@ -72,6 +82,16 @@ Unified pricing, eCommerce, and loyalty data; supported COVID-19 ops.
      <div class="poet">— अल्लामा इक़बाल</div>
    </div>
  </div>
+
+---
+
+<div class="urdu" lang="ur" dir="rtl">
+  <div class="verses">
+    <div class="misra">مرا قلم نہیں تسبیح اس مبلغ کی</div>
+    <div class="misra">جو بندگی کا بھی ہر دم حساب رکھتا ہے</div>
+    <div class="poet">— احمد فرازّ</div>
+  </div>
+</div>
 
 ---
 

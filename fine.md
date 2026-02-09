@@ -131,6 +131,17 @@ _Richard Phillips Feynman_
 
 ---
 
+ <div class="hindi" lang="hi" dir="ltr">
+   <div class="verses">
+     <div class="line">कह सके कौन कि ये जल्वागरी किस की है</div>
+     <div class="line">पर्दा छोड़ा है वो उस ने कि उठाए न बने</div>
+     <div class="poet">— मिर्ज़ा ग़ालिब</div>
+   </div>
+ </div>
+
+
+---
+
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
         title="Music player: Jao Pakhi by Pranab Biswas, Shreya Ghoshal, Aninda Chatterjee, Chandril Bhattacharya, and Shantanu Moitra"
         frameborder="0" 

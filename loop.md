@@ -104,6 +104,16 @@ At time $$t$$, each agent $$i$$ receives a local observation $$o_t^i$$ (includin
 
 ---
 
+ <div class="hindi" lang="hi" dir="ltr">
+   <div class="verses">
+     <div class="line">इलाज ये है कि मजबूर कर दिया जौन</div>
+     <div class="line">वगरना यूँ तो किसी की नहीं सुनी मैं ने</div>
+     <div class="poet">— जौन एलिया</div>
+   </div>
+ </div>
+
+---
+
 > “So that makes our problem simpler. We have nothing but atoms, all the same, everywhere.”<br>
 > — Richard Feynman
 

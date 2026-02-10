@@ -81,7 +81,7 @@ The site is a self-contained frame of thought.<br>
 
 Even A.I. can translate and explain, but it takes a human to judge and make meaning.<br>
 
-Your comments are welcome, even silly ones. Please send three at a time.<br>
+Your comments and questions are welcome, especially the silly ones. But please send three at a time.<br>
 
 cast [at] thumbliner [dot] com
 

@@ -176,8 +176,6 @@ _A Curation (On Loop)_
 
  <div class="hindi" lang="hi" dir="ltr">
    <div class="verses">
-     <div class="line">नहीं निगाह में मंज़िल तो जुस्तुजू ही सही</div>
-     <div class="line">नहीं विसाल मयस्सर तो आरज़ू ही सही</div>
      <div class="line">किसी तरह तो जमे बज़्म मय-कदे वालो</div>
      <div class="line">नहीं जो बादा-ओ-साग़र तो हाव-हू ही सही</div>
      <div class="line">दयार-ए-ग़ैर में महरम अगर नहीं कोई</div>

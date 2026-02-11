@@ -389,6 +389,16 @@ Original by Franz Schubert and Franz Schubert | English CC
 
 ---
 
+ <div class="hindi" lang="hi" dir="ltr">
+   <div class="verses">
+     <div class="line">मुझे आप क्यों न समझ सके ये ख़ुद अपने दिल ही से पूछिए</div>
+     <div class="line">मेरी दास्तान-ए-हयात का तो वरक़-वरक़ है खुला हुआ</div>
+     <div class="poet">— इक़बाल अज़ीम</div>
+   </div>
+ </div>
+
+---
+
 <div class="urdu" lang="ur" dir="rtl">
   <div class="verses">
     <div class="misra">اُن سے ملنے کو تو کیا کہیے جگر</div>
@@ -401,8 +411,8 @@ Original by Franz Schubert and Franz Schubert | English CC
 
  <div class="hindi" lang="hi" dir="ltr">
    <div class="verses">
-     <div class="line">मुझे आप क्यों न समझ सके ये ख़ुद अपने दिल ही से पूछिए</div>
-     <div class="line">मेरी दास्तान-ए-हयात का तो वरक़-वरक़ है खुला हुआ</div>
+     <div class="line">हमें इस का कोई भी हक़ नहीं कि शरीक-ए-बज़्म-ए-ख़ुलूस हो</div>
+     <div class="line">न हमारे पास निक़ाब है न कुछ आस्तीन में छुपा हुआ</div>
      <div class="poet">— इक़बाल अज़ीम</div>
    </div>
  </div>
@@ -423,16 +433,6 @@ Original by Franz Schubert and Franz Schubert | English CC
   </iframe>
 </div>
 </p>
-
----
-
- <div class="hindi" lang="hi" dir="ltr">
-   <div class="verses">
-     <div class="line">हमें इस का कोई भी हक़ नहीं कि शरीक-ए-बज़्म-ए-ख़ुलूस हो</div>
-     <div class="line">न हमारे पास निक़ाब है न कुछ आस्तीन में छुपा हुआ</div>
-     <div class="poet">— इक़बाल अज़ीम</div>
-   </div>
- </div>
 
 ---
 

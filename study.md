@@ -172,27 +172,22 @@ University of Geneva
 
 ---
 
-<div class="urdu" lang="ur" dir="rtl">
-  <div class="verses">
-    <div class="misra">مکتب عشق کا دستور نرالا دیکھا</div>
-    <div class="misra">اُس کو چھُٹی نہ مِلی جس نے سبق یاد کیا</div>
-    <div class="poet">— میر طاہرؔ</div>
-  </div>
-</div>
-
----
-
 ### Applied Epistemology
 *Present  ·  Private Practice*  
 - <a href="https://orcid.org/0000-0003-4798-0467" target="_blank" rel="noopener noreferrer">ORCID</a>
 - <a href="https://public.tableau.com/app/profile/thumbliner/vizzes" target="_blank" rel="noopener noreferrer">Tableau</a>
 
+---
+
+> “In order to succeed in business a man does not need a degree from a school of business administration. These schools train the subalterns for routine jobs. They certainly do not train entrepreneurs. An entrepreneur cannot be trained. A man becomes an entrepreneur by seizing an opportunity and filling the gap. No special education is required for such a display of keen judgment, foresight, and energy.”<br>
+> — Ludwig von Mises
+
+---
+
  <div class="hindi" lang="hi" dir="ltr">
    <div class="verses">
-     <div class="line">तेरे इश्क़ की इंतिहा चाहता हूँ</div>
-     <div class="line">मेरी सादगी देख क्या चाहता हूँ</div>
-     <div class="line">ज़रा सा तो दिल हूँ मगर शोख़ इतना</div>
-     <div class="line">वही लन-तरानी सुना चाहता हूँ</div>
+     <div class="line">भरी बज़्म में राज़ की बात कह दी</div>
+     <div class="line">बड़ा बे-अदब हूँ सज़ा चाहता हूँ</div>
      <div class="poet">— अल्लामा इक़बाल</div>
    </div>
  </div>
@@ -201,10 +196,8 @@ University of Geneva
 
 <div class="urdu" lang="ur" dir="rtl">
   <div class="verses">
-    <div class="misra">ہم پرورشِ لوح و قلم کرتے رہیں گے</div>
-    <div class="misra">جو دل پہ گزرتی ہے رقم کرتے رہیں گے</div>
-    <div class="poet">— فیض احمد فیضؔ</div>
+    <div class="misra">مکتب عشق کا دستور نرالا دیکھا</div>
+    <div class="misra">اُس کو چھُٹی نہ مِلی جس نے سبق یاد کیا</div>
+    <div class="poet">— میر طاہرؔ</div>
   </div>
 </div>
-
-

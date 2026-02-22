@@ -14,6 +14,8 @@ _A Curation (On Loop)_
 <div class="urdu" lang="ur" dir="rtl">
   <div class="verses">
     <div class="misra">مدت ہوئی ہے یار کو مہماں کیے ہوئے</div>
+    <div class="misra">جوش قدح سے بزم چراغاں کیے ہوئے</div>
+    <div class="poet">— مرزا غالبؔ</div>
   </div>
 </div>
 
@@ -127,16 +129,6 @@ _A Curation (On Loop)_
         sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"
         src="https://embed.music.apple.com/album/trance-with-khusrow/1764092294">
 </iframe>
-
-----
-
- <div class="hindi" lang="hi" dir="ltr">
-   <div class="verses">
-     <div class="line">महफ़िल में आपकी हम कुछ और तो न लाए</div>
-     <div class="line">नग़मात में सजा कर जज़्बात ले के आए</div>
-     <div class="poet">— शिवन रिज़वी</div>
-   </div>
- </div>
 
 ---
 
@@ -316,6 +308,18 @@ _A Curation (On Loop)_
 
 ---
 
+ <div class="hindi" lang="hi" dir="ltr">
+   <div class="verses">
+     <div class="line">शाम-ए-फ़िराक़ अब न पूछ आई और आ के टल गई</div>
+     <div class="line">दिल था कि फिर बहल गया जाँ थी कि फिर सँभल गई</div>
+     <div class="line">दिल से तो हर मोआ'मला कर के चले थे साफ़ हम</div>
+     <div class="line">कहने में उन के सामने बात बदल बदल गई</div>
+     <div class="poet">— फ़ैज़ अहमद फ़ैज़</div>
+   </div>
+ </div>
+
+---
+
 ## **The Bare Necessities (Reprise)** by Sebastion Cabot & Phil Harris
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
         frameborder="0" 
@@ -372,16 +376,6 @@ Original by Franz Schubert and Franz Schubert | English CC
 
 ---
 
- <div class="hindi" lang="hi" dir="ltr">
-   <div class="verses">
-     <div class="line">मुझे आप क्यों न समझ सके ये ख़ुद अपने दिल ही से पूछिए</div>
-     <div class="line">मेरी दास्तान-ए-हयात का तो वरक़-वरक़ है खुला हुआ</div>
-     <div class="poet">— इक़बाल अज़ीम</div>
-   </div>
- </div>
-
----
-
 <div class="urdu" lang="ur" dir="rtl">
   <div class="verses">
     <div class="misra">اُن سے ملنے کو تو کیا کہیے جگر</div>
@@ -394,8 +388,8 @@ Original by Franz Schubert and Franz Schubert | English CC
 
  <div class="hindi" lang="hi" dir="ltr">
    <div class="verses">
-     <div class="line">हमें इस का कोई भी हक़ नहीं कि शरीक-ए-बज़्म-ए-ख़ुलूस हो</div>
-     <div class="line">न हमारे पास निक़ाब है न कुछ आस्तीन में छुपा हुआ</div>
+     <div class="line">मुझे आप क्यों न समझ सके ये ख़ुद अपने दिल ही से पूछिए</div>
+     <div class="line">मेरी दास्तान-ए-हयात का तो वरक़-वरक़ है खुला हुआ</div>
      <div class="poet">— इक़बाल अज़ीम</div>
    </div>
  </div>
@@ -419,13 +413,13 @@ Original by Franz Schubert and Franz Schubert | English CC
 
 ---
 
-<div class="urdu" lang="ur" dir="rtl">
-  <div class="verses">
-    <div class="misra">مدت ہوئی ہے یار کو مہماں کیے ہوئے</div>
-    <div class="misra">جوش قدح سے بزم چراغاں کیے ہوئے</div>
-    <div class="poet">— مرزا غالبؔ</div>
-  </div>
-</div>
+ <div class="hindi" lang="hi" dir="ltr">
+   <div class="verses">
+     <div class="line">हमें इस का कोई भी हक़ नहीं कि शरीक-ए-बज़्म-ए-ख़ुलूस हो</div>
+     <div class="line">न हमारे पास निक़ाब है न कुछ आस्तीन में छुपा हुआ</div>
+     <div class="poet">— इक़बाल अज़ीम</div>
+   </div>
+ </div>
 
 ---
 

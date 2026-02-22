@@ -161,13 +161,13 @@ University of Geneva
 
 ---
 
- <div class="hindi" lang="hi" dir="ltr">
-   <div class="verses">
-     <div class="line">भरी बज़्म में राज़ की बात कहदी</div>
-     <div class="line">बड़ा बे-अदब हूँ सज़ा चाहता हूँ</div>
-     <div class="poet">— अल्लामा इक़बाल</div>
-   </div>
- </div>
+<div class="urdu" lang="ur" dir="rtl">
+  <div class="verses">
+    <div class="misra">بھری بزم میں راز کی بات کہہ دی</div>
+    <div class="misra">بڑا بے ادب ہوں سزا چاہتا ہوں</div>
+    <div class="poet">— علامہ اقبالؔ</div>
+  </div>
+</div>
 
 ---
 

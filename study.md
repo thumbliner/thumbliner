@@ -172,6 +172,11 @@ University of Geneva
 
 ---
 
+> “For once you have understood your Mises and learned to see the world with Austrian eyes, you will quickly notice, at least if you admit to it, that in many respects you are quite lonely and isolated.”<br>
+> — Hans-Hermann Hoppe
+
+---
+
 ### Applied Epistemology
 *Present  ·  Private Practice*  
 - <a href="https://orcid.org/0000-0003-4798-0467" target="_blank" rel="noopener noreferrer">ORCID</a>
@@ -179,8 +184,8 @@ University of Geneva
 
 ---
 
-> “For once you have understood your Mises and learned to see the world with Austrian eyes, you will quickly notice, at least if you admit to it, that in many respects you are quite lonely and isolated.”<br>
-> — Hans-Hermann Hoppe
+> “If you don’t keep learning, people will pass you by. Temperament alone won’t do it. You need a lot of curiosity for a long, long time.”
+> — Charlie Munger
 
 ---
 

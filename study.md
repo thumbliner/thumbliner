@@ -96,8 +96,8 @@ Walden University
 
 ---
 
-> “I am impatient to set out for my solitude, for there the mind gains strength and learns to lean upon herself.”<br>
-> — Laurence Sterne
+> “Tout le malheur des hommes vient d’une seule chose, qui est de ne savoir pas demeurer en repos dans une chambre.”<br>
+> — Blaise Pascal
 
 ---
 
@@ -126,8 +126,8 @@ Audencia Business School & Toulouse Business School
 
 ---
 
-> “Tout le malheur des hommes vient d’une seule chose, qui est de ne savoir pas demeurer en repos dans une chambre.”<br>
-> — Blaise Pascal
+> “I have never been truly suited for civil society, where everything is annoyance, obligation, and duty, ... my naturally independent temperament always made me incapable of the subjection necessary to anyone who wants to live among men.”<br>
+> — Jean-Jacques Rousseau
 
 ---
 
@@ -156,8 +156,8 @@ University of Geneva
 
 ---
 
-> “I have never been truly suited for civil society, where everything is annoyance, obligation, and duty, ... my naturally independent temperament always made me incapable of the subjection necessary to anyone who wants to live among men.”<br>
-> — Jean-Jacques Rousseau
+> “In order to succeed in business, a man does not need a degree from a school of business administration. These schools train the subalterns for routine jobs. They certainly do not train entrepreneurs. An entrepreneur cannot be trained. A man becomes an entrepreneur by seizing an opportunity and filling the gap. No special education is required for such a display of keen judgment, foresight, and energy.”<br>
+> — Ludwig von Mises
 
 ---
 
@@ -179,8 +179,8 @@ University of Geneva
 
 ---
 
-> “In order to succeed in business, a man does not need a degree from a school of business administration. These schools train the subalterns for routine jobs. They certainly do not train entrepreneurs. An entrepreneur cannot be trained. A man becomes an entrepreneur by seizing an opportunity and filling the gap. No special education is required for such a display of keen judgment, foresight, and energy.”<br>
-> — Ludwig von Mises
+> “For once you have understood your Mises and learned to see the world with Austrian eyes, you will quickly notice, at least if you admit to it, that in many respects you are quite lonely and isolated.”<br>
+> — Hans-Hermann Hoppe
 
 ---
 
@@ -191,11 +191,6 @@ University of Geneva
      <div class="poet">— अल्लामा इक़बाल</div>
    </div>
  </div>
-
----
-
-> “For once you have understood your Mises and learned to see the world with Austrian eyes, you will quickly notice, at least if you admit to it, that in many respects you are quite lonely and isolated.”<br>
-> — Hans-Hermann Hoppe
 
 ---
 

@@ -186,7 +186,7 @@ University of Geneva
 
  <div class="hindi" lang="hi" dir="ltr">
    <div class="verses">
-     <div class="line">भरी बज़्म में राज़ की बात कह दी</div>
+     <div class="line">भरी बज़्म में राज़ की बात कहदी</div>
      <div class="line">बड़ा बे-अदब हूँ सज़ा चाहता हूँ</div>
      <div class="poet">— अल्लामा इक़बाल</div>
    </div>

@@ -194,6 +194,11 @@ University of Geneva
 
 ---
 
+> “For once you have understood your Mises and learned to see the world with Austrian eyes, you will quickly notice, at least if you admit to it, that in many respects you are quite lonely and isolated.”<br>
+> — Hans-Hermann Hoppe
+
+---
+
 <div class="urdu" lang="ur" dir="rtl">
   <div class="verses">
     <div class="misra">مکتب عشق کا دستور نرالا دیکھا</div>

@@ -177,6 +177,16 @@ University of Geneva
 
 ---
 
+ <div class="hindi" lang="hi" dir="ltr">
+   <div class="verses">
+     <div class="line">भरी बज़्म में राज़ की बात कहदी</div>
+     <div class="line">बड़ा बे-अदब हूँ सज़ा चाहता हूँ</div>
+     <div class="poet">— अल्लामा इक़बाल</div>
+   </div>
+ </div>
+
+---
+
 ### Applied Epistemology
 *Present  ·  Private Practice*  
 - <a href="https://orcid.org/0000-0003-4798-0467" target="_blank" rel="noopener noreferrer">ORCID</a>
@@ -186,16 +196,6 @@ University of Geneva
 
 > “If you don’t keep learning, people will pass you by. Temperament alone won’t do it. You need a lot of curiosity for a long, long time.”
 > — Charlie Munger
-
----
-
- <div class="hindi" lang="hi" dir="ltr">
-   <div class="verses">
-     <div class="line">भरी बज़्म में राज़ की बात कहदी</div>
-     <div class="line">बड़ा बे-अदब हूँ सज़ा चाहता हूँ</div>
-     <div class="poet">— अल्लामा इक़बाल</div>
-   </div>
- </div>
 
 ---
 

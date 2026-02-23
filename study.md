@@ -156,7 +156,7 @@ University of Geneva
 
 ---
 
-> “In order to succeed in business, a man does not need a degree from a school of business administration. These schools train the subalterns for routine jobs. They certainly do not train entrepreneurs. An entrepreneur cannot be trained. A man becomes an entrepreneur by seizing an opportunity and filling the gap. No special education is required for such a display of keen judgment, foresight, and energy.”<br>
+> “In order to succeed in business, one does not need a degree from a school of business administration. These schools train the subalterns for routine jobs. They certainly do not train entrepreneurs. An entrepreneur cannot be trained. One becomes an entrepreneur by seizing an opportunity and filling the gap. No special education is required for such a display of keen judgment, foresight, and energy.”<br>
 > — Ludwig von Mises
 
 ---
@@ -194,7 +194,7 @@ University of Geneva
 
 ---
 
-> “If you don’t keep learning, people will pass you by. Temperament alone won’t do it. You need a lot of curiosity for a long, long time.”
+> “If you don’t keep learning, people will pass you by. Temperament alone won’t do it. You need a lot of curiosity for a long, long time.”<br>
 > — Charlie Munger
 
 ---

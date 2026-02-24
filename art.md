@@ -115,11 +115,6 @@ _A Curation (On Loop)_
 
 ---
 
-> “Time is a necessary representation, lying at the foundation of all our intuitions.”<br>
-> — Immanuel Kant
-
----
-
 ## **Trance with Khusrow** by Kavita Seth & Kanishk Seth
 ### You Pick: 2. Chashm-e-Maste or 3. Man Qunto Maula
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
@@ -354,7 +349,7 @@ Original by Franz Schubert and Franz Schubert | English CC
 
 ---
 
-> “From such crooked timber as humankind is made of, nothing entirely straight can be made.”<br>
+> “Aus so krummem Holze, als woraus der Mensch gemacht ist, kann nichts ganz Gerades gezimmert werden.”<br>
 > — Immanuel Kant
 
 ---

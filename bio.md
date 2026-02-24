@@ -52,21 +52,6 @@ A curious outsider in Canada. Thumbliner is his digital handle; and this is a no
 
  <div class="hindi" lang="hi" dir="ltr">
    <div class="verses">
-     <div class="line">तू शाहीं है परवाज़ है काम तेरा</div>
-     <div class="line">तेरे सामने आसमाँ और भी हैं</div>
-     <div class="poet">— अल्लामा इक़बाल</div>
-   </div>
- </div>
-
----
-
-> “The map is not the territory.”<br>
-> —  Alfred Korzybski
-
----
-
- <div class="hindi" lang="hi" dir="ltr">
-   <div class="verses">
      <div class="line">गए दिन कि तन्हा था मैं अंजुमन में</div>
      <div class="line">यहाँ अब मेरे राज़-दाँ और भी हैं</div>
      <div class="poet">— अल्लामा इक़बाल</div>

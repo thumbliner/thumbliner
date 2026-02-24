@@ -126,7 +126,7 @@ Audencia Business School & Toulouse Business School
 
 ---
 
-> “I have never been truly suited for civil society, where everything is annoyance, obligation, and duty, ... my naturally independent temperament always made me incapable of the subjection necessary to anyone who wants to live among men.”<br>
+> “Le résultat que je puis tirer de toutes ces réflexions est, que je n’ai jamais été vraiment propre à la société civile où tout est gêne, obligation devoir, and que mon naturel indépendant me rendit toujours incapable des assujettissemens nécessaires à qui veut vivre avec les hommes.”<br>
 > — Jean-Jacques Rousseau
 
 ---

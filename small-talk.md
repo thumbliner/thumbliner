@@ -95,7 +95,7 @@ Peace
 
 ---
 
-> “La nature a fait l'homme heureux et bon, mais la société le déprave et le rend misérable.”<br>
+> « La nature a fait l’homme heureux et bon, mais la société le déprave et le rend misérable. »<br>
 > — Jean-Jacques Rousseau
 
 ---

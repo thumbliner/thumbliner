@@ -95,7 +95,7 @@ Peace
 
 ---
 
-> “A human is naturally good; it is society that corrupts.”<br>
+> “La nature a fait l'homme heureux et bon, mais la société le déprave et le rend misérable.”<br>
 > — Jean-Jacques Rousseau
 
 ---

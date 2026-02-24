@@ -96,7 +96,7 @@ Walden University
 
 ---
 
-> “Tout le malheur des hommes vient d’une seule chose, qui est de ne savoir pas demeurer en repos dans une chambre.”<br>
+> « Tout le malheur des hommes vient d’une seule chose, qui est de ne savoir pas demeurer en repos dans une chambre. »<br>
 > — Blaise Pascal
 
 ---
@@ -126,7 +126,7 @@ Audencia Business School & Toulouse Business School
 
 ---
 
-> “Le résultat que je puis tirer de toutes ces réflexions est, que je n’ai jamais été vraiment propre à la société civile où tout est gêne, obligation devoir, and que mon naturel indépendant me rendit toujours incapable des assujettissemens nécessaires à qui veut vivre avec les hommes.”<br>
+> « Le résultat que je puis tirer de toutes ces réflexions est, que je n’ai jamais été vraiment propre à la société civile où tout est gêne, obligation devoir, et que mon naturel indépendant me rendit toujours incapable des assujettissemens nécessaires à qui veut vivre avec les hommes. »<br>
 > — Jean-Jacques Rousseau
 
 ---

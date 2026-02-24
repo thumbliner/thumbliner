@@ -349,7 +349,7 @@ Original by Franz Schubert and Franz Schubert | English CC
 
 ---
 
-> “Aus so krummem Holze, als woraus der Mensch gemacht ist, kann nichts ganz Gerades gezimmert werden.”<br>
+> „Aus so krummem Holze, als woraus der Mensch gemacht ist, kann nichts ganz Gerades gezimmert werden.”<br>
 > — Immanuel Kant
 
 ---

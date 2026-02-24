@@ -11,16 +11,6 @@ _A Curation (On Loop)_
 
 ---
 
-<div class="urdu" lang="ur" dir="rtl">
-  <div class="verses">
-    <div class="misra">مدت ہوئی ہے یار کو مہماں کیے ہوئے</div>
-    <div class="misra">جوش قدح سے بزم چراغاں کیے ہوئے</div>
-    <div class="poet">— مرزا غالبؔ</div>
-  </div>
-</div>
-
----
-
 ## **Beauty and the Beast** by Alan Menken & Howard Ashman  
 ### You Pick: 2. Belle or 6. Be Our Guest  
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"

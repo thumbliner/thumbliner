@@ -59,7 +59,7 @@ Builds a model, tries to solve a problem, fails, updates the model. Learning hap
 
 ---
 
-> “I know my heart, and have studied mankind.”<br>
+> “Je sens mon coeur and je connois les hommes.”<br>
 > — Jean-Jacques Rousseau
 
 ---

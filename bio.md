@@ -45,7 +45,7 @@ A curious outsider in Canada. Thumbliner is his digital handle; and this is a no
 
 ---
 
-> “Je pense, donc je suis.”<br>
+> « Je pense, donc je suis. »<br>
 > —  René Descartes
 
 ---

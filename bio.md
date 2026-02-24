@@ -35,29 +35,9 @@ A curious outsider in Canada. Thumbliner is his digital handle; and this is a no
 
 ---
 
- <div class="hindi" lang="hi" dir="ltr">
-   <div class="verses">
-     <div class="line">सितारों से आगे जहाँ और भी हैं</div>
-     <div class="line">अभी इश्क़ के इम्तिहाँ और भी हैं</div>
-     <div class="poet">— अल्लामा इक़बाल</div>
-   </div>
- </div>
-
----
-
 > « Je pense, donc je suis. »<br>
 > —  René Descartes
 
----
-
- <div class="hindi" lang="hi" dir="ltr">
-   <div class="verses">
-     <div class="line">गए दिन कि तन्हा था मैं अंजुमन में</div>
-     <div class="line">यहाँ अब मेरे राज़-दाँ और भी हैं</div>
-     <div class="poet">— अल्लामा इक़बाल</div>
-   </div>
- </div>
- 
 ---
 
 Glad to have you!<br>

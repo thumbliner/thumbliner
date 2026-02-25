@@ -293,6 +293,17 @@ _A Curation (On Loop)_
 
 ---
 
+## **The Bare Necessities (Reprise)** by Sebastion Cabot & Phil Harris
+<iframe allow="encrypted-media *; fullscreen *; clipboard-write"
+        frameborder="0" 
+        height="175" 
+        style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" 
+        sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" 
+        src="https://embed.music.apple.com/song/the-bare-necessities-reprise/1467938374">
+</iframe>
+
+---
+
  <div class="hindi" lang="hi" dir="ltr">
    <div class="verses">
      <div class="line">शाम-ए-फ़िराक़ अब न पूछ आई और आ के टल गई</div>
@@ -302,17 +313,6 @@ _A Curation (On Loop)_
      <div class="poet">— फ़ैज़ अहमद फ़ैज़</div>
    </div>
  </div>
-
----
-
-## **The Bare Necessities (Reprise)** by Sebastion Cabot & Phil Harris
-<iframe allow="encrypted-media *; fullscreen *; clipboard-write"
-        frameborder="0" 
-        height="175" 
-        style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" 
-        sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" 
-        src="https://embed.music.apple.com/song/the-bare-necessities-reprise/1467938374">
-</iframe>
 
 ---
 

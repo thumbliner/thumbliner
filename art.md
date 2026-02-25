@@ -282,6 +282,16 @@ _A Curation (On Loop)_
 
 ---
 
+ <div class="hindi" lang="hi" dir="ltr">
+   <div class="verses">
+     <div class="line">शाम-ए-फ़िराक़ अब न पूछ आई और आ के टल गई</div>
+     <div class="line">दिल था कि फिर बहल गया जाँ थी कि फिर सँभल गई</div>
+     <div class="poet">— फ़ैज़ अहमद फ़ैज़</div>
+   </div>
+ </div>
+
+---
+
 ## **La Aurora Nocturna (Live)** by Luis Delgado
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
         frameborder="0" 
@@ -293,6 +303,16 @@ _A Curation (On Loop)_
 
 ---
 
+ <div class="hindi" lang="hi" dir="ltr">
+   <div class="verses">
+     <div class="line">दिल से तो हर मोआ'मला कर के चले थे साफ़ हम</div>
+     <div class="line">कहने में उन के सामने बात बदल बदल गई</div>
+     <div class="poet">— फ़ैज़ अहमद फ़ैज़</div>
+   </div>
+ </div>
+
+---
+
 ## **The Bare Necessities (Reprise)** by Sebastion Cabot & Phil Harris
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
         frameborder="0" 
@@ -301,18 +321,6 @@ _A Curation (On Loop)_
         sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" 
         src="https://embed.music.apple.com/song/the-bare-necessities-reprise/1467938374">
 </iframe>
-
----
-
- <div class="hindi" lang="hi" dir="ltr">
-   <div class="verses">
-     <div class="line">शाम-ए-फ़िराक़ अब न पूछ आई और आ के टल गई</div>
-     <div class="line">दिल था कि फिर बहल गया जाँ थी कि फिर सँभल गई</div>
-     <div class="line">दिल से तो हर मोआ'मला कर के चले थे साफ़ हम</div>
-     <div class="line">कहने में उन के सामने बात बदल बदल गई</div>
-     <div class="poet">— फ़ैज़ अहमद फ़ैज़</div>
-   </div>
- </div>
 
 ---
 

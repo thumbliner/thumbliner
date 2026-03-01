@@ -66,9 +66,9 @@ _Poor Salman's Capital_
 
  <div class="hindi" lang="hi" dir="ltr">
    <div class="verses">
-     <div class="line">क्या पूछते हो उन जल्वों की फ़रावानी</div>
-     <div class="line">हम देख नहीं सकते—इतना नज़र आता है</div>
-     <div class="poet">— सैयद बेदम शाह वारसी</div>
+     <div class="line">कभी 'फ़राज़' से आ कर मिलो जो वक़्त मिले</div>
+     <div class="line">ये शख़्स ख़ूब है अशआर के अलावा भी</div>
+     <div class="poet">— अहमद फ़राज़ी</div>
    </div>
  </div>
 

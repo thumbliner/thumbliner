@@ -51,9 +51,9 @@ _Poor Salman's Capital_
 
  <div class="hindi" lang="hi" dir="ltr">
    <div class="verses">
-     <div class="line">हर क़तरे में दरिया की मौजें नज़र आती हैं</div>
-     <div class="line">हर बंदे की सूरत में मौला नज़र आता है</div>
-     <div class="poet">— सैयद बेदम शाह वारसी</div>
+     <div class="line">उजाड़ घर में ये ख़ुशबू कहाँ से आई है</div>
+     <div class="line">कोई तो है दर-ओ-दीवार के अलावा भी</div>
+     <div class="poet">— अहमद फ़राज़</div>
    </div>
  </div>
 

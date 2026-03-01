@@ -168,12 +168,12 @@ Built a community—writing, coding, and designing the experience—to learn and
 
  <div class="hindi" lang="hi" dir="ltr">
    <div class="verses">
-     <div class="line">नासेहा तुझको ख़बर क्या कि महब्बत क्या है</div>
-     <div class="line">रोज़ आजाता है समझाता है यूँ है यूँ है</div>
+     <div class="line">हम को उस शहर में तामीर का सौदा है जहाँ</div>
+     <div class="line">लोग मेमार को चुन देते हैं दीवार के साथ</div>
      <div class="poet">— अहमद फ़राज़</div>
    </div>
  </div>
- 
+
 ---
 
 <div class="urdu" lang="ur" dir="rtl">

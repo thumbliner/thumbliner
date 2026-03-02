@@ -51,8 +51,8 @@ _Poor Salman's Capital_
 
  <div class="hindi" lang="hi" dir="ltr">
    <div class="verses">
-     <div class="line">उजाड़ घर में ये ख़ुशबू कहाँ से आई है</div>
-     <div class="line">कोई तो है दर-ओ-दीवार के अलावा भी</div>
+     <div class="line">ढूँढ उजड़े हुए लोगों में वफ़ा के मोती</div>
+     <div class="line">ये ख़ज़ाने तुझे मुमकिन है ख़राबों में मिलें</div>
      <div class="poet">— अहमद फ़राज़</div>
    </div>
  </div>
@@ -66,8 +66,8 @@ _Poor Salman's Capital_
 
  <div class="hindi" lang="hi" dir="ltr">
    <div class="verses">
-     <div class="line">कभी 'फ़राज़' से आ कर मिलो जो वक़्त मिले</div>
-     <div class="line">ये शख़्स ख़ूब है अशआर के अलावा भी</div>
+     <div class="line">ग़म-ए-दुनिया भी ग़म-ए-यार में शामिल कर लो/div>
+     <div class="line">नश्शा बढ़ता है शराबें जो शराबों में मिलें</div>
      <div class="poet">— अहमद फ़राज़ी</div>
    </div>
  </div>

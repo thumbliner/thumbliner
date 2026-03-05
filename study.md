@@ -96,8 +96,8 @@ Walden University
 
 ---
 
-> « Tout le malheur des hommes vient d’une seule chose, qui est de ne savoir pas demeurer en repos dans une chambre. »<br>
-> — Blaise Pascal
+> “My definition of being properly educated is being right when the professor is wrong. Anybody can spit back what the professor tells you.”<br>
+> — Charlie Munger
 
 ---
 

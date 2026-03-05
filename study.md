@@ -96,7 +96,7 @@ Walden University
 
 ---
 
-> “My definition of being properly educated is being right when the professor is wrong. Anybody can spit back what the professor tells you. The trick is to know when they are right and when they are wrong. And of course, they are frequently wrong, particularly in the soft sciences.”<br>
+> “Anybody can spit back what the professor tells you. The trick is to know when they are right and when they are wrong. That's the properly educated person. And of course, they are frequently wrong, particularly in the soft sciences.”<br>
 > — Charlie Munger
 
 ---

@@ -133,6 +133,11 @@ Built a community—writing, coding, and designing the experience—to learn and
 
 ---
 
+> “Education is somebody else telling you what to think, while learning is opening yourself to new possibilities, and grasping a concept because you understand it on a personal level.”<br>
+> — Sid Meier
+
+---
+
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
         title="Music player: Old Friends by Howard Shore"
         frameborder="0" 
@@ -141,11 +146,6 @@ Built a community—writing, coding, and designing the experience—to learn and
         sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" 
         src="https://embed.music.apple.com/song/old-friends-extended-version/1454398444">
 </iframe>
-
----
-
-> “Education is somebody else telling you what to think, while learning is opening yourself to new possibilities, and grasping a concept because you understand it on a personal level.”<br>
-> — Sid Meier
 
 ---
 

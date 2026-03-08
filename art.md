@@ -285,7 +285,7 @@ _Colors of the Wind_
  <div class="hindi" lang="hi" dir="ltr">
    <div class="verses">
      <div class="line">शाम-ए-फ़िराक़ अब न पूछ आई और आ के टल गई</div>
-     <div class="line">दिल था कि फिर बहल गया जाँ थी कि फिर सँभल गई</div>
+     <div class="line">दिल था कि फिर बहल गया जाँ थी के फिर सँभल गई</div>
      <div class="poet">— फ़ैज़ अहमद फ़ैज़</div>
    </div>
  </div>

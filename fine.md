@@ -54,6 +54,17 @@ _Richard Phillips Feynman_
 
 ---
 
+<iframe allow="encrypted-media *; fullscreen *; clipboard-write"
+        title="Music player: Fireflies by Owl City"
+        frameborder="0" 
+        height="175" 
+        style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" 
+        sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" 
+        src="https://embed.music.apple.com/song/fireflies/1440770878">
+</iframe>
+
+---
+
 ### The Integrity
 - “You should, in science, believe logic and arguments, carefully drawn, and not authorities.”
 - “In short, I don’t know what your viewpoint is. Therefore, I hope to hear your opinion clearly and simply stated in your next letter.”
@@ -73,17 +84,6 @@ _Richard Phillips Feynman_
      <div class="poet">— मिर्ज़ा ग़ालिब</div>
    </div>
  </div>
-
----
-
-<iframe allow="encrypted-media *; fullscreen *; clipboard-write"
-        title="Music player: Fireflies by Owl City"
-        frameborder="0" 
-        height="175" 
-        style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" 
-        sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" 
-        src="https://embed.music.apple.com/song/fireflies/1440770878">
-</iframe>
 
 ---
 

@@ -7,7 +7,7 @@ nav_order: 1
 ---
 
 # Art
-_A Curation (On Loop)_
+_Colors of the Wind_
 
 ---
 
@@ -239,6 +239,27 @@ _A Curation (On Loop)_
 
 ---
 
+## **Pink Pony Club** by Hildegard von Blingin', Daniel Nigro, and Kayleigh Rose Amstutz
+<iframe allow="encrypted-media *; fullscreen *; clipboard-write"
+        frameborder="0" 
+        height="175" 
+        style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" 
+        sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" 
+        src="https://embed.music.apple.com/song/pink-pony-club/1781867239">
+</iframe>
+
+---
+
+<div class="urdu" lang="ur" dir="rtl">
+  <div class="verses">
+    <div class="misra">مصحفیؔ ہم تو یہ سمجھے تھے کہ ہوگا کوئی زخم</div>
+    <div class="misra">تیرے دل میں تو بہت کام رفو کا نکلا</div>
+    <div class="poet">— مصحفیؔ غلام ہمدانی</div>
+  </div>
+</div>
+
+---
+
 ## **I Could Have Done More** by John Williams, Itzhak Perlman, & Boston Symphony Orchestra
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
         frameborder="0" 
@@ -261,13 +282,13 @@ _A Curation (On Loop)_
 
 ---
 
-<div class="urdu" lang="ur" dir="rtl">
-  <div class="verses">
-    <div class="misra">مصحفیؔ ہم تو یہ سمجھے تھے کہ ہوگا کوئی زخم</div>
-    <div class="misra">تیرے دل میں تو بہت کام رفو کا نکلا</div>
-    <div class="poet">— مصحفیؔ غلام ہمدانی</div>
-  </div>
-</div>
+ <div class="hindi" lang="hi" dir="ltr">
+   <div class="verses">
+     <div class="line">शाम-ए-फ़िराक़ अब न पूछ आई और आ के टल गई</div>
+     <div class="line">दिल था कि फिर बहल गया जाँ थी कि फिर सँभल गई</div>
+     <div class="poet">— फ़ैज़ अहमद फ़ैज़</div>
+   </div>
+ </div>
 
 ---
 
@@ -279,16 +300,6 @@ _A Curation (On Loop)_
         sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" 
         src="https://embed.music.apple.com/song/raga-maru-bigag/80964202">
 </iframe>
-
----
-
- <div class="hindi" lang="hi" dir="ltr">
-   <div class="verses">
-     <div class="line">शाम-ए-फ़िराक़ अब न पूछ आई और आ के टल गई</div>
-     <div class="line">दिल था कि फिर बहल गया जाँ थी कि फिर सँभल गई</div>
-     <div class="poet">— फ़ैज़ अहमद फ़ैज़</div>
-   </div>
- </div>
 
 ---
 

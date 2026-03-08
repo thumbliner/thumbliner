@@ -239,7 +239,7 @@ _Colors of the Wind_
 
 ---
 
-## **Pink Pony Club** by Hildegard von Blingin', Daniel Nigro, and Kayleigh Rose Amstutz
+## **Pink Pony Club** by Hildegard von Blingin', Daniel Nigro, & Kayleigh Rose Amstutz
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
         frameborder="0" 
         height="175" 

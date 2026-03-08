@@ -33,7 +33,7 @@ So what have you been up to?
 Studying music and metaphor.<br>
 
 Do you agree with `insert trend`?  
-I don't know enough.<br>
+I don’t know enough.<br>
 
 What is your philosophy of `insert subject`?  
 What about it?<br>
@@ -52,8 +52,8 @@ I am your fellow human.<br>
 Any flaws?  
 The standard.<br>
 
-Now let’s be outraged by `insert headline`.  
-Let's empathize and stay attuned.<br>
+Let’s be outraged by `insert headline`.  
+Let’s empathize and stay attuned.<br>
 
 You would not say so if you were a pure `insert label`.  
 Woah—you made me think this through.<br>

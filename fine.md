@@ -26,7 +26,14 @@ _Richard Phillips Feynman_
 
 ---
 
-
+<iframe allow="encrypted-media *; fullscreen *; clipboard-write"
+        title="Music player: Fireflies by Owl City"
+        frameborder="0" 
+        height="175" 
+        style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" 
+        sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" 
+        src="https://embed.music.apple.com/song/fireflies/1440770878">
+</iframe>
 
 ---
 
@@ -39,17 +46,6 @@ _Richard Phillips Feynman_
 - “Don’t get me wrong—I’m not sad, I’m just not wildly happy.”
 - “They weren’t told because they didn’t want to hear any doubts or bad news.”
 - “The question I want to answer first is not whether we go back to Albuquerque or not, but rather in what frame of mind we should be when we decide to go back or not.”
-
----
-
-<iframe allow="encrypted-media *; fullscreen *; clipboard-write"
-        title="Music player: Fireflies by Owl City"
-        frameborder="0" 
-        height="175" 
-        style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" 
-        sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" 
-        src="https://embed.music.apple.com/song/fireflies/1440770878">
-</iframe>
 
 ---
 

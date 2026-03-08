@@ -49,11 +49,6 @@ _Richard Phillips Feynman_
 
 ---
 
-> “Study hard what interests you the most in the most undisciplined, irreverent, and original manner possible.”<br>
-> — Richard Feynman
-
----
-
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
         title="Music player: Fireflies by Owl City"
         frameborder="0" 
@@ -62,6 +57,11 @@ _Richard Phillips Feynman_
         sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" 
         src="https://embed.music.apple.com/song/fireflies/1440770878">
 </iframe>
+
+---
+
+> “Study hard what interests you the most in the most undisciplined, irreverent, and original manner possible.”<br>
+> — Richard Feynman
 
 ---
 

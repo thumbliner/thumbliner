@@ -284,8 +284,8 @@ _Colors of the Wind_
 
   <div class="hindi" lang="hi" dir="ltr">
    <div class="verses">
-     <div class="line">दिल से तो हर मोआ'मला कर के चले थे साफ़ हम</div>
-     <div class="line">कहने में उन के सामने बात बदल बदल गई</div>
+     <div class="line">दिल ना-उमीद तो नहीं नाकाम ही तो है</div>
+     <div class="line">लम्बी है ग़म की शाम मगर शाम ही तो है</div>
      <div class="poet">— फ़ैज़ अहमद फ़ैज़</div>
    </div>
  </div>

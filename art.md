@@ -282,10 +282,10 @@ _Colors of the Wind_
 
 ---
 
- <div class="hindi" lang="hi" dir="ltr">
+  <div class="hindi" lang="hi" dir="ltr">
    <div class="verses">
-     <div class="line">शाम-ए-फ़िराक़ अब न पूछ आई और आ के टल गई</div>
-     <div class="line">दिल था के फिर बहल गया जाँ थी के फिर सँभल गई</div>
+     <div class="line">दिल से तो हर मोआ'मला कर के चले थे साफ़ हम</div>
+     <div class="line">कहने में उन के सामने बात बदल बदल गई</div>
      <div class="poet">— फ़ैज़ अहमद फ़ैज़</div>
    </div>
  </div>
@@ -316,8 +316,8 @@ _Colors of the Wind_
 
  <div class="hindi" lang="hi" dir="ltr">
    <div class="verses">
-     <div class="line">दिल से तो हर मोआ'मला कर के चले थे साफ़ हम</div>
-     <div class="line">कहने में उन के सामने बात बदल बदल गई</div>
+     <div class="line">शाम-ए-फ़िराक़ अब न पूछ आई और आ के टल गई</div>
+     <div class="line">दिल था के फिर बहल गया जाँ थी के फिर सँभल गई</div>
      <div class="poet">— फ़ैज़ अहमद फ़ैज़</div>
    </div>
  </div>

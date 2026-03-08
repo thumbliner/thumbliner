@@ -187,10 +187,10 @@ _Colors of the Wind_
 
 ---
 
- <div class="hindi" lang="hi" dir="ltr">
+  <div class="hindi" lang="hi" dir="ltr">
    <div class="verses">
-     <div class="line">अश्कों ने बयाँ कर ही दिया राज़-ए-तमन्ना</div>
-     <div class="line">हम सोच रहे थे अभी इज़हार कि सूरत</div>
+     <div class="line">अहबाब की सूरत हो कि अग़्यार कि सूरत</div>
+     <div class="line">हर चेहरे में आती है नज़र यार कि सूरत</div>
      <div class="poet">— वासिफ़ अली वासिफ़</div>
    </div>
  </div>
@@ -209,8 +209,8 @@ _Colors of the Wind_
 
  <div class="hindi" lang="hi" dir="ltr">
    <div class="verses">
-     <div class="line">अहबाब की सूरत हो कि अग़्यार कि सूरत</div>
-     <div class="line">हर चेहरे में आती है नज़र यार कि सूरत</div>
+     <div class="line">अश्कों ने बयाँ कर ही दिया राज़-ए-तमन्ना</div>
+     <div class="line">हम सोच रहे थे अभी इज़हार कि सूरत</div>
      <div class="poet">— वासिफ़ अली वासिफ़</div>
    </div>
  </div>

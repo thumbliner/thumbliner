@@ -64,7 +64,7 @@ Look. Listen.<br>
 Remember what happened in `insert millennia` B.C.?  
 I probably can’t. Should I?<br>
 
-You should read more. This is the truth.  
+You should read more. This is The Truth.  
 Ok—let’s add it to the reading list.<br>
 
 Peace

@@ -109,6 +109,17 @@ _Richard Phillips Feynman_
 
 ---
 
+<iframe allow="encrypted-media *; fullscreen *; clipboard-write"
+        title="Music player: Tut tut tut tut by Gillian Hills"
+        frameborder="0" 
+        height="175" 
+        style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" 
+        sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" 
+        src="https://embed.music.apple.com/song/tut-tut-tut-tut/1452874329">
+</iframe>
+
+---
+
 ### The Collaboration
 - “There are three kinds of questions: One is how does it affect me? Another question is, how does it affect you? And then there’s a question: What are the stars made out of? Now, only the last kind are a real pleasure to talk to. Because the last kind has the same kind of curiosity as motivates you in the sciences. And so you kind of feel a kind of sympathy right away for that kind of question. And those people you can spend a lot of time with and tell them all about the stars, and they grin back, and they ask more questions. And that’s lots of fun.”
 - “In high energy physics, the experiments are so complicated and elaborate and require such expensive machines that almost all experiments are done by large teams. But when it comes to a realization of what an experiment might mean, or to inventing and producing a new clever way of doing something—that might be done by one fellow independently. Finally, good theoretical work seems to me to be much as it always has been—good ideas appear in individual brains, not in committee meetings. Of course, as always, reading others’ work or conversations and discussions with colleagues helps a lot in preliminary stages of thinking.”

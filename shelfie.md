@@ -51,8 +51,8 @@ _Poor Salman's Capital_
 
  <div class="hindi" lang="hi" dir="ltr">
    <div class="verses">
-     <div class="line">ढूँढ उजड़े हुए लोगों में वफ़ा के मोती</div>
-     <div class="line">ये ख़ज़ाने तुझे मुमकिन है ख़राबों में मिलें</div>
+     <div class="line">ग़म-ए-दुनिया भी ग़म-ए-यार में शामिल करलो</div>
+     <div class="line">नशा बढ़ता है शराबें जो शराबों में मिलें</div>
      <div class="poet">— अहमद फ़राज़</div>
    </div>
  </div>
@@ -64,10 +64,10 @@ _Poor Salman's Capital_
 
 ---
 
- <div class="hindi" lang="hi" dir="ltr">
+  <div class="hindi" lang="hi" dir="ltr">
    <div class="verses">
-     <div class="line">ग़म-ए-दुनिया भी ग़म-ए-यार में शामिल करलो</div>
-     <div class="line">नशा बढ़ता है शराबें जो शराबों में मिलें</div>
+     <div class="line">ढूँढ उजड़े हुए लोगों में वफ़ा के मोती</div>
+     <div class="line">ये ख़ज़ाने तुझे मुमकिन है ख़राबों में मिलें</div>
      <div class="poet">— अहमद फ़राज़</div>
    </div>
  </div>

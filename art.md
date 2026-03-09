@@ -250,6 +250,16 @@ _Colors of the Wind_
 
 ---
 
+  <div class="hindi" lang="hi" dir="ltr">
+   <div class="verses">
+     <div class="line">आइए हाथ उठाएँ हम भी</div>
+     <div class="line">हम जिन्हें रस्म-ए-दुआ याद नहीं</div>
+     <div class="poet">— फ़ैज़ अहमद फ़ैज़</div>
+   </div>
+ </div>
+
+---
+
 <div class="urdu" lang="ur" dir="rtl">
   <div class="verses">
     <div class="misra">مصحفیؔ ہم تو یہ سمجھے تھے کہ ہوگا کوئی زخم</div>
@@ -257,6 +267,16 @@ _Colors of the Wind_
     <div class="poet">— مصحفیؔ غلام ہمدانی</div>
   </div>
 </div>
+
+---
+
+  <div class="hindi" lang="hi" dir="ltr">
+   <div class="verses">
+     <div class="line">हम जिन्हें सोज़-ए-मोहब्बत के सिवा</div>
+     <div class="line">कोई बुत कोई ख़ुदा याद नहीं</div>
+     <div class="poet">— फ़ैज़ अहमद फ़ैज़</div>
+   </div>
+ </div>
 
 ---
 

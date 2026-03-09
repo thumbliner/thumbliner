@@ -290,7 +290,7 @@ _Colors of the Wind_
 
   <div class="hindi" lang="hi" dir="ltr">
    <div class="verses">
-     <div class="line">हम जिन्हें सोज़-ए-मोहब्बत के सिवा</div>
+     <div class="line">हम जिन्हें सोज़-ए-महब्बत के सिवा</div>
      <div class="line">कोई बुत कोई ख़ुदा याद नहीं</div>
      <div class="poet">— फ़ैज़ अहमद फ़ैज़</div>
    </div>

@@ -297,7 +297,7 @@ _Colors of the Wind_
 
 ---
 
-## **Bekas Pe Karam Kijiye** by Lata Mangeshkar & Naushad
+## **Bekas Pe Karam Kijiye** by Lata Mangeshkar, Shakeel Badayuni, & Naushad
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
         frameborder="0" 
         height="175" 

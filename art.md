@@ -189,7 +189,7 @@ _Colors of the Wind_
 
   <div class="hindi" lang="hi" dir="ltr">
    <div class="verses">
-     <div class="line">अहबाब की सूरत हो कि अग़्यार कि सूरत</div>
+     <div class="line">अहबाब कि सूरत हो की अग़्यार कि सूरत</div>
      <div class="line">हर चेहरे में आती है नज़र यार कि सूरत</div>
      <div class="poet">— वासिफ़ अली वासिफ़</div>
    </div>

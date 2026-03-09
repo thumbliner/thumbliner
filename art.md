@@ -352,13 +352,13 @@ _Colors of the Wind_
 
 ---
 
- <div class="hindi" lang="hi" dir="ltr">
-   <div class="verses">
-     <div class="line">शाम-ए-फ़िराक़ अब न पूछ आई और आ के टल गई</div>
-     <div class="line">दिल था के फिर बहल गया जाँ थी के फिर सँभल गई</div>
-     <div class="poet">— फ़ैज़ अहमद फ़ैज़</div>
-   </div>
- </div>
+<div class="urdu" lang="ur" dir="rtl">
+  <div class="verses">
+    <div class="misra">شام فراق اب نہ پوچھ آئی اور آ کے ٹل گئی</div>
+    <div class="misra">دل تھا کہ پھر بہل گیا جاں تھی کہ پھر سنبھل گئی</div>
+    <div class="poet">— فیض احمد فیضؔ</div>
+  </div>
+</div>
 
 ---
 

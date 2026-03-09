@@ -155,6 +155,24 @@ _Colors of the Wind_
    <div class="verses">
      <div class="line">किसी तरह तो जमे बज़्म मय-कदे वालो</div>
      <div class="line">नहीं जो बादा-ओ-साग़र तो हाव-हू ही सही</div>
+     <div class="poet">— फ़ैज़ अहमद फ़ैज़</div>
+   </div>
+ </div>
+
+---
+
+<div class="urdu" lang="ur" dir="rtl">
+  <div class="verses">
+    <div class="misra">مدت ہوئی ہے یار کو مہماں کیے ہوئے</div>
+    <div class="misra">جوش قدح سے بزم چراغاں کیے ہوئے</div>
+    <div class="poet">— مرزا غالبؔ</div>
+  </div>
+</div>
+
+---
+
+ <div class="hindi" lang="hi" dir="ltr">
+   <div class="verses">
      <div class="line">दयार-ए-ग़ैर में महरम अगर नहीं कोई</div>
      <div class="line">तो 'फ़ैज़' ज़िक्र-ए-वतन अपने रू-ब-रू ही सही</div>
      <div class="poet">— फ़ैज़ अहमद फ़ैज़</div>

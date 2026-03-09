@@ -168,8 +168,8 @@ Built a community—writing, coding, and designing the experience—to learn and
 
  <div class="hindi" lang="hi" dir="ltr">
    <div class="verses">
-     <div class="line">हम को उस शहर में तामीर का सौदा है जहाँ</div>
-     <div class="line">लोग मेमार को चुन देते हैं दीवार के साथ</div>
+     <div class="line">हम को उस शहर में ता'मीर का सौदा है जहाँ</div>
+     <div class="line">लोग मे'मार को चुन देते हैं दीवार के साथ</div>
      <div class="poet">— अहमद फ़राज़</div>
    </div>
  </div>

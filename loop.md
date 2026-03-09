@@ -51,7 +51,7 @@ Builds a model, tries to solve a problem, fails, updates the model. Learning hap
 
  <div class="hindi" lang="hi" dir="ltr">
    <div class="verses">
-     <div class="line">जुनूँ में जितनी भी गुज़री ब-कार गुज़री है</div>
+     <div class="line">जुनूँ में जितनी भी गुज़री बा-कार गुज़री है</div>
      <div class="line">अगरचे दिल पे ख़राबी हज़ार गुज़री है</div>
      <div class="poet">— फ़ैज़ अहमद फ़ैज़</div>
    </div>
@@ -68,7 +68,7 @@ Builds a model, tries to solve a problem, fails, updates the model. Learning hap
    <div class="verses">
      <div class="line">वो बात सारे फ़साने में जिस का ज़िक्र न था</div>
      <div class="line">वो बात उन को बहुत ना-गवार गुज़री है</div>
-     <div class="poet">— अल्ताफ़ हुसैन हाली</div>
+     <div class="poet">— फ़ैज़ अहमद फ़ैज़</div>
    </div>
  </div>
 

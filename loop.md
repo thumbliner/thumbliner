@@ -66,8 +66,8 @@ Builds a model, tries to solve a problem, fails, updates the model. Learning hap
 
  <div class="hindi" lang="hi" dir="ltr">
    <div class="verses">
-     <div class="line">है जुस्तुजू कि ख़ूब से है ख़ूब-तर कहाँ</div>
-     <div class="line">अब ठहरती है देखिए जा कर नज़र कहाँ</div>
+     <div class="line">वो बात सारे फ़साने में जिस का ज़िक्र न था</div>
+     <div class="line">वो बात उन को बहुत ना-गवार गुज़री है</div>
      <div class="poet">— अल्ताफ़ हुसैन हाली</div>
    </div>
  </div>
@@ -121,9 +121,9 @@ At time $$t$$, each agent $$i$$ receives a local observation $$o_t^i$$ (includin
 
  <div class="hindi" lang="hi" dir="ltr">
    <div class="verses">
-     <div class="line">जुस्तुजू जिसकी थी उसको तो न पाया हमने</div>
-     <div class="line">इस बहाने से मगर देखली दुनिया हमने</div>
-     <div class="poet">— शहरयार</div>
+     <div class="line">है जुस्तुजू कि ख़ूब से है ख़ूब-तर कहाँ</div>
+     <div class="line">अब ठहरती है देखिए जा कर नज़र कहाँ</div>
+     <div class="poet">— अल्ताफ़ हुसैन हाली</div>
    </div>
  </div>
 

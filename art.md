@@ -332,8 +332,8 @@ _Colors of the Wind_
 
 <div class="urdu" lang="ur" dir="rtl">
   <div class="verses">
-    <div class="misra">جزا سزا سب یہیں پہ ہوگی</div>
-    <div class="misra">یہیں عذاب و ثواب ہوگا</div>
+    <div class="misra">تم آئے ہو نہ شب انتظار گزری ہے</div>
+    <div class="misra">تلاش میں ہے سحر بار بار گزری ہے</div>
     <div class="poet">— فیض احمد فیضؔ</div>
   </div>
 </div>
@@ -352,8 +352,8 @@ _Colors of the Wind_
 
 <div class="urdu" lang="ur" dir="rtl">
   <div class="verses">
-    <div class="misra">یہیں سے اٹھے گا شور محشر</div>
-    <div class="misra">یہیں پہ روز حساب ہوگا</div>
+    <div class="misra">جنوں میں جتنی بھی گزری بکار گزری ہے</div>
+    <div class="misra">اگرچہ دل پہ خرابی ہزار گزری ہے</div>
     <div class="poet">— فیض احمد فیضؔ</div>
   </div>
 </div>

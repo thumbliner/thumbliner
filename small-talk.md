@@ -55,7 +55,7 @@ The standard.<br>
 Let’s be outraged by `insert headline`.  
 Let’s empathize and stay attuned.<br>
 
-You would not say so if you were a pure `insert label`.  
+You would not say so if you were a pure `insert tribe`.  
 Woah—you made me think this through.<br>
 
 But does it affect you? Do you even care?  

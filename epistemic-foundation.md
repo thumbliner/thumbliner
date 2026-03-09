@@ -44,8 +44,8 @@ We learn about the world by paying attention. We receive sensations—seeing a b
 
  <div class="hindi" lang="hi" dir="ltr">
    <div class="verses">
-     <div class="line">पुख़्ता होती है अगर मसलहत-अंदेश हो अक़्ल</div>
-     <div class="line">इश्क़ हो मसलहत-अंदेश तो है ख़ाम अभी</div>
+     <div class="line">पुख़्ता होती है अगर मस्लहत-अंदेश हो अक़्ल</div>
+     <div class="line">इश्क़ हो मस्लहत-अंदेश तो है ख़ाम अभी</div>
      <div class="poet">— अल्लामा इक़बाल</div>
    </div>
  </div>

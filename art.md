@@ -57,14 +57,13 @@ _Colors of the Wind_
 
 ---
 
-## **Kalank** by Pritam
-### You Pick: 1. Ghar More Pardesiya or 10. Kalank (Bonus Track)  
+## **Ghar More Pardesiya** by Shreya Ghoshal, Vaishali Mhade, & Pritam
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
-        frameborder="0"
-        height="450"
-        style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;"
-        sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"
-        src="https://embed.music.apple.com/album/kalank-title-track/1529544725">
+        frameborder="0" 
+        height="175" 
+        style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" 
+        sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" 
+        src="https://embed.music.apple.com/song/ghar-more-pardesiya-radio-edit/1529544913">
 </iframe>
 
 ---
@@ -295,6 +294,17 @@ _Colors of the Wind_
      <div class="poet">— फ़ैज़ अहमद फ़ैज़</div>
    </div>
  </div>
+
+---
+
+## **Bekas Pe Karam Kijiye** by Lata Mangeshkar & Naushad
+<iframe allow="encrypted-media *; fullscreen *; clipboard-write"
+        frameborder="0" 
+        height="175" 
+        style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" 
+        sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" 
+        src="https://embed.music.apple.com/song/bekas-pe-karam-kijiye/1360817102">
+</iframe>
 
 ---
 

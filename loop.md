@@ -67,7 +67,7 @@ Builds a model, tries to solve a problem, fails, updates the model. Learning hap
  <div class="hindi" lang="hi" dir="ltr">
    <div class="verses">
      <div class="line">है जुस्तुजू कि ख़ूब से है ख़ूब-तर कहाँ</div>
-     <div class="line">अब ठहरती है देखिए जाकर नज़र कहाँ</div>
+     <div class="line">अब ठहरती है देखिए जा कर नज़र कहाँ</div>
      <div class="poet">— अल्ताफ़ हुसैन हाली</div>
    </div>
  </div>

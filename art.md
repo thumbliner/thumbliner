@@ -330,6 +330,16 @@ _Colors of the Wind_
 
 ---
 
+<div class="urdu" lang="ur" dir="rtl">
+  <div class="verses">
+    <div class="misra">جزا سزا سب یہیں پہ ہوگی</div>
+    <div class="misra">یہیں عذاب و ثواب ہوگا</div>
+    <div class="poet">— فیض احمد فیضؔ</div>
+  </div>
+</div>
+
+---
+
   <div class="hindi" lang="hi" dir="ltr">
    <div class="verses">
      <div class="line">दिल ना-उमीद तो नहीं नाकाम ही तो है</div>
@@ -337,6 +347,16 @@ _Colors of the Wind_
      <div class="poet">— फ़ैज़ अहमद फ़ैज़</div>
    </div>
  </div>
+
+---
+
+<div class="urdu" lang="ur" dir="rtl">
+  <div class="verses">
+    <div class="misra">یہیں سے اٹھے گا شور محشر</div>
+    <div class="misra">یہیں پہ روز حساب ہوگا</div>
+    <div class="poet">— فیض احمد فیضؔ</div>
+  </div>
+</div>
 
 ---
 

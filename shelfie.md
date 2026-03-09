@@ -66,7 +66,7 @@ _Poor Salman's Capital_
 
  <div class="hindi" lang="hi" dir="ltr">
    <div class="verses">
-     <div class="line">ग़म-ए-दुनिया भी ग़म-ए-यार में शामिल कर लो</div>
+     <div class="line">ग़म-ए-दुनिया भी ग़म-ए-यार में शामिल करलो</div>
      <div class="line">नशा बढ़ता है शराबें जो शराबों में मिलें</div>
      <div class="poet">— अहमद फ़राज़</div>
    </div>

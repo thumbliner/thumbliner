@@ -49,28 +49,8 @@ Builds a model, tries to solve a problem, fails, updates the model. Learning hap
 
 ---
 
- <div class="hindi" lang="hi" dir="ltr">
-   <div class="verses">
-     <div class="line">जुनूँ में जितनी भी गुज़री बा-कार गुज़री है</div>
-     <div class="line">अगरचे दिल पे ख़राबी हज़ार गुज़री है</div>
-     <div class="poet">— फ़ैज़ अहमद फ़ैज़</div>
-   </div>
- </div>
-
----
-
 > « Je sens mon cœur et je connais les hommes. »<br>
 > — Jean-Jacques Rousseau
-
----
-
- <div class="hindi" lang="hi" dir="ltr">
-   <div class="verses">
-     <div class="line">वो बात सारे फ़साने में जिस का ज़िक्र न था</div>
-     <div class="line">वो बात उन को बहुत ना-गवार गुज़री है</div>
-     <div class="poet">— फ़ैज़ अहमद फ़ैज़</div>
-   </div>
- </div>
 
 ---
 
@@ -104,28 +84,8 @@ At time $$t$$, each agent $$i$$ receives a local observation $$o_t^i$$ (includin
 
 ---
 
- <div class="hindi" lang="hi" dir="ltr">
-   <div class="verses">
-     <div class="line">इलाज ये है कि मजबूर कर दिया जौन</div>
-     <div class="line">वगरना यूँ तो किसी की नहीं सुनी मैं ने</div>
-     <div class="poet">— जौन एलिया</div>
-   </div>
- </div>
-
----
-
 > “So that makes our problem simpler. We have nothing but atoms, all the same, everywhere.”<br>
 > — Richard Feynman
-
----
-
- <div class="hindi" lang="hi" dir="ltr">
-   <div class="verses">
-     <div class="line">है जुस्तुजू कि ख़ूब से है ख़ूब-तर कहाँ</div>
-     <div class="line">अब ठहरती है देखिए जा कर नज़र कहाँ</div>
-     <div class="poet">— अल्ताफ़ हुसैन हाली</div>
-   </div>
- </div>
 
 ---
 

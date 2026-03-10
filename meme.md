@@ -69,7 +69,7 @@ _High-Brow Meets Brainrot: A Loopy Mutation_
   <div class="verses">
     <div class="misra">حاصلِ کُن ہے یہ جہانِ خراب</div>
     <div class="misra">یہی ممکن تھا اتنی عجلت میں</div>
-    <div class="poet">— جون ایلیا</div>
+    <div class="poet">— جونؔ ایلیا</div>
   </div>
 </div>
 

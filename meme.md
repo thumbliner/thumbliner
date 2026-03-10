@@ -60,7 +60,7 @@ _High-Brow Meets Brainrot: A Loopy Mutation_
 
 ---
 
-> „Alle Dinge stehen unter dem Gesetze von Ursache und Wirkung.“<br>
+> „Alle Dinge stehen unter dem Gesetze von Ursache und Wirkung.”<br>
 > — Carl Menger
 
 ---

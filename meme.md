@@ -38,11 +38,6 @@ _High-Brow Meets Brainrot: A Loopy Mutation_
 
 ---
 
-> “All things are subject to the law of cause and effect.”<br>
-> — Carl Menger
-
----
-
 ## **Transitory** by Consensus  
 <div class="embed-container"
     aria-label="Chart: Federal Funds Effective Rate">
@@ -62,6 +57,11 @@ _High-Brow Meets Brainrot: A Loopy Mutation_
   src="{{ '/assets/images/oh_god_no.png' | relative_url }}"
   alt="Static image; a salmon in a navy suit and glasses sits at a candlelit table with strawberries, cream, and a half-full wine glass. Warm, blurry lights glow behind it."
   style="width:50%; height:auto;">
+
+---
+
+> „Alle Dinge stehen unter dem Gesetze von Ursache und Wirkung.“<br>
+> — Carl Menger
 
 ---
 

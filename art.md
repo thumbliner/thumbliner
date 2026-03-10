@@ -385,7 +385,7 @@ _Colors of the Wind_
  <div class="hindi" lang="hi" dir="ltr">
    <div class="verses">
      <div class="line">सुना है चश्म-ए-तसव्वुर से दश्त-ए-इम्काँ में</div>
-     <div class="line">पलंग ज़ाविए उस की कमर के देखते हैं</div>
+     <div class="line">पलंग ज़ाविए उसकी कमर के देखते हैं</div>
      <div class="poet">— अहमद फ़राज़</div>
    </div>
  </div>

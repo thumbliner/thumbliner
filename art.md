@@ -278,16 +278,6 @@ _Colors of the Wind_
 
 ---
 
-  <div class="hindi" lang="hi" dir="ltr">
-   <div class="verses">
-     <div class="line">आइए हाथ उठाएँ हम भी</div>
-     <div class="line">हम जिन्हें रस्म-ए-दुआ याद नहीं</div>
-     <div class="poet">— फ़ैज़ अहमद फ़ैज़</div>
-   </div>
- </div>
-
----
-
 <div class="urdu" lang="ur" dir="rtl">
   <div class="verses">
     <div class="misra">مصحفیؔ ہم تو یہ سمجھے تھے کہ ہوگا کوئی زخم</div>
@@ -295,16 +285,6 @@ _Colors of the Wind_
     <div class="poet">— مصحفیؔ غلام ہمدانی</div>
   </div>
 </div>
-
----
-
-  <div class="hindi" lang="hi" dir="ltr">
-   <div class="verses">
-     <div class="line">हम जिन्हें सोज़-ए-महब्बत के सिवा</div>
-     <div class="line">कोई बुत कोई ख़ुदा याद नहीं</div>
-     <div class="poet">— फ़ैज़ अहमद फ़ैज़</div>
-   </div>
- </div>
 
 ---
 
@@ -330,6 +310,16 @@ _Colors of the Wind_
 
 ---
 
+  <div class="hindi" lang="hi" dir="ltr">
+   <div class="verses">
+     <div class="line">दिल ना-उमीद तो नहीं नाकाम ही तो है</div>
+     <div class="line">लम्बी है ग़म की शाम मगर शाम ही तो है</div>
+     <div class="poet">— फ़ैज़ अहमद फ़ैज़</div>
+   </div>
+ </div>
+
+---
+
 ## **The Last of the Starks** by Ramin Djawadi
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
         frameborder="0" 
@@ -341,57 +331,6 @@ _Colors of the Wind_
 
 ---
 
-<div class="urdu" lang="ur" dir="rtl">
-  <div class="verses">
-    <div class="misra">تم آئے ہو نہ شب انتظار گزری ہے</div>
-    <div class="misra">تلاش میں ہے سحر بار بار گزری ہے</div>
-    <div class="poet">— فیض احمد فیضؔ</div>
-  </div>
-</div>
-
----
-
-  <div class="hindi" lang="hi" dir="ltr">
-   <div class="verses">
-     <div class="line">दिल ना-उमीद तो नहीं नाकाम ही तो है</div>
-     <div class="line">लम्बी है ग़म की शाम मगर शाम ही तो है</div>
-     <div class="poet">— फ़ैज़ अहमद फ़ैज़</div>
-   </div>
- </div>
-
----
-
-<div class="urdu" lang="ur" dir="rtl">
-  <div class="verses">
-    <div class="misra">جنوں میں جتنی بھی گزری بکار گزری ہے</div>
-    <div class="misra">اگرچہ دل پہ خرابی ہزار گزری ہے</div>
-    <div class="poet">— فیض احمد فیضؔ</div>
-  </div>
-</div>
-
----
-
-## **La Aurora Nocturna (Live)** by Luis Delgado
-<iframe allow="encrypted-media *; fullscreen *; clipboard-write"
-        frameborder="0" 
-        height="175" 
-        style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" 
-        sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" 
-        src="https://embed.music.apple.com/song/la-aurora-nocturna-live/595774390">
-</iframe>
-
----
-
- <div class="urdu" lang="ur" dir="rtl">
-  <div class="verses">
-    <div class="misra">سنا ہے چشم تصور سے دشت امکاں میں</div>
-    <div class="misra">پلنگ زاویے اس کی کمر کے دیکھتے ہیں</div>
-    <div class="poet">— احمد فرازؔ</div>
-  </div>
-</div>
-
----
-
   <div class="hindi" lang="hi" dir="ltr">
    <div class="verses">
      <div class="line">शाम-ए-फ़िराक़ अब न पूछ आई और आ के टल गई</div>
@@ -399,16 +338,6 @@ _Colors of the Wind_
      <div class="poet">— फ़ैज़ अहमद फ़ैज़</div>
    </div>
  </div>
-
----
-
- <div class="urdu" lang="ur" dir="rtl">
-  <div class="verses">
-    <div class="misra">سنا ہے جانوروں سے ہے اُس کو پیار بہت</div>
-    <div class="misra">ہم اُس کی آنکھ میں آنسو مگر کے دیکھتے ہیں</div>
-    <div class="poet">— انور مقصودؔ</div>
-  </div>
-</div>
 
 ---
 

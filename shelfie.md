@@ -78,6 +78,6 @@ _Poor Salman's Capital_
   <div class="verses">
     <div class="misra">ہمیں بھی جلوہ گاہِ ناز تک تُم لے چلو موسیٰ</div>
     <div class="misra">تمہیں غش آ گیا تو حُسنِ جاناں کون دیکھے گا</div>
-    <div class="poet">— جگر مراد آبادی</div>
+    <div class="poet">— جگرؔ مراد آبادی</div>
   </div>
 </div>

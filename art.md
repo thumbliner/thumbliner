@@ -352,19 +352,8 @@ _Colors of the Wind_
 
 ---
 
-## **The Bare Necessities (Reprise)** by Sebastion Cabot & Phil Harris
-<iframe allow="encrypted-media *; fullscreen *; clipboard-write"
-        frameborder="0" 
-        height="175" 
-        style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" 
-        sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" 
-        src="https://embed.music.apple.com/song/the-bare-necessities-reprise/1467938374">
-</iframe>
-
----
-
-> “I know ways back that take forever.”<br>
-> — Aberama Gold, The Duel
+> „Aus so krummem Holze, als woraus der Mensch gemacht ist, kann nichts ganz Gerades gezimmert werden.”<br>
+> — Immanuel Kant
 
 ---
 
@@ -386,8 +375,8 @@ Original by Franz Schubert and Franz Schubert | English CC
 
 ---
 
-> „Aus so krummem Holze, als woraus der Mensch gemacht ist, kann nichts ganz Gerades gezimmert werden.”<br>
-> — Immanuel Kant
+> “I know ways back that take forever.”<br>
+> — Aberama Gold, The Duel
 
 ---
 

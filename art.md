@@ -382,33 +382,33 @@ _Colors of the Wind_
 
 ---
 
- <div class="hindi" lang="hi" dir="ltr">
-   <div class="verses">
-     <div class="line">सुना है चश्म-ए-तसव्वुर से दश्त-ए-इम्काँ में</div>
-     <div class="line">पलंग ज़ाविए उसकी कमर के देखते हैं</div>
-     <div class="poet">— अहमद फ़राज़</div>
-   </div>
- </div>
-
----
-
-<div class="urdu" lang="ur" dir="rtl">
+ <div class="urdu" lang="ur" dir="rtl">
   <div class="verses">
-    <div class="misra">شام فراق اب نہ پوچھ آئی اور آ کے ٹل گئی</div>
-    <div class="misra">دل تھا کہ پھر بہل گیا جاں تھی کہ پھر سنبھل گئی</div>
-    <div class="poet">— فیض احمد فیضؔ</div>
+    <div class="misra">سنا ہے چشم تصور سے دشت امکاں میں</div>
+    <div class="misra">پلنگ زاویے اس کی کمر کے دیکھتے ہیں</div>
+    <div class="poet">— احمد فرازّ</div>
   </div>
 </div>
 
 ---
 
- <div class="hindi" lang="hi" dir="ltr">
+  <div class="hindi" lang="hi" dir="ltr">
    <div class="verses">
-     <div class="line">सुना है जानवरों से है उसको प्यार बहुत</div>
-     <div class="line">हम उसकी आँख में आँसू मगर के देखते हैं</div>
-     <div class="poet">— अनवर मक़सूद</div>
+     <div class="line">शाम-ए-फ़िराक़ अब न पूछ आई और आ के टल गई</div>
+     <div class="line">दिल था कि फिर बहल गया जाँ थी कि फिर सँभल गई</div>
+     <div class="poet">— फ़ैज़ अहमद फ़ैज़</div>
    </div>
  </div>
+
+---
+
+ <div class="urdu" lang="ur" dir="rtl">
+  <div class="verses">
+    <div class="misra">سنا ہے جانوروں سے ہے اُس کو پیار بہت</div>
+    <div class="misra">ہم اُس کی آنکھ میں آنسو مگر کے دیکھتے ہیں</div>
+    <div class="poet">— انور مقصودؔ</div>
+  </div>
+</div>
 
 ---
 

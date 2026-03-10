@@ -357,29 +357,6 @@ _Colors of the Wind_
 
 ---
 
-## **Die Forelle** by Aksel Rykkvin and Piers Lane
-Original by Franz Schubert and Franz Schubert | English CC
-<p>
-<div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">
-  <iframe
-    src="https://www.youtube.com/embed/TphscdLJ504?enablejsapi=1"
-    title="Die Forelle"
-    style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;"
-    allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    allowfullscreen
-    loading="lazy"
-    referrerpolicy="strict-origin-when-cross-origin">
-  </iframe>
-</div>
-</p>
-
----
-
-> “I know ways back that take forever.”<br>
-> — Aberama Gold, The Duel
-
----
-
 ## **All the worlds a stage monologue** by William Shakespeare, Andrew Buchanan, & Queensland Theatre Company
 <p>
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">
@@ -421,6 +398,11 @@ Original by Franz Schubert and Franz Schubert | English CC
   </iframe>
 </div>
 </p>
+
+---
+
+> “I know ways back that take forever.”<br>
+> — Aberama Gold, The Duel
 
 ---
 

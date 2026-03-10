@@ -341,7 +341,7 @@ _Colors of the Wind_
 
 ---
 
-## **Ekla Cholo Re (Instrumental)** by Ustad Amjad Ali Khan & Rabindranath Tagore
+## **Ekla Cholo Re** by Ustad Amjad Ali Khan & Rabindranath Tagore
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
         frameborder="0" 
         height="175" 

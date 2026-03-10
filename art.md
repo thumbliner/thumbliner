@@ -310,6 +310,16 @@ _Colors of the Wind_
 
 ---
 
+  <div class="hindi" lang="hi" dir="ltr">
+   <div class="verses">
+     <div class="line">दिल ना-उमीद तो नहीं नाकाम ही तो है</div>
+     <div class="line">लम्बी है ग़म की शाम मगर शाम ही तो है</div>
+     <div class="poet">— फ़ैज़ अहमद फ़ैज़</div>
+   </div>
+ </div>
+
+---
+
 ## **The Last of the Starks** by Ramin Djawadi
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
         frameborder="0" 
@@ -323,8 +333,8 @@ _Colors of the Wind_
 
   <div class="hindi" lang="hi" dir="ltr">
    <div class="verses">
-     <div class="line">दिल ना-उमीद तो नहीं नाकाम ही तो है</div>
-     <div class="line">लम्बी है ग़म की शाम मगर शाम ही तो है</div>
+     <div class="line">शाम-ए-फ़िराक़ अब न पूछ आई और आ के टल गई</div>
+     <div class="line">दिल था कि फिर बहल गया जाँ थी कि फिर सँभल गई</div>
      <div class="poet">— फ़ैज़ अहमद फ़ैज़</div>
    </div>
  </div>
@@ -339,16 +349,6 @@ _Colors of the Wind_
         sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" 
         src="https://embed.music.apple.com/song/ekla-cholo-re-live/1634629264">
 </iframe>
-
----
-
-  <div class="hindi" lang="hi" dir="ltr">
-   <div class="verses">
-     <div class="line">शाम-ए-फ़िराक़ अब न पूछ आई और आ के टल गई</div>
-     <div class="line">दिल था कि फिर बहल गया जाँ थी कि फिर सँभल गई</div>
-     <div class="poet">— फ़ैज़ अहमद फ़ैज़</div>
-   </div>
- </div>
 
 ---
 

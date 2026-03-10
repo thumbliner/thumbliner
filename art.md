@@ -341,13 +341,13 @@ _Colors of the Wind_
 
 ---
 
-## **Ekla Cholo Re (Live)** by Rabindranath Tagore & Murky Clouds
+## **Ekla Cholo Re (Instrumental)** by Ustad Amjad Ali Khan & Rabindranath Tagore
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
         frameborder="0" 
         height="175" 
         style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" 
         sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" 
-        src="https://embed.music.apple.com/song/ekla-cholo-re-live/1634629264">
+        src="https://embed.music.apple.com/song/ekla-cholo-re-instrumental/990566902">
 </iframe>
 
 ---

@@ -218,7 +218,7 @@ _Colors of the Wind_
   <div class="verses">
     <div class="misra">جب نام ترا لیجیے تب چشم بھر آوے</div>
     <div class="misra">اس زندگی کرنے کو کہاں سے جگر آوے</div>
-    <div class="poet">— مير تقی میرؔ</div>
+    <div class="poet">— میر تقی میرؔ</div>
   </div>
 </div>
 
@@ -386,7 +386,7 @@ _Colors of the Wind_
   <div class="verses">
     <div class="misra">سنا ہے چشم تصور سے دشت امکاں میں</div>
     <div class="misra">پلنگ زاویے اس کی کمر کے دیکھتے ہیں</div>
-    <div class="poet">— احمد فرازّ</div>
+    <div class="poet">— احمد فرازؔ</div>
   </div>
 </div>
 
@@ -482,7 +482,7 @@ Original by Franz Schubert and Franz Schubert | English CC
   <div class="verses">
     <div class="misra">اُن سے ملنے کو تو کیا کہیے جگر</div>
     <div class="misra">خود سے ملنے کو زمانہ چاہیے</div>
-    <div class="poet">— جگر مراد آبادی</div>
+    <div class="poet">— جگرؔ مراد آبادی</div>
   </div>
 </div>
 

@@ -56,7 +56,7 @@ cast [at] thumbliner [dot] com
   <div class="verses">
     <div class="misra">دل ہاتھ پر رکھا ہے کوئی ہے جو خریدے</div>
     <div class="misra">دیکھوں تو ذرا میں بھی خریدار کی صورت</div>
-    <div class="poet">— واصف علی واصفّ</div>
+    <div class="poet">— واصف علی واصف</div>
   </div>
 </div>
 
@@ -92,7 +92,7 @@ cast [at] thumbliner [dot] com
   <div class="verses">
     <div class="misra">پہچان لیا تجھ کو تری شیشہ گری سے</div>
     <div class="misra">آتی ہے نظر فن سے ہی فن کار کی صورت</div>
-    <div class="poet">— واصف علی واصفّ</div>
+    <div class="poet">— واصف علی واصف</div>
   </div>
 </div>
 

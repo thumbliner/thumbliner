@@ -184,7 +184,7 @@ Keep a city alive under scarcity by securing food, producing heat, and passing p
 ---
 
 ## **Anno 117: Pax Romana** by Ubisoft Mainz<br>
-Govern towns across a province by placing neighborhoods and civic buildings, building supply chains, and raising living standards while maintaining border security.
+Govern towns across a province by placing neighborhoods and civic buildings, laying supply chains, and raising living standards while maintaining border security.
 <p>
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">
   <iframe

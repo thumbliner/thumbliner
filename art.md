@@ -299,6 +299,16 @@ _Colors of the Wind_
 
 ---
 
+  <div class="hindi" lang="hi" dir="ltr">
+   <div class="verses">
+     <div class="line">ग़रज़ तसव्वुर-ए-शाम-ओ-सहर में जीते हैं</div>
+     <div class="line">गिरफ़्त-ए-साया-ए-दीवार-ओ-दर में जीते हैं</div>
+     <div class="poet">— फ़ैज़ अहमद फ़ैज़</div>
+   </div>
+ </div>
+
+---
+
 ## **I Could Have Done More** by John Williams, Itzhak Perlman, & Boston Symphony Orchestra
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
         frameborder="0" 

@@ -29,7 +29,8 @@ Applied epistemology.
 ---
 
 > “And be one traveler, long I stood  
-> And looked down one as far as I could
+> And looked down one as far as I could”
+> — Robert Frost
 
 ---
 
@@ -121,9 +122,8 @@ Sold newspaper in a world where no one reads.
 
 ---
 
-> Two roads diverged in a wood, and I—  
-> I took the one less traveled by...”  
-> — Robert Frost
+> “Education is somebody else telling you what to think, while learning is opening yourself to new possibilities, and grasping a concept because you understand it on a personal level.”<br>
+> — Sid Meier
 
 ---
 
@@ -141,11 +141,6 @@ Built a community—writing, coding, and designing the experience—to learn and
         sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" 
         src="https://embed.music.apple.com/song/comme-dhabitude-my-way/1292701219">
 </iframe>
-
----
-
-> “Education is somebody else telling you what to think, while learning is opening yourself to new possibilities, and grasping a concept because you understand it on a personal level.”<br>
-> — Sid Meier
 
 ---
 

@@ -66,6 +66,24 @@ Unified pricing, eCommerce, and loyalty data; supported COVID-19 ops.
      <div class="line">तारे कहने लगे ख़मर से</div>
      <div class="line">नज़ारे रहे वही फ़लक पर</div>
      <div class="line">हम थक भी गए चमक-चमक कर</div>
+     <div class="poet">— अल्लामा इक़बाल</div>
+   </div>
+ </div>
+
+---
+
+<iframe allow="encrypted-media *; fullscreen *; clipboard-write"
+        title="Music player: Dreaming of Bag End by Howard Shore"
+        frameborder="0" 
+        height="175" 
+        style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" 
+        sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" 
+        src="https://embed.music.apple.com/song/dreaming-of-bag-end/1454398591">
+</iframe>
+
+---
+
+ <div class="hindi" lang="hi" dir="ltr">
      <div class="line">रहते हैं सितम-कश-ए-सफ़र सब</div>
      <div class="line">तारे, इंसान, शजर, हजर सब</div>
      <div class="line">होगा कभी ख़तम ये सफ़र क्या</div>

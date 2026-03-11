@@ -54,6 +54,16 @@ Builds a model, tries to solve a problem, fails, updates the model. Learning hap
 
 ---
 
+ <div class="hindi" lang="hi" dir="ltr">
+   <div class="verses">
+     <div class="line">मैं वहाँ हूँ जहाँ जहाँ तुम हो</div>
+     <div class="line">तुम करोगे कहाँ कहाँ से गुरेज़</div>
+     <div class="poet">— अहमद फ़राज़</div>
+   </div>
+ </div>
+
+---
+
 ## Y Axis
 
 ### Plain

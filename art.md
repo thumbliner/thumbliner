@@ -375,7 +375,7 @@ _Colors of the Wind_
 
 <div class="urdu" lang="ur" dir="rtl">
   <div class="verses">
-    <div class="misra">اُن سے ملنے کو تو کیا کہیے جگر</div>
+    <div class="misra">اُن سے ملنے کو تو کیا کہیے جگرؔ</div>
     <div class="misra">خود سے ملنے کو زمانہ چاہیے</div>
     <div class="poet">— جگرؔ مراد آبادی</div>
   </div>

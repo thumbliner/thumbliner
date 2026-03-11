@@ -52,6 +52,16 @@ _Josep “Pep” Guardiola Sala_
 
 ---
 
+<div class="urdu" lang="ur" dir="rtl">
+  <div class="verses">
+    <div class="misra">بادہ گردان عجم وہ عربی میری شراب</div>
+    <div class="misra">مرے ساغر سے جھجکتے ہیں مے آشام ابھی</div>
+    <div class="poet">— علامہ اقبالؔ</div>
+  </div>
+</div>
+
+---
+
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
         title="Music player: I'm Beginning to Question Your Teaching Methods! by John Powell"
         frameborder="0" 

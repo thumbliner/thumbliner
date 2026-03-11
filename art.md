@@ -351,8 +351,8 @@ _Colors of the Wind_
 
 ---
 
-> „Aus so krummem Holze, als woraus der Mensch gemacht ist, kann nichts ganz Gerades gezimmert werden.”<br>
-> — Immanuel Kant
+> > “I know ways back that take forever.”<br>
+> — Aberama Gold, The Duel
 
 ---
 
@@ -400,8 +400,8 @@ _Colors of the Wind_
 
 ---
 
-> “I know ways back that take forever.”<br>
-> — Aberama Gold, The Duel
+> „Aus so krummem Holze, als woraus der Mensch gemacht ist, kann nichts ganz Gerades gezimmert werden.”<br>
+> — Immanuel Kant
 
 ---
 

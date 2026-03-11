@@ -60,16 +60,6 @@ Unified pricing, eCommerce, and loyalty data; supported COVID-19 ops.
 
 ---
 
- <div class="urdu" lang="ur" dir="rtl">
-  <div class="verses">
-    <div class="misra">مرا قلم نہیں میزان ایسے عادل کی</div>
-    <div class="misra">جو اپنے چہرے پہ دہرا نقاب رکھتا ہے</div>
-    <div class="poet">— احمد فرازؔ</div>
-  </div>
-</div>
-
----
-
  <div class="hindi" lang="hi" dir="ltr">
    <div class="verses">
      <div class="line">डरते-डरते दम-ए-सहर से</div>
@@ -83,16 +73,6 @@ Unified pricing, eCommerce, and loyalty data; supported COVID-19 ops.
      <div class="poet">— अल्लामा इक़बाल</div>
    </div>
  </div>
-
----
-
-<div class="urdu" lang="ur" dir="rtl">
-  <div class="verses">
-    <div class="misra">مرا قلم نہیں تسبیح اس مبلغ کی</div>
-    <div class="misra">جو بندگی کا بھی ہر دم حساب رکھتا ہے</div>
-    <div class="poet">— احمد فرازؔ</div>
-  </div>
-</div>
 
 ---
 
@@ -146,9 +126,9 @@ Built a community—writing, coding, and designing the experience—to learn and
 
  <div class="hindi" lang="hi" dir="ltr">
    <div class="verses">
-     <div class="line">नहीं तेरा नशेमन क़स्र-ए-सुल्तानी के गुम्बद पर</div>
-     <div class="line">तू शाहीं है बसेरा कर पहाड़ों की चटानों में</div>
-     <div class="poet">— अल्लामा इक़बाल</div>
+     <div class="line">हम को उस शहर में ता'मीर का सौदा है जहाँ</div>
+     <div class="line">लोग मे'मार को चुन देते हैं दीवार के साथ</div>
+     <div class="poet">— अहमद फ़राज़</div>
    </div>
  </div>
 
@@ -158,16 +138,6 @@ Built a community—writing, coding, and designing the experience—to learn and
 
 - <a href="https://linkedin.com/in/thumbliner" target="_blank" rel="noopener noreferrer">LinkedIn</a>  
 - <a href="https://public.tableau.com/app/profile/thumbliner/vizzes" target="_blank" rel="noopener noreferrer">Tableau</a>  
-
----
-
- <div class="hindi" lang="hi" dir="ltr">
-   <div class="verses">
-     <div class="line">हम को उस शहर में ता'मीर का सौदा है जहाँ</div>
-     <div class="line">लोग मे'मार को चुन देते हैं दीवार के साथ</div>
-     <div class="poet">— अहमद फ़राज़</div>
-   </div>
- </div>
 
 ---
 

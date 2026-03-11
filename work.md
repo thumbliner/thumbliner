@@ -154,7 +154,7 @@ Built a community—writing, coding, and designing the experience—to learn and
   <div class="verses">
     <div class="misra">فیضؔ تھی راہ سر بسر منزل</div>
     <div class="misra">ہم جہاں پہنچے کامیاب آئے</div>
-    <div class="poet">— احمد فرازؔ</div>
+    <div class="poet">— فیض احمد فیضؔ</div>
   </div>
 </div>
 

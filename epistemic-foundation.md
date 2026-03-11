@@ -59,8 +59,8 @@ Action is purposeful—you choose among options to reach goals you prefer. Becau
 
 <div class="urdu" lang="ur" dir="rtl">
   <div class="verses">
-    <div class="misra">بےخطر کود پڑا آتشِ نمرود میں عشق</div>
-    <div class="misra">عقل ہے محوِ تماشاۓ لبِ بام ابھی</div>
+    <div class="misra">عذر پرہیز پہ کہتا ہے بگڑ کر ساقی</div>
+    <div class="misra">ہے ترے دل میں وہی کاوش انجام ابھی</div>
     <div class="poet">— علامہ اقبالؔ</div>
   </div>
 </div>

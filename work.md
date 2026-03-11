@@ -84,6 +84,7 @@ Unified pricing, eCommerce, and loyalty data; supported COVID-19 ops.
 ---
 
  <div class="hindi" lang="hi" dir="ltr">
+   <div class="verses">
      <div class="line">रहते हैं सितम-कश-ए-सफ़र सब</div>
      <div class="line">तारे, इंसान, शजर, हजर सब</div>
      <div class="line">होगा कभी ख़तम ये सफ़र क्या</div>

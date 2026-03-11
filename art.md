@@ -351,7 +351,7 @@ _Colors of the Wind_
 
 ---
 
-> > “I know ways back that take forever.”<br>
+> “I know ways back that take forever.”<br>
 > — Aberama Gold, The Duel
 
 ---

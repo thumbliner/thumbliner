@@ -194,6 +194,11 @@ University of Geneva
 
 ---
 
+> “And I must be the exception that proves the rule.”<br>
+> — Darling Granny (Lady Grantham), Downton Abbey
+
+---
+
 <div class="urdu" lang="ur" dir="rtl">
   <div class="verses">
     <div class="misra">مکتب عشق کا دستور نرالا دیکھا</div>

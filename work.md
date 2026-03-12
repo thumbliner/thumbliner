@@ -145,7 +145,12 @@ Built a community—writing, coding, and designing the experience—to learn and
 ### References & Portfolio
 
 - <a href="https://linkedin.com/in/thumbliner" target="_blank" rel="noopener noreferrer">LinkedIn</a>  
-- <a href="https://public.tableau.com/app/profile/thumbliner/vizzes" target="_blank" rel="noopener noreferrer">Tableau</a>  
+- <a href="https://public.tableau.com/app/profile/thumbliner/vizzes" target="_blank" rel="noopener noreferrer">Tableau</a>
+
+---
+
+> “What is a weekend?”<br>
+> — Darling Granny (Lady Grantham), Downton Abbey
 
 ---
 

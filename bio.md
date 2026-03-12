@@ -83,8 +83,8 @@ cast [at] thumbliner [dot] com
 
 ---
 
-> “We often think that when we have completed our study of one we know all about two, because ‘two’ is ‘one and one’. We forget that we have still to make a study of ‘and’.”<br>
-> —  Arthur Eddington
+> “Is this an instrument of communication, or torture?”<br>
+> — Darling Granny (Lady Grantham), Downton Abbey
 
 ---
 

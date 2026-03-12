@@ -92,6 +92,11 @@ Peace
 
 ---
 
+> “I don’t even know what that means but it sounds almost as peculiar as you look.”<br>
+> — Darling Granny (Lady Grantham), Downton Abbey
+
+---
+
  <div class="hindi" lang="hi" dir="ltr">
    <div class="verses">
      <div class="line">हर एक बात पे कहते हो तुम कि तू क्या है</div>
@@ -122,6 +127,11 @@ Peace
      <div class="poet">— अहमद फ़राज़</div>
    </div>
  </div>
+
+---
+
+> “Rosamund has no interest in French. If she wishes to be understood by a foreigner, she shouts.”<br>
+> — Darling Granny (Lady Grantham), Downton Abbey
 
 ---
 

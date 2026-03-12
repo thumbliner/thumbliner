@@ -149,11 +149,6 @@ Built a community—writing, coding, and designing the experience—to learn and
 
 ---
 
-> “What is a weekend?”<br>
-> — Darling Granny (Lady Grantham), Downton Abbey
-
----
-
 <div class="urdu" lang="ur" dir="rtl">
   <div class="verses">
     <div class="misra">فیضؔ تھی راہ سر بسر منزل</div>
@@ -162,4 +157,7 @@ Built a community—writing, coding, and designing the experience—to learn and
   </div>
 </div>
 
+---
 
+> “What is a weekend?”<br>
+> — Darling Granny (Lady Grantham), Downton Abbey

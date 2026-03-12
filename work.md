@@ -116,7 +116,7 @@ Managed operations, finance, and key accounts for an HP-authorized distributor.
 
 ### Intern  
 *2009  ·  Business Standard*  
-Sold newspaper in a world where no one reads.
+Sold newspapers in a world where no one reads.
 
 ---
 

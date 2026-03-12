@@ -28,9 +28,8 @@ Applied epistemology.
 
 ---
 
-> “And be one traveler, long I stood  
-> And looked down one as far as I could”<br>
-> — Robert Frost
+> “Temperament alone won’t do it. You need a lot of curiosity for a long, long time.”<br>
+> — Charlie Munger
 
 ---
 

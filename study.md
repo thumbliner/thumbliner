@@ -194,11 +194,6 @@ University of Geneva
 
 ---
 
-> “Temperament alone won’t do it. You need a lot of curiosity for a long, long time.”<br>
-> — Charlie Munger
-
----
-
 <div class="urdu" lang="ur" dir="rtl">
   <div class="verses">
     <div class="misra">مکتب عشق کا دستور نرالا دیکھا</div>

@@ -67,8 +67,8 @@ _High-Brow Meets Brainrot: A Loopy Mutation_
 
 <div class="urdu" lang="ur" dir="rtl">
   <div class="verses">
-    <div class="misra">حاصلِ کُن ہے یہ جہانِ خراب</div>
-    <div class="misra">یہی ممکن تھا اتنی عجلت میں</div>
+    <div class="misra">میں بھی بہت عجیب ہوں اتنا عجیب ہوں کہ بس</div>
+    <div class="misra">خود کو تباہ کر لیا اور ملال بھی نہیں</div>
     <div class="poet">— جونؔ ایلیا</div>
   </div>
 </div>

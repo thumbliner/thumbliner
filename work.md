@@ -28,8 +28,8 @@ Applied epistemology.
 
 ---
 
-> “Craftsmanship names an enduring, basic human impulse, the desire to do a job well for its own sake.”<br>
-> — Richard Sennett
+> “Craftsmanship might be defined simply as the desire to do something well, for its own sake.”<br>
+> — Matthew B. Crawford
 
 ---
 

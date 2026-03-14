@@ -28,8 +28,8 @@ Applied epistemology.
 
 ---
 
-> “You need a general education before you specialize.”<br>
-> — Charlie Munger
+> “Craftsmanship names an enduring, basic human impulse, the desire to do a job well for its own sake.”<br>
+> — Richard Sennett
 
 ---
 

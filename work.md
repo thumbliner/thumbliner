@@ -28,7 +28,7 @@ Applied epistemology.
 
 ---
 
-> “Craftsmanship might be defined simply as the desire to do something well, for its own sake.”<br>
+> “Craftsmanship... the desire to do something well, for its own sake.”<br>
 > — Matthew B. Crawford
 
 ---

@@ -26,11 +26,11 @@ _Poor Salman's Capital_
 |:---|:---|:---|
 | Quran |  | 632 |
 | The Hobbit | J.R.R. Tolkien | 1937 |
-| Economics in One Lesson | Henry Hazlitt | 1946 |
 | Nuskha-hā-e-Wafā (Recipes of Fidelity) | Faiz Ahmed Faiz | 1985 |
 | Perfectly Reasonable Deviations from the Beaten Track | Richard Feynman | 2005 |
 | Mises: The Last Knight of Liberalism | Jörg Guido Hülsmann | 2007 |
 | A History of the Dvaita School of Vedānta and its Literature | B. N. K. Sharma | 2008 |
+| The Craftsman | Richard Sennett | 2008 |
 | The Greatest Show on Earth: The Evidence for Evolution | Richard Dawkins | 2009 |
 | Clear and Simple as the Truth | Francis-Noël Thomas; Mark Turner | 2011 |
 | Edelweiss Journal | Tony Deden | 2011 |

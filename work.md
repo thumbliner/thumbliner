@@ -28,7 +28,7 @@ Applied epistemology.
 
 ---
 
-> “The way to win is to work, work, work, work and hope to have a few insights.”<br>
+> “You need a general education before you specialize.”<br>
 > — Charlie Munger
 
 ---

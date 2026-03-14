@@ -28,8 +28,8 @@ Applied epistemology.
 
 ---
 
-> “Craftsmanship names the basic human impulse to do a job well for its own sake.”<br>
-> — Richard Sennett
+> “The work transcends the maker.”<br>
+> — Richard Sennett, _The Craftsman_
 
 ---
 

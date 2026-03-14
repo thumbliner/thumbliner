@@ -120,7 +120,7 @@ Sold newspapers in a world where no one reads.
 
 ---
 
-> “I find it mind-boggling that a life spent dedicated to gaming is the exception, rather than the rule.”<br>
+> “Education is somebody else telling you what to think, while learning is opening yourself to new possibilities, and grasping a concept because you understand it on a personal level.”<br>
 > — Sid Meier
 
 ---

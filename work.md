@@ -28,7 +28,7 @@ Applied epistemology.
 
 ---
 
-> “Temperament alone won’t do it. You need a lot of curiosity for a long, long time.”<br>
+> “The way to win is to work, work, work, work and hope to have a few insights.”<br>
 > — Charlie Munger
 
 ---

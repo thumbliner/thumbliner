@@ -28,8 +28,8 @@ Applied epistemology.
 
 ---
 
-> “The work transcends the maker.”<br>
-> — Richard Sennett, _The Craftsman_
+> “The essential thing about all craft work is that it is slow. Slow is something you have to learn to do. Slow is what produces quality.”<br>
+> — Richard Sennett
 
 ---
 

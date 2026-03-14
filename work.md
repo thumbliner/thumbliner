@@ -29,7 +29,7 @@ Applied epistemology.
 ---
 
 > “Craftsmanship... the desire to do something well, for its own sake.”<br>
-> — Matthew Crawford
+> — Richard Sennett
 
 ---
 

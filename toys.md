@@ -281,7 +281,7 @@ Run procedures and checklists, monitor instruments, handle navigation and commun
 
 ---
 
-> “Education is somebody else telling you what to think, while learning is opening yourself to new possibilities, and grasping a concept because you understand it on a personal level.”<br>
+> “I find it mind-boggling that a life spent dedicated to gaming is the exception, rather than the rule.”<br>
 > — Sid Meier
 
 ---

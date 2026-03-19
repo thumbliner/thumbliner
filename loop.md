@@ -74,7 +74,7 @@ At time $$t$$, each agent $$i$$ receives a local observation $$o_t^i$$ (includin
 ---
 
 > “My poor niece never uses one word where twenty will do.”<br>
-> — Darling Granny (Lady Grantham), Downton Abbey
+> — Darling Granny, Downton Abbey
 
 ---
 

@@ -93,7 +93,7 @@ Peace
 ---
 
 > “I don’t even know what that means but it sounds almost as peculiar as you look.”<br>
-> — Darling Granny (Lady Grantham), Downton Abbey
+> — Darling Granny, Downton Abbey
 
 ---
 
@@ -131,7 +131,7 @@ Peace
 ---
 
 > “Rosamund has no interest in French. If she wishes to be understood by a foreigner, she shouts.”<br>
-> — Darling Granny (Lady Grantham), Downton Abbey
+> — Darling Granny, Downton Abbey
 
 ---
 

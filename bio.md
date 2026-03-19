@@ -63,7 +63,7 @@ cast [at] thumbliner [dot] com
 ---
 
 > “Is this an instrument of communication, or torture?”<br>
-> — Darling Granny (Lady Grantham), Downton Abbey
+> — Darling Granny, Downton Abbey
 
 ---
 

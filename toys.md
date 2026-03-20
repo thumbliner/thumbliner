@@ -201,8 +201,8 @@ Govern towns across a province by placing neighborhoods and civic buildings, lay
 
 ---
 
-> “A game is a series of interesting choices.”<br>
-> — Sid Meier
+> “The person that turns over the most rocks wins the game.”<br>
+> — Peter Lynch
 
 ---
 

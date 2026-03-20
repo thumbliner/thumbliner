@@ -199,6 +199,11 @@ University of Geneva
 
 ---
 
+> “The person that turns over the most rocks wins the game.”<br>
+> — Peter Lynch
+
+---
+
 <div class="urdu" lang="ur" dir="rtl">
   <div class="verses">
     <div class="misra">مکتب عشق کا دستور نرالا دیکھا</div>

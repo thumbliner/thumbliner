@@ -406,6 +406,11 @@ Presenter: Raheel Farooq | English CC
 
 ---
 
+> “Education is somebody else telling you what to think, while learning is opening yourself to new possibilities, and grasping a concept because you understand it on a personal level.”<br>
+> — Sid Meier
+
+---
+
 <div class="urdu" lang="ur" dir="rtl">
   <div class="verses">
     <div class="misra">ہیں اور بھی دنیا میں سخن ور بہت اچھے</div>

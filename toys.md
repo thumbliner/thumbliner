@@ -91,8 +91,8 @@ Scale an operation through automation, designing modular lines around throughput
 
 ---
 
-> “Evolution is a tinkerer, not an engineer.”<br>
-> — François Jacob
+> Occasionally, some damn fool will suggest something that violates the laws of physics, and I always turn off my mind the minute I realize the poor ******* doesn’t know any physics.<br>
+> — Charlie Munger
 
 ---
 

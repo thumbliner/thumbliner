@@ -199,8 +199,8 @@ University of Geneva
 
 ---
 
-> “The person that turns over the most rocks wins the game.”<br>
-> — Peter Lynch
+> “A game is a series of interesting choices.”<br>
+> — Sid Meier
 
 ---
 

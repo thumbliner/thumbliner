@@ -188,7 +188,7 @@ University of Geneva
 ---
 
 > “And I must be the exception that proves the rule.”<br>
-> — Darling Granny (Lady Grantham), Downton Abbey
+> — Darling Granny, Downton Abbey
 
 ---
 

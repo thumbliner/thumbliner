@@ -323,6 +323,11 @@ _Colors of the Wind_
 
 ---
 
+> „Aus so krummem Holze, als woraus der Mensch gemacht ist, kann nichts ganz Gerades gezimmert werden.”<br>
+> — Immanuel Kant
+
+---
+
 ## **Ekla Cholo Re** by Ustad Amjad Ali Khan & Rabindranath Tagore
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
         frameborder="0" 
@@ -383,8 +388,8 @@ _Colors of the Wind_
 
 ---
 
-> „Aus so krummem Holze, als woraus der Mensch gemacht ist, kann nichts ganz Gerades gezimmert werden.”<br>
-> — Immanuel Kant
+> «Великие предметы искусства только потому и велики, что они понятны и доступны всем.»<br>
+> — Лев Толстой
 
 ---
 
@@ -403,11 +408,6 @@ Presenter: Raheel Farooq | English CC
   </iframe>
 </div>
 </p>
-
----
-
-> «Великие предметы искусства только потому и велики, что они понятны и доступны всем.»<br>
-> — Лев Толстой
 
 ---
 

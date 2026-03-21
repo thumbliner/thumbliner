@@ -94,16 +94,6 @@ At time $$t$$, each agent $$i$$ receives a local observation $$o_t^i$$ (includin
 
 ---
 
- <div class="hindi" lang="hi" dir="ltr">
-   <div class="verses">
-     <div class="line">मैं वहाँ हूँ जहाँ जहाँ तुम हो</div>
-     <div class="line">तुम करोगे कहाँ कहाँ से गुरेज़</div>
-     <div class="poet">— अहमद फ़राज़</div>
-   </div>
- </div>
-
----
-
 ## Z Axis
 
 ### Applied Epistemology

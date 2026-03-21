@@ -83,16 +83,6 @@ When you choose argument over other methods, you commit to a collaborative metho
 
 ---
 
-<div class="urdu" lang="ur" dir="rtl">
-  <div class="verses">
-    <div class="misra">ناز ہے طاقتِ گفتار پر انسانوں کو</div>
-    <div class="misra">بات کرنے کا سلیقہ نہیں نادانوں کو</div>
-    <div class="poet">— علامہ اقبالؔ</div>
-  </div>
-</div>
-
----
-
 [^1]: Kant, Immanuel. 1787. Critique of Pure Reason.
 
 [^2]: Mises, Ludwig. 1962. The Ultimate Foundation of Economic Science: An Essay on Method. Princeton, New Jersey: D. Van Nostrand Company, Inc.

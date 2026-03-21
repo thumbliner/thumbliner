@@ -35,6 +35,7 @@ _Poor Salman's Capital_
 | Clear and Simple as the Truth | Francis-Noël Thomas; Mark Turner | 2011 |
 | Edelweiss Journal | Tony Deden | 2011 |
 | Pep Confidential: The Inside Story of Pep Guardiola's First Season at Bayern Munich | Martí Perarnau | 2014 |
+| How to Be Perfectly Unhappy | The Oatmeal, Matthew Inman | 2017 |
 | To Hell and Back: An Autobiography | Niki Lauda | 2021 |
 
 ---

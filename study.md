@@ -187,11 +187,6 @@ University of Geneva
 
 ---
 
-> “And I must be the exception that proves the rule.”<br>
-> — Darling Granny, Downton Abbey
-
----
-
 ### Applied Epistemology
 *Present  ·  Private Practice*  
 - <a href="https://orcid.org/0000-0003-4798-0467" target="_blank" rel="noopener noreferrer">ORCID</a>
@@ -206,3 +201,8 @@ University of Geneva
     <div class="poet">— میر طاہرؔ</div>
   </div>
 </div>
+
+---
+
+> “And I must be the exception that proves the rule.”<br>
+> — Darling Granny, Downton Abbey

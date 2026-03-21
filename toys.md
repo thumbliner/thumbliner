@@ -201,8 +201,8 @@ Govern towns across a province by placing neighborhoods and civic buildings, lay
 
 ---
 
-> “The person that turns over the most rocks wins the game.”<br>
-> — Peter Lynch
+> “What we encourage is knowledge-seeking in itself, and ownership of one’s beliefs. We want you to understand that choices have consequences, that a country’s fate can turn on a single act of diplomacy, and that historical figures were not black-and-white paragons of good and evil—not because we’ve told you, but because you’ve faced those complex dilemmas for yourself.”<br>
+> — Sid Meier
 
 ---
 
@@ -224,8 +224,8 @@ Guide a civilization across eras by committing to technologies and institutions,
 
 ---
 
-> “What we encourage is knowledge-seeking in itself, and ownership of one’s beliefs. We want you to understand that choices have consequences, that a country’s fate can turn on a single act of diplomacy, and that historical figures were not black-and-white paragons of good and evil—not because we’ve told you, but because you’ve faced those complex dilemmas for yourself.”<br>
-> — Sid Meier
+> “The game that I’m in gets more interesting all the time. It’s a competitive game, it’s a big game, and I enjoy the game a lot.”<br>
+> — Warren Buffett
 
 ---
 
@@ -247,8 +247,8 @@ Operate in a player-run space economy by specializing into markets, using intell
 
 ---
 
-> “The game that I’m in gets more interesting all the time. It’s a competitive game, it’s a big game, and I enjoy the game a lot.”<br>
-> — Warren Buffett
+> “The superior pilot uses superior judgment to avoid situations which require the use of superior skill.”<br>
+> — Frank Borman
 
 ---
 
@@ -270,8 +270,8 @@ Run procedures and checklists, monitor instruments, handle navigation and commun
 
 ---
 
-> “The superior pilot uses superior judgment to avoid situations which require the use of superior skill.”<br>
-> — Frank Borman
+> “The person that turns over the most rocks wins the game.”<br>
+> — Peter Lynch
 
 ---
 

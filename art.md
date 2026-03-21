@@ -340,7 +340,7 @@ _Colors of the Wind_
 ---
 
 > “I know ways back that take forever.”<br>
-> — Aberama Gold, The Duel
+> — Aberama Gold, Peaky Blinders
 
 ---
 

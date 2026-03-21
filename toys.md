@@ -247,8 +247,8 @@ Operate in a player-run space economy by specializing into markets, using intell
 
 ---
 
-> “The first principle is that you must not fool yourself—and you are the easiest person to fool.”<br>
-> — Richard P. Feynman
+> “The game that I’m in gets more interesting all the time. It’s a competitive game, it’s a big game, and I enjoy the game a lot.”<br>
+> — Warren Buffett
 
 ---
 

@@ -199,11 +199,6 @@ University of Geneva
 
 ---
 
-> “A game is a series of interesting choices.”<br>
-> — Sid Meier
-
----
-
 <div class="urdu" lang="ur" dir="rtl">
   <div class="verses">
     <div class="misra">مکتب عشق کا دستور نرالا دیکھا</div>

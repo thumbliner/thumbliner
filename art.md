@@ -121,6 +121,11 @@ _Colors of the Wind_
 
 ---
 
+> “A game is a series of interesting choices.”<br>
+> — Sid Meier
+
+---
+
 ## **Heroes / Helden / Héros - EP** by David Bowie
 ### You Pick  
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"

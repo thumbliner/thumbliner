@@ -406,6 +406,11 @@ Presenter: Raheel Farooq | English CC
 
 ---
 
+> «Великие предметы искусства только потому и велики, что они понятны и доступны всем.»<br>
+> — Лев Толстой
+
+---
+
 <div class="urdu" lang="ur" dir="rtl">
   <div class="verses">
     <div class="misra">ہیں اور بھی دنیا میں سخن ور بہت اچھے</div>

@@ -110,6 +110,11 @@ _Colors of the Wind_
 
 ---
 
+> “A game is a series of interesting choices.”<br>
+> — Sid Meier
+
+---
+
 ## **The Game** by Nusrat Fateh Ali Khan
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
         frameborder="0" 
@@ -118,11 +123,6 @@ _Colors of the Wind_
         sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" 
         src="https://embed.music.apple.com/song/the-game/1653379468">
 </iframe>
-
----
-
-> “A game is a series of interesting choices.”<br>
-> — Sid Meier
 
 ---
 

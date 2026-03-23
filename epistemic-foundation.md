@@ -59,8 +59,8 @@ Action is purposeful—you choose among options to reach goals you prefer. Becau
 
 <div class="urdu" lang="ur" dir="rtl">
   <div class="verses">
-    <div class="misra">عذر پرہیز پہ کہتا ہے بگڑ کر ساقی</div>
-    <div class="misra">ہے ترے دل میں وہی کاوش انجام ابھی</div>
+    <div class="misra">بے خطر کود پڑا آتش نمرود میں عش</div>
+    <div class="misra">عقل ہے محو تماشائے لب بام ابھی</div>
     <div class="poet">— علامہ اقبالؔ</div>
   </div>
 </div>
@@ -69,6 +69,16 @@ Action is purposeful—you choose among options to reach goals you prefer. Becau
 
 ### The Argument Axiom
 When you choose argument over other methods, you commit to a collaborative method of inquiry. You put your arguments on the table for assessment, and treat feedback as worth taking seriously. You also take on an ethic of non-contradiction—your reasoning is constrained by coherence, so your claims must agree with one another.[^3] These norms create the conditions for a discourse in which ideas can be judged as better or worse justified—and, where appropriate, as true or false—and in which argument becomes a shared practice of learning.
+
+---
+
+<div class="urdu" lang="ur" dir="rtl">
+  <div class="verses">
+    <div class="misra">عذر پرہیز پہ کہتا ہے بگڑ کر ساقی</div>
+    <div class="misra">ہے ترے دل میں وہی کاوش انجام ابھی</div>
+    <div class="poet">— علامہ اقبالؔ</div>
+  </div>
+</div>
 
 ---
 

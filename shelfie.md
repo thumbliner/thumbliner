@@ -36,6 +36,7 @@ _Poor Salman's Capital_
 | Pep Confidential: The Inside Story of Pep Guardiola's First Season at Bayern Munich | Martí Perarnau | 2014 |
 | How to Be Perfectly Unhappy | The Oatmeal, Matthew Inman | 2017 |
 | To Hell and Back: An Autobiography | Niki Lauda | 2021 |
+| Unmasking Autism: Discovering the New Faces of Neurodiversity | Devon Price | 2022 |
 
 ---
 

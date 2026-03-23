@@ -39,7 +39,7 @@ Steers and brakes, feels the jerk, adjusts until it’s right. When feedback is 
 Makes a purchase, waits for delivery, tries it out, updates buying behavior. When feedback is delayed, one leans on brand and reputation.
 
 ### Politician
-Delivers a message, gathers feedback through observation and polls, then adapts. Voter reaction is the signal.
+Delivers a message, gathers feedback through observation and polls, then adapts. Votes are signals.
 
 ### Entrepreneur
 Bets scarce time and capital on what the shopper will purchase. Profit and loss are market feedback.

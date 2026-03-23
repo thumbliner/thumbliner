@@ -299,7 +299,7 @@ _Colors of the Wind_
 
   <div class="hindi" lang="hi" dir="ltr">
    <div class="verses">
-     <div class="line">दिल ना-उमीद तो नहीं नाकाम ही तो है</div>
+     <div class="line">दिल ना-उम्मीद तो नहीं नाकाम ही तो है</div>
      <div class="line">लम्बी है ग़म की शाम मगर शाम ही तो है</div>
      <div class="poet">— फ़ैज़ अहमद फ़ैज़</div>
    </div>

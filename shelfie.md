@@ -75,6 +75,11 @@ _Poor Salman's Capital_
 
 ---
 
+> « La curiosité est devenue une passion fatale, irrésistible ! »<br>
+> — Charles Baudelaire
+
+---
+
 <div class="urdu" lang="ur" dir="rtl">
   <div class="verses">
     <div class="misra">ہمیں بھی جلوہ گاہ ناز تک تم لے چلو موسیٰ</div>

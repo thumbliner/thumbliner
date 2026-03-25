@@ -38,6 +38,11 @@ _High-Brow Meets Brainrot: A Loopy Mutation_
 
 ---
 
+> « Il y a eu une modernité pour chaque peintre ancien. »<br>
+> — Charles Baudelaire
+
+---
+
 ## **Transitory** by Consensus  
 <div class="embed-container"
     aria-label="Chart: Federal Funds Effective Rate">

@@ -98,6 +98,11 @@ cast [at] thumbliner [dot] com
 
 ---
 
+> « Être hors de chez soi, et pourtant se sentir partout chez soi. »
+> — Charles Baudelaire
+
+---
+
 <img
   src="{{ '/assets/images/CN.png' | relative_url }}"
   alt="Static image of Canadian street with street car, snow, and CN tower in the backdrop."
@@ -105,7 +110,7 @@ cast [at] thumbliner [dot] com
 
 ---
 
-> « Être hors de chez soi, et pourtant se sentir partout chez soi. »<br>
+> « Ainsi il va, il court, il cherche. »<br>
 > — Charles Baudelaire
 
 ---

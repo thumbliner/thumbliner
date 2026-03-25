@@ -50,6 +50,11 @@ _Poor Salman's Capital_
 
 ---
 
+> « La plupart des beaux portraits qui nous restent des temps antérieurs sont revêtus des costumes de leur époque. »<br>
+> — Charles Baudelaire
+
+---
+
   <div class="hindi" lang="hi" dir="ltr">
    <div class="verses">
      <div class="line">ढूँढ उजड़े हुए लोगों में वफ़ा के मोती</div>

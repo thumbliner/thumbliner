@@ -105,6 +105,11 @@ cast [at] thumbliner [dot] com
 
 ---
 
+> « Être hors de chez soi, et pourtant se sentir partout chez soi. »<br>
+> — Charles Baudelaire
+
+---
+
 <div class="urdu" lang="ur" dir="rtl">
   <div class="verses">
     <div class="misra">سرِ کوئے نا شنایاں ہمیں دن سے رات کرنا</div>

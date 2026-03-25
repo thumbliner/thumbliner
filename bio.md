@@ -110,7 +110,7 @@ cast [at] thumbliner [dot] com
 
 ---
 
-> « Il s’agit, pour lui, de dégager de la mode ce qu’elle peut contenir de poétique dans l’historique, de tirer l’éternel du transitoire. »<br>
+> « Pour le parfait flâneur, pour l’observateur passionné, c’est une immense jouissance que d’élire domicile dans le nombre, dans l’ondoyant, dans le mouvement, dans le fugitif et l’infini. »<br>
 > — Charles Baudelaire
 
 ---

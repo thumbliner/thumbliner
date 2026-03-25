@@ -98,7 +98,7 @@ cast [at] thumbliner [dot] com
 
 ---
 
-> « Être hors de chez soi, et pourtant se sentir partout chez soi. »
+> « Être hors de chez soi, et pourtant se sentir partout chez soi. »<br>
 > — Charles Baudelaire
 
 ---
@@ -110,7 +110,7 @@ cast [at] thumbliner [dot] com
 
 ---
 
-> « Ainsi il va, il court, il cherche. »<br>
+> « Il s’agit, pour lui, de dégager de la mode ce qu’elle peut contenir de poétique dans l’historique, de tirer l’éternel du transitoire. »<br>
 > — Charles Baudelaire
 
 ---

@@ -99,6 +99,16 @@ _Richard Phillips Feynman_
 
 ---
 
+ <div class="hindi" lang="hi" dir="ltr">
+   <div class="verses">
+     <div class="line">मैं बुलाता तो हूँ उसको मगर जज़्बा-ए-दिल</div>
+     <div class="line">उसपे बनजाए कुछ ऐसी के बिन आए न बने</div>
+     <div class="poet">— मिर्ज़ा ग़ालिब</div>
+   </div>
+ </div>
+
+---
+
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
         title="Music player: Stangers Like Me by Phil Collins"
         frameborder="0" 
@@ -107,16 +117,6 @@ _Richard Phillips Feynman_
         sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" 
         src="https://embed.music.apple.com/song/strangers-like-me/1437333667">
 </iframe>
-
----
-
- <div class="hindi" lang="hi" dir="ltr">
-   <div class="verses">
-     <div class="line">मैं बुलाता तो हूँ उसको मगर जज़्बा-ए-दिल</div>
-     <div class="line">उसपे बनजाए कुछ ऐसी के बिन आए न बने</div>
-     <div class="poet">— मिर्ज़ा ग़ालिब</div>
-   </div>
- </div>
 
 ---
 

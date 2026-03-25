@@ -224,8 +224,8 @@ Guide a civilization across eras by committing to technologies and institutions,
 
 ---
 
-> “The person that turns over the most rocks wins the game.”<br>
-> — Peter Lynch
+> “The game that I’m in gets more interesting all the time. It’s a competitive game, it’s a big game, and I enjoy the game a lot.”<br>
+> — Warren Buffett
 
 ---
 
@@ -247,8 +247,8 @@ Operate in a player-run space economy by specializing into markets, using intell
 
 ---
 
-> “The game that I’m in gets more interesting all the time. It’s a competitive game, it’s a big game, and I enjoy the game a lot.”<br>
-> — Warren Buffett
+> “The superior pilot uses superior judgment to avoid situations which require the use of superior skill.”<br>
+> — Frank Borman
 
 ---
 
@@ -270,8 +270,8 @@ Run procedures and checklists, monitor instruments, handle navigation and commun
 
 ---
 
-> “The superior pilot uses superior judgment to avoid situations which require the use of superior skill.”<br>
-> — Frank Borman
+> « Mais le génie n’est que l’enfance retrouvée à volonté, l’enfance douée maintenant, pour s’exprimer, d’organes virils et de l’esprit analytique qui lui permet d’ordonner la somme de matériaux involontairement amassée. »<br>
+> — Charles Baudelaire
 
 ---
 

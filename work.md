@@ -59,6 +59,12 @@ Unified pricing, eCommerce, and loyalty data; supported COVID-19 ops.
 
 ---
 
+> “Deep into that darkness peering,<br>
+> long I stood there wondering, fearing.”<br>
+> — Edgar Allan Poe
+
+---
+
  <div class="hindi" lang="hi" dir="ltr">
    <div class="verses">
      <div class="line">डरते-डरते दम-ए-सहर से</div>
@@ -91,6 +97,11 @@ Unified pricing, eCommerce, and loyalty data; supported COVID-19 ops.
      <div class="poet">— अल्लामा इक़बाल</div>
    </div>
  </div>
+
+---
+
+> « Dans la composition tout entière, il ne doit pas se glisser un seul mot qui ne soit une intention, qui ne tende, directement ou indirectement, à parfaire le dessein prémédité. »<br>
+> — Charles Baudelaire
 
 ---
 

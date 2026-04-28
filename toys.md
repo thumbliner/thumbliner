@@ -68,8 +68,8 @@ Run a club by building advantage through scouting and recruitment, shaping tacti
 
 ---
 
-> “Playing football is very simple, but playing simple football is the hardest thing there is.”<br>
-> — Johan Cruyff
+> “The ball is round, the game lasts 90 minutes, and everything else is just theory.”<br>
+> — Sepp Herberger
 
 ---
 

@@ -86,10 +86,10 @@ Amity University
 *2014  ·  United States*  
 Walden University
 
-  <div class="hindi" lang="hi" dir="ltr">
+   <div class="hindi" lang="hi" dir="ltr">
    <div class="verses">
-     <div class="line">क्या सूफ़ी ओ मुल्ला को ख़बर मेरे जुनूँ की</div>
-     <div class="line">उनका सर-ए-दामन भी अभी चाक नहीं है</div>
+     <div class="line">किया मिरा तज़्किरा जो साक़ी ने बादा-ख़्वारों की अंजुमन में</div>
+     <div class="line">तो पीर-ए-मय-ख़ाना सुन के कहने लगा कि मुँह फट है ख़ार होगा</div>
      <div class="poet">— अल्लामा इक़बाल</div>
    </div>
  </div>
@@ -118,8 +118,8 @@ Audencia Business School & Toulouse Business School
 
   <div class="hindi" lang="hi" dir="ltr">
    <div class="verses">
-     <div class="line">किया मिरा तज़्किरा जो साक़ी ने बादा-ख़्वारों की अंजुमन में</div>
-     <div class="line">तो पीर-ए-मय-ख़ाना सुन के कहने लगा कि मुँह फट है ख़ार होगा</div>
+     <div class="line">क्या सूफ़ी ओ मुल्ला को ख़बर मेरे जुनूँ की</div>
+     <div class="line">उनका सर-ए-दामन भी अभी चाक नहीं है</div>
      <div class="poet">— अल्लामा इक़बाल</div>
    </div>
  </div>

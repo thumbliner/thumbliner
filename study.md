@@ -56,7 +56,7 @@ International School Jeddah
 *2012  ·  India*  
 Amity University
 
- <div class="hindi" lang="hi" dir="ltr">
+  <div class="hindi" lang="hi" dir="ltr">
    <div class="verses">
      <div class="line">नहीं है ना उम्मीद इक़बाल अपनी क़िश्त-ए-वीराँ से</div>
      <div class="line">ज़रा नम हो तो ये मिट्टी बहुत ज़रख़ेज़ है साक़ी</div>
@@ -86,10 +86,10 @@ Amity University
 *2014  ·  United States*  
 Walden University
 
- <div class="hindi" lang="hi" dir="ltr">
+  <div class="hindi" lang="hi" dir="ltr">
    <div class="verses">
-     <div class="line">दिल सोज़ से ख़ाली है निगाह पाक नहीं है</div>
-     <div class="line">फिर इसमें अजब क्या कि तू बेबाक नहीं है</div>
+     <div class="line">क्या सूफ़ी ओ मुल्ला को ख़बर मेरे जुनूँ की</div>
+     <div class="line">उनका सर-ए-दामन भी अभी चाक नहीं है</div>
      <div class="poet">— अल्लामा इक़बाल</div>
    </div>
  </div>
@@ -116,10 +116,10 @@ Walden University
 *2018  ·  France*  
 Audencia Business School & Toulouse Business School
 
- <div class="hindi" lang="hi" dir="ltr">
+  <div class="hindi" lang="hi" dir="ltr">
    <div class="verses">
-     <div class="line">क्या सूफ़ी ओ मुल्ला को ख़बर मेरे जुनूँ की</div>
-     <div class="line">उनका सर-ए-दामन भी अभी चाक नहीं है</div>
+     <div class="line">किया मिरा तज़्किरा जो साक़ी ने बादा-ख़्वारों की अंजुमन में</div>
+     <div class="line">तो पीर-ए-मय-ख़ाना सुन के कहने लगा कि मुँह फट है ख़ार होगा</div>
      <div class="poet">— अल्लामा इक़बाल</div>
    </div>
  </div>
@@ -148,8 +148,8 @@ University of Geneva
 
  <div class="hindi" lang="hi" dir="ltr">
    <div class="verses">
-     <div class="line">बिजली हूँ नज़र कोह-ओ-बयाबाँ पे है मेरी</div>
-     <div class="line">मेरे लिए शायाँ ख़स-ओ-ख़ाशाक नहीं है</div>
+     <div class="line">नहीं तेरा नशेमन क़स्र-ए-सुल्तानी के गुम्बद पर</div>
+     <div class="line">तू शाहीं है बसेरा कर पहाड़ों की चटानों में</div>
      <div class="poet">— अल्लामा इक़बाल</div>
    </div>
  </div>
@@ -163,8 +163,8 @@ University of Geneva
 
 <div class="urdu" lang="ur" dir="rtl">
   <div class="verses">
-    <div class="misra">بھری بزم میں راز کی بات کہہ دی</div>
-    <div class="misra">بڑا بے ادب ہوں سزا چاہتا ہوں</div>
+    <div class="misra">باطل دُوئی پسند ہے حق لا شریک ہے</div>
+    <div class="misra">شرکت میانہَ حق و باطل نہ کر قبول</div>
     <div class="poet">— علامہ اقبالؔ</div>
   </div>
 </div>

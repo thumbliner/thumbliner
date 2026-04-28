@@ -147,8 +147,8 @@ Keep a city alive under scarcity by securing food, producing heat, and passing p
  
 ---
 
-> “There are no solutions. There are only trade-offs.”<br>
-> — Thomas Sowell
+> “Economics deals with society’s fundamental problems; it concerns everyone and belongs to all. It is the main and proper study of every citizen.”<br>
+> — Ludwig von Mises
 
 ---
 

@@ -147,7 +147,7 @@ Keep a city alive under scarcity by securing food, producing heat, and passing p
  
 ---
 
-> “In everyday life, compromise is a permanent, and ubiquitous feature, of course. But in theory, compromise is the ultimate sin, a strict and absolute “no no.” It is not permissible, for instance, to compromise between the two incompatible propositions that 1+1=2 or that 1+1=3 and accept that it is 2.5. Either some proposition is true or it is false. There can be no “meeting in the middle” of truth and falsehood.”<br>
+> “For once you have understood your Mises and learned to see the world with Austrian eyes, you will quickly notice, at least if you admit to it, that in many respects you are quite lonely and isolated.”<br>
 > — Hans-Hermann Hoppe
 
 ---

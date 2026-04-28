@@ -72,16 +72,6 @@ When you choose argument over other methods, you commit to a collaborative metho
 
 ---
 
-<div class="urdu" lang="ur" dir="rtl">
-  <div class="verses">
-    <div class="misra">عذر پرہیز پہ کہتا ہے بگڑ کر ساقی</div>
-    <div class="misra">ہے ترے دل میں وہی کاوش انجام ابھی</div>
-    <div class="poet">— علامہ اقبالؔ</div>
-  </div>
-</div>
-
----
-
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
         title="Music player: Die Forelle (The Trout) by Hellen Kwon and Klaus Pawassar"
         frameborder="0" 

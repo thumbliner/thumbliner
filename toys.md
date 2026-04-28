@@ -114,8 +114,8 @@ Grow a city by balancing traffic, jobs, housing, commercial zoning, public servi
 
 ---
 
-> “Our general strategy is to provide multiple points of view for understanding.”<br>
-> —  Katie Salen & Eric Zimmerman
+> “Economics deals with society’s fundamental problems; it concerns everyone and belongs to all. It is the main and proper study of every citizen.”<br>
+> — Ludwig von Mises
 
 ---
 
@@ -147,8 +147,8 @@ Keep a city alive under scarcity by securing food, producing heat, and passing p
  
 ---
 
-> “Economics deals with society’s fundamental problems; it concerns everyone and belongs to all. It is the main and proper study of every citizen.”<br>
-> — Ludwig von Mises
+> “In everyday life, compromise is a permanent, and ubiquitous feature, of course. But in theory, compromise is the ultimate sin, a strict and absolute “no no.” It is not permissible, for instance, to compromise between the two incompatible propositions that 1+1=2 or that 1+1=3 and accept that it is 2.5. Either some proposition is true or it is false. There can be no “meeting in the middle” of truth and falsehood.”<br>
+> — Hans-Hermann Hoppe
 
 ---
 

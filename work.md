@@ -160,8 +160,8 @@ Built a community—writing, coding, and designing the experience—to learn and
 
 ---
 
-> “Temperament alone won’t do it. You need a lot of curiosity for a long, long time.”<br>
-> — Charlie Munger
+> “I was just so interested in what I was doing I could hardly wait to get up in the morning and get at it.”<br>
+> — Barbara McClintock
 
 ---
 

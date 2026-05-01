@@ -224,8 +224,8 @@ Guide a civilization across eras by committing to technologies and institutions,
 
 ---
 
-> “The game that I’m in gets more interesting all the time. It’s a competitive game, it’s a big game, and I enjoy the game a lot.”<br>
-> — Warren Buffett
+> “Part of the game is to come into your own. You must find some way that perfectly fits your personality. It is a competitive game, so you’re going to run into a lot of hardworking fellows. The only way to gain an edge is through long and hard work. Do what you love to do, so you just naturally do it or think about it all the time, even if you’re relaxing. Over time, you can accumulate a huge advantage if it comes naturally to you.”<br>
+> — Li Lu
 
 ---
 

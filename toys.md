@@ -224,8 +224,8 @@ Guide a civilization across eras by committing to technologies and institutions,
 
 ---
 
-> “Part of the game is to come into your own. You must find some way that perfectly fits your personality. It is a competitive game, so you’re going to run into a lot of hardworking fellows. The only way to gain an edge is through long and hard work. Do what you love to do, so you just naturally do it or think about it all the time, even if you’re relaxing.”<br>
-> — Li Lu
+> « Mais le génie n’est que l’enfance retrouvée à volonté, l’enfance douée maintenant, pour s’exprimer, d’organes virils et de l’esprit analytique qui lui permet d’ordonner la somme de matériaux involontairement amassée. »<br>
+> — Charles Baudelaire
 
 ---
 
@@ -270,8 +270,8 @@ Run procedures and checklists, monitor instruments, handle navigation and commun
 
 ---
 
-> « Mais le génie n’est que l’enfance retrouvée à volonté, l’enfance douée maintenant, pour s’exprimer, d’organes virils et de l’esprit analytique qui lui permet d’ordonner la somme de matériaux involontairement amassée. »<br>
-> — Charles Baudelaire
+> “Part of the game is to come into your own. You must find some way that perfectly fits your personality. It is a competitive game, so you’re going to run into a lot of hardworking fellows. The only way to gain an edge is through long and hard work. Do what you love to do, so you just naturally do it or think about it all the time, even if you’re relaxing.”<br>
+> — Li Lu
 
 ---
 

@@ -163,9 +163,9 @@ University of Geneva
 
 <div class="urdu" lang="ur" dir="rtl">
   <div class="verses">
-    <div class="misra">باطل دُوئی پسند ہے حق لا شریک ہے</div>
-    <div class="misra">شرکت میانہَ حق و باطل نہ کر قبول</div>
-    <div class="poet">— علامہ اقبالؔ</div>
+    <div class="misra">تو حرم میں جس کو ہے ڈھونڈتا مجھے بتکدے میں وہ مل گیا</div>
+    <div class="misra">تجھے کیا ملال ہے زاہدا یہ نظر نظر کی تلاش ہے</div>
+    <div class="poet">— امیر بخش صابری</div>
   </div>
 </div>
 
@@ -196,9 +196,9 @@ University of Geneva
 
 <div class="urdu" lang="ur" dir="rtl">
   <div class="verses">
-    <div class="misra">مکتب عشق کا دستور نرالا دیکھا</div>
-    <div class="misra">اُس کو چھُٹی نہ مِلی جس نے سبق یاد کیا</div>
-    <div class="poet">— میر طاہرؔ</div>
+    <div class="misra">میرے ذوقِ سجدۂ بندگی کو عطا ہوئی ہے یہ بے خودی</div>
+    <div class="misra">تیرے سنگِ در پہ پہنچ کے بھی تیرے سنگِ در کی تلاش ہے</div>
+    <div class="poet">— امیر بخش صابری</div>
   </div>
 </div>
 

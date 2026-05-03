@@ -12,7 +12,7 @@ _Conditions of Possibility_
 ---
 
 ### The Form of Argument
-To argue is to say, “This is true, and here is why.” An argument leads by reason to a conclusion. Its structure takes shape through common ground, clear definitions, a specific scope of inquiry, and shared assumptions. The presentation guides you, step by step, to the ideal position from which to judge the merit of a claim.
+To argue is to say, “This is true, and here is why.” An argument leads by reason to a conclusion. Its structure takes shape through common ground, clear definitions, a specific scope of inquiry, and shared assumptions. The presentation guides you, step by step, to the ideal position from which to judge.
 
 ---
 

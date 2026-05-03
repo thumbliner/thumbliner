@@ -277,7 +277,6 @@ Run procedures and checklists, monitor instruments, handle navigation and commun
 
 ## Applied Epistemology
 - <a href="https://public.tableau.com/app/profile/thumbliner/vizzes" target="_blank" rel="noopener noreferrer">Tableau</a>
-- <a href="https://my.flightradar24.com/thumbliner/" target="_blank" rel="noopener noreferrer">Virtual Logbook</a>
 
 ---
 

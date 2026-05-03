@@ -12,7 +12,7 @@ _Conditions of Possibility_
 ---
 
 ### Structure of an Argument
-To argue is to say, “I think this is true, and here is why.” An argument is a conclusion (the claim) supported by reasons. A clear structure helps track that support by starting from common ground, defining key terms, setting the scope of the claim, and stating any assumptions. The line of reasoning is offered for the audience to judge.
+To argue is to say, “This is true, and here is why.” An argument leads by reason to a conclusion. Its structure rests on common ground, clear definitions, a specific scope of inquiry, and shared assumptions. The presentation guides you, step by step, to the ideal position from which to judge the merit of a claim.
 
 ---
 

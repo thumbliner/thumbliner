@@ -11,7 +11,7 @@ _Conditions of Possibility_
 
 ---
 
-### Structure of an Argument
+### The Form of Argument
 To argue is to say, “This is true, and here is why.” An argument leads by reason to a conclusion. Its structure rests on common ground, clear definitions, a specific scope of inquiry, and shared assumptions. The presentation guides you, step by step, to the ideal position from which to judge the merit of a claim.
 
 ---

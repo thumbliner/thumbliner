@@ -194,6 +194,11 @@ University of Geneva
 
 ---
 
+> « J’estudiay, jeune, pour l’ostentation ; depuis, un peu, pour m’assagir ; à cette heure, pour m’esbatre ; jamais pour le quest. »<br>
+> — Michel de Montaigne 
+
+---
+
 <div class="urdu" lang="ur" dir="rtl">
   <div class="verses">
     <div class="misra">میرے ذوقِ سجدۂ بندگی کو عطا ہوئی ہے یہ بے خودی</div>

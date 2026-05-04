@@ -147,8 +147,14 @@ Keep a city alive under scarcity by securing food, producing heat, and passing p
  
 ---
 
-> “For once you have understood your Mises and learned to see the world with Austrian eyes, you will quickly notice, at least if you admit to it, that in many respects you are quite lonely and isolated.”<br>
-> — Hans-Hermann Hoppe
+<iframe allow="encrypted-media *; fullscreen *; clipboard-write"
+        title="Music player: Bread and Roses by Judy Collins"
+        frameborder="0" 
+        height="175" 
+        style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" 
+        sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" 
+        src="https://embed.music.apple.com/song/bread-and-roses/675437775">
+</iframe>
 
 ---
 
@@ -162,14 +168,8 @@ Keep a city alive under scarcity by securing food, producing heat, and passing p
 
 ---
 
-<iframe allow="encrypted-media *; fullscreen *; clipboard-write"
-        title="Music player: Bread and Roses by Judy Collins"
-        frameborder="0" 
-        height="175" 
-        style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" 
-        sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" 
-        src="https://embed.music.apple.com/song/bread-and-roses/675437775">
-</iframe>
+> “For once you have understood your Mises and learned to see the world with Austrian eyes, you will quickly notice, at least if you admit to it, that in many respects you are quite lonely and isolated.”<br>
+> — Hans-Hermann Hoppe
 
 ---
 

@@ -7,7 +7,7 @@ nav_order: 2
 ---
 
 # Shelfie
-_Poor Salman's Capital_  
+_Poor Salman's Kapital_  
 
 ---
 

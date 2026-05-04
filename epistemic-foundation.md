@@ -38,7 +38,7 @@ To argue is to say, “This is true, and here is why.” An argument leads by re
 ---
 
 ### Mind is the Basis of Knowledge
-We learn about the world by paying attention. We receive sensations—seeing a ball, hearing a dog, feeling cold—and the mind organizes them in time (“first… then…”) and space (“here… there…”). This organization allows us to identify stable objects and events. We also use this structure to find regularities: counting patterns and cause-and-effect relations like “I drop it, it falls.” We engage in inquiry when we ask questions and test ideas; what we eventually settle on becomes empirical knowledge.[^1]
+We learn about the world by paying attention. We receive sensations—feeling cold, seeing a ball, hearing a sound—and the mind organizes them in space (“here… there…”) and time (“now… then…”). This organization allows us to identify stable objects and events. We also use this structure to find regularities: counting patterns and cause-and-effect relations like “I drop it, it falls.” We engage in inquiry when we ask questions and test ideas; what we eventually settle on becomes empirical knowledge.[^1]
 
 ---
 

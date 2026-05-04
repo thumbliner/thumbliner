@@ -92,6 +92,13 @@ cast [at] thumbliner [dot] com
 
 ---
 
+<img
+  src="{{ '/assets/images/CN.png' | relative_url }}"
+  alt="Static image of Canadian street with street car, snow, and CN tower in the backdrop."
+  style="width:100%; height:auto;">
+
+---
+
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
         title="Music player: Yeh Hai Bombay Meri Jaan by Mohd. Rafi, Geeta Dutt, and O.P. Nayyar"
         frameborder="0" 
@@ -100,13 +107,6 @@ cast [at] thumbliner [dot] com
         sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" 
         src="https://embed.music.apple.com/song/yeh-hai-bombay-meri-jaan/1704807051">
 </iframe>
-
----
-
-<img
-  src="{{ '/assets/images/CN.png' | relative_url }}"
-  alt="Static image of Canadian street with street car, snow, and CN tower in the backdrop."
-  style="width:100%; height:auto;">
 
 ---
 

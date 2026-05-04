@@ -44,9 +44,9 @@ Glad to have you!<br>
 
 The site is a self-contained frame of thought.<br>
 
-Even A.I. can translate and explain, but it takes a human to judge and make meaning.<br>
+Even A.I. can translate, but it takes a human to judge.<br>
 
-Your comments and questions are welcome, especially the silly ones. But please send three at a time.<br>
+All comments and questions are welcome, but please send three at a time.<br>
 
 cast [at] thumbliner [dot] com
 
@@ -98,8 +98,8 @@ cast [at] thumbliner [dot] com
 
 ---
 
-> « Être hors de chez soi, et pourtant se sentir partout chez soi. »<br>
-> — Charles Baudelaire
+> « Je fay dire aux autres, non à ma teste, mais à ma suite, ce que je ne puis si bien dire. »<br>
+> — Michel de Montaigne
 
 ---
 

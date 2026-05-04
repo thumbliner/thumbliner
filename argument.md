@@ -8,8 +8,6 @@ permalink: /argument/
 # Argument
 _Property of the Half-Rational Person_
 
-An argument is a structured set of propositions leading to a conclusion.
-
 ---
 
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
@@ -20,6 +18,11 @@ An argument is a structured set of propositions leading to a conclusion.
         sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" 
         src="https://embed.music.apple.com/song/the-book/318867123">
 </iframe>
+
+---
+
+> « En réalité, chaque lecteur est, quand il lit, le propre lecteur de soi-même. »<br>
+> — Marcel Proust
 
 ---
 

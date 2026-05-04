@@ -88,7 +88,7 @@ Walden University
 
    <div class="hindi" lang="hi" dir="ltr">
    <div class="verses">
-     <div class="line">किया मिरा तज़्किरा जो साक़ी ने बादा-ख़्वारों की अंजुमन में</div>
+     <div class="line">किया मेरा तज़्किरा जो साक़ी ने बादा-ख़्वारों की अंजुमन में</div>
      <div class="line">तो पीर-ए-मय-ख़ाना सुन के कहने लगा कि मुँह फट है ख़ार होगा</div>
      <div class="poet">— अल्लामा इक़बाल</div>
    </div>

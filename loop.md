@@ -27,6 +27,11 @@ _The General in Particulars_
 
 ---
 
+> « Que sais-je ? »<br>
+> — Michel de Montaigne
+
+---
+
 ## X Axis
 
 ### Baby

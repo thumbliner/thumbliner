@@ -80,8 +80,8 @@ _Poor Salman's Capital_
 
 ---
 
-> « La curiosité est devenue une passion fatale, irrésistible ! »<br>
-> — Charles Baudelaire
+> « Les Chrestiens ont une particuliere cognoissance combien la curiosité est un mal naturel et originel en l’homme. »<br>
+> — Michel de Montaigne
 
 ---
 

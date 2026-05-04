@@ -21,7 +21,7 @@ _Casually Stuck Mid-Sneeze_
 
 ---
 
-Salaam,
+Salaam
 
 How do you do?  
 I’m fine. And you?<br>

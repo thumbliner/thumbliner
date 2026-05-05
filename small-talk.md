@@ -32,7 +32,7 @@ I find this city most beautiful in the rain.<br>
 What have you been up to?  
 Studying music and metaphor.<br>
 
-Anyway, do you know about `insert trending topic`?  
+Anyway, heard about `insert trending topic`?  
 I don’t know enough. What about it?<br>
 
 Never mind, can you believe this traffic?  
@@ -46,8 +46,8 @@ I am your fellow human.<br>
 Any flaws?  
 The standard.<br>
 
-Let’s be outraged by `insert headline`.  
-Let’s empathize and stay attuned.<br>
+Aren’t you outraged by `insert headline`?  
+Yes, generally. Not particularly.<br>
 
 Do you remember what happened in `insert millennia` B.C.?  
 No. What about it?<br>
@@ -97,8 +97,8 @@ Peace
 
 <div class="urdu" lang="ur" dir="rtl">
   <div class="verses">
-    <div class="misra">موقوف تیرے سننے نہ سننے پہ ہے یہ حال</div>
-    <div class="misra">قصہ میرا دراز بھی ہے مختصر بھی ہے</div>
-    <div class="poet">— نادر دہلوی</div>
+    <div class="misra">مجھے بھی شوق نہ تھا داستاں سنانے کا</div>
+    <div class="misra">فرازؔ اس نے بھی پوچھا تھا حال ویسے ہی</div>
+    <div class="poet">— احمد فرازؔ</div>
   </div>
 </div>

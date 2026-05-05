@@ -142,11 +142,6 @@ Audencia Business School & Toulouse Business School
 
 ---
 
-> „Nun aber wird der einsichtige Leser, welcher fähig ist, zwischen diese Zeilen hineinzulesen, was nicht geschrieben steht, aber angedeutet ist, sich eine Ahnung der ernsten Gefühle gewinnen, mit welchen ich damals Emmendingen betrat.”<br>
-> — Johann Wolfgang von Goethe
-
----
-
 ### Advanced Studies in Aviation Management  
 *2019  ·  Switzerland*  
 University of Geneva

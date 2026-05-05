@@ -35,9 +35,6 @@ Studying music and metaphor.<br>
 Anyway, what do you say about `insert trendy topic`?  
 I don’t know enough. What about it?<br>
 
-It was better until `insert name` broke it.  
-Show me.<br>
-
 Never mind, can you believe this traffic?  
 Yes—we are this traffic.<br>
 
@@ -52,10 +49,7 @@ The standard.<br>
 Let’s be outraged by `insert headline`.  
 Let’s empathize and stay attuned.<br>
 
-You would not say so if you were a pure `insert tribe`.  
-Woah—you made me think this through.<br>
-
-Remember what happened in `insert millennia` B.C.?  
+Do you remember what happened in `insert millennia` B.C.?  
 I can’t.<br>
 
 You should read more. This is The Truth.  

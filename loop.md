@@ -50,7 +50,7 @@ Delivers a message, gathers feedback through observation and polls, then adapts.
 Bets scarce time and capital on what the shopper will purchase. Profit and loss are market feedback.
 
 ### Student
-Builds a model, tries to solve a problem, fails, updates the model. Learning happens by correction—particularly when error stings.
+Builds a model, tries to solve a problem, fails, updates the model. Learning happens by correction—particularly when error hurts.
 
 ---
 

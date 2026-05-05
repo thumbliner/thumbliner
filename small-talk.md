@@ -32,14 +32,11 @@ I find this city most beautiful in the rain.<br>
 What have you been up to?  
 Studying music and metaphor.<br>
 
-Do you agree with `insert trend`?  
-I don’t know enough.<br>
-
-What is your philosophy of `insert subject`?  
-What about it?<br>
+Anyway, what do you say about `insert trendy topic`?  
+I don’t know enough. What about it?<br>
 
 It was better until `insert name` broke it.  
-Is that so? Please, show me.<br>
+Show me.<br>
 
 Never mind, can you believe this traffic?  
 Yes—we are this traffic.<br>
@@ -58,11 +55,8 @@ Let’s empathize and stay attuned.<br>
 You would not say so if you were a pure `insert tribe`.  
 Woah—you made me think this through.<br>
 
-But does it affect you? Do you even care?  
-Look. Listen.<br>
-
 Remember what happened in `insert millennia` B.C.?  
-I probably can’t. Should I?<br>
+I can’t.<br>
 
 You should read more. This is The Truth.  
 Ok—let’s add it to the reading list.<br>

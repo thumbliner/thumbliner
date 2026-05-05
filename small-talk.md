@@ -49,7 +49,7 @@ The standard.<br>
 Let’s be outraged by `insert headline`.  
 Let’s empathize and stay attuned.<br>
 
-Do you remember what happened in `insert millennia` B.C.?  
+Do you remember what happened to `insert tribe` in `insert millennia` B.C.?  
 I can’t.<br>
 
 You should read more. This is The Truth.  

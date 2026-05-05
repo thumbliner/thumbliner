@@ -32,7 +32,7 @@ I find this city most beautiful in the rain.<br>
 What have you been up to?  
 Studying music and metaphor.<br>
 
-Anyway, heard about `insert trending topic`?  
+Any comments on `insert trending topic`?  
 I don’t know enough. What about it?<br>
 
 Never mind, can you believe this traffic?  
@@ -47,9 +47,9 @@ Any flaws?
 The standard.<br>
 
 Aren’t you outraged by `insert headline`?  
-Yes, generally. Not particularly.<br>
+Generally, not particularly.<br>
 
-Do you even remember what happened in `insert millennia` B.C.?  
+But do you even remember what happened in `insert millennia` B.C.?  
 No. What about it?<br>
 
 You should read about it.  

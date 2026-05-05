@@ -27,9 +27,9 @@ How do you do?
 I’m fine. And you?<br>
 
 Can you believe this weather?  
-Actually, I find this city most beautiful in the rain.<br>
+I find this city most beautiful in the rain.<br>
 
-So what have you been up to?  
+What have you been up to?  
 Studying music and metaphor.<br>
 
 Do you agree with `insert trend`?  

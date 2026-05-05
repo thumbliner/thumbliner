@@ -52,7 +52,7 @@ Yes, generally. Not particularly.<br>
 Do you even remember what happened in `insert millennia` B.C.?  
 No. What about it?<br>
 
-Never mind, you should read about it.  
+You should read about it.  
 Alright, will add to the list.<br>
 
 Peace

@@ -49,7 +49,7 @@ The standard.<br>
 Aren’t you outraged by `insert headline`?  
 Yes, generally. Not particularly.<br>
 
-Do you remember what happened in `insert millennia` B.C.?  
+Do you even remember what happened in `insert millennia` B.C.?  
 No. What about it?<br>
 
 Never mind, you should read more.  

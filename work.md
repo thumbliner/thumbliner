@@ -123,7 +123,7 @@ Delivered campaigns and event assets, including SABIC Exhibition.
 
 ### Bookkeeper  
 *2010–13  ·  MAI Trading*  
-Managed operations, finance, and key accounts for an HP-authorized distributor.
+Maintained accounts and managed cash flows for an office-supplies distributor.
 
 ### Intern  
 *2009  ·  Business Standard*  

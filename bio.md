@@ -46,7 +46,7 @@ The site is a self-contained frame of thought.<br>
 
 Even A.I. can translate, but it takes a human to judge.<br>
 
-All comments and questions are welcome, but please send three at a time.<br>
+All comments and remarks are welcome; please send three at a time.<br>
 
 cast [at] thumbliner [dot] com
 

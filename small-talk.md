@@ -35,9 +35,6 @@ Studying music and metaphor.<br>
 Any comments on `insert trending topic`?  
 I don’t know enough. What about it?<br>
 
-Never mind, can you believe this traffic?  
-Yes—we are this traffic.<br>
-
 Huh…<br>
 
 So, who are you, really?  
@@ -49,10 +46,7 @@ The standard.<br>
 Aren’t you outraged by `insert headline`?  
 Generally, not particularly.<br>
 
-But do you even remember what happened in `insert millennia` B.C.?  
-No. What about it?<br>
-
-You should read about it.  
+Then you should read more about it.  
 Alright, will add to the list.<br>
 
 Peace

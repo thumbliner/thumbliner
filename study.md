@@ -131,8 +131,8 @@ Audencia Business School & Toulouse Business School
 
 ---
 
-> « Le résultat que je puis tirer de toutes ces réflexions est, que je n’ai jamais été vraiment propre à la société civile où tout est gêne, obligation devoir, et que mon naturel indépendant me rendit toujours incapable des assujettissements nécessaires à qui veut vivre avec les hommes. »<br>
-> — Jean-Jacques Rousseau
+> “In everyday life, compromise is a permanent, and ubiquitous feature, of course. But in theory, compromise is the ultimate sin, a strict and absolute “no no.” It is not permissible, for instance, to compromise between the two incompatible propositions that 1+1=2 or that 1+1=3 and accept that it is 2.5. Either some proposition is true or it is false. There can be no “meeting in the middle” of truth and falsehood.”<br>
+> — Hans-Hermann Hoppe
 
 ---
 
@@ -176,8 +176,8 @@ University of Geneva
 
 ---
 
-> “In everyday life, compromise is a permanent, and ubiquitous feature, of course. But in theory, compromise is the ultimate sin, a strict and absolute “no no.” It is not permissible, for instance, to compromise between the two incompatible propositions that 1+1=2 or that 1+1=3 and accept that it is 2.5. Either some proposition is true or it is false. There can be no “meeting in the middle” of truth and falsehood.”<br>
-> — Hans-Hermann Hoppe
+> « Le résultat que je puis tirer de toutes ces réflexions est, que je n’ai jamais été vraiment propre à la société civile où tout est gêne, obligation devoir, et que mon naturel indépendant me rendit toujours incapable des assujettissements nécessaires à qui veut vivre avec les hommes. »<br>
+> — Jean-Jacques Rousseau
 
 ---
 

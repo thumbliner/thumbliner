@@ -32,7 +32,7 @@ I find this city most beautiful in the rain.<br>
 What have you been up to?  
 Studying music and metaphor.<br>
 
-Any comments on `insert trending topic`?  
+Any comments on `insert trend`?  
 I don’t know enough. What about it?<br>
 
 Huh…<br>
@@ -43,7 +43,7 @@ I am your fellow human.<br>
 Any flaws?  
 The standard.<br>
 
-Aren’t you outraged by `insert headline`?  
+Aren’t you outraged by `insert cue`?  
 Generally yes, but not particularly.<br>
 
 Then you should read more about it.  

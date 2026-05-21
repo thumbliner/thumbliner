@@ -45,8 +45,8 @@ Operate a farm through seasons by aligning machinery to fieldwork, managing inpu
 
 ---
 
-> “In nature there are neither rewards nor punishments; there are consequences.”<br>
-> — Robert Green Ingersoll
+> “You have to be so many things to be a farmer. I am none of those. I am the world’s worst businessman. I am totally impractical. I have zero patience. Of all the things you need to be a farmer, I have none of them. But I want to do it.”<br>
+> — Jeremy Clarkson
 
 ---
 

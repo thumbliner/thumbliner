@@ -247,7 +247,7 @@ Operate in a player-run space economy by specializing into markets, using intell
 
 ---
 
-> “Part of the game is to come into your own. You must find some way that perfectly fits your personality. It is a competitive game, so you’re going to run into a lot of hardworking fellows. The only way to gain an edge is through long and hard work. Do what you love to do, so you just naturally do it or think about it all the time, even if you’re relaxing.”<br>
+> “Do what you love to do, so you just naturally do it or think about it all the time, even if you’re relaxing.”<br>
 > — Li Lu
 
 ---

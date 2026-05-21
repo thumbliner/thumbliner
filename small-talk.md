@@ -44,7 +44,7 @@ Any flaws?
 The standard.<br>
 
 Aren’t you outraged by `insert headline`?  
-Generally, but not particularly.<br>
+Generally yes, but not particularly.<br>
 
 Then you should read more about it.  
 Alright, will add to the list.<br>

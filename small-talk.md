@@ -66,9 +66,9 @@ Peace
 
  <div class="hindi" lang="hi" dir="ltr">
    <div class="verses">
-     <div class="line">हर एक बात पे कहते हो तुम कि तू क्या है</div>
-     <div class="line">तुम्हीं कहो के ये अंदाज़-ए-गुफ़्तुगू क्या है</div>
-     <div class="poet">— मिर्ज़ा ग़ालिब</div>
+     <div class="line">सुना है बोले तो बातों से फूल झड़ते हैं</div>
+     <div class="line">ये बात है तो चलो बात कर के देखते हैं</div>
+     <div class="poet">— अहमद फ़राज़</div>
    </div>
  </div>
 

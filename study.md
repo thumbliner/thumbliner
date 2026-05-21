@@ -22,8 +22,8 @@ _Formal-ish Education_
 
 ---
 
-> “The market economy is like a delicate plant which needs a carefully tended soil.”<br>
-> — Wilhelm Röpke
+> “My natural instinct, when somebody presents me with a rule, is to break it. I got that from school. I think, “I’m going to break it. I don’t know how yet, but I’m going to.” I now almost feel justified in breaking half of them because they just didn’t make sense.”<br>
+> — Jeremy Clarkson
 
 ---
 
@@ -41,8 +41,8 @@ International School Jeddah
 
 ---
 
-> “My natural instinct, when somebody presents me with a rule, is to break it. I got that from school. I think, “I’m going to break it. I don’t know how yet, but I’m going to.” I now almost feel justified in breaking half of them because they just didn’t make sense.”<br>
-> — Jeremy Clarkson
+> “The market economy is like a delicate plant which needs a carefully tended soil.”<br>
+> — Wilhelm Röpke
 
 ---
 

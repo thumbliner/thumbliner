@@ -16,7 +16,7 @@ _Josep “Pep” Guardiola Sala_
 
 ---
 
-**Role:** Manager, Manchester City Football Club  
+**Role:** Football Coach  
 **Born:** 18 January 1971  
 **Birthplace:** Santpedor, Catalonia  
 

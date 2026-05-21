@@ -229,11 +229,13 @@ Guide a civilization across eras by committing to technologies and institutions,
 
 ---
 
+## **EVE Online** by CCP<br>
+Operate in a player-run space economy by specializing into markets, using intelligence and logistics to project power, and diplomacy through crises and security shocks.
 <p>
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">
   <iframe
-    src="https://www.youtube.com/embed/7cVYax_wkic?enablejsapi=1"
-    title="Jeremy and Charlie, Clarkson's Farm Season 4"
+    src="https://www.youtube.com/embed/zQciMy_Pr0Q?enablejsapi=1"
+    title="EVE Online"
     style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;"
     allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
     allowfullscreen
@@ -245,13 +247,11 @@ Guide a civilization across eras by committing to technologies and institutions,
 
 ---
 
-## **EVE Online** by CCP<br>
-Operate in a player-run space economy by specializing into markets, using intelligence and logistics to project power, and diplomacy through crises and security shocks.
 <p>
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">
   <iframe
-    src="https://www.youtube.com/embed/zQciMy_Pr0Q?enablejsapi=1"
-    title="EVE Online"
+    src="https://www.youtube.com/embed/7cVYax_wkic?enablejsapi=1"
+    title="Jeremy and Charlie, Clarkson's Farm Season 4"
     style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;"
     allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
     allowfullscreen

@@ -40,22 +40,6 @@ _Poor Salman's Kapital_
 
 ---
 
-<p>
-<div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">
-  <iframe
-    src="https://www.youtube.com/embed/PhiDfKSg4J4?enablejsapi=1"
-    title="Clarkson's Farm - slight conflict"
-    style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;"
-    allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    allowfullscreen
-    loading="lazy"
-    referrerpolicy="strict-origin-when-cross-origin">
-  </iframe>
-</div>
-</p>
-
----
-
 <div class="urdu" lang="ur" dir="rtl">
   <div class="verses">
     <div class="misra">خود سے چل کر نہیں یہ طرز سخن آیا ہے</div>

@@ -247,6 +247,11 @@ Operate in a player-run space economy by specializing into markets, using intell
 
 ---
 
+> “Do what you love to do, so you just naturally do it or think about it all the time, even if you’re relaxing.”<br>
+> — Li Lu
+
+---
+
 <p>
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">
   <iframe
@@ -260,11 +265,6 @@ Operate in a player-run space economy by specializing into markets, using intell
   </iframe>
 </div>
 </p>
-
----
-
-> “Do what you love to do, so you just naturally do it or think about it all the time, even if you’re relaxing.”<br>
-> — Li Lu
 
 ---
 

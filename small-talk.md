@@ -32,7 +32,7 @@ I find this city most beautiful in the rain.<br>
 What have you been up to?  
 Studying music and metaphor.<br>
 
-Any comments on `insert trend`?  
+What about `insert trend`?  
 I don’t know enough. What about it?<br>
 
 Huh…<br>

@@ -115,7 +115,7 @@ _Colors of the Wind_
 
 ---
 
-## **The Game** by Nusrat Fateh Ali Khan
+## **The Game** by Ustad Nusrat Fateh Ali Khan
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
         frameborder="0" 
         height="175" 

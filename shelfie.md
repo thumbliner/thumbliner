@@ -34,6 +34,7 @@ _Poor Salman's Kapital_
 | The Passionate Mind: How People with Autism Learn | Wendy Lawson | 2010 |
 | Clear and Simple as the Truth | Francis-Noël Thomas; Mark Turner | 2011 |
 | Edelweiss Journal | Tony Deden | 2011 |
+| Nasta‘liq: The Genius of Persian Calligraphy | Arthur M. Sackler Gallery | 2013 |
 | Pep Confidential: The Inside Story of Pep Guardiola's First Season at Bayern Munich | Martí Perarnau | 2014 |
 | How to Be Perfectly Unhappy | The Oatmeal, Matthew Inman | 2017 |
 | To Hell and Back: An Autobiography | Niki Lauda | 2021 |

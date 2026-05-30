@@ -31,7 +31,6 @@ _Poor Salman's Kapital_
 | Mises: The Last Knight of Liberalism | Jörg Guido Hülsmann | 2007 |
 | A History of the Dvaita School of Vedānta and its Literature | B. N. K. Sharma | 2008 |
 | The Greatest Show on Earth: The Evidence for Evolution | Richard Dawkins | 2009 |
-| The Passionate Mind: How People with Autism Learn | Wendy Lawson | 2010 |
 | Clear and Simple as the Truth | Francis-Noël Thomas; Mark Turner | 2011 |
 | Edelweiss Journal | Tony Deden | 2011 |
 | Nasta‘liq: The Genius of Persian Calligraphy | Arthur M. Sackler Gallery | 2013 |

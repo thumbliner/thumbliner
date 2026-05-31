@@ -31,7 +31,7 @@ _Poor Salman's Kapital_
 | Perfectly Reasonable Deviations from the Beaten Track | Richard Feynman | 2005 |
 | Mises: The Last Knight of Liberalism | Jörg Guido Hülsmann | 2007 |
 | A History of the Dvaita School of Vedānta and its Literature | B. N. K. Sharma | 2008 |
-| On the Origin of Stories: Evolution, Cognition, and Fiction | Brian Boyd | 2009 |
+| Clear and Simple as the Truth | Francis-Noël Thomas & Mark Turner | 2011 |
 | Edelweiss Journal | Tony Deden | 2011 |
 | Nasta‘līq: The Genius of Persian Calligraphy | Arthur M. Sackler Gallery | 2013 |
 | Pep Confidential: The Inside Story of Pep Guardiola's First Season at Bayern Munich | Martí Perarnau | 2014 |

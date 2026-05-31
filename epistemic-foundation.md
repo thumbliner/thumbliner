@@ -38,7 +38,7 @@ To argue is to say, “This is true, and here’s why.” An argument is a path 
 ---
 
 ### Mind is the Basis of Knowledge
-We learn by paying attention to the world. We sense things—cold air, a ball, a sound—and the mind organizes them in space (“here… there…”) and time (“now… then…”). This arrangement helps us conceive stable objects and events. It also reveals pattern: the count of things and cause-and-effect relations—tap thrice, get a reaction. Inquiry begins here, as we ask questions, test ideas, and record observations as empirical knowledge.[^1]
+Learning begins by paying attention to the world. We sense things—cold air, a ball, a sound—and the mind organizes them in space (“here… there…”) and time (“now… then…”). This arrangement helps us conceive stable objects and events. It also reveals pattern: the count of things and cause-and-effect relations—tap thrice, get a reaction. Inquiry begins here, as we ask questions, test ideas, and record observations as empirical knowledge.[^1]
 
 ---
 

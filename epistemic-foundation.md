@@ -68,7 +68,7 @@ By paying attention, you allocate scarce time here rather than elsewhere; the op
 ---
 
 ### The Argument Axiom
-When you choose to argue, you commit to a collaborative method of inquiry and presuppose self-ownership. You place your argument on the table for assessment, and apply feedback for refinement. In doing so, you accept a universal ethic of non-contradiction: your reasoning is constrained by coherence, and your claims must agree with one another.[^3] Only under these conditions can ideas be judged as better or worse justified, where appropriate as true or false, and argument become a shared practice of learning.
+When you choose to argue, you commit to a collaborative method of inquiry and presuppose self-ownership. You place your argument on the table for assessment, and apply feedback for refinement. In doing so, you accept a universal ethic of non-contradiction: your reasoning is constrained by coherence, and your claims must agree with one another.[^3] Under these conditions, ideas can be judged as better or worse justified, and, where appropriate, as true or false. Argument thereby becomes a shared practice of learning.
 
 ---
 

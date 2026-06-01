@@ -47,7 +47,7 @@ Makes a purchase, waits for delivery, tries it out, updates buying behavior. Whe
 Delivers a message, gathers feedback through observation and polls, then adapts. Votes are signals.
 
 ### Entrepreneur
-Bets scarce time and capital on what the shopper will purchase. Profit and loss are market feedback.
+Bets scarce resources to produce what the consumer will buy. Profit and loss are market feedback.
 
 ### Student
 Builds a model, tries to solve a problem, fails, updates the model. When error stings, learning happens by correction.

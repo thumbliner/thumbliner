@@ -77,16 +77,6 @@ _Richard Phillips Feynman_
 
 ---
 
- <div class="hindi" lang="hi" dir="ltr">
-   <div class="verses">
-     <div class="line">नुक्ता-चीं है ग़म-ए-दिल उसको सुनाए न बने</div>
-     <div class="line">क्या बने बात जहाँ बात बनाए न बने</div>
-     <div class="poet">— मिर्ज़ा ग़ालिब</div>
-   </div>
- </div>
-
----
-
 ### The Problem
 - “All you have to do is, from time to time—in spite of everything, just try to examine a problem in a novel way. You won’t “stifle the creative process” if you remember to think from time to time. Don’t you have time to think?”
 - “I would advise you to take even simpler, or as you say, humbler, problems until you find some you can really solve easily, no matter how trivial. You will get the pleasure of success, and of helping your fellow human, even if it is only to answer a question in the mind of a colleague less able than you. You must not take away from yourself these pleasures because you have some erroneous idea of what is worthwhile.”
@@ -107,16 +97,6 @@ _Richard Phillips Feynman_
         sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" 
         src="https://embed.music.apple.com/song/mitwa/305751200">
 </iframe>
-
----
-
- <div class="hindi" lang="hi" dir="ltr">
-   <div class="verses">
-     <div class="line">मैं बुलाता तो हूँ उसको मगर जज़्बा-ए-दिल</div>
-     <div class="line">उसपे बनजाए कुछ ऐसी के बिन आए न बने</div>
-     <div class="poet">— मिर्ज़ा ग़ालिब</div>
-   </div>
- </div>
 
 ---
 
@@ -155,12 +135,11 @@ _Richard Phillips Feynman_
 
  <div class="hindi" lang="hi" dir="ltr">
    <div class="verses">
-     <div class="line">कह सके कौन कि ये जल्वागरी किस की है</div>
-     <div class="line">पर्दा छोड़ा है वो उसने के उठाए न बने</div>
+     <div class="line">मैं बुलाता तो हूँ उसको मगर जज़्बा-ए-दिल</div>
+     <div class="line">उसपे बनजाए कुछ ऐसी के बिन आए न बने</div>
      <div class="poet">— मिर्ज़ा ग़ालिब</div>
    </div>
  </div>
-
 
 ---
 

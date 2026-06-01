@@ -53,7 +53,7 @@ Learning begins by paying attention to the world. We sense things—cold air, a 
 ---
 
 ### The Action Axiom
-By paying attention, you allocate scarce time here rather than elsewhere; the opportunities forgone are the cost of this exchange. Since the future is uncertain, you use judgment to speculate on whether continuing to engage will satisfy your purpose. This choice reveals beliefs, preferences, and values. A structural relation between means, ends, beliefs, and incentives underlies human action generally; from that premise, social science begins its inquiry into behavior.[^2]
+By paying attention, you allocate scarce time here rather than elsewhere; the opportunities forgone are the cost of this exchange. Since the future is uncertain, you use judgment to speculate on whether continuing to engage will satisfy your purpose. This choice reveals beliefs, preferences, and values. A structural relation between means, ends, beliefs, and incentives underlies human action generally; on that premise, social science grounds its inquiry into behavior.[^2]
 
 ---
 
@@ -68,7 +68,7 @@ By paying attention, you allocate scarce time here rather than elsewhere; the op
 ---
 
 ### The Argument Axiom
-When you choose to argue, you presuppose self-ownership and commit to a collaborative method of inquiry. You place your argument on the table for assessment, and treat others as capable of offering feedback. In doing so, you accept an ethic of non-contradiction: your reasoning is constrained by coherence, and your claims must agree with one another.[^3] Only under these conditions can ideas be judged as better or worse justified, and, where appropriate, as true or false. Argument thereby becomes a shared practice of learning.
+When you choose to argue, you presuppose self-ownership and commit to a collaborative method of inquiry. You place your argument on the table for assessment, and treat others as capable of offering feedback. In doing so, you accept an ethic of non-contradiction: your reasoning is constrained by coherence, and your claims agree with one another.[^3] Only under these conditions can ideas be judged as better or worse justified, and, where appropriate, as true or false. Argument is a shared practice of learning.
 
 ---
 

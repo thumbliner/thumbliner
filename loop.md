@@ -118,7 +118,7 @@ At time $$t$$, each agent $$i$$ receives a local observation $$o_t^i$$ (includin
 ## Z Axis
 
 ### Applied Epistemology
-The practice of modeling the world by sensing what is rather odd, testing beliefs, and treating outcomes as a grade on the problem-solving method. The results are substance for further inquiry, as judgment develops under the inevitable burden of uncertainty; fr.
+The practice of modeling the world by sensing what is rather odd, testing beliefs, and using outcomes as a grade on the method. The results are substance for further inquiry, as judgment develops under the burden of uncertainty; fr.
 
 ---
 

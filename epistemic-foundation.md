@@ -53,7 +53,7 @@ Learning begins by paying attention to the world. We sense things—cold air, a 
 ---
 
 ### The Action Axiom
-Action is purposeful—you choose among options to reach goals you prefer. Because resources are scarce (there is only one of you), every choice involves tradeoffs that unfold over time. Facing an uncertain future, you rely on judgment to speculate on what will best satisfy your wants. Social science treats behavior as meaningful, relating the chosen means with ends and beliefs. This incentive-based understanding of human action is the foundation of all inquiry.[^2]
+By paying attention, you allocate scarce time here rather than elsewhere; the opportunities forgone are the cost of this exchange. Since the future is uncertain, you use judgment to speculate on whether continuing to engage will satisfy your purpose. This choice reveals beliefs, preferences, and values. A structural relation between means, ends, beliefs, and incentives underlies human action generally; from that premise, social science begins its inquiry into behavior.[^2]
 
 ---
 

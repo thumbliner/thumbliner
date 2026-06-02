@@ -78,10 +78,10 @@ Builds a model, tries to solve a problem, fails, updates the model. When error s
 ## Y Axis
 
 ### Plain
-Notice what’s happening. Pick a move. Do it. See what happens. Adapt.
+Notice. Pick a move. Do it. See what happens. Adapt.
 
 ### Practical
-Take in information, form a view, choose an action, then compare the result to what you expected. Use the gap to update expectations and tune habits.
+Gather information, form a view, choose an action, then compare the result to what you expected. Use the gap to update expectations and tune habits.
 
 ### Formal
 An agent senses its environment and models a state estimate. It predicts consequences and selects an action. After acting, it compares outcomes to expectations; the resulting error updates its policy.

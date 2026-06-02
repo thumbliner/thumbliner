@@ -17,12 +17,12 @@ _The General in Particulars_
 ---
 
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
-        title="Music player: Ravel's Bolero by Boston Symphony Orchestra and Seiji Ozawa"
+        title="Music player: The Lonely Tramp (Golf Links Waltz) by Charlie Chaplin"
         frameborder="0" 
         height="175" 
         style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" 
         sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" 
-        src="https://embed.music.apple.com/song/bol%C3%A9ro/1440789783">
+        src="https://embed.music.apple.com/song/the-lonely-tramp-golf-links-waltz/1414870895">
 </iframe>
 
 ---
@@ -60,12 +60,12 @@ Builds a model, tries to solve a problem, fails, updates the model. When error s
 ---
 
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
-        title="Music player: The Lonely Tramp (Golf Links Waltz) by Charlie Chaplin"
+        title="Music player: Ravel's Bolero by Boston Symphony Orchestra and Seiji Ozawa"
         frameborder="0" 
         height="175" 
         style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" 
         sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" 
-        src="https://embed.music.apple.com/song/the-lonely-tramp-golf-links-waltz/1414870895">
+        src="https://embed.music.apple.com/song/bol%C3%A9ro/1440789783">
 </iframe>
 
 ---

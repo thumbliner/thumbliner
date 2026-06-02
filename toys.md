@@ -291,9 +291,16 @@ Run procedures and checklists, monitor instruments, handle navigation and commun
 
 ---
 
+<a href="https://my.flightradar24.com/thumbliner"><img src="https://banners-my.flightradar24.com/thumbliner.png" alt="My Flightdiary.net profile" /></a>
+
+---
+
+[url=https://my.flightradar24.com/thumbliner][img]https://banners-my.flightradar24.com/thumbliner.png[/img][/url]
+
+---
+
 ## Applied Epistemology
 - <a href="https://public.tableau.com/app/profile/thumbliner/vizzes" target="_blank" rel="noopener noreferrer">Tableau</a>
-- <a href="https://my.flightradar24.com/thumbliner" target="_blank" rel="noopener noreferrer">Virtual Logbook</a>
 
 ---
 

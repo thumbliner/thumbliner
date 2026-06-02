@@ -51,6 +51,9 @@ _High-Brow Meets Brainrot: A Loopy Mutation_
     title="Chart: Federal Funds Effective Rate"
     scrolling="no" frameborder="0" style="overflow:hidden;" allowTransparency="true" loading="lazy"></iframe></div><script src="https://fred.stlouisfed.org/assets/research/fred-graph-react/build/embed.min.js" type="text/javascript"></script>
 
+
+<iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=1WKmv&width=670&height=475" scrolling="no" frameborder="0" style="overflow:hidden; width:670px; height:525px;" allowTransparency="true" loading="lazy"></iframe>
+
 ---
 
 > “Personally I am very fond of strawberries and cream”<br>

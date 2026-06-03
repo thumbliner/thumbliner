@@ -90,12 +90,12 @@ _Richard Phillips Feynman_
 ---
 
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
-        title="Music player: Mitwa from Lagaan"
+        title="Music player: Jao Pakhi by Pranab Biswas, Shreya Ghoshal, Aninda Chatterjee, Chandril Bhattacharya, and Shantanu Moitra"
         frameborder="0" 
         height="175" 
         style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" 
         sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" 
-        src="https://embed.music.apple.com/song/mitwa/305751200">
+        src="https://embed.music.apple.com/song/jao-pakhi/1283471165">
 </iframe>
 
 ---
@@ -133,12 +133,12 @@ _Richard Phillips Feynman_
 ---
 
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
-        title="Music player: Jao Pakhi by Pranab Biswas, Shreya Ghoshal, Aninda Chatterjee, Chandril Bhattacharya, and Shantanu Moitra"
+        title="Music player: About Today (Warrior Version) by The National"
         frameborder="0" 
         height="175" 
         style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" 
         sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" 
-        src="https://embed.music.apple.com/song/jao-pakhi/1283471165">
+        src="https://embed.music.apple.com/song/about-today/454615100">
 </iframe>
 
 ---

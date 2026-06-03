@@ -286,7 +286,7 @@ Run procedures and checklists, monitor instruments, handle navigation and commun
 
 ---
 
-<a href="https://my.flightradar24.com/thumbliner"><img src="https://banners-my.flightradar24.com/thumbliner.png" alt="My Flightdiary.net profile" /></a>
+<a href="https://my.flightradar24.com/thumbliner" target="_blank" rel="noopener noreferrer"><img src="https://banners-my.flightradar24.com/thumbliner.png" alt="My Flightradar24.com Profile" /></a>
 
 ---
 

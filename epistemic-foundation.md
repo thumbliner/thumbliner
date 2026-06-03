@@ -12,7 +12,7 @@ _Conditions of Possibility_
 ---
 
 ### The Form of Argument
-To argue is to say, “This is true, and here’s why.” An argument is a path of reasons leading to a conclusion. Its structure comes from common ground, clear definitions, a focused scope of inquiry, and shared assumptions. The presentation walks you step by step toward the best position from which to judge.
+To argue is to say, “This is true, and here’s why.” An argument is a path of reasons leading to a conclusion. Its structure comes from common ground, clear definitions, a focused scope of inquiry, and shared assumptions. The presentation walks you step by step toward the position from which to judge.
 
 ---
 
@@ -38,7 +38,7 @@ To argue is to say, “This is true, and here’s why.” An argument is a path 
 ---
 
 ### Mind is the Basis of Knowledge
-Learning begins by paying attention to the world. We sense things—cold air, a ball, a sound—and the mind organizes them in space (“here… there…”) and time (“now… then…”). This arrangement helps us conceive stable objects and events. It also reveals pattern: the count of things and cause-and-effect relations—tap thrice, get a reaction. Inquiry begins here, as we ask questions, test ideas, and record observations as empirical knowledge.[^1]
+Learning begins by paying attention to the world. We sense things—cold air, a ball, a sound—and the mind organizes them in space (“here… there…”) and time (“now… then…”). This arrangement helps us conceive stable objects and events. It also reveals pattern: the count of things and cause-and-effect relations—tap thrice, get a reaction. Inquiry begins when we ask questions, test ideas, and record observations as empirical knowledge.[^1]
 
 ---
 
@@ -53,7 +53,7 @@ Learning begins by paying attention to the world. We sense things—cold air, a 
 ---
 
 ### The Action Axiom
-By paying attention, you allocate scarce time here rather than elsewhere; the opportunities forgone are the cost of this exchange. Since the future is uncertain, you use judgment to speculate on whether continuing to engage will satisfy your purpose. This choice reveals beliefs, preferences, and values. A structural relation between means, ends, beliefs, and incentives underlies human action generally; on that premise, social science grounds its inquiry into behavior.[^2]
+By paying attention, you allocate scarce time here rather than elsewhere; the opportunities forgone are the cost of this exchange. Since the future is uncertain, you use judgment to speculate on whether continuing to engage will satisfy your purpose. This choice reveals preferences and values. A structural relation between means, ends, beliefs, and incentives underlies human action generally; on that premise, social science grounds its inquiry into your behavior.[^2]
 
 ---
 

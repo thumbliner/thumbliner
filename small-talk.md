@@ -43,7 +43,7 @@ I am your fellow human.<br>
 Any flaws?  
 The standard.<br>
 
-Aren’t you outraged by `insert cue`?  
+Are you outraged by `insert cue`?  
 Generally yes, but not particularly.<br>
 
 Then you should read more about it.  

@@ -117,7 +117,7 @@ Taught branding and marketing strategy in the GCC.
 *2014–16  ·  Taurus Advertising Agency*  
 Launched the digital practice; led web, app, media, and automation.
 
-### Marketing Manager  
+### Marketer  
 *2013–14  ·  Al Harithy Company*  
 Delivered campaigns and event assets, including SABIC Exhibition.
 

@@ -100,7 +100,7 @@ At time $$t$$, each agent $$i$$ receives a local observation $$o_t^i$$ (includin
 ---
 
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
-        title="Music player: 短兵相接 by Wu Wai Lap"
+        title="Music player: 短兵相接 by Wu Wai Lap from The Legend of Drunken Master"
         frameborder="0" 
         height="175" 
         style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" 

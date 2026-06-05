@@ -46,7 +46,7 @@ _High-Brow Meets Brainrot: A Loopy Mutation_
 ## **Transitory** by Consensus  
 <div class="embed-container"
     aria-label="Chart: Federal Funds Effective Rate">
-<iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=1WKEX&width=670&height=475" scrolling="no" frameborder="0" style="overflow:hidden; width:670px; height:525px;" allowTransparency="true" loading="lazy"></iframe></div><script src="https://fred.stlouisfed.org/assets/research/fred-graph-react/build/embed.min.js" type="text/javascript"></script>
+<iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=1WKEX&width=670&height=475" scrolling="no" frameborder="0" style="overflow:hidden; width:100%; max-width:670px; height:525px;" allowTransparency="true" loading="lazy"></iframe></div><script src="https://fred.stlouisfed.org/assets/research/fred-graph-react/build/embed.min.js" type="text/javascript"></script>
 
 ---
 

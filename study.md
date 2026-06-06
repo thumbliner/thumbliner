@@ -11,6 +11,11 @@ _Formal-ish Education_
 
 ---
 
+> “My natural instinct, when somebody presents me with a rule, is to break it. I got that from school. I think, “I’m going to break it. I don’t know how yet, but I’m going to.” I now almost feel justified in breaking half of them because they just didn’t make sense.”<br>
+> — Jeremy Clarkson
+
+---
+
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
         title="Music player: Tala'al Badru 'Alayna by Olivia Newton-John"
         frameborder="0" 
@@ -19,11 +24,6 @@ _Formal-ish Education_
         sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" 
         src="https://embed.music.apple.com/song/talaal-badru-alayna/1876705743">
 </iframe>
-
----
-
-> “The market economy is like a delicate plant which needs a carefully tended soil.”<br>
-> — Wilhelm Röpke
 
 ---
 
@@ -41,8 +41,8 @@ International School Jeddah
 
 ---
 
-> “My natural instinct, when somebody presents me with a rule, is to break it. I got that from school. I think, “I’m going to break it. I don’t know how yet, but I’m going to.” I now almost feel justified in breaking half of them because they just didn’t make sense.”<br>
-> — Jeremy Clarkson
+> “The market economy is like a delicate plant which needs a carefully tended soil.”<br>
+> — Wilhelm Röpke
 
 ---
 

@@ -77,16 +77,6 @@ _Colors of the Wind_
 
 ---
 
- <div class="hindi" lang="hi" dir="ltr">
-   <div class="verses">
-     <div class="line">ये भी तुम जानते हो चंद मुलाख़ातों में</div>
-     <div class="line">आज़माया है तुम्हें हमने कई बातों में</div>
-     <div class="poet">— दाग़ देहलवी</div>
-   </div>
- </div>
-
----
-
 ## **Trance with Khusrow** by Kavita Seth & Kanishk Seth
 ### You Pick: 2. Chashm-e-Maste or 3. Man Qunto Maula
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"

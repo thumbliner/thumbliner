@@ -11,7 +11,7 @@ _Formal-ish Education_
 
 ---
 
-> “My natural instinct, when somebody presents me with a rule, is to break it. I got that from school. I think, “I’m going to break it. I don’t know how yet, but I’m going to.” I now almost feel justified in breaking half of them because they just didn’t make sense.”<br>
+> “My natural instinct, when somebody presents me with a rule, is to break it. I got that from school.”<br>
 > — Jeremy Clarkson
 
 ---

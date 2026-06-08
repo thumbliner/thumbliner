@@ -29,7 +29,7 @@ I’m fine. And you?<br>
 Can you believe this weather?  
 I find this city most beautiful in the rain.<br>
 
-What have you been up to?  
+What are you to?  
 Studying music and metaphor.<br>
 
 What about `insert trend`?  

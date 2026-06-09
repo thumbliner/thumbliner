@@ -52,18 +52,8 @@ cast [at] thumbliner [dot] com
 
 ---
 
-<div class="urdu" lang="ur" dir="rtl">
-  <div class="verses">
-    <div class="misra">دل ہاتھ پر رکھا ہے کوئی ہے جو خریدے</div>
-    <div class="misra">دیکھوں تو ذرا میں بھی خریدار کی صورت</div>
-    <div class="poet">— واصف علی واصف</div>
-  </div>
-</div>
-
----
-
-> “Is this an instrument of communication, or torture?”<br>
-> — Darling Granny, Downton Abbey
+> « Je fay dire aux autres, non à ma teste, mais à ma suite, ce que je ne puis si bien dire. »<br>
+> — Michel de Montaigne
 
 ---
 
@@ -77,8 +67,8 @@ cast [at] thumbliner [dot] com
 
 ---
 
-> « Je fay dire aux autres, non à ma teste, mais à ma suite, ce que je ne puis si bien dire. »<br>
-> — Michel de Montaigne
+> “Is this an instrument of communication, or torture?”<br>
+> — Darling Granny, Downton Abbey
 
 ---
 

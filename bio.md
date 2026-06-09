@@ -77,15 +77,15 @@ cast [at] thumbliner [dot] com
 
 ---
 
-> « Je fay dire aux autres, non à ma teste, mais à ma suite, ce que je ne puis si bien dire. »<br>
-> — Michel de Montaigne
-
----
-
 <img
   src="{{ '/assets/images/CN.png' | relative_url }}"
   alt="Static image of Canadian street with street car and snow."
   style="width:100%; height:auto;">
+
+---
+
+> « Pour le parfait flâneur, pour l’observateur passionné, c’est une immense jouissance que d’élire domicile dans le nombre, dans l’ondoyant, dans le mouvement, dans le fugitif et l’infini. »<br>
+> — Charles Baudelaire
 
 ---
 
@@ -100,8 +100,8 @@ cast [at] thumbliner [dot] com
 
 ---
 
-> « Pour le parfait flâneur, pour l’observateur passionné, c’est une immense jouissance que d’élire domicile dans le nombre, dans l’ondoyant, dans le mouvement, dans le fugitif et l’infini. »<br>
-> — Charles Baudelaire
+> « Je fay dire aux autres, non à ma teste, mais à ma suite, ce que je ne puis si bien dire. »<br>
+> — Michel de Montaigne
 
 ---
 

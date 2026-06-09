@@ -54,9 +54,9 @@ cast [at] thumbliner [dot] com
 
 <div class="urdu" lang="ur" dir="rtl">
   <div class="verses">
-    <div class="misra">کج کلاہوں کا ہے یہ شہر یہاں بندہ نواز</div>
-    <div class="misra">کون پہچانے گا مجھ خاک بسر کی صورت</div>
-    <div class="poet">— ذوالفقار علی بخاری</div>
+    <div class="misra">پہچان لیا تجھ کو تری شیشہ گری سے</div>
+    <div class="misra">آتی ہے نظر فن سے ہی فن کار کی صورت</div>
+    <div class="poet">— واصف علی واصف</div>
   </div>
 </div>
 
@@ -69,9 +69,9 @@ cast [at] thumbliner [dot] com
 
 <div class="urdu" lang="ur" dir="rtl">
   <div class="verses">
-    <div class="misra">پہچان لیا تجھ کو تری شیشہ گری سے</div>
-    <div class="misra">آتی ہے نظر فن سے ہی فن کار کی صورت</div>
-    <div class="poet">— واصف علی واصف</div>
+    <div class="misra">کج کلاہوں کا ہے یہ شہر یہاں بندہ نواز</div>
+    <div class="misra">کون پہچانے گا مجھ خاک بسر کی صورت</div>
+    <div class="poet">— ذوالفقار علی بخاری</div>
   </div>
 </div>
 

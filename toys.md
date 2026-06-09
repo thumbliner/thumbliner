@@ -175,8 +175,8 @@ Keep a city alive under scarcity by securing food, producing heat, and passing p
 
 <div class="urdu" lang="ur" dir="rtl">
   <div class="verses">
-    <div class="misra">اور بھی دکھ ہیں زمانے میں محبت کے سوا</div>
-    <div class="misra">راحتیں اور بھی ہیں وصل کی راحت کے سوا</div>
+    <div class="misra">جن کا دیں پیروی کذب و ریا ہے ان کو</div>
+    <div class="misra">ہمت کفر ملے جرأت تحقیق ملے</div>
     <div class="poet">— فیض احمد فیضؔ</div>
   </div>
 </div>

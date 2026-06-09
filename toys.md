@@ -229,6 +229,20 @@ Guide a civilization across eras by committing to technologies and institutions,
 
 ---
 
+<div class="hindi" lang="hi" dir="ltr">
+   <div class="verses">
+     <div class="line">सरकारें सब एक-सी होती हैं</div>
+     <div class="line">थोड़ा-बहुत फर्क होता है</div>
+     <div class="line">सत्ता का चरित्र एक-सा ही होता है</div>
+     <div class="line">यह बात अलग है कि हम चरित्र बदलने की कोशिश कर रहे हैं</div>
+     <div class="line">पता नहीं कितने सफल होंगे</div>
+     <div class="line">मगर नहीं होंगे तो हँसने का अवसर नहीं छोड़ेंगे</div>
+     <div class="poet">— प्रधानमंत्री अटल बिहारी वाजपेयी</div>
+   </div>
+ </div>
+
+---
+
 ## **EVE Online** by CCP<br>
 Operate in a player-run space economy by specializing into markets, using intelligence and logistics to project power, and diplomacy through crises and security shocks.
 <p>

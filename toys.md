@@ -201,20 +201,6 @@ Govern towns across a province by placing neighborhoods and civic buildings, lay
 
 ---
 
-<div class="hindi" lang="hi" dir="ltr">
-   <div class="verses">
-     <div class="line">सरकारें सब एक-सी होती हैं</div>
-     <div class="line">थोड़ा-बहुत फर्क होता है</div>
-     <div class="line">सत्ता का चरित्र एक-सा ही होता है</div>
-     <div class="line">यह बात अलग है कि हम चरित्र बदलने की कोशिश कर रहे हैं</div>
-     <div class="line">पता नहीं कितने सफल होंगे</div>
-     <div class="line">मगर नहीं होंगे तो हँसने का अवसर नहीं छोड़ेंगे</div>
-     <div class="poet">— प्रधानमंत्री अटल बिहारी वाजपेयी</div>
-   </div>
- </div>
-
----
-
 > “What we encourage is knowledge-seeking in itself, and ownership of one’s beliefs. We want you to understand that choices have consequences, that a country’s fate can turn on a single act of diplomacy, and that historical figures were not black-and-white paragons of good and evil—not because we’ve told you, but because you’ve faced those complex dilemmas for yourself.”<br>
 > — Sid Meier
 
@@ -240,6 +226,20 @@ Guide a civilization across eras by committing to technologies and institutions,
 
 > « Mais le génie n’est que l’enfance retrouvée à volonté, l’enfance douée maintenant, pour s’exprimer, d’organes virils et de l’esprit analytique qui lui permet d’ordonner la somme de matériaux involontairement amassée. »<br>
 > — Charles Baudelaire
+
+---
+
+<div class="hindi" lang="hi" dir="ltr">
+   <div class="verses">
+     <div class="line">सरकारें सब एक-सी होती हैं</div>
+     <div class="line">थोड़ा-बहुत फर्क होता है</div>
+     <div class="line">सत्ता का चरित्र एक-सा ही होता है</div>
+     <div class="line">यह बात अलग है कि हम चरित्र बदलने की कोशिश कर रहे हैं</div>
+     <div class="line">पता नहीं कितने सफल होंगे</div>
+     <div class="line">मगर नहीं होंगे तो हँसने का अवसर नहीं छोड़ेंगे</div>
+     <div class="poet">— प्रधानमंत्री अटल बिहारी वाजपेयी</div>
+   </div>
+ </div>
 
 ---
 

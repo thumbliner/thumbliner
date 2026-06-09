@@ -183,6 +183,20 @@ Keep a city alive under scarcity by securing food, producing heat, and passing p
 
 ---
 
+<div class="hindi" lang="hi" dir="ltr">
+   <div class="verses">
+     <div class="line">सरकारें सब एक-सी होती हैं</div>
+     <div class="line">थोड़ा-बहुत फर्क होता है</div>
+     <div class="line">सत्ता का चरित्र एक-सा ही होता है</div>
+     <div class="line">यह बात अलग है कि हम चरित्र बदलने की कोशिश कर रहे हैं</div>
+     <div class="line">पता नहीं कितने सफल होंगे</div>
+     <div class="line">मगर नहीं होंगे तो हँसने का अवसर नहीं छोड़ेंगे</div>
+     <div class="poet">— प्रधानमंत्री अटल बिहारी वाजपेयी</div>
+   </div>
+ </div>
+
+---
+
 ## **Anno 117: Pax Romana** by Ubisoft Mainz<br>
 Govern towns across a province by placing neighborhoods and civic buildings, laying supply chains, and raising living standards while maintaining border security.
 <p>
@@ -226,20 +240,6 @@ Guide a civilization across eras by committing to technologies and institutions,
 
 > « Mais le génie n’est que l’enfance retrouvée à volonté, l’enfance douée maintenant, pour s’exprimer, d’organes virils et de l’esprit analytique qui lui permet d’ordonner la somme de matériaux involontairement amassée. »<br>
 > — Charles Baudelaire
-
----
-
-<div class="hindi" lang="hi" dir="ltr">
-   <div class="verses">
-     <div class="line">सरकारें सब एक-सी होती हैं</div>
-     <div class="line">थोड़ा-बहुत फर्क होता है</div>
-     <div class="line">सत्ता का चरित्र एक-सा ही होता है</div>
-     <div class="line">यह बात अलग है कि हम चरित्र बदलने की कोशिश कर रहे हैं</div>
-     <div class="line">पता नहीं कितने सफल होंगे</div>
-     <div class="line">मगर नहीं होंगे तो हँसने का अवसर नहीं छोड़ेंगे</div>
-     <div class="poet">— प्रधानमंत्री अटल बिहारी वाजपेयी</div>
-   </div>
- </div>
 
 ---
 

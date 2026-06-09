@@ -52,11 +52,6 @@ cast [at] thumbliner [dot] com
 
 ---
 
-> « Je fay dire aux autres, non à ma teste, mais à ma suite, ce que je ne puis si bien dire. »<br>
-> — Michel de Montaigne
-
----
-
 <div class="urdu" lang="ur" dir="rtl">
   <div class="verses">
     <div class="misra">کج کلاہوں کا ہے یہ شہر یہاں بندہ نواز</div>
@@ -79,6 +74,11 @@ cast [at] thumbliner [dot] com
     <div class="poet">— واصف علی واصف</div>
   </div>
 </div>
+
+---
+
+> « Je fay dire aux autres, non à ma teste, mais à ma suite, ce que je ne puis si bien dire. »<br>
+> — Michel de Montaigne
 
 ---
 

@@ -175,8 +175,8 @@ Keep a city alive under scarcity by securing food, producing heat, and passing p
 
 <div class="urdu" lang="ur" dir="rtl">
   <div class="verses">
-    <div class="misra">جن کا دیں پیروی کذب و ریا ہے ان کو</div>
-    <div class="misra">ہمت کفر ملے جرأت تحقیق ملے</div>
+    <div class="misra">حرف حق دل میں کھٹکتا ہے جو کانٹے کی طرح</div>
+    <div class="misra">آج اظہار کریں اور خلش مٹ جائے</div>
     <div class="poet">— فیض احمد فیضؔ</div>
   </div>
 </div>

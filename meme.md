@@ -48,10 +48,6 @@ _High-Brow Meets Brainrot: A Loopy Mutation_
 
 ---
 
-<iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=1WKEX&width=670&height=475" scrolling="no" frameborder="0" style="overflow:hidden; width:670px; height:525px;" allowTransparency="true" loading="lazy"></iframe>
-
----
-
 > “Personally I am very fond of strawberries and cream”<br>
 > — Dale Carnegie
 

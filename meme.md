@@ -51,20 +51,19 @@ _High-Brow Meets Brainrot: A Loopy Mutation_
 
 ---
 
-<div class="fred-chart-wrap">
-  <iframe
-    src="https://fred.stlouisfed.org/graph/graph-landing.php?g=1WKEX"
-    scrolling="no"
-    frameborder="0"
-    allowtransparency="true"
-    loading="lazy">
-  </iframe>
+<div class="embed-container 2"
+    aria-label="Chart: Federal Funds Effective Rate (Change) 2">
+<iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=1WKEX" scrolling="no" frameborder="0" style="overflow:hidden; width:100%; max-width:670px; height:525px;" allowTransparency="true" loading="lazy"></iframe>
 </div>
+<script src="https://fred.stlouisfed.org/assets/research/fred-graph-react/build/embed.min.js" type="text/javascript"></script>
 
-<script
-  src="https://fred.stlouisfed.org/assets/research/fred-graph-react/build/embed.min.js"
-  type="text/javascript">
-</script>
+---
+
+<div class="embed-container 3"
+    aria-label="Chart: Federal Funds Effective Rate (Change) 3">
+<iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=1WKEX&width=670&height=475" scrolling="no" frameborder="0" style="overflow:hidden; max-width:670px; height:525px;" allowTransparency="true" loading="lazy"></iframe>
+</div>
+<script src="https://fred.stlouisfed.org/assets/research/fred-graph-react/build/embed.min.js" type="text/javascript"></script>
 
 ---
 

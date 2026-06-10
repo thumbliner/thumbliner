@@ -27,6 +27,11 @@ _High-Brow Meets Brainrot: A Loopy Mutation_
 
 ---
 
+> « Il y a eu une modernité pour chaque peintre ancien. »<br>
+> — Charles Baudelaire
+
+---
+
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
         title="Music player: Tiny Moves by Bleachers"
         frameborder="0" 
@@ -35,11 +40,6 @@ _High-Brow Meets Brainrot: A Loopy Mutation_
         sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" 
         src="https://embed.music.apple.com/song/tiny-moves/1712730492">
 </iframe>
-
----
-
-> « Il y a eu une modernité pour chaque peintre ancien. »<br>
-> — Charles Baudelaire
 
 ---
 

@@ -175,8 +175,8 @@ Keep a city alive under scarcity by securing food, producing heat, and passing p
 
 <div class="urdu" lang="ur" dir="rtl">
   <div class="verses">
-    <div class="misra">حرف حق دل میں کھٹکتا ہے جو کانٹے کی طرح</div>
-    <div class="misra">آج اظہار کریں اور خلش مٹ جائے</div>
+    <div class="misra">ان کا دم ساز اپنے سوا کون ہے</div>
+    <div class="misra">شہر جاناں میں اب با صفا کون ہے</div>
     <div class="poet">— فیض احمد فیضؔ</div>
   </div>
 </div>

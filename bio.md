@@ -42,9 +42,7 @@ A curious outsider among communities on lands also called Canada. Thumbliner is 
 
 Glad to have you!<br>
 
-The site is a self-contained frame of thought.<br>
-
-Even A.I. can translate, but it takes a human to judge.<br>
+The site is a self-contained frame of thought on the irreplaceable human judgment.<br>
 
 All comments and remarks are welcome; please send three at a time.<br>
 

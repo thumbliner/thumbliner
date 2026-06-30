@@ -33,7 +33,7 @@ What are you up to?
 Studying music and metaphor.<br>
 
 What about `insert trend`?  
-I don’t know enough. What about it?<br>
+I don’t know. What about it?<br>
 
 Huh…<br>
 

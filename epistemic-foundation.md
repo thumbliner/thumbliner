@@ -7,7 +7,7 @@ nav_order: 1
 ---
 
 # Epistemic Foundation 
-_Conditions of Possibility_
+_Silent Conditions of Possibility_
 
 ---
 

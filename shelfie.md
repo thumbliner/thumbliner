@@ -14,7 +14,7 @@ _Poor Salman's Kapital_
 | Title | Author | Year | 
 |:---|:---|:---|
 | Qur’an |  | 632 |
-| The Hobbit | J.R.R. Tolkien | 1937 |
+| The Panchatantra Reconstructed | Franklin Edgerton | 1924 |
 | Nuskha-hā-e-Wafā (Recipes of Fidelity) | Faiz Ahmed Faiz | 1985 |
 | The Structure of Evolutionary Theory | Stephen Jay Gould | 2002 |
 | Perfectly Reasonable Deviations from the Beaten Track | Richard Feynman | 2005 |

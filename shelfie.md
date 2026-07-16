@@ -13,7 +13,6 @@ _Poor Salman's Kapital_
 
 | Title | Author | Year | 
 |:---|:---|:---|
-| Qur’an |  | 632 |
 | The Panchatantra Reconstructed | Franklin Edgerton | 1924 |
 | Nuskha-hā-e-Wafā (Recipes of Fidelity) | Faiz Ahmed Faiz | 1985 |
 | The Structure of Evolutionary Theory | Stephen Jay Gould | 2002 |
@@ -30,33 +29,8 @@ _Poor Salman's Kapital_
 
 ---
 
-<div class="urdu" lang="ur" dir="rtl">
-  <div class="verses">
-    <div class="misra">خود سے چل کر نہیں یہ طرز سخن آیا ہے</div>
-    <div class="misra">پاؤں دبائیں ہیں بزرگوں کے تو فن آیا ہے</div>
-    <div class="poet">— منور رانا</div>
-  </div>
-</div>
-
----
-
 > « La plupart des beaux portraits qui nous restent des temps antérieurs sont revêtus des costumes de leur époque. »<br>
 > — Charles Baudelaire
-
----
-
-  <div class="hindi" lang="hi" dir="ltr">
-   <div class="verses">
-     <div class="line">ढूँढ उजड़े हुए लोगों में वफ़ा के मोती</div>
-     <div class="line">ये ख़ज़ाने तुझे मुमकिन है ख़राबों में मिलें</div>
-     <div class="poet">— अहमद फ़राज़</div>
-   </div>
- </div>
-
----
-
-> “It’s been enormously beneficial to us but the reason we read is that it’s fun.”<br>
-> — Warren Buffett
 
 ---
 
@@ -70,15 +44,15 @@ _Poor Salman's Kapital_
 
 ---
 
-> « Les Chrestiens ont une particuliere cognoissance combien la curiosité est un mal naturel et originel en l’homme. »<br>
-> — Michel de Montaigne
+> “It’s been enormously beneficial to us but the reason we read is that it’s fun.”<br>
+> — Warren Buffett
 
 ---
 
 <div class="urdu" lang="ur" dir="rtl">
   <div class="verses">
-    <div class="misra">ہمیں بھی جلوہ گاہ ناز تک تم لے چلو موسیٰ</div>
-    <div class="misra">تمہیں غش آ گیا تو حسن جاناں کون دیکھے گا</div>
-    <div class="poet">— جگرؔ مراد آبادی</div>
+    <div class="misra">خود سے چل کر نہیں یہ طرز سخن آیا ہے</div>
+    <div class="misra">پاؤں دبائیں ہیں بزرگوں کے تو فن آیا ہے</div>
+    <div class="poet">— منور رانا</div>
   </div>
 </div>

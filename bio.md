@@ -42,7 +42,7 @@ A curious outsider among communities on lands related to Canada. Thumbliner is h
 
 Glad to have you!<br>
 
-The site is a self-contained frame of thought on the messy social science of human judgment.<br>
+The site is a self-contained and evolving frame of thought on messy social sciences.<br>
 
 All comments and remarks are welcome; please send three at a time.<br>
 

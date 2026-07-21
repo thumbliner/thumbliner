@@ -171,16 +171,6 @@ University of Geneva
 
 ---
 
-<div class="urdu" lang="ur" dir="rtl">
-  <div class="verses">
-    <div class="misra">تو حرم میں جس کو ہے ڈھونڈتا مجھے بتکدے میں وہ مل گیا</div>
-    <div class="misra">تجھے کیا ملال ہے زاہدا یہ نظر نظر کی تلاش ہے</div>
-    <div class="poet">— امیر بخش صابری</div>
-  </div>
-</div>
-
----
-
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
         title="Music player: I Can See Clearly Now by Jimmy Cliff"
         frameborder="0" 
@@ -206,8 +196,8 @@ University of Geneva
 
 <div class="urdu" lang="ur" dir="rtl">
   <div class="verses">
-    <div class="misra">میرے ذوقِ سجدۂ بندگی کو عطا ہوئی ہے یہ بے خودی</div>
-    <div class="misra">تیرے سنگِ در پہ پہنچ کے بھی تیرے سنگِ در کی تلاش ہے</div>
+    <div class="misra">تو حرم میں جس کو ہے ڈھونڈتا مجھے بتکدے میں وہ مل گیا</div>
+    <div class="misra">تجھے کیا ملال ہے زاہدا یہ نظر نظر کی تلاش ہے</div>
     <div class="poet">— امیر بخش صابری</div>
   </div>
 </div>

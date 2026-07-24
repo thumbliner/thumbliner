@@ -158,21 +158,6 @@ Keep a city alive under scarcity by securing food, producing heat, and passing p
 
 ---
 
-<div class="hindi" lang="hi" dir="ltr">
-   <div class="verses">
-     <div class="line">लौट जाती है उधर को भी नज़र क्या कीजे</div>
-     <div class="line">अब भी दिलकश है तेरा हुस्न मगर क्या कीजे</div>
-     <div class="poet">— फ़ैज़ अहमद फ़ैज़</div>
-   </div>
- </div>
-
----
-
-> “For once you have understood your Mises and learned to see the world with Austrian eyes, you will quickly notice, at least if you admit to it, that in many respects you are quite lonely and isolated.”<br>
-> — Hans-Hermann Hoppe
-
----
-
 <div class="urdu" lang="ur" dir="rtl">
   <div class="verses">
     <div class="misra">ان کا دم ساز اپنے سوا کون ہے</div>
@@ -180,6 +165,11 @@ Keep a city alive under scarcity by securing food, producing heat, and passing p
     <div class="poet">— فیض احمد فیضؔ</div>
   </div>
 </div>
+
+---
+
+> “For once you have understood your Mises and learned to see the world with Austrian eyes, you will quickly notice, at least if you admit to it, that in many respects you are quite lonely and isolated.”<br>
+> — Hans-Hermann Hoppe
 
 ---
 

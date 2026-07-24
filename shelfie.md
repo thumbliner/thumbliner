@@ -29,6 +29,16 @@ _Person of the Book_
 
 ---
 
+<div class="urdu" lang="ur" dir="rtl">
+  <div class="verses">
+    <div class="misra">ہمیں بھی جلوہ گاہ ناز تک لیتے چلو موسیٰ</div>
+    <div class="misra">تمہیں غش آ گیا تو حسن جاناں کون دیکھے گا</div>
+    <div class="poet">— جگرؔ مراد آبادی</div>
+  </div>
+</div>
+
+---
+
 > « La plupart des beaux portraits qui nous restent des temps antérieurs sont revêtus des costumes de leur époque. »<br>
 > — Charles Baudelaire
 

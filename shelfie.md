@@ -7,7 +7,7 @@ nav_order: 2
 ---
 
 # Shelfie
-_Poor Salman's Kapital_  
+_Person of the Book_  
 
 ---
 

@@ -290,10 +290,6 @@ Run procedures and checklists, monitor instruments, handle navigation and commun
 
 ---
 
-<a href="https://my.flightradar24.com/thumbliner" target="_blank" rel="noopener noreferrer"><img src="https://banners-my.flightradar24.com/thumbliner.png" alt="My Flightradar24.com Profile" /></a>
-
----
-
 > “The superior pilot uses superior judgment to avoid situations which require the use of superior skill.”<br>
 > — Frank Borman
 

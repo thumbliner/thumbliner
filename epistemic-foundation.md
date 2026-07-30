@@ -59,7 +59,7 @@ By paying attention, you allocate scarce time here rather than elsewhere; the op
 
 <div class="urdu" lang="ur" dir="rtl">
   <div class="verses">
-    <div class="misra">بے خطر کود پڑا آتش نمرود میں عش</div>
+    <div class="misra">بے خطر کود پڑا آتش نمرود میں عشق</div>
     <div class="misra">عقل ہے محو تماشائے لب بام ابھی</div>
     <div class="poet">— علامہ اقبالؔ</div>
   </div>

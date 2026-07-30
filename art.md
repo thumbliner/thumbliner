@@ -328,6 +328,16 @@ _Colors of the Wind_
 
 ---
 
+<div class="urdu" lang="ur" dir="rtl">
+  <div class="verses">
+    <div class="misra">اُن سے ملنے کو تو کیا کہیے جگرؔ</div>
+    <div class="misra">خود سے ملنے کو زمانہ چاہیے</div>
+    <div class="poet">— جگرؔ مراد آبادی</div>
+  </div>
+</div>
+
+---
+
 ## **All the worlds a stage monologue** by William Shakespeare, Andrew Buchanan, & Queensland Theatre Company
 <p>
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">
@@ -345,13 +355,8 @@ _Colors of the Wind_
 
 ---
 
-<div class="urdu" lang="ur" dir="rtl">
-  <div class="verses">
-    <div class="misra">اُن سے ملنے کو تو کیا کہیے جگرؔ</div>
-    <div class="misra">خود سے ملنے کو زمانہ چاہیے</div>
-    <div class="poet">— جگرؔ مراد آبادی</div>
-  </div>
-</div>
+> «Великие предметы искусства только потому и велики, что они понятны и доступны всем.»<br>
+> — Лев Толстой
 
 ---
 
@@ -369,11 +374,6 @@ _Colors of the Wind_
   </iframe>
 </div>
 </p>
-
----
-
-> «Великие предметы искусства только потому и велики, что они понятны и доступны всем.»<br>
-> — Лев Толстой
 
 ---
 

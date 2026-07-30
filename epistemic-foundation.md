@@ -1,12 +1,12 @@
 ---
 layout: default
-title: "Epistemic Foundation"
-permalink: /epistemic-foundation/
+title: "Episteme"
+permalink: /episteme/
 parent: Argument
 nav_order: 1
 ---
 
-# Epistemic Foundation 
+# Episteme 
 _Silent Conditions of Possibility_
 
 ---

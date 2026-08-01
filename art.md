@@ -40,6 +40,11 @@ _Colors of the Wind_
 
 ---
 
+> “And then you step back from that character and go, “Well, how did we get here?””<br>
+> — Christopher Nolan
+
+---
+
  <div class="hindi" lang="hi" dir="ltr">
    <div class="verses">
      <div class="line">राह पर उन को लगा लाए तो हैं बातों में</div>

@@ -57,9 +57,9 @@ _Person of the Book_
 
  <div class="hindi" lang="hi" dir="ltr">
    <div class="verses">
-     <div class="line">ग़म-ए-दुनिया भी ग़म-ए-यार में शामिल करलो</div>
-     <div class="line">नशा बढ़ता है शराबें जो शराबों में मिलें</div>
-     <div class="poet">— अहमद फ़राज़</div>
+     <div class="line">करें हम किस की पूजा और चढ़ाएँ किस को चंदन हम</div>
+     <div class="line">सनम हम दैर हम बुत-ख़ाना हम बुत हम बरहमन हम</div>
+     <div class="poet">— फैज़ दकनी</div>
    </div>
  </div>
 

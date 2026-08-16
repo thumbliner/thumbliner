@@ -50,6 +50,11 @@ cast [at] thumbliner [dot] com
 
 ---
 
+> “Is this an instrument of communication, or torture?”<br>
+> — Darling Granny, Downton Abbey
+
+---
+
 <div class="urdu" lang="ur" dir="rtl">
   <div class="verses">
     <div class="misra">کج کلاہوں کا ہے یہ شہر یہاں بندہ نواز</div>
@@ -57,11 +62,6 @@ cast [at] thumbliner [dot] com
     <div class="poet">— ذوالفقار علی بخاری</div>
   </div>
 </div>
-
----
-
-> “Is this an instrument of communication, or torture?”<br>
-> — Darling Granny, Downton Abbey
 
 ---
 

@@ -272,6 +272,11 @@ Operate in a player-run space economy by specializing into markets, using intell
 
 ---
 
+> “The superior pilot uses superior judgment to avoid situations which require the use of superior skill.”<br>
+> — Frank Borman
+
+---
+
 ## **Microsoft Flight Simulator** by Asobo Studio<br>
 Run procedures and checklists, monitor instruments, handle navigation and communication, and manage workload to maintain safe margins amid uncertain weather.
 <p>
@@ -290,8 +295,8 @@ Run procedures and checklists, monitor instruments, handle navigation and commun
 
 ---
 
-> “The superior pilot uses superior judgment to avoid situations which require the use of superior skill.”<br>
-> — Frank Borman
+> “Eventually you will read against the clock.”<br>
+> — Harold Bloom
 
 ---
 

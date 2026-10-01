@@ -21,22 +21,7 @@ _अ म न    ·    ש ל ם   ·   س ل م   ·    ا م ن_
 
 ---
 
- <div class="hindi" lang="hi" dir="ltr">
-   <div class="verses">
-     <div class="line">बिखरी पड़ी थी टूट के कलियाँ ज़मीन पर</div>
-     <div class="line">तरतीब दे के मैंने तेरा नाम लिख दिया</div>
-     <div class="poet">— क़ैसर-उल-जाफ़री</div>
-   </div>
- </div>
-
----
-
 A curious outsider in what is colonially known as Canada. Thumbliner is a digital handle; and this is a non-commercial space, casually packed with friends, and a darling grandma. They are wondering what stars are made out of.<br>
-
----
-
-> « Je pense, donc je suis. »<br>
-> —  René Descartes
 
 ---
 

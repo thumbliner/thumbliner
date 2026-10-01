@@ -38,11 +38,11 @@ Applied epistemology.
 Advised Executive Education on curriculum and design.
 
 ### Analytics Director  
-*2022–24  ·  Pharma Media Agency*  
+*2022–24  ·  Pharma Agency*  
 Led AI-driven analytics and experimentation for global pharmaceutical brands.
 
 ### Consumer Analytics  
-*2022  ·  Bank*  
+*2022  ·  Big Bank*  
 Assessed marketing analytics infrastructure; delivered recommendations.
 
 ### Content Analytics  
@@ -50,7 +50,7 @@ Assessed marketing analytics infrastructure; delivered recommendations.
 Rebuilt the analytics team and stack; led journey mapping and attribution, and editorial-to-revenue measurement.
 
 ### Media Analytics  
-*2021  ·  General Media Agency*  
+*2021  ·  Media Agency*  
 Built ML-enabled measurement and activation using CDP automation across brands.
 
 ### Retail Analytics 
@@ -118,7 +118,7 @@ Taught branding and marketing strategy in the GCC.
 Launched the digital practice; led web, app, media, and automation.
 
 ### Marketer  
-*2013–14  ·  M.I.C.E. Organizer*  
+*2013–14  ·  M.I.C.E. Company*  
 Delivered campaigns and event assets, including SABIC Exhibition.
 
 ### Bookkeeper  

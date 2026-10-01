@@ -34,27 +34,27 @@ Applied epistemology.
 ---
 
 ### Program Advisory Council  
-*2024–25  ·  York University*  
-Advised Schulich Executive Education on curriculum and design.
+*2024–25  ·  University*  
+Advised Executive Education on curriculum and design.
 
 ### Analytics Director  
-*2022–24  ·  Klick Health*  
+*2022–24  ·  Pharma Media Agency*  
 Led AI-driven analytics and experimentation for global pharmaceutical brands.
 
 ### Consumer Analytics  
-*2022  ·  TD Bank*  
+*2022  ·  Bank*  
 Assessed marketing analytics infrastructure; delivered recommendations.
 
 ### Content Analytics  
-*2021–22  ·  Postmedia Network*  
+*2021–22  ·  News Network*  
 Rebuilt the analytics team and stack; led journey mapping and attribution, and editorial-to-revenue measurement.
 
 ### Media Analytics  
-*2021  ·  Dentsu*  
+*2021  ·  General Media Agency*  
 Built ML-enabled measurement and activation using CDP automation across brands.
 
 ### Retail Analytics 
-*2019–20  ·  Pet Valu*  
+*2019–20  ·  Pet Supplies*  
 Unified pricing, eCommerce, and loyalty data; supported COVID-19 ops.
 
 ---
@@ -106,24 +106,24 @@ Unified pricing, eCommerce, and loyalty data; supported COVID-19 ops.
 ---
 
 ### Agency Director  
-*2016–17  ·  Saudi Research & Marketing Group*  
+*2016–17  ·  Research & Marketing Group*  
 Built an in-house agency across creative, media, and analytics.
 
 ### Teacher  
-*2015–17  ·  EduPristine*  
+*2015–17  ·  Executive Education*  
 Taught branding and marketing strategy in the GCC.
 
 ### Consultant  
-*2014–16  ·  Taurus*  
+*2014–16  ·  Creative Studio*  
 Launched the digital practice; led web, app, media, and automation.
 
 ### Marketer  
-*2013–14  ·  Al Harithy Company*  
+*2013–14  ·  M.I.C.E. Organizer*  
 Delivered campaigns and event assets, including SABIC Exhibition.
 
 ### Bookkeeper  
-*2010–13  ·  MAI Trading*  
-Maintained accounts and managed cash flows for an office-supplies distributor.
+*2010–13  ·  Office Supplies Distributor*  
+Maintained accounts and managed cash flows.
 
 ### Intern  
 *2009  ·  Business Standard*  

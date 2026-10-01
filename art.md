@@ -83,7 +83,7 @@ _Colors of the Wind_
 ---
 
 ## **Trance with Khusrow** by Kavita Seth & Kanishk Seth
-### You Pick: 2. Chashm-e-Maste or 3. Man Qunto Maula
+### You Pick: 9. Chashm-e-Maste or 10. Zihal-e-Miski
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
         frameborder="0"
         height="450"

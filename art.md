@@ -260,17 +260,6 @@ _Colors of the Wind_
 
 ---
 
-## **Bekas Pe Karam Kijiye** by Lata Mangeshkar, Shakeel Badayuni, & Naushad
-<iframe allow="encrypted-media *; fullscreen *; clipboard-write"
-        frameborder="0" 
-        height="175" 
-        style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" 
-        sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" 
-        src="https://embed.music.apple.com/song/bekas-pe-karam-kijiye/1360817102">
-</iframe>
-
----
-
   <div class="hindi" lang="hi" dir="ltr">
    <div class="verses">
      <div class="line">ग़रज़ तसव्वुर-ए-शाम-ओ-सहर में जीते हैं</div>
@@ -281,13 +270,13 @@ _Colors of the Wind_
 
 ---
 
-## **I Could Have Done More** by John Williams, Itzhak Perlman, & Boston Symphony Orchestra
+## **Bekas Pe Karam Kijiye** by Lata Mangeshkar, Shakeel Badayuni, & Naushad
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
         frameborder="0" 
         height="175" 
         style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" 
         sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" 
-        src="https://embed.music.apple.com/song/i-could-have-done-more/1440502983">
+        src="https://embed.music.apple.com/song/bekas-pe-karam-kijiye/1360817102">
 </iframe>
 
 ---

@@ -1,13 +1,13 @@
 ---
 layout: default
-title: "Shelfie"
-permalink: /shelfie/
+title: "Shelf"
+permalink: /shelf/
 parent: Bio
 nav_order: 2
 ---
 
 # Shelfie
-_Person of the Book_  
+_Person & the Books_  
 
 ---
 

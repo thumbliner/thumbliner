@@ -11,12 +11,12 @@ _अ म न    ·    ש ל ם   ·   س ل م   ·    ا م ن_
 ---
 
 <iframe allow="encrypted-media *; fullscreen *; clipboard-write"
-        title="Music player: Khan Theme by Shankar Ehsaan Loy"
+        title="Music player: Yeh Hai Bombay Meri Jaan by Mohd. Rafi, Geeta Dutt, and O.P. Nayyar"
         frameborder="0" 
         height="175" 
         style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" 
         sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" 
-        src="https://embed.music.apple.com/song/khan-theme/1569776331">
+        src="https://embed.music.apple.com/song/yeh-hai-bombay-meri-jaan/1704807051">
 </iframe>
 
 ---
@@ -50,26 +50,15 @@ cast [at] thumbliner [dot] com
 
 ---
 
-<img
-  src="{{ '/assets/images/CN.png' | relative_url }}"
-  alt="Static image of Canadian street with street car and snow."
-  style="width:100%; height:auto;">
-
----
-
 > « Pour le parfait flâneur, pour l’observateur passionné, c’est une immense jouissance que d’élire domicile dans le nombre, dans l’ondoyant, dans le mouvement, dans le fugitif et l’infini. »<br>
 > — Charles Baudelaire
 
 ---
 
-<iframe allow="encrypted-media *; fullscreen *; clipboard-write"
-        title="Music player: Yeh Hai Bombay Meri Jaan by Mohd. Rafi, Geeta Dutt, and O.P. Nayyar"
-        frameborder="0" 
-        height="175" 
-        style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" 
-        sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" 
-        src="https://embed.music.apple.com/song/yeh-hai-bombay-meri-jaan/1704807051">
-</iframe>
+<img
+  src="{{ '/assets/images/CN.png' | relative_url }}"
+  alt="Static image of Canadian street with street car and snow."
+  style="width:100%; height:auto;">
 
 ---
 

@@ -126,7 +126,7 @@ Delivered campaigns and event assets, including SABIC Exhibition.
 Maintained accounts and managed cash flows.
 
 ### Intern  
-*2009  ·  Business Standard*  
+*2009  ·  Business Newspaper*  
 Sold newspapers in a world where no one reads.
 
 ---
@@ -137,7 +137,7 @@ Sold newspapers in a world where no one reads.
 ---
 
 ### Game Developer  
-*2006–09  ·  Bourne Aviation*  
+*2006–09  ·  Virtual Airlines*  
 Built a community—writing, coding, and designing the experience—to learn and entertain.
 
 ---

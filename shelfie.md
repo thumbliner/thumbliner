@@ -7,7 +7,7 @@ nav_order: 2
 ---
 
 # Shelfie
-_Person & the Books_  
+_Books & Journals_  
 
 ---
 

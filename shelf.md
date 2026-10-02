@@ -6,7 +6,7 @@ parent: Bio
 nav_order: 2
 ---
 
-# Shelfie
+# Shelf
 _Books & Journals_  
 
 ---

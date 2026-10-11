@@ -27,8 +27,8 @@ _Books & Journals_
 | The Panchatantra Reconstructed | Franklin Edgerton | 1924 |
 | Nuskha-hā-e-Wafā (Recipes of Fidelity) | Faiz Ahmed Faiz | 1985 |
 | The Structure of Evolutionary Theory | Stephen Jay Gould | 2002 |
+| The Heqanakht Papyri | James P. Allen | 2002 |
 | Perfectly Reasonable Deviations from the Beaten Track | Richard Feynman | 2005 |
-| Mises: The Last Knight of Liberalism | Jörg Guido Hülsmann | 2007 |
 | A History of the Dvaita School of Vedānta and its Literature | B. N. K. Sharma | 2008 |
 | The Passionate Mind: How People with Autism Learn | Wendy Lawson | 2010 |
 | Clear and Simple as the Truth | Francis-Noël Thomas & Mark Turner | 2011 |
